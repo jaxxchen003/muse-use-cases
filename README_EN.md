@@ -1,9 +1,9 @@
 # Muse Use Cases 💡
 
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
-> Every entry is source-verified with original links. We prioritize cases with **clear results, real numbers, and high replicability**.
+> Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **34 cases** ｜ 🕐 **Last updated: 2026-10-11** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time)
+📊 **75 cases** ｜ 🕐 **Last updated: 2026-10-12** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time)
 
 ---
 
@@ -12,7 +12,7 @@
 - 📱 **Mobile app**: Muse App → Settings → **Redeem token** (available within 48 hours of joining)
 - 💻 **Web**: muse.ai → Settings → General → Usage → **Redeem invite code**
 - 📌 Rewards and terms are shown on the invitation screen and may vary by account
-- 🤝 Have your own code to share? Drop it in [Issues](../../issues) — there's a template for that
+- 🤝 Have your own code to share? Drop it in Issues — there's a template for that
 
 ---
 
@@ -20,147 +20,221 @@
 
 | Badge | Meaning |
 |-------|---------|
-| ✅ Verified | Original post/article read; key details (person, amount, method) match |
-| 🟡 Cross-verified | Original post not directly accessible; confirmed via press quotes / case-archive cross-checks |
-| ⚠️ Unverifiable | No credible source found — **not included** |
+| ✅ | X post verified: original post read, person/amount/method all match |
+| 🟡 | X share confirmed: handle + aggregator archives cross-checked, direct post URL not yet publicly exposed |
 
-> Verified on 2026-10-11. When X posts can't be fetched directly, we triple-check via Snowflake-ID timestamps + archive dates + press quotations.
+> This library does not use web articles/videos as source *links*: non-X cases keep only the case text and author name, no web links.
+> Verified 2026-10-11/12. When X posts can't be fetched directly, we triple-check via Snowflake-ID timestamps + archive dates + multi-source cross-checks.
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims)
-- ✈️ [Travel](#️-travel)
-- 🛒 [Shopping](#-shopping)
-- ⚡ [Productivity · automation](#-productivity--automation)
-- 🎨 [Content · creation](#-content--creation)
-- 🛠️ [Dev · building](#️-dev--building)
-- 📚 [Collections](#-collections)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (28)
+- ✈️ [Travel](#️-travel) (10)
+- 🛒 [Shopping](#-shopping) (8)
+- ⚡ [Productivity · automation](#-productivity--automation) (12)
+- 🎨 [Content · creation](#-content--creation) (7)
+- 🛠️ [Dev · building](#️-dev--building) (4)
+- 💼 [Business · consumer rights](#-business--consumer-rights) (6)
 
 ---
 
 ## 💰 Money saving · bills · claims
 
-**1. One-click car insurance switch, $3,500/yr saved** ✅ — Joseph Devoy ([@JosephDevoy](https://x.com/JosephDevoy), Tempo founder). Uploaded his policy, asked for cheaper identical coverage; in ~5 min Muse found a new plan, bought it and cancelled the old one. [Original post](https://x.com/JosephDevoy/status/2098158828135002245) (2026-09-10), quoted by multiple outlets.
+**1. One-click car insurance switch, $3,500/yr saved** ✅ — Joseph Devoy ([@JosephDevoy](https://x.com/JosephDevoy), Tempo founder). Uploaded his policy, asked for cheaper identical coverage; in ~5 min Muse found a new plan, bought it and cancelled the old one. [Original post](https://x.com/JosephDevoy/status/2098158828135002245) (2026-09-10).
 
-**2. 7-hour flight delay → $250 credit in 5 minutes** 🟡 — Ejaaz ([@cryptopunk7213](https://x.com/cryptopunk7213)). Muse filed the complaint, found an alternative flight, rebooked it and replied to support emails. [Original post](https://x.com/cryptopunk7213/status/2102179999122153690) (2026-09-21), [archive](https://shipwithmuse.live/builds/flight-delay-compensation-in-5-minutes).
+**2. Xfinity phone haggle, ~$5,118 over 5 years** ✅ — [@raunaqbn](https://x.com/raunaqbn). Had Muse call Xfinity, navigate the phone tree, patch him in live at verification — with a full agent–rep transcript. Locked $85.30/mo. [Original post](https://x.com/raunaqbn/status/2100042003807601124).
 
-**3. Recovered a year of forgotten subscription fees** 🟡 — Chris Abraham ([@chrsabraham](https://x.com/chrsabraham)). Muse scanned bills, found a book subscription his wife forgot to cancel 1+ years ago, cancelled it and recovered a full year via the refund policy. [Original post](https://x.com/chrsabraham/status/2099879164895527008) (2026-09-15), [archive](https://shipwithmuse.live/builds/forgotten-book-subscription-refunded-for-a-year).
+**3. Verizon $516 → $386/mo, negotiated overnight** ✅ — [@williamgeronco](https://x.com/williamgeronco). Started a support chat, went to bed; Muse brought the bill down overnight. ~$1,560/yr. [Original post](https://x.com/williamgeronco/status/2099826624849961009).
 
-**4. Dodged $1,250 in dealership upsells** ✅ — Nick Prince (Coinbase PM). Had Muse review the fee breakdown when buying/buying out a lease at a dealership. Reported by Business Insider (2026-09-22) as part of Meta's **#MuseMoneyChallenge**.
+**4. AT&T broadband $80 → $30/mo + 3 months free + doubled speed** ✅ — [@NoSaberNiPapa](https://x.com/NoSaberNiPapa). [Original post](https://x.com/NoSaberNiPapa/status/2099947510349316129).
 
-**5. AT&T fiber: $80 → $40/mo + 3 months free** ✅ — Chandra Bhavanasi ([@chanduiiit](https://x.com/chanduiiit), 2026-09-14). Authorized Muse to "accept anything under $70/mo". [Archive](https://shipwithmuse.live/builds/at-t-fiber-bill-cut-from-80-to-40). Caveat: Reuters reported some viral "phone negotiation" cases were actually handled by human concierges.
+**5. AT&T fiber $80 → $40/mo + 3 months free** ✅ — Chandra Bhavanasi ([@chanduiiit](https://x.com/chanduiiit)). Authorized Muse to "accept anything under $70/mo". [Original post](https://x.com/chanduiiit/status/2099527544643207558) (2026-09-14). Caveat: some viral "phone negotiation" cases reportedly involved human agents.
 
-**6. Subscription audit found forgotten $100/mo Claude Max (~$1,200/yr)** 🟡 — [@idobn](https://x.com/idobn), via [musecases.netlify.app](https://musecases.netlify.app/).
+**6. Two households' AT&T bills, ~$1,920 over 24 months** ✅ — [@JasonL_Capital](https://x.com/JasonL_Capital). [Original post](https://x.com/JasonL_Capital/status/2100307407075205279) (2026-09-16).
 
-**7. Xfinity bill haggled down ~$5,118** 🟡 — via [musecases.netlify.app](https://musecases.netlify.app/).
+**7. Car insurance shopped in 15 min, ~$1,156/yr saved** ✅ — [@JasonL_Capital](https://x.com/JasonL_Capital). Uploaded his policy at the gym; Muse shopped identical coverage. [Original post](https://x.com/JasonL_Capital/status/2099991678538879461) (2026-09-15).
 
-**8. $800+/yr bill negotiated over the phone** 🟡 — Peter Yang, via [17muse.com](https://17muse.com).
+**8. Medical bills audited line by line, $4,000+ saved** 🟡 — Holdy (@Ryan_Holdaway). Logged Muse into the medical provider portal, questioned every line, found double billings, requested discounts.
 
-**9. Subscription audit saved $200** 🟡 — Nicolas Bustamante, via Mashable's *10 ways people are using Meta's Muse AI app* ([mirror](https://wdcnews6.com/10-ways-people-are-using-metas-muse-ai-app/)).
+**9. Water heater $1,450 vs $2,300 quote ($850 saved)** 🟡 — PREEM (@PipeBladex). Texted the model number at lunch; Muse compared 3 shops, emailed 2 installers, booked Thursday install.
+
+**10. Croatia–Italy car ferry, $2,200 drop-off fees saved** 🟡 — Erik Lammerding (@Lammerding). Muse found and booked the ferry, pulled plate/model from the rental agreement, confirmed insurance coverage.
+
+**11. Car insurance $500 → $335/mo (~$1,980/yr)** 🟡 — Minh Phan (@MinhInvest). Muse gathered 4 quotes while he grocery-shopped (Tesla → CSAA); switched the same day.
+
+**12. United price-drop tracking, ~$1,026 credit** 🟡 — [@Yairyup](https://x.com/Yairyup). Tracked a booked United flight, chatted with United to secure the credit. [Original post](https://x.com/Yairyup/status/2098136696277627177).
+
+**13. $1,750 unclaimed property recovered for father-in-law** 🟡 — [@moneyeducator](https://x.com/moneyeducator). Searched every lived-in state's unclaimed-property registry; plus ~$120/mo off bills via plan comparison (per catalog entry). [Original post](https://x.com/moneyeducator/status/2098170064721543402) (2026-09-10).
+
+**14. Unclaimed property sweep, $800+ in ~10 min** 🟡 — @WaitWhat. One prompt: check every state lived in.
+
+**15. Amazon returns ($239) + dog vet claim ($516)** 🟡 — @armand_ruiz. ~$755 recovered. (He also posted a $2,120.95 cumulative savings list incl. AT&T negotiation $300/yr and IKEA returns.)
+
+**16. PODS move $576 under quote + missing tax K-1s found** 🟡 — @benparr. Booked mom's PODS move under quote; built a 2025 tax-doc tracker.
+
+**17. Email receipt audit found forgotten $100/mo Claude Max** 🟡 — @idobn. Scanned 6 months of receipts; ~$1,200/yr saved.
+
+**18. Car insurance analysis, ~$603/yr saved** 🟡 — @frankilus.
+
+**19. Flight-delay claim by email, $200 back** 🟡 — @tiramisucrux.
+
+**20. WiFi bill haggled down $300 in under 10 min** 🟡 — @nathanael_smith.
+
+**21. Alaska cancellation claim $189.37** 🟡 — @duboibaptiste. Dug the cancelled flight + Lyft receipts out of email, fought a broken upload widget, filed with case number.
+
+**22. Recovered a year of forgotten subscription fees** 🟡 — Chris Abraham ([@chrsabraham](https://x.com/chrsabraham)). Muse scanned bills, found a book subscription his wife forgot to cancel 1+ years ago, cancelled and recovered a full year. [Original post](https://x.com/chrsabraham/status/2099879164895527008) (2026-09-15).
+
+**23. Subscription audit saved $200** 🟡 — Nicolas Bustamante (@nicbstme, Microsoft). (Same thread: socks bought, Whole Foods ordered, cleaner booked, burger fetched in 24h.)
+
+**24. Dodged $1,250 in dealership upsells** — Nick Prince (Coinbase PM). Had Muse review the fee breakdown when buying/buying out a lease. Reported during Meta's #MuseMoneyChallenge.
+
+**25. Phone negotiation, $800+/yr saved** — Peter Yang (YouTuber). Muse called to negotiate cable + phone bills.
+
+**26. Muse named "Fred": subscriptions cancelled + insurance compared, $2,500+/yr** — @landonbtw (IG creator, ~250k followers). 2026-10-08 reel.
+
+**27. $100 Verizon gift card applied to bill** — u/Sleds88 (Reddit r/MuseAgent).
+
+**28. 24h health errands: $80 Oura discount + benefits done right** 🟡 — Khiet Tran (@trannkhiet). Flu shot scheduled, $80 Oura Ring discount found, benefits enrolled without HSA over-contribution.
 
 ---
 
 ## ✈️ Travel
 
-**10. Flight/hotel price-drop tracking with notifications** ✅ — 于為暢 (Wei Chang Yu / Wendell, Taiwan creator), [YouTube](https://www.youtube.com/watch?v=ARMaDt5JBUg) (2026-10-08). Related: Threads [@adambader](https://www.threads.com/@adambader) saved **$600** the same way 🟡 (Mashable).
+**29. 7-hour delay → $250 Delta credit in 5 min** 🟡 — Ejaaz ([@cryptopunk7213](https://x.com/cryptopunk7213)). Muse filed the complaint, rebooked an alternative flight, replied to support emails. [Original post](https://x.com/cryptopunk7213/status/2102179999122153690) (2026-09-21).
 
-**11. Overnight flight auto check-in** 🟡 — [@amirnurani](https://x.com/amirnurani), via [17muse.com](https://17muse.com).
+**30. Flight/hotel price-drop tracking with notifications** — 于為暢 (Wei Chang Yu, Taiwan creator). Related: Threads @adambader saved **$600** the same way.
 
-**12. REAL ID appointment booking** 🟡 — [@nanda_rahul](https://x.com/nanda_rahul), via [17muse.com](https://17muse.com).
+**31. Overnight flight auto check-in** 🟡 — @amirnurani. Checked in while asleep.
 
-**13. Passport renewal + Thailand hotel booking, end to end** 🟡 — [@JesseCohenInv](https://x.com/JesseCohenInv), via [shipwithmuse.live](https://shipwithmuse.live/).
+**32. REAL ID appointment booking** 🟡 — @nanda_rahul.
 
-**14. Had Muse wait on hold with Southwest** 🟡 — Matt Van Horn, via Mashable ([mirror](https://wdcnews6.com/10-ways-people-are-using-metas-muse-ai-app/)).
+**33. Passport renewal + Thailand hotel booking, end to end** 🟡 — @JesseCohenInv. ~95% of US passport renewal done online, then couple flights on Amex Travel.
 
-**15. United baggage claim** 🟡 — via [shipwithmuse.live](https://shipwithmuse.live/).
+**34. Had Muse wait on hold with Southwest** — Matt Van Horn (entrepreneur). Muse called, waited, called him back when a rep was live.
+
+**35. United baggage claim handled end to end** 🟡 — @maruthid1. Reimbursement within days, zero paperwork — only receipts + baggage ref provided.
+
+**36. Missed flight → rebooked from bed across airlines** — @vicentetengOfficial (Deaf creator). Compared alternatives, flagged free Flex-ticket change, gave the support number.
+
+**37. $3,000 trip booking fully managed** — @vishvanands (Threads).
+
+**38. Sardinia trip: emailed hotel for direct booking, saved €240** — Chelsea Yamase (@chelseakauai, IG travel creator, 1.2M followers).
 
 ---
 
 ## 🛒 Shopping
 
-**16. Photo → Marketplace listing (pricing + copy in one shot)** ✅ — 于為暢, [YouTube](https://www.youtube.com/watch?v=ARMaDt5JBUg).
+**39. Photo → Marketplace listing (pricing + copy in one shot)** — 于為暢 (Wei Chang Yu).
 
-**17. Marketplace price negotiation** 🟡 — [@signulll](https://x.com/signulll), via [17muse.com](https://17muse.com).
+**40. Marketplace price negotiation** 🟡 — @signulll. Found the item, negotiated, arranged pickup.
 
-**18. Whiteboard photo → Sam's Club grocery order** 🟡 — [@dylan_heagy](https://x.com/dylan_heagy), via [17muse.com](https://17muse.com).
+**41. Whiteboard photo → Sam's Club grocery order** 🟡 — @dylan_heagy. Photographed a messy fridge whiteboard list; Muse ordered everything.
 
-**19. Amazon / IKEA returns handled** 🟡 — [@armand_ruiz](https://x.com/armand_ruiz), via [shipwithmuse.live](https://shipwithmuse.live/).
+**42. Lowballed ~50 sellers, $2,500 for a brand-new M5 Pro MacBook** 🟡 — @jingusucks. 48GB/2TB MacBook Pro for $2,500.
 
-**20. $100 Verizon gift card applied** 🟡 — via [shipwithmuse.live](https://shipwithmuse.live/).
+**43. 5 listings drafted in 1 minute** — @fadziefa (creator). One product photo → pricing + 5 listings; buyer-mode demo found used road bikes in seconds.
+
+**44. Amazon / IKEA returns handled** 🟡 — @armand_ruiz. Customer service + pickup scheduling, no babysitting.
+
+**45. eBay deal-hunting turned into auto-digests** — vintage electronics collector. From 30 min/night manual browsing to twice-daily filtered deal lists.
+
+**46. Running-shoe price comparison + drop sentinel** — @krudd.jr (IG athlete). Lowest price across the web, then daily drop checks.
 
 ---
 
 ## ⚡ Productivity · automation
 
-**21. Inbox zero: unsubscribes / resubscribes / daily newsletter digest** ✅ — 于為暢, [YouTube](https://www.youtube.com/watch?v=ARMaDt5JBUg).
+**47. Inbox zero: unsubscribes / resubscribes / daily digest** — 于為暢 (Wei Chang Yu).
 
-**22. Voice memo "note this down" auto-archived** ✅ — 于為暢, [YouTube](https://www.youtube.com/watch?v=ARMaDt5JBUg).
+**48. Voice memo "note this down" auto-archived** — 于為暢 (Wei Chang Yu).
 
-**23. One-sentence Kanban board generation** ✅ — 于為暢, [YouTube](https://www.youtube.com/watch?v=ARMaDt5JBUg).
+**49. One-sentence Kanban board generation** — 于為暢 (Wei Chang Yu).
 
-**24. Goal setting with agent accountability** ✅ — 于為暢, [YouTube](https://www.youtube.com/watch?v=ARMaDt5JBUg).
+**50. Goal setting with agent accountability** — 于為暢 (Wei Chang Yu).
 
-**25. 90 data-broker opt-outs** 🟡 — Threads [@andru](https://www.threads.com/@andru), via Mashable ([mirror](https://wdcnews6.com/10-ways-people-are-using-metas-muse-ai-app/)).
+**51. 90 data-broker opt-outs** 🟡 — Andru Edwards (@AndruEdwards, tech creator). No need for a removal service.
 
-**26. 7-day, 10-task stress test** 🟡 — via [17muse.com](https://17muse.com): 5 succeeded / 2 errored / 2 stuck / 1 abandoned — a rare honest "failure case" report.
+**52. DIY Incogni, replaced a paid subscription** 🟡 — Cuth (@ItsCuthulhu). Emailed every data broker found; used ~2% of free weekly quota.
+
+**53. 7-day, 10-task stress test** — via 17muse case feed: 5 succeeded / 2 errored / 2 stuck / 1 abandoned — a rare honest failure report.
+
+**54. Tax docs gathered, ~90% in one prompt** 🟡 — Bill D'Alessandro (@BillDA). Compared last year's return, pulled missing docs from email/portals into Drive for his accountant.
+
+**55. "Bingbong" monthly report** — @daily.gansik (Threads, Korean creator). 80GB Google Photos organized, ~70 Gmail promos unsubscribed, 3 paid subs cancelled. "Not things I couldn't do — things I kept putting off."
+
+**56. 1M Google Drive files audited in 5 minutes** — Mickey Shiloh (@mickeyshiloh, IG singer/entrepreneur).
+
+**57. Amtrak complaint, $100 credit back** — @badmikeyt (Threads). "A 20-second prompt."
+
+**58. $1,800/mo of outsourced admin taken over by Muse** — Kiara Randolph (@urmannequin, Threads, small-business owner).
 
 ---
 
 ## 🎨 Content · creation
 
-**27. Daily 8am AI-news podcast (listened on Spotify)** ✅ — 于為暢, [YouTube](https://www.youtube.com/watch?v=ARMaDt5JBUg).
+**59. Daily 8am AI-news podcast** — 于為暢 (Wei Chang Yu).
 
-**28. Built 17muse.com + FB community in one night** ✅ — 于為暢, [YouTube](https://www.youtube.com/watch?v=ARMaDt5JBUg).
+**60. Built 17muse.com + FB community in one night** — 于為暢 (Wei Chang Yu).
 
-**29. AI-course market research → auto-generated competitor-analysis page** ✅ — 于為暢, [YouTube](https://www.youtube.com/watch?v=ARMaDt5JBUg).
+**61. AI-course market research → competitor-analysis page** — 于為暢 (Wei Chang Yu).
 
-**30. Personalized Japanese-learning mini app** ✅ — 于為暢, [YouTube](https://www.youtube.com/watch?v=ARMaDt5JBUg).
+**62. Personalized Japanese-learning mini app** — 于為暢 (Wei Chang Yu).
 
-**31. Finding a bar by "vibe" via Instagram Reels** 🟡 — Millie Yang, via Mashable ([mirror](https://wdcnews6.com/10-ways-people-are-using-metas-muse-ai-app/)).
+**63. Finding a bar by "vibe"** — Millie Yang (founder). Described the vibe; Muse browsed Instagram Reels, narrowed 8 spots to 2 (Barbam, Seoul Salon) with video previews + availability.
 
-**32. Outfit ideas / style scout** 🟡 — via Mashable ([mirror](https://wdcnews6.com/10-ways-people-are-using-metas-muse-ai-app/)).
+**64. Moving-day packing schedule** — Lisa Eadicicco (CNN tech editor). Day-by-day plan with short sessions + first-night essentials. (Her test also exposed limits: it recommended long-closed restaurants.)
 
-**33. Moving-day packing schedule** 🟡 — Lisa Eadicicco (CNN), via Mashable ([mirror](https://wdcnews6.com/10-ways-people-are-using-metas-muse-ai-app/)).
+**65. 2,572 social posts turned into a searchable "personal archive"** — Adrian C. Murray (developer, Threads). 6.2M+ likes embedded locally; cadence/engagement/topics at a glance.
 
 ---
 
 ## 🛠️ Dev · building
 
-**34. 17muse.com itself — a case-feed site built in one night** ✅ — 于為暢. [17muse.com](https://17muse.com): Traditional-Chinese case feed with a like-leaderboard, category browsing, and moderated user submissions. See also [shipwithmuse.live](https://shipwithmuse.live/) for dev-oriented content (Muse Spark benchmarks, Ticketmaster connector, agent skills).
+**66. 17muse.com itself — a case-feed site built in one night** — 于為暢 (Wei Chang Yu). Traditional-Chinese case feed with like-leaderboard and moderated submissions.
+
+**67. muse-web-cli: Muse in the terminal** — Sam Lung (@sam_lung2077, Chinese developer, Threads). Other agents can message/read chats via CLI.
+
+**68. Sold 2 websites Muse made** 🟡 — wyn (@wyn_eth). Muse came up with the ideas; he only made sales calls — 2 of ~50 closed.
+
+**69. Alphabet web app for a 3-year-old** 🟡 — silv (@mattsilv). Visuals + touch drawing to teach the alphabet.
 
 ---
 
-## 📚 Collections
+## 💼 Business · consumer rights
 
-| Resource | Scale | Notes |
-|----------|-------|-------|
-| [17muse.com](https://17muse.com) | Daily | Traditional-Chinese case feed + like leaderboard + "一起玩 Muse" FB group; submissions moderated |
-| [musecases.netlify.app](https://musecases.netlify.app/) | 520+ | English case cards with category tags, each linking to the X original |
-| [shipwithmuse.live](https://shipwithmuse.live/) | 1,085 | English feed across X / Reddit / YouTube / HuggingFace, plus dev content |
-| [awesome-muse-use-cases](https://cwybruce.github.io/awesome-muse-use-cases/) | Chinese daily digest (16 issues) | Strict curation, official news + press tests + security warnings |
-| [Mashable: 10 ways people are using Meta's Muse AI app](https://mashable.com/tech/meta-muse-ai-use-cases-prompts) | 10 cases + prompts | Each with an "A prompt to try" template; original URL couldn't be fetched directly, content verified via [mirror](https://wdcnews6.com/10-ways-people-are-using-metas-muse-ai-app/) |
+**70. Plumbing company morning ops on autopilot** 🟡 — Jon ONeill (@HouseHackerJon). One 6am message from bed: job board updated, customer texted, office manager briefed on Slack before 8am.
+
+**71. FTC complaint against a kids' subscription upsell** 🟡 — Prakash (@8teAPi). A $0.98 kids' membership rolled into repeated $49.99 charges on the child's Apple Pay; Muse filed with the FTC.
+
+**72. Two credit collections removed in 76 minutes** 🟡 — @ChrisUniverse. Disputes filed 7:09pm, both deleted by 8:25pm.
+
+**73. $100 + a Kalshi account for a trading experiment** 🟡 — Kevin Roose (@kevinroose, NYT columnist). Testing how far an agent gets trading autonomously (open experiment).
+
+**74. Five Tesla stores called simultaneously** 🟡 — Matt Schlicht (@MattPRD). Finding a Model YL in stock for his wife to see first.
+
+**75. A $670/session social-media audit, replicated by Muse** — @tobeleidycrea (IG Spanish creator). Taught the AI her whole audit flow; output identical to her manual deliverables.
 
 ---
 
 ## 🤝 Contribute
 
-1. **Share your use case**: open an [Issue](../../issues) with the "Share a use case" template (original link/screenshot required; added after verification; the daily auto-update processes them too)
-2. **Share your invite code**: open an [Issue](../../issues) with the "Share invite code" template
+1. **Share your use case**: open an Issue with the "Share a use case" template — **X shares only**, include the X post link; added after verification (the daily auto-update processes them too)
+2. **Share your invite code**: open an Issue with the "Share invite code" template
 3. **Corrections**: Issues or PRs welcome
 
-Auto-updated daily at 00:00 (Beijing time) — new verified cases are added then.
+Auto-updated daily at 00:00 (Beijing time).
 
 ## ⚠️ Disclaimer
 
 - Results vary by account permissions, region and service support — always test yourself
-- Some big-savings cases come from Meta's **#MuseMoneyChallenge** marketing campaign and are self-reported
-- Some viral "phone negotiation" cases were reported to involve human concierges, not pure AI
+- Some big-savings cases come from Meta's **#MuseMoneyChallenge** campaign and are self-reported
+- Some viral "phone negotiation" cases reportedly involved human agents, not pure AI
 - Informational only; not consumer or investment advice
 
 ## 🗒️ Changelog
 
-- **2026-10-11**: First release — 34 cases + 5 collections. 1 rumored case excluded (no credible source found; see Chinese README for details)
-- Auto-updates daily at 00:00
+- **2026-10-12**: Sourcing overhaul — X shares only (direct X links where available); all web source links removed; non-X cases keep text + author only. 41 new cases added (incl. Xfinity $5,118, Verizon $1,560/yr, medical bills $4,000+, water heater $850, ferry $2,200 with direct X links); new "Business · consumer rights" category. Removed 1 non-user case (a Meta ad screenshot).
+- **2026-10-11**: First release — 34 cases. 1 rumored case (@landonbtw "Fred") initially excluded for lack of sources — later cross-confirmed as a 2026-10-08 IG reel and re-added as text.
 
 ---
 
