@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **75 cases** ｜ 🕐 **Last updated: 2026-10-12** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time)
+📊 **75 cases** ｜ 🕐 **Last updated: 2026-10-12** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
