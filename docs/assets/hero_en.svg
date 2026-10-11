@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="630" viewBox="0 0 1600 630" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <defs>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#111418" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#111418" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.6" fill="#111418" opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="630" fill="#ffffff"/>
+  <ellipse cx="300" cy="120" rx="420" ry="260" fill="url(#glowA)"/>
+  <ellipse cx="1350" cy="540" rx="420" ry="260" fill="url(#glowA)"/>
+  <rect width="1600" height="630" fill="url(#dots)"/>
+
+  <circle cx="1330" cy="300" r="215" fill="none" stroke="#111418" stroke-opacity="0.10" stroke-width="2"/>
+  <circle cx="1330" cy="300" r="160" fill="none" stroke="#111418" stroke-opacity="0.08" stroke-width="2" stroke-dasharray="10 12"/>
+
+  <g opacity="0.85">
+    <circle cx="1120" cy="120" r="44" fill="none" stroke="#111418" stroke-width="2" opacity="0.5"/>
+    <text x="1120" y="136" text-anchor="middle" font-size="44" font-weight="300" fill="#111418">$</text>
+
+    <circle cx="1530" cy="150" r="38" fill="none" stroke="#111418" stroke-width="2" opacity="0.4"/>
+    <path d="M1512 162 L1548 138 L1536 166 L1530 156 L1522 164 Z" fill="#111418" opacity="0.55"/>
+
+    <circle cx="1560" cy="470" r="40" fill="none" stroke="#111418" stroke-width="2" opacity="0.4"/>
+    <path d="M1544 458 h24 l-4 12 h-16 Z M1546 474 h20" stroke="#111418" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.55"/>
+
+    <circle cx="1090" cy="500" r="36" fill="none" stroke="#111418" stroke-width="2" opacity="0.4"/>
+    <rect x="1074" y="486" width="32" height="22" rx="6" fill="none" stroke="#111418" stroke-width="3" opacity="0.55"/>
+    <path d="M1082 508 l-4 10 l12 -8" fill="none" stroke="#111418" stroke-width="3" stroke-linejoin="round" opacity="0.55"/>
+  </g>
+
+  <g>
+    <rect x="1150" y="215" width="400" height="150" rx="20" fill="#ffffff" stroke="#e6e8ec" stroke-width="2"/>
+    <circle cx="1195" cy="262" r="20" fill="#111418"/>
+    <path d="M1186 262 l7 7 l13 -14" stroke="#ffffff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1228" y="272" font-size="29" fill="#4b5563">Auto insurance switch</text>
+    <text x="1185" y="322" font-size="40" font-weight="800" fill="#111418">Save $3,500/yr</text>
+
+    <rect x="1150" y="390" width="400" height="130" rx="20" fill="#ffffff" stroke="#e6e8ec" stroke-width="2"/>
+    <circle cx="1195" cy="432" r="18" fill="#111418"/>
+    <path d="M1187 432 l6 6 l11 -12" stroke="#ffffff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1228" y="442" font-size="27" fill="#4b5563">Verizon bill haggle</text>
+    <text x="1185" y="488" font-size="34" font-weight="800" fill="#111418">$516 → $386 / mo</text>
+  </g>
+
+  <text x="90" y="150" font-size="30" letter-spacing="8" fill="#6b7280">META MUSE · REAL USER CASES</text>
+  <text x="86" y="270" font-size="104" font-weight="800" fill="#111418">Muse Use Cases</text>
+  <text x="90" y="340" font-size="34" fill="#4b5563">75 real high-value playbooks · X shares only · Updated daily</text>
+
+  <rect x="90" y="400" width="400" height="72" rx="36" fill="#111418"/>
+  <text x="290" y="447" text-anchor="middle" font-size="33" font-weight="800" fill="#ffffff">Invite code 4P14HY</text>
+
+  <text x="520" y="447" font-size="29" fill="#6b7280">Share playbooks &amp; invite codes in Issues</text>
+</svg>

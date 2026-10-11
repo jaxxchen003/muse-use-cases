@@ -10,6 +10,18 @@ body:
       placeholder: 例：4P14HY
     validations:
       required: true
+  - type: input
+    id: used
+    attributes:
+      label: 已使用次数
+      description: 之后有人用了你的码，记得回来编辑这条 Issue 更新数字，网站会自动同步显示
+      placeholder: 例：3
+  - type: input
+    id: total
+    attributes:
+      label: 邀请码总名额（如果知道）
+      description: 不知道可以留空；填了之后网站会自动算出剩余次数
+      placeholder: 例：10
   - type: textarea
     id: intro
     attributes:

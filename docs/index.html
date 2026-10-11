@@ -7,59 +7,91 @@
 <meta name="description" content="Meta 个人 AI 智能体 Muse 的真实高价值玩法合集，只收录 X 上的真实用户分享，每日更新。">
 <style>
 :root{
-  --bg:#0a0f24; --bg2:#101a45; --card:#141d42; --card2:#182356;
-  --text:#eef1ff; --muted:#9aa6d6; --line:rgba(255,255,255,.09);
-  --gold:#ffd97a; --gold2:#f5a623; --blue:#8ea2ff; --green:#34d399;
+  --bg:#f6f7f9; --card:#ffffff; --text:#14161a; --muted:#6b7280; --line:#e6e8ec;
+  --ink:#111418; --soft:#eef0f3;
 }
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:radial-gradient(1200px 600px at 20% -5%,#1b2a6b 0%,var(--bg) 55%) fixed,var(--bg);color:var(--text);
+body{background:radial-gradient(1000px 500px at 50% -5%,#ffffff 0%,var(--bg) 60%) fixed,var(--bg);color:var(--text);
   font-family:"PingFang SC","Hiragino Sans GB","Microsoft YaHei",system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.6}
-a{color:var(--blue)}
+a{color:var(--ink)}
 .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
-header.top{position:sticky;top:0;z-index:50;backdrop-filter:blur(12px);background:rgba(10,15,36,.82);border-bottom:1px solid var(--line)}
+header.top{position:sticky;top:0;z-index:50;backdrop-filter:blur(12px);background:rgba(255,255,255,.88);border-bottom:1px solid var(--line)}
 header.top .wrap{display:flex;align-items:center;gap:12px;padding:14px 20px;flex-wrap:wrap}
-.logo{font-weight:800;font-size:20px;white-space:nowrap}
+.logo{font-weight:800;font-size:20px;white-space:nowrap;color:var(--ink)}
 .logo small{color:var(--muted);font-weight:400;font-size:13px;margin-left:8px}
 .search{flex:1;min-width:180px;display:flex}
-.search input{flex:1;background:var(--card);border:1px solid var(--line);border-radius:12px;color:var(--text);
+.search input{flex:1;background:#fff;border:1px solid var(--line);border-radius:12px;color:var(--text);
   padding:10px 16px;font-size:15px;outline:none}
-.search input:focus{border-color:var(--blue)}
-.lang-toggle{display:flex;background:var(--card);border:1px solid var(--line);border-radius:999px;overflow:hidden}
+.search input:focus{border-color:var(--ink)}
+.search.hidden{display:none}
+.lang-toggle{display:flex;background:#fff;border:1px solid var(--line);border-radius:999px;overflow:hidden}
 .lang-toggle button{background:none;border:none;color:var(--muted);padding:9px 16px;font-size:14px;cursor:pointer;font-weight:600}
-.lang-toggle button.on{background:linear-gradient(90deg,#4d6bff,#7a8fff);color:#fff}
-.invite-pill{display:flex;align-items:center;gap:10px;background:linear-gradient(90deg,var(--gold),var(--gold2));
-  color:#3a2404;border-radius:999px;padding:9px 8px 9px 18px;font-weight:800;font-size:15px;cursor:pointer;border:none}
-.invite-pill code{font-family:ui-monospace,monospace;font-size:16px;background:rgba(0,0,0,.12);padding:4px 10px;border-radius:8px}
-.invite-pill .copy{background:#3a2404;color:#ffd97a;border:none;border-radius:999px;padding:7px 14px;font-size:13px;cursor:pointer;font-weight:700}
-.hero{margin:26px 0 6px}
-.hero img{width:100%;border-radius:20px;border:1px solid var(--line);display:block}
+.lang-toggle button.on{background:var(--ink);color:#fff}
+.invite-pill{display:flex;align-items:center;gap:10px;background:var(--ink);color:#fff;
+  border-radius:999px;padding:9px 8px 9px 18px;font-weight:800;font-size:15px;cursor:pointer;border:none}
+.invite-pill code{font-family:ui-monospace,monospace;font-size:16px;background:rgba(255,255,255,.16);padding:4px 10px;border-radius:8px}
+.invite-pill .copy{background:#fff;color:var(--ink);border:none;border-radius:999px;padding:7px 14px;font-size:13px;cursor:pointer;font-weight:700}
+.tabs{display:flex;gap:10px;margin:22px 0 4px}
+.tabs button{background:#fff;border:1px solid var(--line);border-radius:999px;padding:10px 24px;
+  font-size:15px;font-weight:700;cursor:pointer;color:var(--text)}
+.tabs button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.hero{margin:18px 0 6px}
+.hero img{width:100%;border-radius:20px;border:1px solid var(--line);display:block;background:#fff}
 .stats{display:flex;gap:14px;flex-wrap:wrap;margin:22px 0}
 .stat{flex:1;min-width:150px;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px 20px}
-.stat b{font-size:28px;color:var(--gold);display:block}
+.stat b{font-size:28px;color:var(--ink);display:block}
 .stat span{color:var(--muted);font-size:13px}
 .filters{display:flex;gap:10px;flex-wrap:wrap;margin:8px 0 20px;position:sticky;top:66px;z-index:40;
-  background:rgba(10,15,36,.9);padding:12px 0;backdrop-filter:blur(10px)}
-.pill{background:var(--card);border:1px solid var(--line);color:var(--text);border-radius:999px;
+  background:rgba(246,247,249,.92);padding:12px 0;backdrop-filter:blur(10px)}
+.pill{background:#fff;border:1px solid var(--line);color:var(--text);border-radius:999px;
   padding:8px 18px;font-size:14px;cursor:pointer;transition:.15s}
-.pill:hover{border-color:var(--blue)}
-.pill.on{background:linear-gradient(90deg,#4d6bff,#7a8fff);border-color:transparent;font-weight:700}
-.pill .n{opacity:.65;font-size:12px;margin-left:6px}
+.pill:hover{border-color:var(--ink)}
+.pill.on{background:var(--ink);color:#fff;border-color:var(--ink);font-weight:700}
+.pill .n{opacity:.6;font-size:12px;margin-left:6px}
 #grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:16px;padding-bottom:40px}
-.card{background:linear-gradient(180deg,var(--card2),var(--card));border:1px solid var(--line);border-radius:18px;
+.card{background:var(--card);border:1px solid var(--line);border-radius:18px;
   padding:20px;display:flex;flex-direction:column;gap:10px;transition:.15s}
-.card:hover{transform:translateY(-3px);border-color:rgba(142,162,255,.45);box-shadow:0 12px 32px rgba(0,0,0,.35)}
-.card h3{font-size:17px;line-height:1.45}
-.badge{font-size:12px;padding:3px 10px;border-radius:999px;display:inline-block;width:fit-content}
-.badge.ok{background:rgba(52,211,153,.14);color:var(--green);border:1px solid rgba(52,211,153,.4)}
-.badge.cross{background:rgba(245,185,66,.12);color:var(--gold);border:1px solid rgba(245,185,66,.4)}
-.result{color:var(--gold);font-weight:800;font-size:16px}
+.card:hover{transform:translateY(-3px);border-color:#c9cdd4;box-shadow:0 12px 28px rgba(17,20,24,.08)}
+.card h3{font-size:17px;line-height:1.45;color:var(--ink)}
+.badge{font-size:12px;padding:3px 10px;border-radius:999px;display:inline-block;width:fit-content;font-weight:600}
+.badge.ok{background:#e6f7ef;color:#0e7a4f;border:1px solid #bfe8d2}
+.badge.cross{background:#fdf3e0;color:#9a6b12;border:1px solid #f0dcae}
+.result{color:var(--ink);font-weight:800;font-size:16px}
 .author{color:var(--muted);font-size:13px}
-.desc{color:#c9d2f2;font-size:14px;flex:1}
-.xbtn{align-self:flex-start;background:rgba(142,162,255,.12);border:1px solid rgba(142,162,255,.5);color:var(--blue);
+.desc{color:#3d434d;font-size:14px;flex:1}
+.xbtn{align-self:flex-start;background:var(--soft);border:1px solid var(--line);color:var(--ink);
   border-radius:10px;padding:7px 16px;font-size:13px;text-decoration:none;font-weight:600}
-.xbtn:hover{background:rgba(142,162,255,.22)}
+.xbtn:hover{background:#e2e5ea}
 .empty{text-align:center;color:var(--muted);padding:60px 0;grid-column:1/-1}
-footer{border-top:1px solid var(--line);padding:34px 0 60px;color:var(--muted);font-size:13px}
+/* invite codes */
+.invite-head{background:#fff;border:1px solid var(--line);border-radius:20px;padding:28px;margin:18px 0}
+.invite-head h2{font-size:22px;color:var(--ink);margin-bottom:8px}
+.invite-head p{color:var(--muted);font-size:14px}
+.invite-head .note{font-size:12px;color:#9aa1ac;margin-top:14px}
+.invite-actions{margin-top:16px}
+.btn-ink{display:inline-block;background:var(--ink);color:#fff;border-radius:999px;
+  padding:12px 28px;font-weight:700;text-decoration:none;font-size:15px}
+.btn-ink:hover{opacity:.88}
+.invite-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px;padding:6px 0 40px}
+.icode{background:#fff;border:1px solid var(--line);border-radius:18px;padding:22px;
+  display:flex;flex-direction:column;gap:12px;transition:.15s;position:relative}
+.icode:hover{transform:translateY(-3px);box-shadow:0 12px 28px rgba(17,20,24,.08)}
+.icode-top{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.icode code{font-family:ui-monospace,monospace;font-size:30px;font-weight:800;letter-spacing:3px;color:var(--ink);cursor:pointer}
+.copybtn{background:var(--ink);color:#fff;border:none;border-radius:999px;padding:8px 18px;
+  font-size:13px;font-weight:700;cursor:pointer;white-space:nowrap}
+.copybtn:hover{opacity:.85}
+.owner-tag{position:absolute;top:14px;right:16px;font-size:11px;background:var(--ink);color:#fff;
+  border-radius:999px;padding:3px 12px;font-weight:700}
+.progress{height:8px;background:var(--soft);border-radius:99px;overflow:hidden}
+.progress div{height:100%;background:var(--ink);border-radius:99px;transition:width .4s}
+.icode-meta{font-size:14px;font-weight:700;color:var(--ink)}
+.icode-meta small{color:var(--muted);font-weight:400}
+.icode-intro{font-size:13px;color:var(--muted);flex:1}
+.icode-foot{display:flex;align-items:center;justify-content:space-between;font-size:12px;color:#9aa1ac}
+.icode-foot a{color:var(--muted);text-decoration:none}
+.icode-foot a:hover{text-decoration:underline}
+footer{border-top:1px solid var(--line);padding:34px 0 60px;color:var(--muted);font-size:13px;background:#fff;margin-top:20px}
 footer .wrap{display:flex;flex-direction:column;gap:10px}
 @media(max-width:640px){.filters{top:132px}}
 </style>
@@ -69,7 +101,7 @@ footer .wrap{display:flex;flex-direction:column;gap:10px}
 <header class="top">
   <div class="wrap">
     <div class="logo"><span id="logoMain">💡 Muse 实战案例库</span><small id="logoSub">只收录 X 真实分享 · 每日更新</small></div>
-    <div class="search"><input id="q" type="search" placeholder="搜索案例、作者、关键词…（如：车险、退货、AT&T）"></div>
+    <div class="search" id="searchBox"><input id="q" type="search" placeholder="搜索案例、作者、关键词…（如：车险、退货、AT&T）"></div>
     <div class="lang-toggle" role="group" aria-label="language">
       <button id="btnZh" class="on">中文</button><button id="btnEn">EN</button>
     </div>
@@ -78,10 +110,29 @@ footer .wrap{display:flex;flex-direction:column;gap:10px}
 </header>
 
 <div class="wrap">
-  <section class="hero"><img id="heroImg" src="../assets/hero.svg" alt="Muse Use Cases"></section>
-  <section class="stats" id="stats"></section>
-  <nav class="filters" id="filters"></nav>
-  <main id="grid"></main>
+  <nav class="tabs">
+    <button id="tabCases" class="on">💡 案例库</button>
+    <button id="tabInvite">🎁 邀请码互助</button>
+  </nav>
+
+  <section id="viewCases">
+    <section class="hero"><img id="heroImg" src="assets/hero.svg" alt="Muse Use Cases"></section>
+    <section class="stats" id="stats"></section>
+    <nav class="filters" id="filters"></nav>
+    <main id="grid"></main>
+  </section>
+
+  <section id="viewInvite" hidden>
+    <div class="invite-head">
+      <h2 id="inviteTitle"></h2>
+      <p id="inviteDesc"></p>
+      <div class="invite-actions">
+        <a id="inviteSubmit" class="btn-ink" href="https://github.com/jaxxchen003/muse-use-cases/issues/new?template=share-invite-code.yml" target="_blank" rel="noopener"></a>
+      </div>
+      <p class="note" id="inviteNote"></p>
+    </div>
+    <div id="inviteGrid" class="invite-grid"></div>
+  </section>
 </div>
 
 <footer>
@@ -93,8 +144,9 @@ footer .wrap{display:flex;flex-direction:column;gap:10px}
 
 <script>
 const $ = s => document.querySelector(s);
-let DATA = null, activeCat = "all";
+let DATA = null, activeCat = "all", activeView = "cases";
 let lang = localStorage.getItem("muse-lang") || "zh";
+let inviteLoaded = false;
 
 const STR = {
   zh: {
@@ -107,7 +159,16 @@ const STR = {
     viewX: "查看 X 原帖 ↗", empty: "没有找到匹配的案例，换个关键词试试 🔍",
     disclaimer: "⚠️ 实际效果因账号权限、地区、服务支持而异；部分案例来自 #MuseMoneyChallenge 期间的用户自述；部分“电话谈判”案例实际有人工参与。本库仅做信息整理，不构成消费或投资建议。",
     foot: '🤝 在 <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> 分享你的玩法（X 原帖链接）或邀请码 · 每天 0 点自动更新 · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHub 仓库</a>',
-    hero: "../assets/hero.svg"
+    hero: "assets/hero.svg",
+    tabCases: "💡 案例库", tabInvite: "🎁 邀请码互助",
+    inviteTitle: "🎁 邀请码互助区",
+    inviteDesc: "把你的 Muse 邀请码分享出来，大家互帮互助。点击邀请码一键复制。",
+    inviteSubmit: "＋ 提交我的邀请码",
+    inviteNote: "注：Muse 官方没有开放邀请码使用数据接口，使用 / 剩余次数由分享者自行在 Issue 里更新，网站会自动读取展示。",
+    ownerBadge: "站长", usedWord: "已用", leftWord: "剩余", timesWord: "次",
+    updateUsage: "更新使用次数 ↗",
+    inviteLoading: "正在加载邀请码…", inviteEmpty: "还没有人分享邀请码，来做第一个吧 👆",
+    inviteFail: "加载失败，请稍后重试，或直接去 Issues 查看。"
   },
   en: {
     title: "Muse Use Cases 💡 | 75 real high-value playbooks",
@@ -119,7 +180,16 @@ const STR = {
     viewX: "View X post ↗", empty: "No matching cases — try another keyword 🔍",
     disclaimer: "⚠️ Results vary by account permissions, region and service support. Some cases are self-reported from the #MuseMoneyChallenge campaign; some “phone negotiation” cases reportedly involved humans. Informational only — not consumer or investment advice.",
     foot: '🤝 Share your playbook (X post link) or invite code in <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> · Auto-updated daily at 00:00 · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHub repo</a>',
-    hero: "../assets/hero_en.svg"
+    hero: "assets/hero_en.svg",
+    tabCases: "💡 Cases", tabInvite: "🎁 Invite codes",
+    inviteTitle: "🎁 Community invite codes",
+    inviteDesc: "Share your Muse invite code and help each other out. Click a code to copy it.",
+    inviteSubmit: "＋ Submit my invite code",
+    inviteNote: "Note: Muse offers no API for invite-code usage, so used / remaining counts are updated by each sharer in their Issue; this page reads them automatically.",
+    ownerBadge: "Owner", usedWord: "Used", leftWord: "left", timesWord: "",
+    updateUsage: "Update usage ↗",
+    inviteLoading: "Loading invite codes…", inviteEmpty: "No invite codes yet — be the first 👆",
+    inviteFail: "Failed to load. Please retry later or check Issues directly."
   }
 };
 const T = () => STR[lang];
@@ -136,18 +206,25 @@ function applyLang(){
   $("#heroImg").src = T().hero;
   $("#disclaimer").textContent = T().disclaimer;
   $("#footLinks").innerHTML = T().foot;
+  $("#tabCases").textContent = T().tabCases;
+  $("#tabInvite").textContent = T().tabInvite;
+  $("#inviteTitle").textContent = T().inviteTitle;
+  $("#inviteDesc").textContent = T().inviteDesc;
+  $("#inviteSubmit").textContent = T().inviteSubmit;
+  $("#inviteNote").textContent = T().inviteNote;
   $("#btnZh").classList.toggle("on", lang === "zh");
   $("#btnEn").classList.toggle("on", lang === "en");
   localStorage.setItem("muse-lang", lang);
   if (DATA) renderAll();
+  if (inviteLoaded) renderInvites();
 }
 
+/* ---------- cases view ---------- */
 function badge(b){
   const cls = b === "ok" ? "ok" : "cross";
   const txt = b === "ok" ? T().badgeOk : T().badgeCross;
   return `<span class="badge ${cls}">${txt}</span>`;
 }
-
 function card(c){
   const t = lang === "zh" ? c.t : c.te;
   const a = lang === "zh" ? c.a : c.ae;
@@ -158,7 +235,6 @@ function card(c){
     <div class="result">${r}</div><div class="author">${a}</div>
     <p class="desc">${d}</p>${x}</article>`;
 }
-
 function renderAll(){
   const counts = {};
   DATA.cases.forEach(c => counts[c.c] = (counts[c.c] || 0) + 1);
@@ -174,7 +250,6 @@ function renderAll(){
     p.addEventListener("click", () => { activeCat = p.dataset.cat; render(); }));
   render();
 }
-
 function render(){
   const q = $("#q").value.trim().toLowerCase();
   const list = DATA.cases.filter(c =>
@@ -186,6 +261,95 @@ function render(){
     p.classList.toggle("on", p.dataset.cat === activeCat));
 }
 
+/* ---------- invite codes view ---------- */
+const ISSUES_API = "https://api.github.com/repos/jaxxchen003/muse-use-cases/issues?labels=invite-code&state=open&per_page=100";
+let INVITES = [];
+function parseInvite(issue){
+  const body = issue.body || "";
+  const mCode = body.match(/###\s*你的 Muse 邀请码\s*\n+#?\s*([A-Za-z0-9]{4,12})/)
+             || issue.title.match(/\[邀请码\]\s*([A-Za-z0-9]{4,12})/);
+  const mUsed = body.match(/###\s*已使用次数\s*\n+#?\s*(\d+)/);
+  const mTotal = body.match(/###\s*邀请码总名额[^\n]*\s*\n+#?\s*(\d+)/);
+  const mIntro = body.match(/###\s*一句话介绍\s*\n+#?\s*([^\n#]+)/);
+  return {
+    code: mCode ? mCode[1].toUpperCase() : null,
+    used: mUsed ? parseInt(mUsed[1], 10) : null,
+    total: mTotal ? parseInt(mTotal[1], 10) : null,
+    intro: mIntro ? mIntro[1].trim().replace(/^_?None_?$/, "") : "",
+    user: issue.user.login, url: issue.html_url,
+    date: (issue.created_at || "").slice(0, 10)
+  };
+}
+function inviteCardHTML(inv, isOwner){
+  const meta = [];
+  if (inv.used !== null && inv.total !== null && inv.total > 0){
+    const left = Math.max(inv.total - inv.used, 0);
+    const pct = Math.min(inv.used / inv.total * 100, 100);
+    meta.push(`<div class="progress"><div style="width:${pct}%"></div></div>`);
+    meta.push(lang === "zh"
+      ? `<div class="icode-meta">${T().usedWord} ${inv.used}${T().timesWord} · ${T().leftWord} ${left}${T().timesWord}</div>`
+      : `<div class="icode-meta">${T().usedWord} ${inv.used} · ${left} ${T().leftWord}</div>`);
+  } else if (inv.used !== null){
+    meta.push(lang === "zh"
+      ? `<div class="icode-meta">${T().usedWord} ${inv.used}${T().timesWord}</div>`
+      : `<div class="icode-meta">${T().usedWord} ${inv.used}</div>`);
+  }
+  return `<article class="icode">
+    ${isOwner ? `<span class="owner-tag">${T().ownerBadge}</span>` : ""}
+    <div class="icode-top"><code data-code="${inv.code}">${inv.code}</code>
+      <button class="copybtn" data-code="${inv.code}">${T().copy}</button></div>
+    ${meta.join("")}
+    ${inv.intro ? `<p class="icode-intro">${inv.intro}</p>` : `<div class="icode-intro"></div>`}
+    <div class="icode-foot"><span>@${inv.user} · ${inv.date}</span>
+      ${inv.url ? `<a href="${inv.url}" target="_blank" rel="noopener">${T().updateUsage}</a>` : ""}</div>
+  </article>`;
+}
+function renderInvites(){
+  const owner = { code: "4P14HY", used: null, total: null,
+    intro: lang === "zh" ? "站长 chen 的邀请码，欢迎使用" : "Owner chen's invite code — welcome aboard",
+    user: "jaxxchen003", url: "", date: "" };
+  const cards = [inviteCardHTML(owner, true)]
+    .concat(INVITES.filter(i => i.code && i.code !== "4P14HY").map(i => inviteCardHTML(i, false)));
+  $("#inviteGrid").innerHTML = cards.join("") ||
+    `<div class="empty">${T().inviteEmpty}</div>`;
+  document.querySelectorAll("[data-code]").forEach(el => {
+    if (el.tagName === "CODE") el.addEventListener("click", () => copyCode(el.dataset.code, null));
+  });
+  document.querySelectorAll(".copybtn").forEach(btn =>
+    btn.addEventListener("click", () => copyCode(btn.dataset.code, btn)));
+}
+function copyCode(code, btn){
+  navigator.clipboard.writeText(code).then(() => {
+    if (btn){ const old = btn.textContent; btn.textContent = T().copied;
+      setTimeout(() => btn.textContent = old, 1500); }
+  });
+}
+function loadInvites(){
+  if (inviteLoaded) return;
+  inviteLoaded = true;
+  $("#inviteGrid").innerHTML = `<div class="empty">${T().inviteLoading}</div>`;
+  fetch(ISSUES_API).then(r => r.json()).then(list => {
+    INVITES = (Array.isArray(list) ? list : [])
+      .filter(i => !i.pull_request).map(parseInvite);
+    renderInvites();
+  }).catch(() => {
+    $("#inviteGrid").innerHTML = `<div class="empty">${T().inviteFail}</div>`;
+  });
+}
+
+/* ---------- view switching ---------- */
+function switchView(v){
+  activeView = v;
+  $("#tabCases").classList.toggle("on", v === "cases");
+  $("#tabInvite").classList.toggle("on", v === "invite");
+  $("#viewCases").hidden = v !== "cases";
+  $("#viewInvite").hidden = v !== "invite";
+  $("#searchBox").classList.toggle("hidden", v !== "cases");
+  if (v === "invite") loadInvites();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+$("#tabCases").addEventListener("click", () => switchView("cases"));
+$("#tabInvite").addEventListener("click", () => switchView("invite"));
 $("#btnZh").addEventListener("click", () => { lang = "zh"; applyLang(); });
 $("#btnEn").addEventListener("click", () => { lang = "en"; applyLang(); });
 $("#q").addEventListener("input", render);
