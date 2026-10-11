@@ -1,0 +1,46 @@
+name: 💡 分享新玩法
+description: 分享你发现的 Muse 高价值玩法，通过核验后收录进案例库
+title: "[新玩法] "
+labels: ["new-case"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: 玩法标题（一句话）
+      placeholder: 例：让 Muse 每天早上给我生成 AI 新闻播客
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 来源链接（必填）
+      description: 原帖 / 视频 / 文章链接，没有可信来源的不收录
+      placeholder: https://x.com/xxx/status/xxx
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: 作者
+      placeholder: 例：@xxx（X / YouTube / 媒体）
+  - type: input
+    id: result
+    attributes:
+      label: 具体结果
+      description: 省了多少钱 / 省了多少时间，越具体越好
+      placeholder: 例：年省 $500，每次 5 分钟
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: 做法简述
+      description: 别人照着能做的步骤；如有地区/账号限制请注明
+      placeholder: 例：1. 上传账单截图 2. 说"找出没在用的订阅"……
+    validations:
+      required: true
+  - type: input
+    id: screenshot
+    attributes:
+      label: 截图链接（可选）
+      placeholder: 图片 URL

@@ -1,0 +1,25 @@
+name: 🎁 分享邀请码
+description: 留下你的 Muse 邀请码，大家互助
+title: "[邀请码] "
+labels: ["invite-code"]
+body:
+  - type: input
+    id: code
+    attributes:
+      label: 你的 Muse 邀请码
+      placeholder: 例：4P14HY
+    validations:
+      required: true
+  - type: textarea
+    id: intro
+    attributes:
+      label: 一句话介绍
+      description: 简单说说你是谁 / 你的 Muse 都用来干嘛
+      placeholder: 例：独立开发者，Muse 重度用户，欢迎交流玩法
+  - type: checkboxes
+    id: notice
+    attributes:
+      label: 注意事项
+      options:
+        - label: 我已知晓不要在公开区泄露手机号、订单号等隐私信息
+          required: true
