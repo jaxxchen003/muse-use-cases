@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/hero.svg" alt="Muse Use Cases"></p>
+
 # Muse Use Cases 💡
 
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.

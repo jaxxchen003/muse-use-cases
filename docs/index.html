@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Muse 实战案例库 💡 | 75 个真实高价值玩法</title>
+<meta name="description" content="Meta 个人 AI 智能体 Muse 的真实高价值玩法合集，只收录 X 上的真实用户分享，每日更新。">
+<style>
+:root{
+  --bg:#0a0f24; --bg2:#101a45; --card:#141d42; --card2:#182356;
+  --text:#eef1ff; --muted:#9aa6d6; --line:rgba(255,255,255,.09);
+  --gold:#ffd97a; --gold2:#f5a623; --blue:#8ea2ff; --green:#34d399;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:radial-gradient(1200px 600px at 20% -5%,#1b2a6b 0%,var(--bg) 55%) fixed,var(--bg);color:var(--text);
+  font-family:"PingFang SC","Hiragino Sans GB","Microsoft YaHei",system-ui,sans-serif;line-height:1.6}
+a{color:var(--blue)}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+header.top{position:sticky;top:0;z-index:50;backdrop-filter:blur(12px);background:rgba(10,15,36,.82);border-bottom:1px solid var(--line)}
+header.top .wrap{display:flex;align-items:center;gap:14px;padding:14px 20px;flex-wrap:wrap}
+.logo{font-weight:800;font-size:20px}
+.logo small{color:var(--muted);font-weight:400;font-size:13px;margin-left:8px}
+.search{flex:1;min-width:200px;display:flex}
+.search input{flex:1;background:var(--card);border:1px solid var(--line);border-radius:12px;color:var(--text);
+  padding:10px 16px;font-size:15px;outline:none}
+.search input:focus{border-color:var(--blue)}
+.invite-pill{display:flex;align-items:center;gap:10px;background:linear-gradient(90deg,var(--gold),var(--gold2));
+  color:#3a2404;border-radius:999px;padding:9px 8px 9px 18px;font-weight:800;font-size:15px;cursor:pointer;border:none}
+.invite-pill code{font-family:ui-monospace,monospace;font-size:16px;background:rgba(0,0,0,.12);padding:4px 10px;border-radius:8px}
+.invite-pill .copy{background:#3a2404;color:#ffd97a;border:none;border-radius:999px;padding:7px 14px;font-size:13px;cursor:pointer;font-weight:700}
+.hero{margin:26px 0 6px}
+.hero img{width:100%;border-radius:20px;border:1px solid var(--line);display:block}
+.stats{display:flex;gap:14px;flex-wrap:wrap;margin:22px 0}
+.stat{flex:1;min-width:150px;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px 20px}
+.stat b{font-size:28px;color:var(--gold);display:block}
+.stat span{color:var(--muted);font-size:13px}
+.filters{display:flex;gap:10px;flex-wrap:wrap;margin:8px 0 20px;position:sticky;top:66px;z-index:40;
+  background:rgba(10,15,36,.9);padding:12px 0;backdrop-filter:blur(10px)}
+.pill{background:var(--card);border:1px solid var(--line);color:var(--text);border-radius:999px;
+  padding:8px 18px;font-size:14px;cursor:pointer;transition:.15s}
+.pill:hover{border-color:var(--blue)}
+.pill.on{background:linear-gradient(90deg,#4d6bff,#7a8fff);border-color:transparent;font-weight:700}
+.pill .n{opacity:.65;font-size:12px;margin-left:6px}
+#grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:16px;padding-bottom:40px}
+.card{background:linear-gradient(180deg,var(--card2),var(--card));border:1px solid var(--line);border-radius:18px;
+  padding:20px;display:flex;flex-direction:column;gap:10px;transition:.15s}
+.card:hover{transform:translateY(-3px);border-color:rgba(142,162,255,.45);box-shadow:0 12px 32px rgba(0,0,0,.35)}
+.card h3{font-size:17px;line-height:1.45}
+.badge{font-size:12px;padding:3px 10px;border-radius:999px;display:inline-block;width:fit-content}
+.badge.ok{background:rgba(52,211,153,.14);color:var(--green);border:1px solid rgba(52,211,153,.4)}
+.badge.cross{background:rgba(245,185,66,.12);color:var(--gold);border:1px solid rgba(245,185,66,.4)}
+.result{color:var(--gold);font-weight:800;font-size:16px}
+.author{color:var(--muted);font-size:13px}
+.desc{color:#c9d2f2;font-size:14px;flex:1}
+.xbtn{align-self:flex-start;background:rgba(142,162,255,.12);border:1px solid rgba(142,162,255,.5);color:var(--blue);
+  border-radius:10px;padding:7px 16px;font-size:13px;text-decoration:none;font-weight:600}
+.xbtn:hover{background:rgba(142,162,255,.22)}
+.empty{text-align:center;color:var(--muted);padding:60px 0;grid-column:1/-1}
+footer{border-top:1px solid var(--line);padding:34px 0 60px;color:var(--muted);font-size:13px}
+footer .wrap{display:flex;flex-direction:column;gap:10px}
+@media(max-width:640px){.filters{top:118px}}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <div class="logo">💡 Muse 实战案例库 <small>只收录 X 真实分享 · 每日更新</small></div>
+    <div class="search"><input id="q" type="search" placeholder="搜索案例、作者、关键词…（如：车险、退货、AT&T）"></div>
+    <button class="invite-pill" id="inviteBtn" title="点击复制邀请码">🎁 邀请码 <code>4P14HY</code> <span class="copy">复制</span></button>
+  </div>
+</header>
+
+<div class="wrap">
+  <section class="hero"><img src="../assets/hero.svg" alt="Muse 实战案例库"></section>
+
+  <section class="stats" id="stats"></section>
+
+  <nav class="filters" id="filters"></nav>
+  <main id="grid"></main>
+</div>
+
+<footer>
+  <div class="wrap">
+    <div>⚠️ 实际效果因账号权限、地区、服务支持而异；部分案例来自 #MuseMoneyChallenge 期间的用户自述；部分"电话谈判"案例实际有人工参与。本库仅做信息整理，不构成消费或投资建议。</div>
+    <div>🤝 在 <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> 分享你的玩法（X 原帖链接）或邀请码 · 每天 0 点自动更新 · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHub 仓库</a></div>
+  </div>
+</footer>
+
+<script>
+const $ = s => document.querySelector(s);
+let DATA = null, activeCat = "all";
+
+function badge(b){ return b === "ok"
+  ? '<span class="badge ok">✅ X 原帖已核验</span>'
+  : '<span class="badge cross">🟡 X 分享已确认</span>'; }
+
+function card(c){
+  const x = c.x ? `<a class="xbtn" href="${c.x}" target="_blank" rel="noopener">查看 X 原帖 ↗</a>` : "";
+  return `<article class="card">
+    <div>${badge(c.b)}</div>
+    <h3>${c.t}</h3>
+    <div class="result">${c.r}</div>
+    <div class="author">${c.a}</div>
+    <p class="desc">${c.d}</p>${x}</article>`;
+}
+
+function render(){
+  const q = $("#q").value.trim().toLowerCase();
+  const list = DATA.cases.filter(c =>
+    (activeCat === "all" || c.c === activeCat) &&
+    (!q || (c.t + c.a + c.d + c.r).toLowerCase().includes(q)));
+  $("#grid").innerHTML = list.length ? list.map(card).join("")
+    : '<div class="empty">没有找到匹配的案例，换个关键词试试 🔍</div>';
+  document.querySelectorAll(".pill").forEach(p =>
+    p.classList.toggle("on", p.dataset.cat === activeCat));
+}
+
+fetch("cases.json").then(r => r.json()).then(d => {
+  DATA = d;
+  const counts = {};
+  d.cases.forEach(c => counts[c.c] = (counts[c.c] || 0) + 1);
+  $("#stats").innerHTML =
+    `<div class="stat"><b>${d.meta.count}</b><span>收录案例</span></div>
+     <div class="stat"><b>${d.cats.length}</b><span>分类</span></div>
+     <div class="stat"><b>${d.cases.filter(c=>c.x).length}</b><span>附 X 原帖直链</span></div>
+     <div class="stat"><b>${d.meta.updated}</b><span>最后更新</span></div>`;
+  $("#filters").innerHTML =
+    `<button class="pill on" data-cat="all">全部<span class="n">${d.cases.length}</span></button>` +
+    d.cats.map(c => `<button class="pill" data-cat="${c.id}">${c.zh}<span class="n">${counts[c.id]||0}</span></button>`).join("");
+  document.querySelectorAll(".pill").forEach(p =>
+    p.addEventListener("click", () => { activeCat = p.dataset.cat; render(); }));
+  $("#q").addEventListener("input", render);
+  render();
+}).catch(() => {
+  $("#grid").innerHTML = '<div class="empty">数据加载失败，请刷新重试。</div>';
+});
+
+$("#inviteBtn").addEventListener("click", () => {
+  navigator.clipboard.writeText("4P14HY").then(() => {
+    const el = document.querySelector("#inviteBtn .copy");
+    el.textContent = "已复制 ✓";
+    setTimeout(() => el.textContent = "复制", 1500);
+  });
+});
+</script>
+</body>
+</html>

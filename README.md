@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/hero.svg" alt="Muse 实战案例库"></p>
+
 # Muse 实战案例库 💡
 
 > Meta 个人 AI 智能体 **Muse** 的真实高价值玩法合集。
