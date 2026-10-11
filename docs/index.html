@@ -13,17 +13,20 @@
 }
 *{box-sizing:border-box;margin:0;padding:0}
 body{background:radial-gradient(1200px 600px at 20% -5%,#1b2a6b 0%,var(--bg) 55%) fixed,var(--bg);color:var(--text);
-  font-family:"PingFang SC","Hiragino Sans GB","Microsoft YaHei",system-ui,sans-serif;line-height:1.6}
+  font-family:"PingFang SC","Hiragino Sans GB","Microsoft YaHei",system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.6}
 a{color:var(--blue)}
 .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
 header.top{position:sticky;top:0;z-index:50;backdrop-filter:blur(12px);background:rgba(10,15,36,.82);border-bottom:1px solid var(--line)}
-header.top .wrap{display:flex;align-items:center;gap:14px;padding:14px 20px;flex-wrap:wrap}
-.logo{font-weight:800;font-size:20px}
+header.top .wrap{display:flex;align-items:center;gap:12px;padding:14px 20px;flex-wrap:wrap}
+.logo{font-weight:800;font-size:20px;white-space:nowrap}
 .logo small{color:var(--muted);font-weight:400;font-size:13px;margin-left:8px}
-.search{flex:1;min-width:200px;display:flex}
+.search{flex:1;min-width:180px;display:flex}
 .search input{flex:1;background:var(--card);border:1px solid var(--line);border-radius:12px;color:var(--text);
   padding:10px 16px;font-size:15px;outline:none}
 .search input:focus{border-color:var(--blue)}
+.lang-toggle{display:flex;background:var(--card);border:1px solid var(--line);border-radius:999px;overflow:hidden}
+.lang-toggle button{background:none;border:none;color:var(--muted);padding:9px 16px;font-size:14px;cursor:pointer;font-weight:600}
+.lang-toggle button.on{background:linear-gradient(90deg,#4d6bff,#7a8fff);color:#fff}
 .invite-pill{display:flex;align-items:center;gap:10px;background:linear-gradient(90deg,var(--gold),var(--gold2));
   color:#3a2404;border-radius:999px;padding:9px 8px 9px 18px;font-weight:800;font-size:15px;cursor:pointer;border:none}
 .invite-pill code{font-family:ui-monospace,monospace;font-size:16px;background:rgba(0,0,0,.12);padding:4px 10px;border-radius:8px}
@@ -58,91 +61,144 @@ header.top .wrap{display:flex;align-items:center;gap:14px;padding:14px 20px;flex
 .empty{text-align:center;color:var(--muted);padding:60px 0;grid-column:1/-1}
 footer{border-top:1px solid var(--line);padding:34px 0 60px;color:var(--muted);font-size:13px}
 footer .wrap{display:flex;flex-direction:column;gap:10px}
-@media(max-width:640px){.filters{top:118px}}
+@media(max-width:640px){.filters{top:132px}}
 </style>
 </head>
 <body>
 
 <header class="top">
   <div class="wrap">
-    <div class="logo">💡 Muse 实战案例库 <small>只收录 X 真实分享 · 每日更新</small></div>
+    <div class="logo"><span id="logoMain">💡 Muse 实战案例库</span><small id="logoSub">只收录 X 真实分享 · 每日更新</small></div>
     <div class="search"><input id="q" type="search" placeholder="搜索案例、作者、关键词…（如：车险、退货、AT&T）"></div>
-    <button class="invite-pill" id="inviteBtn" title="点击复制邀请码">🎁 邀请码 <code>4P14HY</code> <span class="copy">复制</span></button>
+    <div class="lang-toggle" role="group" aria-label="language">
+      <button id="btnZh" class="on">中文</button><button id="btnEn">EN</button>
+    </div>
+    <button class="invite-pill" id="inviteBtn" title="copy invite code"><span id="inviteLabel">🎁 邀请码</span> <code>4P14HY</code> <span class="copy" id="copyLabel">复制</span></button>
   </div>
 </header>
 
 <div class="wrap">
-  <section class="hero"><img src="../assets/hero.svg" alt="Muse 实战案例库"></section>
-
+  <section class="hero"><img id="heroImg" src="../assets/hero.svg" alt="Muse Use Cases"></section>
   <section class="stats" id="stats"></section>
-
   <nav class="filters" id="filters"></nav>
   <main id="grid"></main>
 </div>
 
 <footer>
   <div class="wrap">
-    <div>⚠️ 实际效果因账号权限、地区、服务支持而异；部分案例来自 #MuseMoneyChallenge 期间的用户自述；部分"电话谈判"案例实际有人工参与。本库仅做信息整理，不构成消费或投资建议。</div>
-    <div>🤝 在 <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> 分享你的玩法（X 原帖链接）或邀请码 · 每天 0 点自动更新 · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHub 仓库</a></div>
+    <div id="disclaimer"></div>
+    <div id="footLinks"></div>
   </div>
 </footer>
 
 <script>
 const $ = s => document.querySelector(s);
 let DATA = null, activeCat = "all";
+let lang = localStorage.getItem("muse-lang") || "zh";
 
-function badge(b){ return b === "ok"
-  ? '<span class="badge ok">✅ X 原帖已核验</span>'
-  : '<span class="badge cross">🟡 X 分享已确认</span>'; }
+const STR = {
+  zh: {
+    title: "Muse 实战案例库 💡 | 75 个真实高价值玩法",
+    logoSub: "只收录 X 真实分享 · 每日更新",
+    searchPh: "搜索案例、作者、关键词…（如：车险、退货、AT&T）",
+    invite: "🎁 邀请码", copy: "复制", copied: "已复制 ✓",
+    all: "全部", cases: "收录案例", cats: "分类", withX: "附 X 原帖直链", updated: "最后更新",
+    badgeOk: "✅ X 原帖已核验", badgeCross: "🟡 X 分享已确认",
+    viewX: "查看 X 原帖 ↗", empty: "没有找到匹配的案例，换个关键词试试 🔍",
+    disclaimer: "⚠️ 实际效果因账号权限、地区、服务支持而异；部分案例来自 #MuseMoneyChallenge 期间的用户自述；部分“电话谈判”案例实际有人工参与。本库仅做信息整理，不构成消费或投资建议。",
+    foot: '🤝 在 <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> 分享你的玩法（X 原帖链接）或邀请码 · 每天 0 点自动更新 · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHub 仓库</a>',
+    hero: "../assets/hero.svg"
+  },
+  en: {
+    title: "Muse Use Cases 💡 | 75 real high-value playbooks",
+    logoSub: "X shares only · Updated daily",
+    searchPh: "Search cases, authors, keywords… (e.g. insurance, refund, AT&T)",
+    invite: "🎁 Invite code", copy: "Copy", copied: "Copied ✓",
+    all: "All", cases: "Cases", cats: "Categories", withX: "With X post link", updated: "Last updated",
+    badgeOk: "✅ X post verified", badgeCross: "🟡 X share confirmed",
+    viewX: "View X post ↗", empty: "No matching cases — try another keyword 🔍",
+    disclaimer: "⚠️ Results vary by account permissions, region and service support. Some cases are self-reported from the #MuseMoneyChallenge campaign; some “phone negotiation” cases reportedly involved humans. Informational only — not consumer or investment advice.",
+    foot: '🤝 Share your playbook (X post link) or invite code in <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> · Auto-updated daily at 00:00 · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHub repo</a>',
+    hero: "../assets/hero_en.svg"
+  }
+};
+const T = () => STR[lang];
+const catName = c => lang === "zh" ? c.zh : c.en;
+
+function applyLang(){
+  document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
+  document.title = T().title;
+  $("#logoMain").textContent = lang === "zh" ? "💡 Muse 实战案例库" : "💡 Muse Use Cases";
+  $("#logoSub").textContent = T().logoSub;
+  $("#q").placeholder = T().searchPh;
+  $("#inviteLabel").textContent = T().invite;
+  $("#copyLabel").textContent = T().copy;
+  $("#heroImg").src = T().hero;
+  $("#disclaimer").textContent = T().disclaimer;
+  $("#footLinks").innerHTML = T().foot;
+  $("#btnZh").classList.toggle("on", lang === "zh");
+  $("#btnEn").classList.toggle("on", lang === "en");
+  localStorage.setItem("muse-lang", lang);
+  if (DATA) renderAll();
+}
+
+function badge(b){
+  const cls = b === "ok" ? "ok" : "cross";
+  const txt = b === "ok" ? T().badgeOk : T().badgeCross;
+  return `<span class="badge ${cls}">${txt}</span>`;
+}
 
 function card(c){
-  const x = c.x ? `<a class="xbtn" href="${c.x}" target="_blank" rel="noopener">查看 X 原帖 ↗</a>` : "";
-  return `<article class="card">
-    <div>${badge(c.b)}</div>
-    <h3>${c.t}</h3>
-    <div class="result">${c.r}</div>
-    <div class="author">${c.a}</div>
-    <p class="desc">${c.d}</p>${x}</article>`;
+  const t = lang === "zh" ? c.t : c.te;
+  const a = lang === "zh" ? c.a : c.ae;
+  const r = lang === "zh" ? c.r : c.re;
+  const d = lang === "zh" ? c.d : c.de;
+  const x = c.x ? `<a class="xbtn" href="${c.x}" target="_blank" rel="noopener">${T().viewX}</a>` : "";
+  return `<article class="card"><div>${badge(c.b)}</div><h3>${t}</h3>
+    <div class="result">${r}</div><div class="author">${a}</div>
+    <p class="desc">${d}</p>${x}</article>`;
+}
+
+function renderAll(){
+  const counts = {};
+  DATA.cases.forEach(c => counts[c.c] = (counts[c.c] || 0) + 1);
+  $("#stats").innerHTML =
+    `<div class="stat"><b>${DATA.meta.count}</b><span>${T().cases}</span></div>
+     <div class="stat"><b>${DATA.cats.length}</b><span>${T().cats}</span></div>
+     <div class="stat"><b>${DATA.cases.filter(c=>c.x).length}</b><span>${T().withX}</span></div>
+     <div class="stat"><b>${DATA.meta.updated}</b><span>${T().updated}</span></div>`;
+  $("#filters").innerHTML =
+    `<button class="pill on" data-cat="all">${T().all}<span class="n">${DATA.cases.length}</span></button>` +
+    DATA.cats.map(c => `<button class="pill" data-cat="${c.id}">${catName(c)}<span class="n">${counts[c.id]||0}</span></button>`).join("");
+  document.querySelectorAll(".pill").forEach(p =>
+    p.addEventListener("click", () => { activeCat = p.dataset.cat; render(); }));
+  render();
 }
 
 function render(){
   const q = $("#q").value.trim().toLowerCase();
   const list = DATA.cases.filter(c =>
     (activeCat === "all" || c.c === activeCat) &&
-    (!q || (c.t + c.a + c.d + c.r).toLowerCase().includes(q)));
+    (!q || (c.t + c.te + c.a + c.ae + c.d + c.de + c.r + c.re).toLowerCase().includes(q)));
   $("#grid").innerHTML = list.length ? list.map(card).join("")
-    : '<div class="empty">没有找到匹配的案例，换个关键词试试 🔍</div>';
+    : `<div class="empty">${T().empty}</div>`;
   document.querySelectorAll(".pill").forEach(p =>
     p.classList.toggle("on", p.dataset.cat === activeCat));
 }
 
-fetch("cases.json").then(r => r.json()).then(d => {
-  DATA = d;
-  const counts = {};
-  d.cases.forEach(c => counts[c.c] = (counts[c.c] || 0) + 1);
-  $("#stats").innerHTML =
-    `<div class="stat"><b>${d.meta.count}</b><span>收录案例</span></div>
-     <div class="stat"><b>${d.cats.length}</b><span>分类</span></div>
-     <div class="stat"><b>${d.cases.filter(c=>c.x).length}</b><span>附 X 原帖直链</span></div>
-     <div class="stat"><b>${d.meta.updated}</b><span>最后更新</span></div>`;
-  $("#filters").innerHTML =
-    `<button class="pill on" data-cat="all">全部<span class="n">${d.cases.length}</span></button>` +
-    d.cats.map(c => `<button class="pill" data-cat="${c.id}">${c.zh}<span class="n">${counts[c.id]||0}</span></button>`).join("");
-  document.querySelectorAll(".pill").forEach(p =>
-    p.addEventListener("click", () => { activeCat = p.dataset.cat; render(); }));
-  $("#q").addEventListener("input", render);
-  render();
-}).catch(() => {
-  $("#grid").innerHTML = '<div class="empty">数据加载失败，请刷新重试。</div>';
-});
-
+$("#btnZh").addEventListener("click", () => { lang = "zh"; applyLang(); });
+$("#btnEn").addEventListener("click", () => { lang = "en"; applyLang(); });
+$("#q").addEventListener("input", render);
 $("#inviteBtn").addEventListener("click", () => {
   navigator.clipboard.writeText("4P14HY").then(() => {
-    const el = document.querySelector("#inviteBtn .copy");
-    el.textContent = "已复制 ✓";
-    setTimeout(() => el.textContent = "复制", 1500);
+    $("#copyLabel").textContent = T().copied;
+    setTimeout(() => $("#copyLabel").textContent = T().copy, 1500);
   });
 });
+
+applyLang();
+fetch("cases.json").then(r => r.json()).then(d => { DATA = d; renderAll(); })
+  .catch(() => { $("#grid").innerHTML = `<div class="empty">${T().empty}</div>`; });
 </script>
 </body>
 </html>
