@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **75 cases** ｜ 🕐 **Last updated: 2026-10-12** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **84 cases** ｜ 🕐 **Last updated: 2026-10-13** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,13 +30,13 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (28)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (29)
 - ✈️ [Travel](#️-travel) (10)
-- 🛒 [Shopping](#-shopping) (8)
-- ⚡ [Productivity · automation](#-productivity--automation) (12)
+- 🛒 [Shopping](#-shopping) (9)
+- ⚡ [Productivity · automation](#-productivity--automation) (18)
 - 🎨 [Content · creation](#-content--creation) (7)
 - 🛠️ [Dev · building](#️-dev--building) (4)
-- 💼 [Business · consumer rights](#-business--consumer-rights) (6)
+- 💼 [Business · consumer rights](#-business--consumer-rights) (7)
 
 ---
 
@@ -98,6 +98,8 @@
 
 **28. 24h health errands: $80 Oura discount + benefits done right** 🟡 — Khiet Tran (@trannkhiet). Flu shot scheduled, $80 Oura Ring discount found, benefits enrolled without HSA over-contribution.
 
+
+**76. A week, 8 errands: $1,000 in stalled refunds recovered, $200 in subscriptions cut** — @ekate.lee (Threads user). Social drafts, photo/video edits via Kling/Higgsfield, inbox triage, LinkedIn DM cleanup, a support chatbot for her product Networkio — plus two long-delayed refunds (posted 2026-10-09).
 ---
 
 ## ✈️ Travel
@@ -142,6 +144,8 @@
 
 **46. Running-shoe price comparison + drop sentinel** — @krudd.jr (IG athlete). Lowest price across the web, then daily drop checks.
 
+
+**77. Marketplace selling with a "safety checklist": home address stays out of listings** — Ryan Reyes (Facebook). Photo→price→listing automation with saved prefs: no home address in listings, cash/Venmo only, meetups fixed at one Publix entrance (2026-10-11 reel, Messenger transcript).
 ---
 
 ## ⚡ Productivity · automation
@@ -170,6 +174,18 @@
 
 **58. $1,800/mo of outsourced admin taken over by Muse** — Kiara Randolph (@urmannequin, Threads, small-business owner).
 
+
+**78. YouTuber's assistant "Q": 26 use cases live** — a YouTuber (video marked unsponsored). Monthly financials via Plaid read-only: hours → 15 min; Sentry errors get fix drafts before he notices; business emails auto-drafted in his voice; wallet Xpub watched on-chain every 30 min (video ~2026-10-09).
+
+**79. Son aces astronomy vocab quiz + school emails auto-digested** — Franco Lopez (Miami, father of four). Personalized flashcards + quiz + 7-min commute podcast; ~30 school emails/day digested into the family Slack; cancelled Grok, Claude and ChatGPT after two weeks (2026-10-11, Business Insider first-person, report card verified).
+
+**80. "80% of my AI time is in Muse": 8 live scenarios** — a Facebook user (screen-recorded reel, 2026-10-11). Insurance quote calls, government PDF forms, projector comparison with tracking, Marketplace listings from two photos, Messenger auto-replies (incl. Spanish), vibe-coding pushed to GitHub, transparent GIFs, daily triage.
+
+**81. European winter speaking tour, fully outsourced** — @melgreeneconsulting (Mel Greene consultancy, 21k followers). A spreadsheet tracking thousands of conferences (venue/deadline/materials) + a PDF portfolio of custom talk titles and abstracts, with ongoing opportunity alerts (2026-10-11 IG reel).
+
+**82. 6,076 saved posts gathering dust → 600 kept, filed into 8 folders** — Dana Malstaff (creator). Muse screened everything keep-vs-toss, then sorted survivors into 8 themed folders; next: a month of content planned from the folders (2026-10-10 FB reel, before/after pics).
+
+**83. 43,000 promo emails deleted in one go** — Suburban Cyber Technologies (Facebook). A 76k-unread backlog essentially cleared during the free trial (2026-10-11).
 ---
 
 ## 🎨 Content · creation
@@ -216,6 +232,8 @@
 
 **75. A $670/session social-media audit, replicated by Muse** — @tobeleidycrea (IG Spanish creator). Taught the AI her whole audit flow; output identical to her manual deliverables.
 
+
+**84. Assistant "Zuze" runs an influencer's business ops** — @elzanegreiros (creator, 51k followers). Brand partnership emails, product research, coupon checks, content scheduling, brand DMs — "a necessity in the workflow" (2026-10-11 IG reel, Spanish, screen-recorded).
 ---
 
 ## 🤝 Contribute
@@ -235,6 +253,7 @@ Auto-updated daily at 00:00 (Beijing time).
 
 ## 🗒️ Changelog
 
+- **2026-10-13**: 9 new cases added (real-user shares from FB/IG/Threads/YouTube cross-confirmed via the Chinese daily digest, text-only: $1,000 refund recovery, 43,000 emails cleared, 6,076 saved posts sorted, influencer-ops assistant "Zuze", etc.). Total: 84.
 - **2026-10-12**: Sourcing overhaul — X shares only (direct X links where available); all web source links removed; non-X cases keep text + author only. 41 new cases added (incl. Xfinity $5,118, Verizon $1,560/yr, medical bills $4,000+, water heater $850, ferry $2,200 with direct X links); new "Business · consumer rights" category. Removed 1 non-user case (a Meta ad screenshot).
 - **2026-10-11**: First release — 34 cases. 1 rumored case (@landonbtw "Fred") initially excluded for lack of sources — later cross-confirmed as a 2026-10-08 IG reel and re-added as text.
 
