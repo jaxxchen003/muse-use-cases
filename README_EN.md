@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **92 cases** ｜ 🕐 **Last updated: 2026-10-14** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **96 cases** ｜ 🕐 **Last updated: 2026-10-15** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,10 +30,10 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (30)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (32)
 - ✈️ [Travel](#️-travel) (11)
-- 🛒 [Shopping](#-shopping) (9)
-- ⚡ [Productivity · automation](#-productivity--automation) (21)
+- 🛒 [Shopping](#-shopping) (10)
+- ⚡ [Productivity · automation](#-productivity--automation) (22)
 - 🎨 [Content · creation](#-content--creation) (8)
 - 🛠️ [Dev · building](#️-dev--building) (4)
 - 💼 [Business · consumer rights](#-business--consumer-rights) (9)
@@ -101,6 +101,8 @@
 
 **76. A week, 8 errands: $1,000 in stalled refunds recovered, $200 in subscriptions cut** — @ekate.lee (Threads user). Social drafts, photo/video edits via Kling/Higgsfield, inbox triage, LinkedIn DM cleanup, a support chatbot for her product Networkio — plus two long-delayed refunds (posted 2026-10-09).
 **85. "A Month with Muse" test: website fixes + 5 car insurance quotes, $1,530/yr saved** 🟡 — @mostly.borrowed.ideas (IG account). A month of real-world testing: had Muse fix his website (added the dark mode + subscribe button he'd wanted for two years — "like hiring a competent dev for $20/mo"); shopped 5 car insurance quotes, saving $1,530/yr, and set it to re-shop every 5 months against "renewal inertia"; also monitors 4 inboxes, sends a daily cricket news digest and tracks GPU prices (2026-10-12 IG long-form video).
+**93. NYC parking ticket cleared in one chat: $115 → $145 fine, $147.90 paid via CityPay** 🟡 — Shervin Shaikh (@shervinshares, IG, 45K followers). A 3-month-overdue NYC parking ticket ("No Standing" at a bus stop): Muse looked it up by license plate on the city site — $115 had grown to $145; it went to CityPay, where a 2% card fee brought the total to $147.90, ready to charge via Stripe Link; the first charge failed on billing-address mismatch, and Muse proactively offered PayPal/eCheck alternatives, ending with a CityPay payment screenshot (2026-10-12 IG reel, screen-recorded, marked "not an ad").
+**94. Jumped on the "subscription negotiation" trend: ~$700/mo saved, car insurance switch saves ~$2,000/yr** 🟡 — Paul Pruitt (Facebook user). After seeing reels of Muse negotiating subscriptions, he gave Muse account access: it canceled idle subscriptions and fixed overcharges, saving ~$700/month; he also switched car insurance from Progressive to GEICO for the same coverage, saving ~$2,000/year (2026-10-12 FB post).
 ---
 
 ## ✈️ Travel
@@ -148,6 +150,7 @@
 
 
 **77. Marketplace selling with a "safety checklist": home address stays out of listings** — Ryan Reyes (Facebook). Photo→price→listing automation with saved prefs: no home address in listings, cash/Venmo only, meetups fixed at one Publix entrance (2026-10-11 reel, Messenger transcript).
+**95. "Koda"'s 3 hidden tricks: $130 Marketplace haggle, ID'ing a 3D printer from saved reels, IG account audit** 🟡 — Practicaly AI (Facebook account, 120K followers). "3 things you didn't know Muse could do": ① plugged Muse into Messenger as a haggler, negotiated a Tour AD MT-6 golf shaft on Marketplace down to a $130 in-person deal; ② identified a 3D printer model (CA$999) from saved reels and ran a spec comparison; ③ mined saved posts to track products and audited an IG account (2026-10-12 reel, screen-recorded).
 ---
 
 ## ⚡ Productivity · automation
@@ -193,6 +196,7 @@
 **91. Saved posts → itinerary, Drive → file cabinet, daily AI news podcast** 🟡 — Simran (@simrankeyz, creator, IG 130K followers, verified). Muse reads her IG saves for info, organizes her Google Drive, plans trips (destinations, food, itinerary — approval required before payment) and generates a daily AI news podcast (2026-10-12 IG reel, screen recording).
 
 **92. 18 user testimonials in one carousel: found money, phone bills, Champions League tickets** 🟡 — @soheil.shivafar1 (IG, 640K followers). A 19-slide carousel collecting 18 user testimonials — found forgotten money, Sony headphone price alerts, living-room design on a budget, traffic alerts, job applications, phone bill reductions, inbox zero, Marketplace furniture finds, Italy trip planning, damaged-order returns, Champions League tickets, 200+ saved posts sorted, Tehran–Dubai flight tracking (2026-10-11; individual testimonials unattributed, included as a collection).
+**96. Assistant "Nova": photographed his whole wardrobe + checked his calendar to style a dinner outfit** 🟡 — @muse (Threads user, verified, 18K followers). He fed Muse photos of everything in his closet and named the assistant "Nova"; when asked what to wear to dinner, Nova picked a black henley + dark wide-leg trousers from what he actually owns, checked his calendar, saw the reservation was outdoors and added a black long sleeve, chose loafers over sneakers, and finished with a silver watch and bracelet (2026-10-12 post).
 ---
 
 ## 🎨 Content · creation
@@ -264,6 +268,7 @@ Auto-updated daily at 00:00 (Beijing time).
 
 ## 🗒️ Changelog
 
+- **2026-10-15**: 4 new cases added (real-user shares from FB/IG/Threads cross-confirmed via the Chinese daily digest issue 19, 2026-10-14, text-only: NYC parking ticket paid in one chat $147.90, subscription-negotiation bandwagon ~$700/mo + $2,000/yr insurance switch, "Koda"'s 3 hidden tricks, assistant "Nova" dinner styling). Total: 96.
 - **2026-10-14**: 8 new cases added (real-user shares from FB/IG cross-confirmed via the Chinese daily digest issue 17, 2026-10-12, text-only: 104-country traveler's life itinerary, "A Month with Muse" $1,530/yr saved, viral-reel autopilot, ~98%-automated lead funnel, bank-connected P&L, etc.). Total: 92.
 - **2026-10-13**: 9 new cases added (real-user shares from FB/IG/Threads/YouTube cross-confirmed via the Chinese daily digest, text-only: $1,000 refund recovery, 43,000 emails cleared, 6,076 saved posts sorted, influencer-ops assistant "Zuze", etc.). Total: 84.
 - **2026-10-12**: Sourcing overhaul — X shares only (direct X links where available); all web source links removed; non-X cases keep text + author only. 41 new cases added (incl. Xfinity $5,118, Verizon $1,560/yr, medical bills $4,000+, water heater $850, ferry $2,200 with direct X links); new "Business · consumer rights" category. Removed 1 non-user case (a Meta ad screenshot).
