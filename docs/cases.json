@@ -1,7 +1,7 @@
 {
   "meta": {
-    "count": 84,
-    "updated": "2026-10-13",
+    "count": 92,
+    "updated": "2026-10-14",
     "invite": "4P14HY",
     "repo": "https://github.com/jaxxchen003/muse-use-cases",
     "title": "Muse 实战案例库",
@@ -1136,6 +1136,110 @@
       "re": "\"A necessity in the workflow\"",
       "d": "Muse 助手取名 \"Zuze\"，专门承包网红商务：给品牌写 affiliate 合作邮件、研究产品、查优惠券状态、排内容发布日程、回品牌方消息（2026-10-11 IG reel，西语，实拍屏幕录像）。",
       "de": "Her Muse assistant \"Zuze\" handles influencer business ops: brand partnership emails, product research, coupon checks, content scheduling, brand DMs (2026-10-11 IG reel, Spanish, screen-recorded)."
+    },
+    {
+      "t": "\"A Month with Muse\"实测：修网站 + 5 家车险比价，年省 $1,530",
+      "te": "\"A Month with Muse\" test: website fixes + 5 car insurance quotes, $1,530/yr saved",
+      "c": "money",
+      "a": "@mostly.borrowed.ideas（IG 账号）",
+      "ae": "@mostly.borrowed.ideas (Instagram)",
+      "x": null,
+      "b": "cross",
+      "r": "年省 $1,530；省钱的本质是干掉惯性——让 agent 每 5 个月替你重新问一圈价",
+      "re": "$1,530/yr saved; the essence of saving is killing inertia — let the agent re-shop prices every 5 months",
+      "d": "一个月实测：让 Muse 修网站（补上两年前就想加的 dark mode + 订阅按钮 + 一键功能）；扫 5 家车险报价，设为每 5 个月重扫一次对抗“续约惯性”；同时盯 4 个邮箱、每天生成板球新闻摘要、追踪 GPU 价格。（2026-10-12 IG 长视频）",
+      "de": "A month of real-world testing: had Muse fix his website (added the dark mode + subscribe button he'd wanted for two years); shopped 5 car insurance quotes and set it to re-shop every 5 months against \"renewal inertia\"; also monitors 4 inboxes, sends a daily cricket news digest and tracks GPU prices. (2026-10-12 IG long-form video)"
+    },
+    {
+      "t": "12 年走完 104 国：Muse 接入 IG 分析旅行风格，排出人生剩下 10 年行程",
+      "te": "104 countries in 12 years: Muse mapped the next 10 years of his life",
+      "c": "travel",
+      "a": "@jordentually（IG 旅行创作者，52 万粉，认证）",
+      "ae": "Jorden Tually (@jordentually, IG travel creator, 520K followers, verified)",
+      "x": null,
+      "b": "cross",
+      "r": "旅行规划的天花板：不是给你行程，是给你人生剩下 10 年的路线图",
+      "re": "The ceiling of trip planning: not an itinerary, but a roadmap for the next 10 years of his life",
+      "d": "12 年去了 104 个国家，还剩 93 个没去；Muse 接入他的 Instagram 分析旅行风格后，输出从 2027 年开始、按季节逐月排的 10 年行程表，外加一张交互世界地图（已去 vs 待去），推算 2036 年 12 月走完 197 国。（2026-10-12 reel，4.4K 赞）",
+      "de": "104 countries in 12 years, 93 to go. Connected Muse to his Instagram to analyze his travel style; it produced a month-by-month, season-aware 10-year itinerary starting 2027 plus an interactive world map (visited vs remaining), projecting he'll finish all 197 by Dec 2036. (2026-10-12 reel, 4.4K likes)"
+    },
+    {
+      "t": "爆款 reel 全平台分发自动挡：Top 20 找出来、去重、搬运",
+      "te": "Viral-reel autopilot: top 20 reels, deduped, cross-posted",
+      "c": "content",
+      "a": "Careese（@careeseeats，IG 27 万粉）",
+      "ae": "Careese (@careeseeats, Instagram, 270K followers)",
+      "x": null,
+      "b": "cross",
+      "r": "“真正管用的 creator hack 之一”；手动搬运 → 说一句话 → 以后都不用管",
+      "re": "\"One of the few creator hacks that actually works\": manual reposting → one command → fully automatic forever",
+      "d": "给自己的 Muse 助手取名 “kwin”，一句话指令：“找出我表现最好的 20 条 IG reel，搬到我其他平台，去重、标题文案保持一致”；屏幕录像显示 Muse 几分钟内做完，之后所有新 reel 自动走这套流程。（2026-10-12 reel）",
+      "de": "Named her Muse assistant \"kwin\"; one command: \"take my top 20 IG reels, move them to my other platforms, dedupe, keep titles consistent.\" Done in minutes on screen recording; new reels now follow the same pipeline automatically. (2026-10-12 reel)"
+    },
+    {
+      "t": "老客户唤醒漏斗，98% 全自动",
+      "te": "Old-lead reactivation funnel, ~98% automated",
+      "c": "business",
+      "a": "Alan Tucker Bearden（小企业主）",
+      "ae": "Alan Tucker Bearden (small business owner)",
+      "x": null,
+      "b": "cross",
+      "r": "初次连好之后约 98% 全自动",
+      "re": "~98% automated after the initial setup",
+      "d": "搭了一个老客户唤醒流程——Muse 自动给老 leads 发邮件、收到回复后用免费审计做钩子、有人接招就经 Messenger 通知他的 SEO 负责人、拿到审计报告后转交客户、最后看他的日历直接约电话；另用 Muse 语音消息生成购物清单、跨平台聚合财务数据算月收入。（2026-10-12 FB 发帖）",
+      "de": "An old-lead reactivation funnel: Muse emails old leads, follows up replies with a free audit hook, pings his SEO lead via Messenger when someone bites, hands over the audit report, then checks his calendar to book the call; also generates grocery lists from voice messages and aggregates cross-platform finances into monthly income. (2026-10-12 FB post)"
+    },
+    {
+      "t": "银行直连做税务分类：4 个账户流水自动归类，生成月度 P&L",
+      "te": "Bank-connected bookkeeping: 4 accounts auto-categorized into monthly P&L",
+      "c": "business",
+      "a": "@americanivato（IG 用户）",
+      "ae": "@americanivato (Instagram)",
+      "x": null,
+      "b": "cross",
+      "r": "小商户记账的终极形态：账自己分类，报表自己生成",
+      "re": "The endgame of small-business bookkeeping: transactions categorize themselves, reports generate themselves",
+      "d": "Muse 设置里已连 Google Drive、Gmail、Calendar、银行等十几个服务；问 Muse 能不能做账，Muse 直接列出已连的 4 个银行账户，拉流水按税务类目归类、生成月度损益表，并声明“不是 CPA”。（2026-10-12 IG 视频，实拍屏幕）",
+      "de": "With Google Drive, Gmail, Calendar, banks and a dozen other services connected, asked Muse to do the books; it listed the 4 connected bank accounts, pulled transactions, categorized them by tax line and generated a monthly P&L (disclaiming it's \"not a CPA\"). (2026-10-12 IG video, screen recording)"
+    },
+    {
+      "t": "\"不睡觉的助理\"：晨间 AI 早报 + 广告监控 + 未回客户提醒",
+      "te": "The \"never-sleeping\" assistant: morning AI brief + ad watchdog + unanswered-client nudges",
+      "c": "productivity",
+      "a": "Eva（@evia.ai_systems，创作者）",
+      "ae": "Eva (@evia.ai_systems, creator)",
+      "x": null,
+      "b": "cross",
+      "r": "\"不等你问，先替你想到\"",
+      "re": "\"It thinks ahead before you ask\"",
+      "d": "每天醒来先看 AI 功能更新 + reel 表现摘要；把爆款 reel 丢给 Muse 拆成钩子/结构/CTA 写成新脚本；Muse 在后台盯着广告和数据，表现差的 campaign 主动报警；未回的客户消息、日历提醒、最佳发布时间都由它主动推。（2026-10-12 IG 九图轮播）",
+      "de": "Wakes up to AI feature updates + reel performance summaries; feeds winning reels to Muse to break down hooks/structure/CTA into new scripts; Muse watches ads and data in the background, flagging underperforming campaigns, and proactively pushes unanswered client messages, calendar reminders and best posting times. (2026-10-12 IG carousel)"
+    },
+    {
+      "t": "收藏夹→行程单，Drive→文件柜，每天一杯 AI 新闻播客",
+      "te": "Saved posts → itinerary, Drive → file cabinet, daily AI news podcast",
+      "c": "productivity",
+      "a": "Simran（@simrankeyz，创作者，IG 13 万粉，认证）",
+      "ae": "Simran (@simrankeyz, creator, IG 130K followers, verified)",
+      "x": null,
+      "b": "cross",
+      "r": "个人知识库 + 旅行社 + 播客台，三合一的随身助理",
+      "re": "Personal knowledge base + travel agency + podcast station: three-in-one pocket assistant",
+      "d": "演示 Muse 读她的 IG 收藏找信息、整理 Google Drive 文件、规划旅行（查目的地、找吃的、排 itinerary、付款前要批准），还每天生成一档 AI 新闻播客。（2026-10-12 IG reel 实拍）",
+      "de": "Muse reads her IG saves for info, organizes her Google Drive, plans trips (destinations, food, itinerary — approval required before payment) and generates a daily AI news podcast. (2026-10-12 IG reel, screen recording)"
+    },
+    {
+      "t": "18 个用户 testimonial 合集：找忘掉的钱、压手机账单、抢欧冠门票",
+      "te": "18 user testimonials in one carousel: found money, phone bills, Champions League tickets",
+      "c": "productivity",
+      "a": "@soheil.shivafar1（IG 64 万粉）",
+      "ae": "@soheil.shivafar1 (Instagram, 640K followers)",
+      "x": null,
+      "b": "cross",
+      "r": "一个月下来，Muse 的用户故事已经能凑出一本“生活杂事全承包”目录",
+      "re": "A month in, Muse user stories already fill a \"life-errands, fully covered\" catalog",
+      "d": "10-11 轮播（19 张图）收集了 18 个用户 testimonial——帮人找到“忘掉的钱”、索尼耳机降价提醒、预算内设计客厅、交通预警、投简历、压低手机账单、Inbox Zero、Marketplace 淘家具、规划意大利旅行、损坏订单退货、欧冠门票、整理 200+ 条 IG 收藏、监控德黑兰-迪拜机票。（2026-10-11；单个 testimonial 未具名，按合集收录）",
+      "de": "A 19-slide carousel collecting 18 user testimonials — found forgotten money, Sony headphone price alerts, living-room design on a budget, traffic alerts, job applications, phone bill reductions, inbox zero, Marketplace furniture finds, Italy trip planning, damaged-order returns, Champions League tickets, 200+ saved posts sorted, Tehran–Dubai flight tracking. (2026-10-11; individual testimonials unattributed, included as a collection)"
     }
   ]
 }

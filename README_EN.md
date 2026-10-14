@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **84 cases** ｜ 🕐 **Last updated: 2026-10-13** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **92 cases** ｜ 🕐 **Last updated: 2026-10-14** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,13 +30,13 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (29)
-- ✈️ [Travel](#️-travel) (10)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (30)
+- ✈️ [Travel](#️-travel) (11)
 - 🛒 [Shopping](#-shopping) (9)
-- ⚡ [Productivity · automation](#-productivity--automation) (18)
-- 🎨 [Content · creation](#-content--creation) (7)
+- ⚡ [Productivity · automation](#-productivity--automation) (21)
+- 🎨 [Content · creation](#-content--creation) (8)
 - 🛠️ [Dev · building](#️-dev--building) (4)
-- 💼 [Business · consumer rights](#-business--consumer-rights) (7)
+- 💼 [Business · consumer rights](#-business--consumer-rights) (9)
 
 ---
 
@@ -100,6 +100,7 @@
 
 
 **76. A week, 8 errands: $1,000 in stalled refunds recovered, $200 in subscriptions cut** — @ekate.lee (Threads user). Social drafts, photo/video edits via Kling/Higgsfield, inbox triage, LinkedIn DM cleanup, a support chatbot for her product Networkio — plus two long-delayed refunds (posted 2026-10-09).
+**85. "A Month with Muse" test: website fixes + 5 car insurance quotes, $1,530/yr saved** 🟡 — @mostly.borrowed.ideas (IG account). A month of real-world testing: had Muse fix his website (added the dark mode + subscribe button he'd wanted for two years — "like hiring a competent dev for $20/mo"); shopped 5 car insurance quotes, saving $1,530/yr, and set it to re-shop every 5 months against "renewal inertia"; also monitors 4 inboxes, sends a daily cricket news digest and tracks GPU prices (2026-10-12 IG long-form video).
 ---
 
 ## ✈️ Travel
@@ -124,6 +125,7 @@
 
 **38. Sardinia trip: emailed hotel for direct booking, saved €240** — Chelsea Yamase (@chelseakauai, IG travel creator, 1.2M followers).
 
+**86. 104 countries in 12 years: Muse mapped the next 10 years of his life** 🟡 — Jorden Tually (@jordentually, IG travel creator, 520K followers, verified). 104 countries down, 93 to go. Connected Muse to his Instagram to analyze his travel style; it produced a month-by-month, season-aware 10-year itinerary starting 2027 plus an interactive world map (visited vs remaining), projecting he'll finish all 197 by Dec 2036 (2026-10-12 reel, 4.4K likes).
 ---
 
 ## 🛒 Shopping
@@ -186,6 +188,11 @@
 **82. 6,076 saved posts gathering dust → 600 kept, filed into 8 folders** — Dana Malstaff (creator). Muse screened everything keep-vs-toss, then sorted survivors into 8 themed folders; next: a month of content planned from the folders (2026-10-10 FB reel, before/after pics).
 
 **83. 43,000 promo emails deleted in one go** — Suburban Cyber Technologies (Facebook). A 76k-unread backlog essentially cleared during the free trial (2026-10-11).
+**90. The "never-sleeping" assistant: morning AI brief + ad watchdog + unanswered-client nudges** 🟡 — Eva (@evia.ai_systems, creator). Wakes up to AI feature updates + reel performance summaries; feeds winning reels to Muse to break down hooks/structure/CTA into new scripts; Muse watches ads and data in the background, flagging underperforming campaigns, and proactively pushes unanswered client messages, calendar reminders and best posting times (2026-10-12 IG carousel).
+
+**91. Saved posts → itinerary, Drive → file cabinet, daily AI news podcast** 🟡 — Simran (@simrankeyz, creator, IG 130K followers, verified). Muse reads her IG saves for info, organizes her Google Drive, plans trips (destinations, food, itinerary — approval required before payment) and generates a daily AI news podcast (2026-10-12 IG reel, screen recording).
+
+**92. 18 user testimonials in one carousel: found money, phone bills, Champions League tickets** 🟡 — @soheil.shivafar1 (IG, 640K followers). A 19-slide carousel collecting 18 user testimonials — found forgotten money, Sony headphone price alerts, living-room design on a budget, traffic alerts, job applications, phone bill reductions, inbox zero, Marketplace furniture finds, Italy trip planning, damaged-order returns, Champions League tickets, 200+ saved posts sorted, Tehran–Dubai flight tracking (2026-10-11; individual testimonials unattributed, included as a collection).
 ---
 
 ## 🎨 Content · creation
@@ -204,6 +211,7 @@
 
 **65. 2,572 social posts turned into a searchable "personal archive"** — Adrian C. Murray (developer, Threads). 6.2M+ likes embedded locally; cadence/engagement/topics at a glance.
 
+**87. Viral-reel autopilot: top 20 reels, deduped, cross-posted** 🟡 — Careese (@careeseeats, IG, 270K followers). Named her Muse assistant "kwin"; one command: "take my top 20 IG reels, move them to my other platforms, dedupe, keep titles consistent." Done in minutes on screen recording; new reels now follow the same pipeline automatically (2026-10-12 reel).
 ---
 
 ## 🛠️ Dev · building
@@ -234,6 +242,9 @@
 
 
 **84. Assistant "Zuze" runs an influencer's business ops** — @elzanegreiros (creator, 51k followers). Brand partnership emails, product research, coupon checks, content scheduling, brand DMs — "a necessity in the workflow" (2026-10-11 IG reel, Spanish, screen-recorded).
+**88. Old-lead reactivation funnel, ~98% automated** 🟡 — Alan Tucker Bearden (small business owner). Muse emails old leads, follows up replies with a free audit hook, pings his SEO lead via Messenger when someone bites, hands over the audit report, then checks his calendar to book the call; also generates grocery lists from voice messages and aggregates cross-platform finances into monthly income (2026-10-12 FB post).
+
+**89. Bank-connected bookkeeping: 4 accounts auto-categorized into monthly P&L** 🟡 — @americanivato (IG). With Google Drive, Gmail, Calendar, banks and a dozen other services connected, asked Muse to do the books; it listed the 4 connected bank accounts, pulled transactions, categorized them by tax line and generated a monthly P&L (disclaiming it's "not a CPA") (2026-10-12 IG video, screen recording).
 ---
 
 ## 🤝 Contribute
@@ -253,6 +264,7 @@ Auto-updated daily at 00:00 (Beijing time).
 
 ## 🗒️ Changelog
 
+- **2026-10-14**: 8 new cases added (real-user shares from FB/IG cross-confirmed via the Chinese daily digest issue 17, 2026-10-12, text-only: 104-country traveler's life itinerary, "A Month with Muse" $1,530/yr saved, viral-reel autopilot, ~98%-automated lead funnel, bank-connected P&L, etc.). Total: 92.
 - **2026-10-13**: 9 new cases added (real-user shares from FB/IG/Threads/YouTube cross-confirmed via the Chinese daily digest, text-only: $1,000 refund recovery, 43,000 emails cleared, 6,076 saved posts sorted, influencer-ops assistant "Zuze", etc.). Total: 84.
 - **2026-10-12**: Sourcing overhaul — X shares only (direct X links where available); all web source links removed; non-X cases keep text + author only. 41 new cases added (incl. Xfinity $5,118, Verizon $1,560/yr, medical bills $4,000+, water heater $850, ferry $2,200 with direct X links); new "Business · consumer rights" category. Removed 1 non-user case (a Meta ad screenshot).
 - **2026-10-11**: First release — 34 cases. 1 rumored case (@landonbtw "Fred") initially excluded for lack of sources — later cross-confirmed as a 2026-10-08 IG reel and re-added as text.
