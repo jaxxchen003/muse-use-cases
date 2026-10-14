@@ -35,8 +35,37 @@ header.top .wrap{display:flex;align-items:center;gap:12px;padding:14px 20px;flex
 .tabs button{background:#fff;border:1px solid var(--line);border-radius:999px;padding:10px 24px;
   font-size:15px;font-weight:700;cursor:pointer;color:var(--text)}
 .tabs button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
-.hero{margin:18px 0 6px}
-.hero img{width:100%;border-radius:20px;border:1px solid var(--line);display:block;background:#fff}
+.hero{margin:18px 0 6px;background:#fff;border:1px solid var(--line);border-radius:20px;
+  padding:54px 58px;position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:0;
+  background-image:radial-gradient(rgba(17,20,24,.09) 1.3px, transparent 1.4px);
+  background-size:34px 34px;pointer-events:none}
+.hero::after{content:"";position:absolute;right:-100px;top:50%;width:360px;height:360px;transform:translateY(-50%);
+  border:2px solid rgba(17,20,24,.07);border-radius:50%;pointer-events:none}
+.hero-inner{position:relative;display:flex;gap:44px;align-items:center;justify-content:space-between}
+.hero-label{font-size:19px;letter-spacing:8px;color:var(--muted);margin-bottom:16px}
+.hero-title{font-size:66px;font-weight:800;color:var(--ink);line-height:1.15;margin-bottom:12px;white-space:nowrap}
+.hero-sub{font-size:21px;color:#4b5563;margin-bottom:28px}
+.hero-sub b{color:var(--ink)}
+.hero-row{display:flex;align-items:center;gap:22px;flex-wrap:wrap}
+.hero-invite{background:var(--ink);color:#fff;border:none;border-radius:999px;
+  padding:15px 38px;font-size:20px;font-weight:800;cursor:pointer}
+.hero-invite:hover{opacity:.88}
+.hero-side{color:var(--muted);font-size:17px}
+.hero-cards{display:flex;flex-direction:column;gap:18px;min-width:300px;position:relative;z-index:1}
+.hero-card{background:#fff;border:1.5px solid var(--line);border-radius:16px;
+  padding:20px 24px;box-shadow:0 4px 14px rgba(17,20,24,.04)}
+.hero-card-top{display:flex;align-items:center;gap:10px;color:#4b5563;font-size:16px;margin-bottom:6px}
+.check{width:26px;height:26px;border-radius:50%;background:var(--ink);color:#fff;flex:none;
+  display:inline-flex;align-items:center;justify-content:center;font-size:15px;font-weight:800}
+.hero-card-amt{font-size:26px;font-weight:800;color:var(--ink);padding-left:36px;white-space:nowrap}
+@media(max-width:900px){
+  .hero{padding:36px 28px}
+  .hero-inner{flex-direction:column;align-items:flex-start}
+  .hero-title{font-size:42px;white-space:normal}
+  .hero-cards{width:100%}
+  .hero::after{display:none}
+}
 .stats{display:flex;gap:14px;flex-wrap:wrap;margin:22px 0}
 .stat{flex:1;min-width:150px;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px 20px}
 .stat b{font-size:28px;color:var(--ink);display:block}
@@ -116,7 +145,29 @@ footer .wrap{display:flex;flex-direction:column;gap:10px}
   </nav>
 
   <section id="viewCases">
-    <section class="hero"><img id="heroImg" src="assets/hero.svg" alt="Muse Use Cases"></section>
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-main">
+          <div class="hero-label" id="heroLabel"></div>
+          <h1 class="hero-title" id="heroTitle"></h1>
+          <p class="hero-sub" id="heroSub"></p>
+          <div class="hero-row">
+            <button class="hero-invite" id="heroInviteBtn"><span id="heroInviteText"></span></button>
+            <span class="hero-side" id="heroSide"></span>
+          </div>
+        </div>
+        <div class="hero-cards">
+          <div class="hero-card">
+            <div class="hero-card-top"><span class="check">✓</span><span id="heroCard1t"></span></div>
+            <div class="hero-card-amt" id="heroCard1a"></div>
+          </div>
+          <div class="hero-card">
+            <div class="hero-card-top"><span class="check">✓</span><span id="heroCard2t"></span></div>
+            <div class="hero-card-amt" id="heroCard2a"></div>
+          </div>
+        </div>
+      </div>
+    </section>
     <section class="stats" id="stats"></section>
     <nav class="filters" id="filters"></nav>
     <main id="grid"></main>
@@ -150,7 +201,6 @@ let inviteLoaded = false;
 
 const STR = {
   zh: {
-    title: "Muse 实战案例库 💡 | 75 个真实高价值玩法",
     logoSub: "只收录 X 真实分享 · 每日更新",
     searchPh: "搜索案例、作者、关键词…（如：车险、退货、AT&T）",
     invite: "🎁 邀请码", copy: "复制", copied: "已复制 ✓",
@@ -159,7 +209,12 @@ const STR = {
     viewX: "查看 X 原帖 ↗", empty: "没有找到匹配的案例，换个关键词试试 🔍",
     disclaimer: "⚠️ 实际效果因账号权限、地区、服务支持而异；部分案例来自 #MuseMoneyChallenge 期间的用户自述；部分“电话谈判”案例实际有人工参与。本库仅做信息整理，不构成消费或投资建议。",
     foot: '🤝 在 <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> 分享你的玩法（X 原帖链接）或邀请码 · 每天 0 点自动更新 · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHub 仓库</a>',
-    hero: "assets/hero.svg",
+    heroLabel: "META MUSE · 真实玩家案例",
+    heroTitle: "Muse 实战案例库",
+    heroInvite: "邀请码 4P14HY", heroCopied: "已复制 ✓",
+    heroSide: "Issues 投稿玩法 · 互助邀请码",
+    heroCard1t: "车险一键切换", heroCard1a: "年省 $3,500",
+    heroCard2t: "Verizon 账单谈判", heroCard2a: "$516 → $386 / 月",
     tabCases: "💡 案例库", tabInvite: "🎁 邀请码互助",
     inviteTitle: "🎁 邀请码互助区",
     inviteDesc: "把你的 Muse 邀请码分享出来，大家互帮互助。点击邀请码一键复制。",
@@ -171,7 +226,6 @@ const STR = {
     inviteFail: "加载失败，请稍后重试，或直接去 Issues 查看。"
   },
   en: {
-    title: "Muse Use Cases 💡 | 75 real high-value playbooks",
     logoSub: "X shares only · Updated daily",
     searchPh: "Search cases, authors, keywords… (e.g. insurance, refund, AT&T)",
     invite: "🎁 Invite code", copy: "Copy", copied: "Copied ✓",
@@ -180,7 +234,12 @@ const STR = {
     viewX: "View X post ↗", empty: "No matching cases — try another keyword 🔍",
     disclaimer: "⚠️ Results vary by account permissions, region and service support. Some cases are self-reported from the #MuseMoneyChallenge campaign; some “phone negotiation” cases reportedly involved humans. Informational only — not consumer or investment advice.",
     foot: '🤝 Share your playbook (X post link) or invite code in <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> · Auto-updated daily at 00:00 · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHub repo</a>',
-    hero: "assets/hero_en.svg",
+    heroLabel: "META MUSE · REAL USER CASES",
+    heroTitle: "Muse Use Cases",
+    heroInvite: "Invite code 4P14HY", heroCopied: "Copied ✓",
+    heroSide: "Share playbooks & invite codes in Issues",
+    heroCard1t: "Auto insurance switch", heroCard1a: "Save $3,500/yr",
+    heroCard2t: "Verizon bill haggle", heroCard2a: "$516 → $386 / mo",
     tabCases: "💡 Cases", tabInvite: "🎁 Invite codes",
     inviteTitle: "🎁 Community invite codes",
     inviteDesc: "Share your Muse invite code and help each other out. Click a code to copy it.",
@@ -194,16 +253,40 @@ const STR = {
 };
 const T = () => STR[lang];
 const catName = c => lang === "zh" ? c.zh : c.en;
+function pageTitle(){
+  const base = lang === "zh" ? "Muse 实战案例库 💡" : "Muse Use Cases 💡";
+  const c = DATA ? DATA.meta.count : null;
+  if (!c) return base;
+  return lang === "zh" ? `${base} | ${c} 个真实高价值玩法` : `${base} | ${c} real high-value playbooks`;
+}
+function heroSubHTML(){
+  const c = DATA ? DATA.meta.count : null;
+  if (!c) return lang === "zh" ? "真实高价值玩法 · 只收录 X 分享 · 每日更新"
+                              : "Real high-value playbooks · X shares only · Updated daily";
+  return lang === "zh" ? `<b>${c}</b> 个真实高价值玩法 · 只收录 X 分享 · 每日更新`
+                       : `<b>${c}</b> real high-value playbooks · X shares only · Updated daily`;
+}
+function renderHero(){
+  document.title = pageTitle();
+  $("#heroLabel").textContent = T().heroLabel;
+  $("#heroTitle").textContent = T().heroTitle;
+  $("#heroSub").innerHTML = heroSubHTML();
+  $("#heroInviteText").textContent = T().heroInvite;
+  $("#heroSide").textContent = T().heroSide;
+  $("#heroCard1t").textContent = T().heroCard1t;
+  $("#heroCard1a").textContent = T().heroCard1a;
+  $("#heroCard2t").textContent = T().heroCard2t;
+  $("#heroCard2a").textContent = T().heroCard2a;
+}
 
 function applyLang(){
   document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
-  document.title = T().title;
+  renderHero();
   $("#logoMain").textContent = lang === "zh" ? "💡 Muse 实战案例库" : "💡 Muse Use Cases";
   $("#logoSub").textContent = T().logoSub;
   $("#q").placeholder = T().searchPh;
   $("#inviteLabel").textContent = T().invite;
   $("#copyLabel").textContent = T().copy;
-  $("#heroImg").src = T().hero;
   $("#disclaimer").textContent = T().disclaimer;
   $("#footLinks").innerHTML = T().foot;
   $("#tabCases").textContent = T().tabCases;
@@ -236,6 +319,7 @@ function card(c){
     <p class="desc">${d}</p>${x}</article>`;
 }
 function renderAll(){
+  renderHero();
   const counts = {};
   DATA.cases.forEach(c => counts[c.c] = (counts[c.c] || 0) + 1);
   $("#stats").innerHTML =
@@ -357,6 +441,12 @@ $("#inviteBtn").addEventListener("click", () => {
   navigator.clipboard.writeText("4P14HY").then(() => {
     $("#copyLabel").textContent = T().copied;
     setTimeout(() => $("#copyLabel").textContent = T().copy, 1500);
+  });
+});
+$("#heroInviteBtn").addEventListener("click", () => {
+  navigator.clipboard.writeText("4P14HY").then(() => {
+    $("#heroInviteText").textContent = T().heroCopied;
+    setTimeout(() => $("#heroInviteText").textContent = T().heroInvite, 1500);
   });
 });
 
