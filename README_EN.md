@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **96 cases** ｜ 🕐 **Last updated: 2026-10-15** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **107 cases** ｜ 🕐 **Last updated: 2026-10-16** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -31,12 +31,12 @@
 ## Categories
 
 - 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (32)
-- ✈️ [Travel](#️-travel) (11)
+- ✈️ [Travel](#️-travel) (13)
 - 🛒 [Shopping](#-shopping) (10)
-- ⚡ [Productivity · automation](#-productivity--automation) (22)
-- 🎨 [Content · creation](#-content--creation) (8)
+- ⚡ [Productivity · automation](#-productivity--automation) (28)
+- 🎨 [Content · creation](#-content--creation) (10)
 - 🛠️ [Dev · building](#️-dev--building) (4)
-- 💼 [Business · consumer rights](#-business--consumer-rights) (9)
+- 💼 [Business · consumer rights](#-business--consumer-rights) (10)
 
 ---
 
@@ -68,7 +68,7 @@
 
 **13. $1,750 unclaimed property recovered for father-in-law** 🟡 — [@moneyeducator](https://x.com/moneyeducator). Searched every lived-in state's unclaimed-property registry; plus ~$120/mo off bills via plan comparison (per catalog entry). [Original post](https://x.com/moneyeducator/status/2098170064721543402) (2026-09-10).
 
-**14. Unclaimed property sweep, $800+ in ~10 min** 🟡 — @WaitWhat. One prompt: check every state lived in.
+**14. Unclaimed property sweep, $800+ in ~10 min** ✅ — @WaitWhat. One prompt: check every state lived in; Muse filled the claim forms too (~10 min total). [Original post](https://x.com/WaitWhat/status/2098169214091887047) (2026-09-10).
 
 **15. Amazon returns ($239) + dog vet claim ($516)** 🟡 — @armand_ruiz. ~$755 recovered. (He also posted a $2,120.95 cumulative savings list incl. AT&T negotiation $300/yr and IKEA returns.)
 
@@ -111,9 +111,9 @@
 
 **30. Flight/hotel price-drop tracking with notifications** — 于為暢 (Wei Chang Yu, Taiwan creator). Related: Threads @adambader saved **$600** the same way.
 
-**31. Overnight flight auto check-in** 🟡 — @amirnurani. Checked in while asleep.
+**31. Overnight flight auto check-in** ✅ — @amirnurani. His flight's online check-in opened at 4:15 AM; instead of waking up, he let Muse complete it in the background. [Original post](https://x.com/amirnurani/status/2097966228216172972) (2026-09-10).
 
-**32. REAL ID appointment booking** 🟡 — @nanda_rahul.
+**32. REAL ID appointment booking** ✅ — @nanda_rahul. Handed the whole appointment flow to Muse, from finding a slot to completing the booking. [Original post](https://x.com/nanda_rahul/status/2097719629510590788) (2026-09-09).
 
 **33. Passport renewal + Thailand hotel booking, end to end** 🟡 — @JesseCohenInv. ~95% of US passport renewal done online, then couple flights on Amex Travel.
 
@@ -128,15 +128,19 @@
 **38. Sardinia trip: emailed hotel for direct booking, saved €240** — Chelsea Yamase (@chelseakauai, IG travel creator, 1.2M followers).
 
 **86. 104 countries in 12 years: Muse mapped the next 10 years of his life** 🟡 — Jorden Tually (@jordentually, IG travel creator, 520K followers, verified). 104 countries down, 93 to go. Connected Muse to his Instagram to analyze his travel style; it produced a month-by-month, season-aware 10-year itinerary starting 2027 plus an interactive world map (visited vs remaining), projecting he'll finish all 197 by Dec 2036 (2026-10-12 reel, 4.4K likes).
+
+**97. Inbox + calendar wired in, trip planning starts from his real schedule** ✅ — @boztank. With email and calendar connected, trip planning starts from his existing messages and itinerary — Muse assembles the packing list, researches and buys products; the same share has Muse sorting school emails into "needs action" vs "FYI only" so a parent doesn't read them one by one. [Original post](https://x.com/boztank/status/2097401739796459938) (2026-09-08).
+
+**98. IG saves → 4-day Barcelona itinerary, down to which restaurant at what time** 🟡 — Chanelle Howell (@chanellehowell, IG creator, 85K followers, verified). Connected Muse to years of untouched IG saves (Marbella, Mexico City, Miami, Barcelona, Mallorca); one prompt — "build me a 4-day Barcelona + Mallorca itinerary from my saves." Day 1: Gothic Quarter, lunch at Los Caracoles, churros at Masia de Sabor, dinner at Tapeo, plus a paella cooking class; hotels tiered from Seventy Barcelona to Mandarin Oriental (~$850/night), with clickable links, booking info and prices (2026-10-13 IG reel, phone screen recording).
 ---
 
 ## 🛒 Shopping
 
 **39. Photo → Marketplace listing (pricing + copy in one shot)** — 于為暢 (Wei Chang Yu).
 
-**40. Marketplace price negotiation** 🟡 — @signulll. Found the item, negotiated, arranged pickup.
+**40. Marketplace price negotiation** ✅ — @signulll. Found the item, negotiated, arranged pickup. [Original post](https://x.com/signulll/status/2097416338147049795) (2026-09-08).
 
-**41. Whiteboard photo → Sam's Club grocery order** 🟡 — @dylan_heagy. Photographed a messy fridge whiteboard list; Muse ordered everything.
+**41. Whiteboard photo → Sam's Club grocery order** ✅ — @dylan_heagy. Photographed a messy fridge whiteboard list; Muse read it and ordered everything at Sam's Club. [Original post](https://x.com/dylan_heagy/status/2097721746094698775) (2026-09-09).
 
 **42. Lowballed ~50 sellers, $2,500 for a brand-new M5 Pro MacBook** 🟡 — @jingusucks. 48GB/2TB MacBook Pro for $2,500.
 
@@ -197,6 +201,18 @@
 
 **92. 18 user testimonials in one carousel: found money, phone bills, Champions League tickets** 🟡 — @soheil.shivafar1 (IG, 640K followers). A 19-slide carousel collecting 18 user testimonials — found forgotten money, Sony headphone price alerts, living-room design on a budget, traffic alerts, job applications, phone bill reductions, inbox zero, Marketplace furniture finds, Italy trip planning, damaged-order returns, Champions League tickets, 200+ saved posts sorted, Tehran–Dubai flight tracking (2026-10-11; individual testimonials unattributed, included as a collection).
 **96. Assistant "Nova": photographed his whole wardrobe + checked his calendar to style a dinner outfit** 🟡 — @muse (Threads user, verified, 18K followers). He fed Muse photos of everything in his closet and named the assistant "Nova"; when asked what to wear to dinner, Nova picked a black henley + dark wide-leg trousers from what he actually owns, checked his calendar, saw the reservation was outdoors and added a black long sleeve, chose loafers over sneakers, and finished with a silver watch and bracelet (2026-10-12 post).
+
+**99. DMV appointment + vehicle registration renewal + inbox to-dos turned into calendar events** ✅ — @moonShot_6. Dealing with the CA DMV: Muse booked the appointment and handled the vehicle registration renewal; then scanned his inbox, pulled out the unfinished items and turned them into calendar events. [Original post](https://x.com/moonShot_6/status/2098279406045384724) (2026-09-11).
+
+**100. One overnight inbox sweep: dozens of promo emails unsubscribed one by one** ✅ — @negligible_cap. Let Muse patrol his entire inbox overnight and unsubscribe promo emails one by one; dozens gone in a night, using only ~10% of the free quota. [Original post](https://x.com/negligible_cap/status/2098030155839000856) (2026-09-10).
+
+**101. Handed his entire Asana workspace to Muse — from a treadmill, for 87 minutes** 🟡 — David Schloss (Facebook). Walked on a treadmill for 87 minutes while Muse ran his whole Asana workspace: projects organized, content ideas generated, stale clients and dead leads cleared from rotation, an onboarding template rebuilt. His description: "a 24/7 executive assistant clearing your busywork" (2026-10-14 FB post).
+
+**102. 500 saves cleared in 10 minutes: a 444-entry "Tips Database"** 🟡 — Tami McVay (@tami.mcvay, IG creator, "AI employee" builder). Years of ~500 saves (gift ideas, tips, webinars) she'd never revisited; Muse built collections plus a "Tips Database" (444 entries) in ~10 minutes and flagged expired workshops. She notes Muse's native FB/IG access beats third-party scrapers like Apify — "it can enter groups and read analytics" (2026-10-14 IG reel, screen recording).
+
+**103. Hidden setting AGENTS.md: 10 iron rules hard-coded for Muse** 🟡 — @ai_empowerment_now (IG creator). In the Muse app: three-dot menu → System Files → AGENTS.md — Muse's "employee handbook," read before every response. Hard-code rules like "save emails as drafts, never send" and "confirm before important actions"; she recommends 10–12 rules, under 500 words total ("too many words drag performance") (2026-10-14 IG reel, screen demo).
+
+**104. Nephew's college football recruiting: Hudl highlights fed in, coaches researched, personalized emails auto-written** 🟡 — @africans_in_tech (IG account, 34K followers). Used Muse for his nephew's college football recruiting: fed in Hudl highlight reels, Muse researched target schools and coaches and auto-wrote personalized outreach emails; his advice: don't fully automate until the flow is proven — verify manually for a few rounds first (2026-10-14 IG reel).
 ---
 
 ## 🎨 Content · creation
@@ -216,6 +232,10 @@
 **65. 2,572 social posts turned into a searchable "personal archive"** — Adrian C. Murray (developer, Threads). 6.2M+ likes embedded locally; cadence/engagement/topics at a glance.
 
 **87. Viral-reel autopilot: top 20 reels, deduped, cross-posted** 🟡 — Careese (@careeseeats, IG, 270K followers). Named her Muse assistant "kwin"; one command: "take my top 20 IG reels, move them to my other platforms, dedupe, keep titles consistent." Done in minutes on screen recording; new reels now follow the same pipeline automatically (2026-10-12 reel).
+
+**105. One KPI for Muse: "tell me what I'm ignoring in my content"** 🟡 — Khris Sheer (@khris.sheer, IG creator). Named her Muse "Poppy" and gave it a single goal: comb through her years of IG content, audience questions and analytics, and tell her what she's missing. Poppy found: vibe-coding posts get the most engagement, viewers keep asking about her coding background and tools, and the comments are fighting over "does vibe coding count as cheating." Poppy also tracks IG performance daily and "flags decisions worth her attention" (2026-10-14 IG reel, screen recording). Her line: "I'm not short on data — I'm short on someone to read the signals."
+
+**106. 30-day "let Muse reshape my IG" experiment: 439 followers lost, posting anxiety cured** 🟡 — Charlee Atkins (Facebook verified creator, 135K followers). 30 days ago she challenged Muse to rescue her "dying" IG account. Result: net -439 followers (screenshot: -439 followers, 358,879 views), twice nearly quit. Unexpected verdict: AI killed four of her obsessions — no more agonizing over what to post, no more comparing, no more chasing "correct," no more needing every post to go viral: "posting feels easy for the first time." She also used an AI-generated video of "herself in a field" during the experiment (2026-10-14 FB video). Worth including precisely because she published a failed experiment.
 ---
 
 ## 🛠️ Dev · building
@@ -249,6 +269,8 @@
 **88. Old-lead reactivation funnel, ~98% automated** 🟡 — Alan Tucker Bearden (small business owner). Muse emails old leads, follows up replies with a free audit hook, pings his SEO lead via Messenger when someone bites, hands over the audit report, then checks his calendar to book the call; also generates grocery lists from voice messages and aggregates cross-platform finances into monthly income (2026-10-12 FB post).
 
 **89. Bank-connected bookkeeping: 4 accounts auto-categorized into monthly P&L** 🟡 — @americanivato (IG). With Google Drive, Gmail, Calendar, banks and a dozen other services connected, asked Muse to do the books; it listed the 4 connected bank accounts, pulled transactions, categorized them by tax line and generated a monthly P&L (disclaiming it's "not a CPA") (2026-10-12 IG video, screen recording).
+
+**107. Half his business tasks now go to Muse: "out-of-the-box it beats Claude Premium and custom ChatGPT agents"** 🟡 — Dave Meyler (Facebook, has built AI agents). After comparing Claude Premium and custom ChatGPT agents, Muse worked best out of the box — roughly half his business tasks (inquiries, research, reservations) now go to it, no MCP-style plumbing required. He also states the trade-off upfront: Meta is probably using your data as the product — "accept the trade-off or fall behind" (2026-10-14 FB post).
 ---
 
 ## 🤝 Contribute
@@ -268,6 +290,7 @@ Auto-updated daily at 00:00 (Beijing time).
 
 ## 🗒️ Changelog
 
+- **2026-10-16**: 11 new cases (8 real-user FB/IG shares from Chinese daily digest issue 20, 2026-10-15, text-only: Barcelona itinerary from IG saves, "Poppy" content-signal mining, 87-minute Asana workspace handoff, Tips Database, AGENTS.md iron rules, Charlee Atkins' -439 followers experiment, half of business tasks handed to Muse, college football recruiting emails; 3 X originals dug up via 17muse's global inspiration feed: DMV appointment + registration + inbox-to-calendar, overnight promo-email unsubscribe sweep, inbox + calendar trip planning). Cases 14/31/32/40/41 upgraded 🟡→✅ with X originals added. Total: 107.
 - **2026-10-15**: 4 new cases added (real-user shares from FB/IG/Threads cross-confirmed via the Chinese daily digest issue 19, 2026-10-14, text-only: NYC parking ticket paid in one chat $147.90, subscription-negotiation bandwagon ~$700/mo + $2,000/yr insurance switch, "Koda"'s 3 hidden tricks, assistant "Nova" dinner styling). Total: 96.
 - **2026-10-14**: 8 new cases added (real-user shares from FB/IG cross-confirmed via the Chinese daily digest issue 17, 2026-10-12, text-only: 104-country traveler's life itinerary, "A Month with Muse" $1,530/yr saved, viral-reel autopilot, ~98%-automated lead funnel, bank-connected P&L, etc.). Total: 92.
 - **2026-10-13**: 9 new cases added (real-user shares from FB/IG/Threads/YouTube cross-confirmed via the Chinese daily digest, text-only: $1,000 refund recovery, 43,000 emails cleared, 6,076 saved posts sorted, influencer-ops assistant "Zuze", etc.). Total: 84.
