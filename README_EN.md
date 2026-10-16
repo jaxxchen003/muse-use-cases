@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **107 cases** ｜ 🕐 **Last updated: 2026-10-16** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **114 cases** ｜ 🕐 **Last updated: 2026-10-17** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -31,12 +31,12 @@
 ## Categories
 
 - 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (32)
-- ✈️ [Travel](#️-travel) (13)
-- 🛒 [Shopping](#-shopping) (10)
-- ⚡ [Productivity · automation](#-productivity--automation) (28)
-- 🎨 [Content · creation](#-content--creation) (10)
-- 🛠️ [Dev · building](#️-dev--building) (4)
-- 💼 [Business · consumer rights](#-business--consumer-rights) (10)
+- ✈️ [Travel](#️-travel) (14)
+- 🛒 [Shopping](#-shopping) (11)
+- ⚡ [Productivity · automation](#-productivity--automation) (29)
+- 🎨 [Content · creation](#-content--creation) (11)
+- 🛠️ [Dev · building](#️-dev--building) (5)
+- 💼 [Business · consumer rights](#-business--consumer-rights) (12)
 
 ---
 
@@ -132,6 +132,8 @@
 **97. Inbox + calendar wired in, trip planning starts from his real schedule** ✅ — @boztank. With email and calendar connected, trip planning starts from his existing messages and itinerary — Muse assembles the packing list, researches and buys products; the same share has Muse sorting school emails into "needs action" vs "FYI only" so a parent doesn't read them one by one. [Original post](https://x.com/boztank/status/2097401739796459938) (2026-09-08).
 
 **98. IG saves → 4-day Barcelona itinerary, down to which restaurant at what time** 🟡 — Chanelle Howell (@chanellehowell, IG creator, 85K followers, verified). Connected Muse to years of untouched IG saves (Marbella, Mexico City, Miami, Barcelona, Mallorca); one prompt — "build me a 4-day Barcelona + Mallorca itinerary from my saves." Day 1: Gothic Quarter, lunch at Los Caracoles, churros at Masia de Sabor, dinner at Tapeo, plus a paella cooking class; hotels tiered from Seventy Barcelona to Mandarin Oriental (~$850/night), with clickable links, booking info and prices (2026-10-13 IG reel, phone screen recording).
+
+**114. Named her Muse "Monae": NYC event saves → dated itinerary, auto-refreshed daily** 🟡 — Tiffany Aliche (@thebudgetnista, IG verified). Muse digs through her saved NYC event posts daily and keeps a dated "Fall NYC Itinerary" (including free Fridays at the Morgan Library); picked events go into the calendar with daily auto-updates (2026-10-15 IG reel).
 ---
 
 ## 🛒 Shopping
@@ -155,6 +157,8 @@
 
 **77. Marketplace selling with a "safety checklist": home address stays out of listings** — Ryan Reyes (Facebook). Photo→price→listing automation with saved prefs: no home address in listings, cash/Venmo only, meetups fixed at one Publix entrance (2026-10-11 reel, Messenger transcript).
 **95. "Koda"'s 3 hidden tricks: $130 Marketplace haggle, ID'ing a 3D printer from saved reels, IG account audit** 🟡 — Practicaly AI (Facebook account, 120K followers). "3 things you didn't know Muse could do": ① plugged Muse into Messenger as a haggler, negotiated a Tour AD MT-6 golf shaft on Marketplace down to a $130 in-person deal; ② identified a 3D printer model (CA$999) from saved reels and ran a spec comparison; ③ mined saved posts to track products and audited an IG account (2026-10-12 reel, screen-recorded).
+
+**108. Haggled with On support "daily" until the 40% code came back — three orders placed** 🟡 — Eric Siu (@ericosiu, IG creator, 120K followers, verified). A 40% discount code ($198 off) order got cancelled and the merchant would only honor 20%; Muse took over daily customer-service negotiations, name-dropping his follower count — recovered the original 40% code and dug up two extra 20% codes ($98 off, $44 off), placed across three orders (2026-10-15 reel). Three orders saved ~$340 total — "agentic shopping 101."
 ---
 
 ## ⚡ Productivity · automation
@@ -169,7 +173,7 @@
 
 **51. 90 data-broker opt-outs** 🟡 — Andru Edwards (@AndruEdwards, tech creator). No need for a removal service.
 
-**52. DIY Incogni, replaced a paid subscription** 🟡 — Cuth (@ItsCuthulhu). Emailed every data broker found; used ~2% of free weekly quota.
+**52. DIY Incogni, replaced a paid subscription** ✅ — Cuth ([@ItsCuthulhu](https://x.com/ItsCuthulhu)). Emailed every data broker found; used ~2% of the free weekly quota. [Original post](https://x.com/ItsCuthulhu/status/2098443112527839287) (2026-09-11).
 
 **53. 7-day, 10-task stress test** — via 17muse case feed: 5 succeeded / 2 errored / 2 stuck / 1 abandoned — a rare honest failure report.
 
@@ -213,6 +217,8 @@
 **103. Hidden setting AGENTS.md: 10 iron rules hard-coded for Muse** 🟡 — @ai_empowerment_now (IG creator). In the Muse app: three-dot menu → System Files → AGENTS.md — Muse's "employee handbook," read before every response. Hard-code rules like "save emails as drafts, never send" and "confirm before important actions"; she recommends 10–12 rules, under 500 words total ("too many words drag performance") (2026-10-14 IG reel, screen demo).
 
 **104. Nephew's college football recruiting: Hudl highlights fed in, coaches researched, personalized emails auto-written** 🟡 — @africans_in_tech (IG account, 34K followers). Used Muse for his nephew's college football recruiting: fed in Hudl highlight reels, Muse researched target schools and coaches and auto-wrote personalized outreach emails; his advice: don't fully automate until the flow is proven — verify manually for a few rounds first (2026-10-14 IG reel).
+
+**109. Reimbursement season AI accountant: $1,755.60 across 17 receipt lines** 🟡 — Shawn Kanungo (speaker, 44K followers). Gave Muse email + computer access; it hunted invoices across inboxes and matched them against highlighted spreadsheet rows — 17 lines totaling $1,755.60: 9 matched, 1 "likely," 7 not found (2026-10-15 FB post). Hours-to-days of manual work, done in minutes.
 ---
 
 ## 🎨 Content · creation
@@ -236,6 +242,8 @@
 **105. One KPI for Muse: "tell me what I'm ignoring in my content"** 🟡 — Khris Sheer (@khris.sheer, IG creator). Named her Muse "Poppy" and gave it a single goal: comb through her years of IG content, audience questions and analytics, and tell her what she's missing. Poppy found: vibe-coding posts get the most engagement, viewers keep asking about her coding background and tools, and the comments are fighting over "does vibe coding count as cheating." Poppy also tracks IG performance daily and "flags decisions worth her attention" (2026-10-14 IG reel, screen recording). Her line: "I'm not short on data — I'm short on someone to read the signals."
 
 **106. 30-day "let Muse reshape my IG" experiment: 439 followers lost, posting anxiety cured** 🟡 — Charlee Atkins (Facebook verified creator, 135K followers). 30 days ago she challenged Muse to rescue her "dying" IG account. Result: net -439 followers (screenshot: -439 followers, 358,879 views), twice nearly quit. Unexpected verdict: AI killed four of her obsessions — no more agonizing over what to post, no more comparing, no more chasing "correct," no more needing every post to go viral: "posting feels easy for the first time." She also used an AI-generated video of "herself in a field" during the experiment (2026-10-14 FB video). Worth including precisely because she published a failed experiment.
+
+**112. 2,232 Facebook posts across 17 years, turned into a life profile in a day** 🟡 — Wendell (17muse.com founder). Downloaded all 2,232 of his 2009–2026 Facebook posts, sampled year by year for long-term change; Muse delivered a full life-profile report the same day (published 2026-10-15).
 ---
 
 ## 🛠️ Dev · building
@@ -247,6 +255,8 @@
 **68. Sold 2 websites Muse made** 🟡 — wyn (@wyn_eth). Muse came up with the ideas; he only made sales calls — 2 of ~50 closed.
 
 **69. Alphabet web app for a 3-year-old** 🟡 — silv (@mattsilv). Visuals + touch drawing to teach the alphabet.
+
+**113. Landing page build: Muse as CEO, delegating to Claude Code and Codex** 🟡 — Wendell (17muse.com founder). One instruction to Muse (W); W as CEO decided whether to dispatch Claude Code or Codex — poor work got sent back, W reviewed and tested before human acceptance; v1 (Claude Code) was too plain, v2 (Codex) shipped as a black-and-gold editorial design, with W verifying copy/pricing/CTAs item by item via script (published 2026-10-14).
 
 ---
 
@@ -271,6 +281,10 @@
 **89. Bank-connected bookkeeping: 4 accounts auto-categorized into monthly P&L** 🟡 — @americanivato (IG). With Google Drive, Gmail, Calendar, banks and a dozen other services connected, asked Muse to do the books; it listed the 4 connected bank accounts, pulled transactions, categorized them by tax line and generated a monthly P&L (disclaiming it's "not a CPA") (2026-10-12 IG video, screen recording).
 
 **107. Half his business tasks now go to Muse: "out-of-the-box it beats Claude Premium and custom ChatGPT agents"** 🟡 — Dave Meyler (Facebook, has built AI agents). After comparing Claude Premium and custom ChatGPT agents, Muse worked best out of the box — roughly half his business tasks (inquiries, research, reservations) now go to it, no MCP-style plumbing required. He also states the trade-off upfront: Meta is probably using your data as the product — "accept the trade-off or fall behind" (2026-10-14 FB post).
+
+**110. A creator's triple play: market research + inbox triage + life-insurance renegotiation** 🟡 — Brooke Shelton (@brookesheltonofficial, 95K followers). ① Market research: pulled Meta Ad Library, generated hundreds of ad hooks/talking-head scripts in one go; ② inbox triage: email + calendar + news digest, drafted replies, one-click unsubscribes; ③ had Muse renegotiate her life insurance — Review → Approve flow with a human always in the loop (2026-10-15 reel).
+
+**111. Muse refused to write insurance ad copy: the first tested "red-line map"** 🟡 — Ryan Reyes (FB/IG; the "Marketplace safety checklist" author from issue 17). Asked Muse to write insurance ad copy and got a firm refusal (financial-services ad creative is a hard rule); it then built the campaign structure, targeting and budget, and pulled competitor ads from Meta Ad Library for reference (2026-10-15 post).
 ---
 
 ## 🤝 Contribute
@@ -290,6 +304,7 @@ Auto-updated daily at 00:00 (Beijing time).
 
 ## 🗒️ Changelog
 
+- **2026-10-17**: 7 new cases added (real-user FB/IG shares from Chinese daily digest issue 21, 2026-10-16, text-only: On sneakers support haggling for the 40% code across 3 orders, $1,755.60 reimbursement receipt audit, creator's triple play with life-insurance renegotiation, insurance ad-copy refusal as a tested red-line map, 2,232 FB posts turned into a life profile, Muse-as-CEO delegating a landing page to Claude Code/Codex, assistant "Monae" turning NYC event saves into a daily-updated itinerary). Case 52 upgraded 🟡→✅ with the X original added. Total: 114.
 - **2026-10-16**: 11 new cases (8 real-user FB/IG shares from Chinese daily digest issue 20, 2026-10-15, text-only: Barcelona itinerary from IG saves, "Poppy" content-signal mining, 87-minute Asana workspace handoff, Tips Database, AGENTS.md iron rules, Charlee Atkins' -439 followers experiment, half of business tasks handed to Muse, college football recruiting emails; 3 X originals dug up via 17muse's global inspiration feed: DMV appointment + registration + inbox-to-calendar, overnight promo-email unsubscribe sweep, inbox + calendar trip planning). Cases 14/31/32/40/41 upgraded 🟡→✅ with X originals added. Total: 107.
 - **2026-10-15**: 4 new cases added (real-user shares from FB/IG/Threads cross-confirmed via the Chinese daily digest issue 19, 2026-10-14, text-only: NYC parking ticket paid in one chat $147.90, subscription-negotiation bandwagon ~$700/mo + $2,000/yr insurance switch, "Koda"'s 3 hidden tricks, assistant "Nova" dinner styling). Total: 96.
 - **2026-10-14**: 8 new cases added (real-user shares from FB/IG cross-confirmed via the Chinese daily digest issue 17, 2026-10-12, text-only: 104-country traveler's life itinerary, "A Month with Muse" $1,530/yr saved, viral-reel autopilot, ~98%-automated lead funnel, bank-connected P&L, etc.). Total: 92.
