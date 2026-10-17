@@ -32,6 +32,9 @@ header.top .wrap{display:flex;align-items:center;gap:12px;padding:14px 20px;flex
 .gh-btn:hover{border-color:var(--ink);box-shadow:0 4px 12px rgba(17,20,24,.08)}
 .gh-btn svg{flex:none}
 .tabs{display:flex;gap:10px;margin:22px 0 4px}
+.tabs-head{margin:0}
+.tabs-head button{padding:8px 18px;font-size:14px}
+.search-bar{margin:18px 0 6px}
 .tabs button{background:#fff;border:1px solid var(--line);border-radius:999px;padding:10px 24px;
   font-size:15px;font-weight:700;cursor:pointer;color:var(--text)}
 .tabs button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
@@ -129,8 +132,11 @@ footer .wrap{display:flex;flex-direction:column;gap:10px}
 
 <header class="top">
   <div class="wrap">
-    <div class="logo"><span id="logoMain">💡 Muse 实战案例库</span><small id="logoSub">只收录 X 真实分享 · 每日更新</small></div>
-    <div class="search" id="searchBox"><input id="q" type="search" placeholder="搜索案例、作者、关键词…（如：车险、退货、AT&T）"></div>
+    <div class="logo"><span id="logoMain">💡 Muse 实战案例库</span><small id="logoSub">每日更新</small></div>
+    <nav class="tabs tabs-head">
+      <button id="tabCases" class="on">💡 案例库</button>
+      <button id="tabInvite">🎁 邀请码互助</button>
+    </nav>
     <div class="lang-toggle" role="group" aria-label="language">
       <button id="btnZh" class="on">中文</button><button id="btnEn">EN</button>
     </div>
@@ -139,10 +145,7 @@ footer .wrap{display:flex;flex-direction:column;gap:10px}
 </header>
 
 <div class="wrap">
-  <nav class="tabs">
-    <button id="tabCases" class="on">💡 案例库</button>
-    <button id="tabInvite">🎁 邀请码互助</button>
-  </nav>
+  <div class="search search-bar" id="searchBox"><input id="q" type="search" placeholder="搜索案例、作者、关键词…（如：车险、退货、AT&T）"></div>
 
   <section id="viewCases">
     <section class="hero">
@@ -201,7 +204,7 @@ let inviteLoaded = false;
 
 const STR = {
   zh: {
-    logoSub: "只收录 X 真实分享 · 每日更新",
+    logoSub: "每日更新",
     searchPh: "搜索案例、作者、关键词…（如：车险、退货、AT&T）",
     ghStar: "⭐ GitHub 加星", copy: "复制", copied: "已复制 ✓",
     all: "全部", cases: "收录案例", cats: "分类", withX: "附 X 原帖直链", updated: "最后更新",
@@ -226,7 +229,7 @@ const STR = {
     inviteFail: "加载失败，请稍后重试，或直接去 Issues 查看。"
   },
   en: {
-    logoSub: "X shares only · Updated daily",
+    logoSub: "Updated daily",
     searchPh: "Search cases, authors, keywords… (e.g. insurance, refund, AT&T)",
     ghStar: "⭐ Star on GitHub", copy: "Copy", copied: "Copied ✓",
     all: "All", cases: "Cases", cats: "Categories", withX: "With X post link", updated: "Last updated",
