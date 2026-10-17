@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **114 cases** ｜ 🕐 **Last updated: 2026-10-17** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **119 cases** ｜ 🕐 **Last updated: 2026-10-18** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,11 +30,11 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (32)
-- ✈️ [Travel](#️-travel) (14)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (33)
+- ✈️ [Travel](#️-travel) (15)
 - 🛒 [Shopping](#-shopping) (11)
-- ⚡ [Productivity · automation](#-productivity--automation) (29)
-- 🎨 [Content · creation](#-content--creation) (11)
+- ⚡ [Productivity · automation](#-productivity--automation) (30)
+- 🎨 [Content · creation](#-content--creation) (13)
 - 🛠️ [Dev · building](#️-dev--building) (5)
 - 💼 [Business · consumer rights](#-business--consumer-rights) (12)
 
@@ -103,6 +103,7 @@
 **85. "A Month with Muse" test: website fixes + 5 car insurance quotes, $1,530/yr saved** 🟡 — @mostly.borrowed.ideas (IG account). A month of real-world testing: had Muse fix his website (added the dark mode + subscribe button he'd wanted for two years — "like hiring a competent dev for $20/mo"); shopped 5 car insurance quotes, saving $1,530/yr, and set it to re-shop every 5 months against "renewal inertia"; also monitors 4 inboxes, sends a daily cricket news digest and tracks GPU prices (2026-10-12 IG long-form video).
 **93. NYC parking ticket cleared in one chat: $115 → $145 fine, $147.90 paid via CityPay** 🟡 — Shervin Shaikh (@shervinshares, IG, 45K followers). A 3-month-overdue NYC parking ticket ("No Standing" at a bus stop): Muse looked it up by license plate on the city site — $115 had grown to $145; it went to CityPay, where a 2% card fee brought the total to $147.90, ready to charge via Stripe Link; the first charge failed on billing-address mismatch, and Muse proactively offered PayPal/eCheck alternatives, ending with a CityPay payment screenshot (2026-10-12 IG reel, screen-recorded, marked "not an ad").
 **94. Jumped on the "subscription negotiation" trend: ~$700/mo saved, car insurance switch saves ~$2,000/yr** 🟡 — Paul Pruitt (Facebook user). After seeing reels of Muse negotiating subscriptions, he gave Muse account access: it canceled idle subscriptions and fixed overcharges, saving ~$700/month; he also switched car insurance from Progressive to GEICO for the same coverage, saving ~$2,000/year (2026-10-12 FB post).
+**115. Subscription audit: 22 cut to 5, monthly fees $149.11 → $58.73, ~$100/mo saved** 🟡 — @karol.ylt (Spanish creator, 2.9K IG followers). Asked Muse to surface every recurring charge, shown on a before/after dashboard (screenshot 2026-10-11); she decided what was worth keeping — the keepers still included Claude Pro ($22.11/mo) and ChatGPT Plus ($20/mo) (2026-10-16 IG reel).
 ---
 
 ## ✈️ Travel
@@ -134,6 +135,7 @@
 **98. IG saves → 4-day Barcelona itinerary, down to which restaurant at what time** 🟡 — Chanelle Howell (@chanellehowell, IG creator, 85K followers, verified). Connected Muse to years of untouched IG saves (Marbella, Mexico City, Miami, Barcelona, Mallorca); one prompt — "build me a 4-day Barcelona + Mallorca itinerary from my saves." Day 1: Gothic Quarter, lunch at Los Caracoles, churros at Masia de Sabor, dinner at Tapeo, plus a paella cooking class; hotels tiered from Seventy Barcelona to Mandarin Oriental (~$850/night), with clickable links, booking info and prices (2026-10-13 IG reel, phone screen recording).
 
 **114. Named her Muse "Monae": NYC event saves → dated itinerary, auto-refreshed daily** 🟡 — Tiffany Aliche (@thebudgetnista, IG verified). Muse digs through her saved NYC event posts daily and keeps a dated "Fall NYC Itinerary" (including free Fridays at the Morgan Library); picked events go into the calendar with daily auto-updates (2026-10-15 IG reel).
+**116. Handed Muse his travel-site login: two VIP airport lounge bookings on autopilot — it stopped to ask when unsure** 🟡 — @marcianotech_ (Spanish tech podcaster, 450K IG followers). Stored his beforeboarding.com login in Muse's secure credential vault with one rule: "book whenever you see the fare, don't ask." Used his Banreservas Infinite membership to book two VIP airport lounge visits (Dec-03 departure, Dec-07 arrival, flights AA2265/AA1154). When the departure system stalled, it stopped and asked: "is the departure flight AA2099 or AA2265?" before continuing (2026-10-16 first-person screen recording).
 ---
 
 ## 🛒 Shopping
@@ -219,6 +221,7 @@
 **104. Nephew's college football recruiting: Hudl highlights fed in, coaches researched, personalized emails auto-written** 🟡 — @africans_in_tech (IG account, 34K followers). Used Muse for his nephew's college football recruiting: fed in Hudl highlight reels, Muse researched target schools and coaches and auto-wrote personalized outreach emails; his advice: don't fully automate until the flow is proven — verify manually for a few rounds first (2026-10-14 IG reel).
 
 **109. Reimbursement season AI accountant: $1,755.60 across 17 receipt lines** 🟡 — Shawn Kanungo (speaker, 44K followers). Gave Muse email + computer access; it hunted invoices across inboxes and matched them against highlighted spreadsheet rows — 17 lines totaling $1,755.60: 9 matched, 1 "likely," 7 not found (2026-10-15 FB post). Hours-to-days of manual work, done in minutes.
+**117. A skeptic's honest test: Gmail only — proactive parcel/flight alerts, unasked Shinjuku sushi rec in Tokyo** 🟡 — @mustansar_mushraf (710 IG followers). Connected only Gmail, having started skeptical of Muse's calling/concierge claims. Days later: parcels and flights were proactively flagged; on a Tokyo trip, a Shinjuku sushi restaurant recommendation arrived unasked — "say it once and it remembers." Criticisms were honest too: slower replies, ~3-minute voice-message limit (2026-10-16 IG reel).
 ---
 
 ## 🎨 Content · creation
@@ -244,6 +247,8 @@
 **106. 30-day "let Muse reshape my IG" experiment: 439 followers lost, posting anxiety cured** 🟡 — Charlee Atkins (Facebook verified creator, 135K followers). 30 days ago she challenged Muse to rescue her "dying" IG account. Result: net -439 followers (screenshot: -439 followers, 358,879 views), twice nearly quit. Unexpected verdict: AI killed four of her obsessions — no more agonizing over what to post, no more comparing, no more chasing "correct," no more needing every post to go viral: "posting feels easy for the first time." She also used an AI-generated video of "herself in a field" during the experiment (2026-10-14 FB video). Worth including precisely because she published a failed experiment.
 
 **112. 2,232 Facebook posts across 17 years, turned into a life profile in a day** 🟡 — Wendell (17muse.com founder). Downloaded all 2,232 of his 2009–2026 Facebook posts, sampled year by year for long-term change; Muse delivered a full life-profile report the same day (published 2026-10-15).
+**118. Personal-brand "media watchdog": "Marlowe" scans the web monthly for press coverage, drafts site updates, always asks before publishing** 🟡 — Colin Rocker (@careercolin, 240K IG followers). Named his Muse "Marlowe" and set a monthly scheduled task: scan the web for press coverage and viral posts about him, pull them back as website drafts — but never auto-publish; every post needs his OK. "It actually does the work, not just chats" (2026-10-15 IG reel, screen recording).
+**119. Saved reels become a "Content Ideas Dashboard": shootable ideas + word-for-word scripts + 8-page carousel blueprints** 🟡 — Farheen Ahmad (@farheen.ok, 120K IG followers, verified). Dumped her "Content Ideas" saved folder into Muse; it learned her "voice DNA" from past reels and parsed IG insights. Each saved reel became a shootable idea, a timed talking-head script, and an 8-page carousel outline, plus a "Hook Lab" for practicing hooks (2026-10-16 IG reel, screen recording).
 ---
 
 ## 🛠️ Dev · building
@@ -304,6 +309,7 @@ Auto-updated daily at 00:00 (Beijing time).
 
 ## 🗒️ Changelog
 
+- **2026-10-18**: 5 new cases added (real-user IG shares from Chinese daily digest issue 22, 2026-10-17, text-only: subscription audit 22→5 saving ~$100/mo, travel-site login handover with two VIP lounge bookings on autopilot, a skeptic's Gmail-only honest test, "Marlowe" monthly press-coverage scan plus site updates, saved reels turned into a Content Ideas Dashboard). Total: 119.
 - **2026-10-17**: 7 new cases added (real-user FB/IG shares from Chinese daily digest issue 21, 2026-10-16, text-only: On sneakers support haggling for the 40% code across 3 orders, $1,755.60 reimbursement receipt audit, creator's triple play with life-insurance renegotiation, insurance ad-copy refusal as a tested red-line map, 2,232 FB posts turned into a life profile, Muse-as-CEO delegating a landing page to Claude Code/Codex, assistant "Monae" turning NYC event saves into a daily-updated itinerary). Case 52 upgraded 🟡→✅ with the X original added. Total: 114.
 - **2026-10-16**: 11 new cases (8 real-user FB/IG shares from Chinese daily digest issue 20, 2026-10-15, text-only: Barcelona itinerary from IG saves, "Poppy" content-signal mining, 87-minute Asana workspace handoff, Tips Database, AGENTS.md iron rules, Charlee Atkins' -439 followers experiment, half of business tasks handed to Muse, college football recruiting emails; 3 X originals dug up via 17muse's global inspiration feed: DMV appointment + registration + inbox-to-calendar, overnight promo-email unsubscribe sweep, inbox + calendar trip planning). Cases 14/31/32/40/41 upgraded 🟡→✅ with X originals added. Total: 107.
 - **2026-10-15**: 4 new cases added (real-user shares from FB/IG/Threads cross-confirmed via the Chinese daily digest issue 19, 2026-10-14, text-only: NYC parking ticket paid in one chat $147.90, subscription-negotiation bandwagon ~$700/mo + $2,000/yr insurance switch, "Koda"'s 3 hidden tricks, assistant "Nova" dinner styling). Total: 96.

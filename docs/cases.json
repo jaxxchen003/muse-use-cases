@@ -1,7 +1,7 @@
 {
   "meta": {
-    "count": 114,
-    "updated": "2026-10-17",
+    "count": 119,
+    "updated": "2026-10-18",
     "invite": "4P14HY",
     "repo": "https://github.com/jaxxchen003/muse-use-cases",
     "title": "Muse 实战案例库",
@@ -1526,6 +1526,71 @@
       "re": "Saved posts became an actionable calendar",
       "d": "让 Muse 每天翻 NYC 活动收藏帖，整理出带日期的 \"Fall NYC Itinerary\"（含 Morgan Library 免费周五等）；选中活动加进日历、每天自动更新。",
       "de": "Muse digs through her saved NYC event posts daily and keeps a dated \"Fall NYC Itinerary\" (including free Fridays at the Morgan Library); picked events go into the calendar with daily auto-updates."
+    },
+    {
+      "t": "订阅审计 22 个砍到 5 个：月费 $149.11 → $58.73，月省约 $100",
+      "te": "Subscription audit: 22 cut to 5, monthly fees $149.11 → $58.73, ~$100/mo saved",
+      "c": "money",
+      "a": "@karol.ylt（西语创作者，IG 2.9K 粉）",
+      "ae": "@karol.ylt (Spanish creator, 2.9K IG followers)",
+      "x": null,
+      "b": "cross",
+      "r": "22 个 recurring charges 砍到只剩 5 个，月费 $149.11+ → $58.73+，月省约 $100",
+      "re": "22 recurring charges cut to 5, monthly fees $149.11+ → $58.73+, ~$100/mo saved",
+      "d": "让 Muse 翻出所有自动扣费，用 dashboard 展示“订阅前后对比”（2026-10-11 截图）；哪个值得留由她决定——留下的订阅里还包括 Claude Pro（$22.11/月）和 ChatGPT Plus（$20/月）（2026-10-16 reel）。",
+      "de": "Asked Muse to surface every recurring charge on a before/after dashboard (screenshot 2026-10-11); she decided what was worth keeping — keepers still included Claude Pro ($22.11/mo) and ChatGPT Plus ($20/mo) (2026-10-16 IG reel)."
+    },
+    {
+      "t": "旅行网站登录托管 Muse：两次 VIP 机场休息室一次搞定，卡住时停下来问航班号",
+      "te": "Handed Muse his travel-site login: two VIP airport lounge bookings on autopilot — it stopped to ask when unsure",
+      "c": "travel",
+      "a": "@marcianotech_（西语科技播客，IG 45 万粉）",
+      "ae": "@marcianotech_ (Spanish tech podcaster, 450K IG followers)",
+      "x": null,
+      "b": "cross",
+      "r": "两次 VIP 机场休息室一次搞定；卡住时主动停下求证航班号",
+      "re": "Two VIP airport lounge visits booked on autopilot; stopped to verify the flight number when unsure",
+      "d": "把 beforeboarding.com 的登录存进 Muse 的安全凭证库，规则只有一条——“看到票价就自动订，不用来问我”；用他的 Banreservas Infinite 会员订 VIP 机场休息室（2026-10-16 第一视角录屏）。",
+      "de": "Stored his beforeboarding.com login in Muse's secure credential vault with one rule: \"book whenever you see the fare, don't ask.\" Used his Banreservas Infinite membership to book VIP airport lounge visits (2026-10-16 first-person screen recording)."
+    },
+    {
+      "t": "怀疑论者的诚实实测：只连 Gmail，包裹/航班主动提醒，去东京没问就推了新宿寿司店",
+      "te": "A skeptic's honest test: Gmail only — proactive parcel/flight alerts, unasked Shinjuku sushi rec in Tokyo",
+      "c": "productivity",
+      "a": "@mustansar_mushraf（IG 710 粉）",
+      "ae": "@mustansar_mushraf (710 IG followers)",
+      "x": null,
+      "b": "cross",
+      "r": "包裹和航班主动提醒；去东京出差没问就收到新宿寿司店推荐；“只说一遍就记住”",
+      "re": "Proactive parcel and flight alerts; unasked Shinjuku sushi recommendation on a Tokyo trip; \"say it once and it remembers\"",
+      "d": "只连 Gmail 用了几天；自述一开始不信 Muse“能打电话、接客服、代办保险理赔”的宣传（2026-10-16 口播实测）。批评也实在：回复比别家慢半拍、语音消息限约 3 分钟。",
+      "de": "Connected only Gmail for days, having started skeptical of Muse's calling/concierge claims (2026-10-16 IG reel). Criticisms were honest too: slower replies, ~3-minute voice-message limit."
+    },
+    {
+      "t": "个人品牌“媒体监测员”：“Marlowe” 每月全网扫描媒体报道，网站自己更新、发布前请示",
+      "te": "Personal-brand \"media watchdog\": \"Marlowe\" scans the web monthly for press coverage, drafts site updates, always asks before publishing",
+      "c": "content",
+      "a": "Colin Rocker（@careercolin，IG 24 万粉）",
+      "ae": "Colin Rocker (@careercolin, 240K IG followers)",
+      "x": null,
+      "b": "cross",
+      "r": "每月自动扫描媒体报道；网站草稿自动更新，但从不自动发布，每次都要他点头",
+      "re": "Monthly automatic press-coverage scans; website drafts auto-updated, never auto-published — every post needs his OK",
+      "d": "给自己的 Muse 取名 “Marlowe”，设每月自动任务——全网扫描关于他的 press 报道和走红帖子，拉回个人网站草稿（2026-10-15 reel 录屏）。",
+      "de": "Named his Muse \"Marlowe\" and set a monthly scheduled task: scan the web for press coverage and viral posts about him, pull them back as website drafts (2026-10-15 IG reel, screen recording)."
+    },
+    {
+      "t": "收藏夹一键变“内容仪表盘”：可拍创意 + 逐字脚本 + 8 页 carousel 蓝图",
+      "te": "Saved reels become a \"Content Ideas Dashboard\": shootable ideas + word-for-word scripts + 8-page carousel blueprints",
+      "c": "content",
+      "a": "Farheen Ahmad（@farheen.ok，IG 12 万粉，认证）",
+      "ae": "Farheen Ahmad (@farheen.ok, 120K IG followers, verified)",
+      "x": null,
+      "b": "cross",
+      "r": "每条收藏变成可直接开拍的创意、带时间轴的口播脚本、8 页 carousel 大纲，附 “Hook Lab”",
+      "re": "Each saved reel becomes a shootable idea, a timed talking-head script, and an 8-page carousel outline, plus a \"Hook Lab\"",
+      "d": "把攒的 “Content Ideas” 收藏夹丢给 Muse；Muse 从她过往 reels 学“voice DNA”，还能解析 IG 数据洞察（2026-10-16 reel 录屏）。",
+      "de": "Dumped her \"Content Ideas\" saved folder into Muse; it learned her \"voice DNA\" from past reels and parsed IG insights (2026-10-16 IG reel, screen recording)."
     }
   ]
 }
