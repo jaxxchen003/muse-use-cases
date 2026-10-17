@@ -27,10 +27,10 @@ header.top .wrap{display:flex;align-items:center;gap:12px;padding:14px 20px;flex
 .lang-toggle{display:flex;background:#fff;border:1px solid var(--line);border-radius:999px;overflow:hidden}
 .lang-toggle button{background:none;border:none;color:var(--muted);padding:9px 16px;font-size:14px;cursor:pointer;font-weight:600}
 .lang-toggle button.on{background:var(--ink);color:#fff}
-.invite-pill{display:flex;align-items:center;gap:10px;background:var(--ink);color:#fff;
-  border-radius:999px;padding:9px 8px 9px 18px;font-weight:800;font-size:15px;cursor:pointer;border:none}
-.invite-pill code{font-family:ui-monospace,monospace;font-size:16px;background:rgba(255,255,255,.16);padding:4px 10px;border-radius:8px}
-.invite-pill .copy{background:#fff;color:var(--ink);border:none;border-radius:999px;padding:7px 14px;font-size:13px;cursor:pointer;font-weight:700}
+.gh-btn{display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--line);
+  border-radius:999px;padding:9px 18px;font-size:14px;font-weight:700;color:var(--ink);text-decoration:none;white-space:nowrap}
+.gh-btn:hover{border-color:var(--ink);box-shadow:0 4px 12px rgba(17,20,24,.08)}
+.gh-btn svg{flex:none}
 .tabs{display:flex;gap:10px;margin:22px 0 4px}
 .tabs button{background:#fff;border:1px solid var(--line);border-radius:999px;padding:10px 24px;
   font-size:15px;font-weight:700;cursor:pointer;color:var(--text)}
@@ -134,7 +134,7 @@ footer .wrap{display:flex;flex-direction:column;gap:10px}
     <div class="lang-toggle" role="group" aria-label="language">
       <button id="btnZh" class="on">中文</button><button id="btnEn">EN</button>
     </div>
-    <button class="invite-pill" id="inviteBtn" title="copy invite code"><span id="inviteLabel">🎁 邀请码</span> <code>4P14HY</code> <span class="copy" id="copyLabel">复制</span></button>
+    <a class="gh-btn" id="ghBtn" href="https://github.com/jaxxchen003/muse-use-cases" target="_blank" rel="noopener" title="GitHub"><svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg><span id="ghLabel"></span></a>
   </div>
 </header>
 
@@ -203,7 +203,7 @@ const STR = {
   zh: {
     logoSub: "只收录 X 真实分享 · 每日更新",
     searchPh: "搜索案例、作者、关键词…（如：车险、退货、AT&T）",
-    invite: "🎁 邀请码", copy: "复制", copied: "已复制 ✓",
+    ghStar: "⭐ GitHub 加星", copy: "复制", copied: "已复制 ✓",
     all: "全部", cases: "收录案例", cats: "分类", withX: "附 X 原帖直链", updated: "最后更新",
     badgeOk: "✅ X 原帖已核验", badgeCross: "🟡 X 分享已确认",
     viewX: "查看 X 原帖 ↗", empty: "没有找到匹配的案例，换个关键词试试 🔍",
@@ -228,7 +228,7 @@ const STR = {
   en: {
     logoSub: "X shares only · Updated daily",
     searchPh: "Search cases, authors, keywords… (e.g. insurance, refund, AT&T)",
-    invite: "🎁 Invite code", copy: "Copy", copied: "Copied ✓",
+    ghStar: "⭐ Star on GitHub", copy: "Copy", copied: "Copied ✓",
     all: "All", cases: "Cases", cats: "Categories", withX: "With X post link", updated: "Last updated",
     badgeOk: "✅ X post verified", badgeCross: "🟡 X share confirmed",
     viewX: "View X post ↗", empty: "No matching cases — try another keyword 🔍",
@@ -285,8 +285,7 @@ function applyLang(){
   $("#logoMain").textContent = lang === "zh" ? "💡 Muse 实战案例库" : "💡 Muse Use Cases";
   $("#logoSub").textContent = T().logoSub;
   $("#q").placeholder = T().searchPh;
-  $("#inviteLabel").textContent = T().invite;
-  $("#copyLabel").textContent = T().copy;
+  $("#ghLabel").textContent = T().ghStar;
   $("#disclaimer").textContent = T().disclaimer;
   $("#footLinks").innerHTML = T().foot;
   $("#tabCases").textContent = T().tabCases;
@@ -437,12 +436,6 @@ $("#tabInvite").addEventListener("click", () => switchView("invite"));
 $("#btnZh").addEventListener("click", () => { lang = "zh"; applyLang(); });
 $("#btnEn").addEventListener("click", () => { lang = "en"; applyLang(); });
 $("#q").addEventListener("input", render);
-$("#inviteBtn").addEventListener("click", () => {
-  navigator.clipboard.writeText("4P14HY").then(() => {
-    $("#copyLabel").textContent = T().copied;
-    setTimeout(() => $("#copyLabel").textContent = T().copy, 1500);
-  });
-});
 $("#heroInviteBtn").addEventListener("click", () => {
   navigator.clipboard.writeText("4P14HY").then(() => {
     $("#heroInviteText").textContent = T().heroCopied;
