@@ -106,6 +106,13 @@
 **115. Subscription audit: 22 cut to 5, monthly fees $149.11 → $58.73, ~$100/mo saved** 🟡 — @karol.ylt (Spanish creator, 2.9K IG followers). Asked Muse to surface every recurring charge, shown on a before/after dashboard (screenshot 2026-10-11); she decided what was worth keeping — the keepers still included Claude Pro ($22.11/mo) and ChatGPT Plus ($20/mo) (2026-10-16 IG reel).
 ---
 
+**120. Therapist invoices dug out of email → Aetna reimbursement in 20 minutes** ✅ — @natashaghoskins (founder). Muse found every therapist invoice in her email and submitted them to Aetna (https://x.com/natashaghoskins/status/2102821622893961727, 2026-09-23); 20 minutes to cross the deductible, reimbursements for the rest of the year.
+
+**121. A forgotten $200 Verizon gift card, claimed back by Muse** ✅ — @melon_thief. The $200 signup gift card he forgot to claim — Muse dug it out and redeemed it; "paid for itself for the next year or two" (https://x.com/melon_thief/status/2100461407334506919).
+
+**122. One move, all utilities transferred: power, gas + insurance** 🟡 — @stevenwhatevr (X, 2026-10-17). Had Muse transfer his Toronto Hydro power, Enbridge gas and insurance accounts for a move; confirmation emails from each arrived.
+
+
 ## ✈️ Travel
 
 **29. 7-hour delay → $250 Delta credit in 5 min** 🟡 — Ejaaz ([@cryptopunk7213](https://x.com/cryptopunk7213)). Muse filed the complaint, rebooked an alternative flight, replied to support emails. [Original post](https://x.com/cryptopunk7213/status/2102179999122153690) (2026-09-21).
@@ -138,6 +145,18 @@
 **116. Handed Muse his travel-site login: two VIP airport lounge bookings on autopilot — it stopped to ask when unsure** 🟡 — @marcianotech_ (Spanish tech podcaster, 450K IG followers). Stored his beforeboarding.com login in Muse's secure credential vault with one rule: "book whenever you see the fare, don't ask." Used his Banreservas Infinite membership to book two VIP airport lounge visits (Dec-03 departure, Dec-07 arrival, flights AA2265/AA1154). When the departure system stalled, it stopped and asked: "is the departure flight AA2099 or AA2265?" before continuing (2026-10-16 first-person screen recording).
 ---
 
+**123. 146 flight searches: 11 Spanish cities × 10 Italian cities × 7 dates** ✅ — @mehtadeep (Apple engineer). With a flexible schedule, had Muse run 146 price searches (cash + award) from SFO to 11 cities in Spain and back from 10 Italian cities across 7 dates, to find the cheapest round trip (https://x.com/mehtadeep/status/2099498596789850192).
+
+**124. Early flight: Uber vs airport parking compared, Groupon halved the parking** ✅ — @jaidharo. Told Muse about his morning flight; it compared Uber vs airport parking, bought a Groupon to halve parking, booked it in the browser, then told him when to leave (https://x.com/jaidharo/status/2098430453934174305).
+
+**125. Hotel site 5–10% cheaper than Expedia/Booking + free cancellation, plus a $50 credit** ✅ — @Goyal_Vivek (investor). Muse checked the hotel's own site against Expedia and Booking; direct booking was 5–10% cheaper with free cancellation, and it found a $50 hotel credit (https://x.com/Goyal_Vivek/status/2102824082370928806).
+
+**126. Whole NYC trip booked via Muse, Stripe Link checkout "10/10"** ✅ — @ryanvogel (founder). Booked a New York trip through Muse with the Stripe Link payment step; calls it a great experience and a 10/10 personal agent (https://x.com/ryanvogel/status/2099646623198441683).
+
+**149. Japan trip transport settled in one day: rental car nearly half price** 🟡 — 暢哥 / Agent W (17muse.com webmaster, 2026-10-17 site log). Muse researched and ranked transport options, the human only placed the final orders: rental car at member price ¥59,994 + CDW ¥9,900 + NOC ¥4,950 = ¥74,844 tax-in (he had found ¥107,250 himself); N'EX vs Skyliner picked by fewest transfers; a 10-26 reminder set for return tickets.
+
+
+
 ## 🛒 Shopping
 
 **39. Photo → Marketplace listing (pricing + copy in one shot)** — 于為暢 (Wei Chang Yu).
@@ -150,7 +169,7 @@
 
 **43. 5 listings drafted in 1 minute** — @fadziefa (creator). One product photo → pricing + 5 listings; buyer-mode demo found used road bikes in seconds.
 
-**44. Amazon / IKEA returns handled** 🟡 — @armand_ruiz. Customer service + pickup scheduling, no babysitting.
+**44. Amazon / IKEA returns handled** ✅ — @armand_ruiz. IKEA return handled end to end — customer service, pickup scheduling; the collector arrived at his door and he'd genuinely forgotten he'd even asked (https://x.com/armand_ruiz/status/2099600973694197878, 2026-09-14). The same author also posted an Amazon $239 return + $516 dog-vet insurance claim (see #15).
 
 **45. eBay deal-hunting turned into auto-digests** — vintage electronics collector. From 30 min/night manual browsing to twice-daily filtered deal lists.
 
@@ -162,6 +181,22 @@
 
 **108. Haggled with On support "daily" until the 40% code came back — three orders placed** 🟡 — Eric Siu (@ericosiu, IG creator, 120K followers, verified). A 40% discount code ($198 off) order got cancelled and the merchant would only honor 20%; Muse took over daily customer-service negotiations, name-dropping his follower count — recovered the original 40% code and dug up two extra 20% codes ($98 off, $44 off), placed across three orders (2026-10-15 reel). Three orders saved ~$340 total — "agentic shopping 101."
 ---
+
+**127. Garage freezer: spec-matched price hunt, order, delivery tracking, warranty filed** ✅ — @v01dp1r4t3. Muse shopped for a garage freezer to his required specs, got the best price, ordered it, tracked delivery, then filled out and submitted the warranty registration while he watched each step (https://x.com/v01dp1r4t3/status/2099210555303076147).
+
+**128. Cake from a Seoul indie IG shop: no Korean, Kakao payment wrestled through** ✅ — @Slokh. Bought his wife a cake from an independent Instagram shop she likes; he doesn't speak Korean well, and paying as a foreigner was the hard part — Muse shuttled between him and Kakao until an acceptable payment went through (https://x.com/Slokh/status/2101358968983769500).
+
+**129. "AGI moment": wife didn't trust the agent with cake — both picked the same one** ✅ — @BryceDelRio. His wife wanted chocolate cake but didn't trust the agent to choose; she picked one herself while his Muse hunted for the best — they chose the same cake, and Muse ordered it (https://x.com/BryceDelRio/status/2099321124400029837).
+
+**130. Marketplace selling gone wrong: the address-leak incident, first-hand** ✅ — @MattRobbt. Let Muse run a Facebook Marketplace sale; chose "Allow Always" at the first permission prompt expecting it to still ask before accepting offers — it didn't. He has since gone through the logs with the Muse team (the incident behind case #77's "safety checklist") (https://x.com/MattRobbt/status/2104798102037074212).
+
+**131. Fridge filters nearly ordered at $150 — his own search found $20** 🟡 — @sagupta_nyc (Recharm co-founder, X, 2026-10-17). Muse was about to place a $150 order for two fridge air filters; his own search found equivalents for $20 and he stopped it — about $130 not overspent. A rare "caught the agent overpaying" sample.
+
+**144. One voice command while driving: Tesla Y dashcam researched, compared and ordered** 🟡 — Tracy Niu (@tracyniurealestategroup, IG realtor, 10-16 reel). Voiced the need while driving; Muse independently searched the web, compared dashcam models/features/prices and explained the differences; at checkout she only gave her name and address while Muse walked through payment by voice up to the verification step.
+
+**148. A drama screenshot becomes the exact vest: Oguri Shun's Fair Isle, priced across countries** 🟡 — 暢哥 / Agent W (17muse.com webmaster, 2026-10-18 site log). Screenshot from Netflix → cropped out distractions → reverse image + Google Lens locked onto the Polo Ralph Lauren Fair Isle vest → checked stock by country (Japan sold out, Canada short) → Farfetch Canada had it at CA$1,893, plus Japan alternatives (BRITISH MADE ¥14,300, Rakuten Nordic style ¥6,808).
+
+
 
 ## ⚡ Productivity · automation
 
@@ -224,6 +259,22 @@
 **117. A skeptic's honest test: Gmail only — proactive parcel/flight alerts, unasked Shinjuku sushi rec in Tokyo** 🟡 — @mustansar_mushraf (710 IG followers). Connected only Gmail, having started skeptical of Muse's calling/concierge claims. Days later: parcels and flights were proactively flagged; on a Tokyo trip, a Shinjuku sushi restaurant recommendation arrived unasked — "say it once and it remembers." Criticisms were honest too: slower replies, ~3-minute voice-message limit (2026-10-16 IG reel).
 ---
 
+**132. 83 missing K-1s: email archaeology, forwards to the accountant, senders chased** ✅ — @justinmateen. Was missing 83 K-1s a few hours earlier; Muse searched his email to find which were genuinely missing, forwarded the ones sitting unread to his accountant, then tracked down whoever sent each remaining one (https://x.com/justinmateen/status/2097551829706117137).
+
+**133. Shopify engineering lead's agent roster: Muse reads every parents' WhatsApp group daily** ✅ — @fnthawar (Shopify head of engineering). Three agents with standing crons; Muse's job: a daily read of all parents' WhatsApp groups for the kids' schools plus all email, sent as a daily summary and forwarded to his wife (https://x.com/fnthawar/status/2101684383396589932).
+
+**134. A daily Muse feed briefing: X timeline, deploy status, meetings, news** ✅ — @AlexKlarfeld (founder). Hooked up everything he uses; the Muse feed now gives him a daily report of his X timeline, feature deployment status, meetings and news (https://x.com/AlexKlarfeld/status/2100949455008895484).
+
+**135. Father of six: 4 kids, 4 sports, 4 apps — Muse sends the family's daily schedule** ✅ — @toallmychildren. Four kids in four sports across four messaging apps; Muse monitors the schedules and sends a daily push notification laying out everyone's day — "not tech savvy at all, super easy to set up and free" (https://x.com/toallmychildren/status/2098233322858049788).
+
+**136. Severe illness, no energy for admin — Muse drafted and sent 3 complex medical emails** ✅ — @MartinMoltke. Living with a severe acquired mitochondrial disease that leaves him without energy; Muse drafted and sent three detailed emails about a complex medical matter he couldn't assemble himself (https://x.com/MartinMoltke/status/2099798458622177706).
+
+**137. "Chief of staff" mode: inbox triage, kids' job leads, tennis-ticket watch** ✅ — @avasi01. Uses Muse as a chief of staff: daily inbox triage surfacing what matters, watching for job-opportunity messages for his kids, tracking tennis ticket on-sale times, and finding forgotten subscriptions (https://x.com/avasi01/status/2098466243674026316; surfaced via 17muse on 2026-10-16).
+
+**147. Resumes sent automatically at 9am daily: job hunting while asleep** 🟡 — Vani (@pages_by_vani, IG, 10-16 "Job portals" episode 3). Uploaded her resume to Muse as a daily 9am scheduled task: it opens Robert Half/Kforce/Insight Global job boards, filters postings by criteria and applies automatically.
+
+
+
 ## 🎨 Content · creation
 
 **59. Daily 8am AI-news podcast** — 于為暢 (Wei Chang Yu).
@@ -251,6 +302,9 @@
 **119. Saved reels become a "Content Ideas Dashboard": shootable ideas + word-for-word scripts + 8-page carousel blueprints** 🟡 — Farheen Ahmad (@farheen.ok, 120K IG followers, verified). Dumped her "Content Ideas" saved folder into Muse; it learned her "voice DNA" from past reels and parsed IG insights. Each saved reel became a shootable idea, a timed talking-head script, and an 8-page carousel outline, plus a "Hook Lab" for practicing hooks (2026-10-16 IG reel, screen recording).
 ---
 
+**138. Four prompt iterations to a finished animation** 🟡 — @seanfgates (X, 2026-10-18). Had Muse make an animation, iterating with simple prompts four times; the post includes the finished video.
+
+
 ## 🛠️ Dev · building
 
 **66. 17muse.com itself — a case-feed site built in one night** — 于為暢 (Wei Chang Yu). Traditional-Chinese case feed with like-leaderboard and moderated submissions.
@@ -264,6 +318,11 @@
 **113. Landing page build: Muse as CEO, delegating to Claude Code and Codex** 🟡 — Wendell (17muse.com founder). One instruction to Muse (W); W as CEO decided whether to dispatch Claude Code or Codex — poor work got sent back, W reviewed and tested before human acceptance; v1 (Claude Code) was too plain, v2 (Codex) shipped as a black-and-gold editorial design, with W verifying copy/pricing/CTAs item by item via script (published 2026-10-14).
 
 ---
+
+**139. Things has no official API — Muse built the sync in a minute or two** ✅ — @holman (developer). Keeps all to-dos in Things, which has no official API; told Muse to build the sync, and a minute or two later his agent's to-dos were syncing across all his Apple devices (https://x.com/holman/status/2099588794689437736).
+
+**140. A swipe-through Instagram unfollow UI in 2 minutes** ✅ — @thatguybg. Built himself a Tinder-style interface for unfollowing people on Instagram in about two minutes, crediting Muse's native Instagram access rather than the model (https://x.com/thatguybg/status/2097454629839663173).
+
 
 ## 💼 Business · consumer rights
 
@@ -292,6 +351,18 @@
 **111. Muse refused to write insurance ad copy: the first tested "red-line map"** 🟡 — Ryan Reyes (FB/IG; the "Marketplace safety checklist" author from issue 17). Asked Muse to write insurance ad copy and got a firm refusal (financial-services ad creative is a hard rule); it then built the campaign structure, targeting and budget, and pulled competitor ads from Meta Ad Library for reference (2026-10-15 post).
 ---
 
+**141. Investment assistant "Alfred": X topic watch, podcast transcripts, daily news** ✅ — @SouthernValue95 (investor). Named his Muse agent Alfred with five standing jobs: monitor and summarize X activity on investing topics and tickers he follows, transcribe and summarize podcasts, run a daily news check on the names he covers (https://x.com/SouthernValue95/status/2098391130765246613).
+
+**142. Trade confirmations benchmarked against SPY, alpha plotted on a dashboard** ✅ — @borrowed_ideas (equity analyst). Had Muse read his trade confirmation emails, benchmark every buy and sell against the S&P 500 from the day of the trade, and plot the notional-weighted alpha over time (https://x.com/borrowed_ideas/status/2098172087550808218).
+
+**143. IG follower export test: it even agreed to export each follower's followers** ✅ — @adamludwin. Had Muse export all his Instagram followers; more surprisingly, it agreed to export each of his followers' followers — "guessing this gets patched soon". A first field test of where the agent's data-export lines are (https://x.com/adamludwin/status/2097563532841857472).
+
+**145. A small business "AI operating system": morning brief + Canva edits + proactive nudges** 🟡 — Cercie (@mellow.circe, IG, 10-17 video). Connected Instagram to organize saves/pull insights/draft posts; a free 7am morning audio briefing (calendar + AI news); new connectors to edit designs directly in Canva; the "Ideas" tab proactively suggests next steps from chat history.
+
+**146. Muse renamed "Rio": one-person finance + admin, all covered** 🟡 — Jenna Smith (@jenna_stufflebeam, Threads, 10-16). Designed price-tag labels, filed documents into tax folders, computed Amazon sourcing totals and ROI, managed email scheduling, sent payment reminders, found and cancelled duplicate subscriptions.
+
+
+
 ## 🤝 Contribute
 
 1. **Share your use case**: open an Issue with the "Share a use case" template — **X shares only**, include the X post link; added after verification (the daily auto-update processes them too)
@@ -309,6 +380,7 @@ Auto-updated daily at 00:00 (Beijing time).
 
 ## 🗒️ Changelog
 
+- **2026-10-19**: 30 new cases added (21 real-user X shares with direct links dug out of messagingagents' HTML: 20-minute Aetna reimbursement over the deductible, a forgotten $200 Verizon gift card claimed back, a 146-search flight price sweep, a garage-freezer buy from spec to warranty filing, a Seoul IG cake shop purchase across language barriers, the first-hand Marketplace address-leak post, 83 missing K-1s tracked down, a Shopify engineering lead's WhatsApp daily digest, a father-of-six's daily family schedule push, 3 medical emails drafted for a severely ill user, an "Alfred" investment assistant, a trade-alpha dashboard, etc.; 3 X shares from howtousemuse.com's new entries in text form: moving-day utility transfers, a 4-iteration animation, a $150-vs-$20 fridge-filter save; 1 X original via 17muse's 10-16 global feed: "chief of staff" inbox mode). plus 4 real-user shares from cwybruce daily digest issue 23 (voice-ordered Tesla Y dashcam, a small-business AI OS, "Rio" the one-person finance/admin, 9am daily auto job applications) and 2 in-site field tests from the 17muse webmaster (drama-screenshot vest hunt, Japan trip transport at nearly half price). Case 44 upgraded 🟡→✅ with the X original. Total: 149.
 - **2026-10-18**: 5 new cases added (real-user IG shares from Chinese daily digest issue 22, 2026-10-17, text-only: subscription audit 22→5 saving ~$100/mo, travel-site login handover with two VIP lounge bookings on autopilot, a skeptic's Gmail-only honest test, "Marlowe" monthly press-coverage scan plus site updates, saved reels turned into a Content Ideas Dashboard). Total: 119.
 - **2026-10-17**: 7 new cases added (real-user FB/IG shares from Chinese daily digest issue 21, 2026-10-16, text-only: On sneakers support haggling for the 40% code across 3 orders, $1,755.60 reimbursement receipt audit, creator's triple play with life-insurance renegotiation, insurance ad-copy refusal as a tested red-line map, 2,232 FB posts turned into a life profile, Muse-as-CEO delegating a landing page to Claude Code/Codex, assistant "Monae" turning NYC event saves into a daily-updated itinerary). Case 52 upgraded 🟡→✅ with the X original added. Total: 114.
 - **2026-10-16**: 11 new cases (8 real-user FB/IG shares from Chinese daily digest issue 20, 2026-10-15, text-only: Barcelona itinerary from IG saves, "Poppy" content-signal mining, 87-minute Asana workspace handoff, Tips Database, AGENTS.md iron rules, Charlee Atkins' -439 followers experiment, half of business tasks handed to Muse, college football recruiting emails; 3 X originals dug up via 17muse's global inspiration feed: DMV appointment + registration + inbox-to-calendar, overnight promo-email unsubscribe sweep, inbox + calendar trip planning). Cases 14/31/32/40/41 upgraded 🟡→✅ with X originals added. Total: 107.
