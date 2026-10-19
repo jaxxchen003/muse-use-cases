@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **119 cases** ｜ 🕐 **Last updated: 2026-10-18** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **151 cases** ｜ 🕐 **Last updated: 2026-10-20** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,13 +30,13 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (33)
-- ✈️ [Travel](#️-travel) (15)
-- 🛒 [Shopping](#-shopping) (11)
-- ⚡ [Productivity · automation](#-productivity--automation) (30)
-- 🎨 [Content · creation](#-content--creation) (13)
-- 🛠️ [Dev · building](#️-dev--building) (5)
-- 💼 [Business · consumer rights](#-business--consumer-rights) (12)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (36)
+- ✈️ [Travel](#️-travel) (20)
+- 🛒 [Shopping](#-shopping) (19)
+- ⚡ [Productivity · automation](#-productivity--automation) (38)
+- 🎨 [Content · creation](#-content--creation) (14)
+- 🛠️ [Dev · building](#️-dev--building) (7)
+- 💼 [Business · consumer rights](#-business--consumer-rights) (17)
 
 ---
 
@@ -197,6 +197,8 @@
 **148. A drama screenshot becomes the exact vest: Oguri Shun's Fair Isle, priced across countries** 🟡 — 暢哥 / Agent W (17muse.com webmaster, 2026-10-18 site log). Screenshot from Netflix → cropped out distractions → reverse image + Google Lens locked onto the Polo Ralph Lauren Fair Isle vest → checked stock by country (Japan sold out, Canada short) → Farfetch Canada had it at CA$1,893, plus Japan alternatives (BRITISH MADE ¥14,300, Rakuten Nordic style ¥6,808).
 
 
+**151. "Charlie" as a DIY maker's procurement agent: OLED screen + ESP32 + LiPo battery sourced and ordered** 🟡 — A DIY creator (Facebook, 10-18 reel). Building a pink bag charm with a built-in time/weather display, she renamed her Muse "Charlie" and had it source a small OLED screen, ESP32 dev board and LiPo battery, compare options and place orders — while she handled breadboard prototyping, soldering and iterating the 3D-printed case. The charm was assembled successfully.
+
 
 ## ⚡ Productivity · automation
 
@@ -273,6 +275,8 @@
 
 **147. Resumes sent automatically at 9am daily: job hunting while asleep** 🟡 — Vani (@pages_by_vani, IG, 10-16 "Job portals" episode 3). Uploaded her resume to Muse as a daily 9am scheduled task: it opens Robert Half/Kforce/Insight Global job boards, filters postings by criteria and applies automatically.
 
+
+**150. Blind creator's fully managed Muse: 15,000 emails + calendar + video editing** 🟡 — Kevin Moore (@kev_the_blind_pirate, IG creator, 10-18 reel). Named his Muse "Super Intelligent SI" and has used it for over a month: it cleared 15,000+ emails from his inbox, manages his calendar and reminders, and helps edit videos, make thumbnails, and write titles and descriptions — calls it an "indispensable support" for his digital life.
 
 
 ## 🎨 Content · creation
@@ -380,6 +384,7 @@ Auto-updated daily at 00:00 (Beijing time).
 
 ## 🗒️ Changelog
 
+- **2026-10-20**: 2 new cases added (real-user IG/FB shares from cwybruce Chinese daily digest issue 24, 2026-10-19, text-only: blind creator @kev_the_blind_pirate's fully managed Muse — 15,000 emails cleared + calendar + video editing, and "Charlie" sourcing OLED screen/ESP32/LiPo battery for a DIY maker's bag charm). Total: 151.
 - **2026-10-19**: 30 new cases added (21 real-user X shares with direct links dug out of messagingagents' HTML: 20-minute Aetna reimbursement over the deductible, a forgotten $200 Verizon gift card claimed back, a 146-search flight price sweep, a garage-freezer buy from spec to warranty filing, a Seoul IG cake shop purchase across language barriers, the first-hand Marketplace address-leak post, 83 missing K-1s tracked down, a Shopify engineering lead's WhatsApp daily digest, a father-of-six's daily family schedule push, 3 medical emails drafted for a severely ill user, an "Alfred" investment assistant, a trade-alpha dashboard, etc.; 3 X shares from howtousemuse.com's new entries in text form: moving-day utility transfers, a 4-iteration animation, a $150-vs-$20 fridge-filter save; 1 X original via 17muse's 10-16 global feed: "chief of staff" inbox mode). plus 4 real-user shares from cwybruce daily digest issue 23 (voice-ordered Tesla Y dashcam, a small-business AI OS, "Rio" the one-person finance/admin, 9am daily auto job applications) and 2 in-site field tests from the 17muse webmaster (drama-screenshot vest hunt, Japan trip transport at nearly half price). Case 44 upgraded 🟡→✅ with the X original. Total: 149.
 - **2026-10-18**: 5 new cases added (real-user IG shares from Chinese daily digest issue 22, 2026-10-17, text-only: subscription audit 22→5 saving ~$100/mo, travel-site login handover with two VIP lounge bookings on autopilot, a skeptic's Gmail-only honest test, "Marlowe" monthly press-coverage scan plus site updates, saved reels turned into a Content Ideas Dashboard). Total: 119.
 - **2026-10-17**: 7 new cases added (real-user FB/IG shares from Chinese daily digest issue 21, 2026-10-16, text-only: On sneakers support haggling for the 40% code across 3 orders, $1,755.60 reimbursement receipt audit, creator's triple play with life-insurance renegotiation, insurance ad-copy refusal as a tested red-line map, 2,232 FB posts turned into a life profile, Muse-as-CEO delegating a landing page to Claude Code/Codex, assistant "Monae" turning NYC event saves into a daily-updated itinerary). Case 52 upgraded 🟡→✅ with the X original added. Total: 114.
