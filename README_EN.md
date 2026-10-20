@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **151 cases** ｜ 🕐 **Last updated: 2026-10-20** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **157 cases** ｜ 🕐 **Last updated: 2026-10-21** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,11 +30,11 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (36)
-- ✈️ [Travel](#️-travel) (20)
-- 🛒 [Shopping](#-shopping) (19)
-- ⚡ [Productivity · automation](#-productivity--automation) (38)
-- 🎨 [Content · creation](#-content--creation) (14)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (38)
+- ✈️ [Travel](#️-travel) (21)
+- 🛒 [Shopping](#-shopping) (20)
+- ⚡ [Productivity · automation](#-productivity--automation) (39)
+- 🎨 [Content · creation](#-content--creation) (15)
 - 🛠️ [Dev · building](#️-dev--building) (7)
 - 💼 [Business · consumer rights](#-business--consumer-rights) (17)
 
@@ -110,7 +110,11 @@
 
 **121. A forgotten $200 Verizon gift card, claimed back by Muse** ✅ — @melon_thief. The $200 signup gift card he forgot to claim — Muse dug it out and redeemed it; "paid for itself for the next year or two" (https://x.com/melon_thief/status/2100461407334506919).
 
-**122. One move, all utilities transferred: power, gas + insurance** 🟡 — @stevenwhatevr (X, 2026-10-17). Had Muse transfer his Toronto Hydro power, Enbridge gas and insurance accounts for a move; confirmation emails from each arrived.
+**122. One move, all utilities transferred: power, gas + insurance** ✅ — @stevenwhatevr (X, 2026-10-17). Had Muse transfer his Toronto Hydro power, Enbridge gas and insurance accounts for a move; confirmation emails from each arrived ([Original post](https://x.com/stevenwhatevr/status/2111508387452047545)).
+
+**155. Double taxation caught, $1,860 saved** ✅ — @at_url (X, 2026-10-16). Had Muse review his tax documents; it found he was being double-taxed. The $1,860 figure is the author's own claim; document details weren't disclosed ([Original post](https://x.com/at_url/status/2111207662079947113)).
+
+**156. $350 tailor bill reimbursed after a week of follow-ups** ✅ — @saleskhalifa (Khalifa, X, 2026-10-16). His wedding suit needed tailoring but the shop's tailors were out sick, so he paid $350 to rush it elsewhere. He had his Muse ("Goob") ask the original shop for reimbursement and follow up for a week — the money came back ([Original post](https://x.com/saleskhalifa/status/2110888090596261905)).
 
 
 ## ✈️ Travel
@@ -155,6 +159,8 @@
 
 **149. Japan trip transport settled in one day: rental car nearly half price** 🟡 — 暢哥 / Agent W (17muse.com webmaster, 2026-10-17 site log). Muse researched and ranked transport options, the human only placed the final orders: rental car at member price ¥59,994 + CDW ¥9,900 + NOC ¥4,950 = ¥74,844 tax-in (he had found ¥107,250 himself); N'EX vs Skyliner picked by fewest transfers; a 10-26 reminder set for return tickets.
 
+**153. Honeymoon booking emails turned into one master itinerary doc** ✅ — @matthew_verni (Matt Verni, X, 2026-10-19). Fed booking confirmation emails to Muse; it extracted every stay and flight, linked each with the original email and reservation number, and generated a single master doc ([Original post](https://x.com/matthew_verni/status/2112120235016716442)).
+
 
 
 ## 🛒 Shopping
@@ -190,7 +196,7 @@
 
 **130. Marketplace selling gone wrong: the address-leak incident, first-hand** ✅ — @MattRobbt. Let Muse run a Facebook Marketplace sale; chose "Allow Always" at the first permission prompt expecting it to still ask before accepting offers — it didn't. He has since gone through the logs with the Muse team (the incident behind case #77's "safety checklist") (https://x.com/MattRobbt/status/2104798102037074212).
 
-**131. Fridge filters nearly ordered at $150 — his own search found $20** 🟡 — @sagupta_nyc (Recharm co-founder, X, 2026-10-17). Muse was about to place a $150 order for two fridge air filters; his own search found equivalents for $20 and he stopped it — about $130 not overspent. A rare "caught the agent overpaying" sample.
+**131. Fridge filters nearly ordered at $150 — his own search found $20** ✅ — @sagupta_nyc (Recharm co-founder, X, 2026-10-17). Muse was about to place a $150 order for two fridge air filters; his own search found equivalents for $20 and he stopped it — about $130 not overspent. A rare "caught the agent overpaying" sample ([Original post](https://x.com/sagupta_nyc/status/2111470786275897493)).
 
 **144. One voice command while driving: Tesla Y dashcam researched, compared and ordered** 🟡 — Tracy Niu (@tracyniurealestategroup, IG realtor, 10-16 reel). Voiced the need while driving; Muse independently searched the web, compared dashcam models/features/prices and explained the differences; at checkout she only gave her name and address while Muse walked through payment by voice up to the verification step.
 
@@ -198,6 +204,8 @@
 
 
 **151. "Charlie" as a DIY maker's procurement agent: OLED screen + ESP32 + LiPo battery sourced and ordered** 🟡 — A DIY creator (Facebook, 10-18 reel). Building a pink bag charm with a built-in time/weather display, she renamed her Muse "Charlie" and had it source a small OLED screen, ESP32 dev board and LiPo battery, compare options and place orders — while she handled breadboard prototyping, soldering and iterating the 3D-printed case. The charm was assembled successfully.
+
+**152. Climbing shoes from an Italian site: $50 saved after shipping + import tax, delivered in 6 days** ✅ — @andriybuday (Andriy Buday, X, 2026-10-19). Only told Muse what he needed; it found an Italian discount site on its own, did the math on shipping + US import tax and still beat every US retail price. He never saw the site or typed his details — confirmed once after full research; shoes arrived in 6 days ([Original post](https://x.com/andriybuday/status/2112001194847879438)).
 
 
 ## ⚡ Productivity · automation
@@ -278,6 +286,8 @@
 
 **150. Blind creator's fully managed Muse: 15,000 emails + calendar + video editing** 🟡 — Kevin Moore (@kev_the_blind_pirate, IG creator, 10-18 reel). Named his Muse "Super Intelligent SI" and has used it for over a month: it cleared 15,000+ emails from his inbox, manages his calendar and reminders, and helps edit videos, make thumbnails, and write titles and descriptions — calls it an "indispensable support" for his digital life.
 
+**157. Recovered a song name after IG/Spotify removed the track** ✅ — @AlfonAmayuelas (Alfonso Amayuelas, X, 2026-10-15). A song attached to an old video was removed from Instagram and Spotify and he'd forgotten its name; Muse found it — screenshot attached ([Original post](https://x.com/AlfonAmayuelas/status/2110530394055647375)).
+
 
 ## 🎨 Content · creation
 
@@ -306,7 +316,9 @@
 **119. Saved reels become a "Content Ideas Dashboard": shootable ideas + word-for-word scripts + 8-page carousel blueprints** 🟡 — Farheen Ahmad (@farheen.ok, 120K IG followers, verified). Dumped her "Content Ideas" saved folder into Muse; it learned her "voice DNA" from past reels and parsed IG insights. Each saved reel became a shootable idea, a timed talking-head script, and an 8-page carousel outline, plus a "Hook Lab" for practicing hooks (2026-10-16 IG reel, screen recording).
 ---
 
-**138. Four prompt iterations to a finished animation** 🟡 — @seanfgates (X, 2026-10-18). Had Muse make an animation, iterating with simple prompts four times; the post includes the finished video.
+**138. Four prompt iterations to a finished animation** ✅ — @seanfgates (X, 2026-10-18). Had Muse make an animation, iterating with simple prompts four times; the post includes the finished video ([Original post](https://x.com/seanfgates/status/2111627201816736240)).
+
+**154. Three raw clips edited into a church auction promo video** ✅ — @vibgyj (Vibgy Joseph, X, 2026-10-16). Recorded 3 clips for a church silent-auction gift basket and asked Muse to edit them, add music and vary the speed; the finished video is posted ([Original post](https://x.com/vibgyj/status/2111181542827397380)).
 
 
 ## 🛠️ Dev · building
@@ -384,6 +396,7 @@ Auto-updated daily at 00:00 (Beijing time).
 
 ## 🗒️ Changelog
 
+- **2026-10-21**: 6 new cases added (a newly adopted standing source, howtousemuse.com, cross-verified on X: climbing shoes ordered from an Italian site — Muse did the shipping + import-tax math and still saved $50, delivered in 6 days; honeymoon booking emails turned into one master itinerary doc with email links and reservation numbers; 3 raw clips edited into a church auction promo video; double taxation caught, $1,860 saved; a $350 tailor bill reimbursed after a week of follow-ups; a song name recovered after IG/Spotify removed the track). Cases 138, 122 and 131 upgraded 🟡→✅ with X originals added. Total: 157.
 - **2026-10-20**: 2 new cases added (real-user IG/FB shares from cwybruce Chinese daily digest issue 24, 2026-10-19, text-only: blind creator @kev_the_blind_pirate's fully managed Muse — 15,000 emails cleared + calendar + video editing, and "Charlie" sourcing OLED screen/ESP32/LiPo battery for a DIY maker's bag charm). Total: 151.
 - **2026-10-19**: 30 new cases added (21 real-user X shares with direct links dug out of messagingagents' HTML: 20-minute Aetna reimbursement over the deductible, a forgotten $200 Verizon gift card claimed back, a 146-search flight price sweep, a garage-freezer buy from spec to warranty filing, a Seoul IG cake shop purchase across language barriers, the first-hand Marketplace address-leak post, 83 missing K-1s tracked down, a Shopify engineering lead's WhatsApp daily digest, a father-of-six's daily family schedule push, 3 medical emails drafted for a severely ill user, an "Alfred" investment assistant, a trade-alpha dashboard, etc.; 3 X shares from howtousemuse.com's new entries in text form: moving-day utility transfers, a 4-iteration animation, a $150-vs-$20 fridge-filter save; 1 X original via 17muse's 10-16 global feed: "chief of staff" inbox mode). plus 4 real-user shares from cwybruce daily digest issue 23 (voice-ordered Tesla Y dashcam, a small-business AI OS, "Rio" the one-person finance/admin, 9am daily auto job applications) and 2 in-site field tests from the 17muse webmaster (drama-screenshot vest hunt, Japan trip transport at nearly half price). Case 44 upgraded 🟡→✅ with the X original. Total: 149.
 - **2026-10-18**: 5 new cases added (real-user IG shares from Chinese daily digest issue 22, 2026-10-17, text-only: subscription audit 22→5 saving ~$100/mo, travel-site login handover with two VIP lounge bookings on autopilot, a skeptic's Gmail-only honest test, "Marlowe" monthly press-coverage scan plus site updates, saved reels turned into a Content Ideas Dashboard). Total: 119.
