@@ -1,7 +1,7 @@
 {
  "meta": {
-  "count": 157,
-  "updated": "2026-10-21",
+  "count": 160,
+  "updated": "2026-10-22",
   "invite": "4P14HY",
   "repo": "https://github.com/jaxxchen003/muse-use-cases",
   "title": "Muse 实战案例库",
@@ -2085,6 +2085,45 @@
    "re": "Song name recovered, screenshot attached",
    "d": "旧视频附的歌从 IG/Spotify 下架后想不起歌名，让 Muse 找回来",
    "de": "A song attached to an old video was removed from Instagram and Spotify and he'd forgotten its name; Muse found it."
+  },
+  {
+   "t": "巴黎酒店接机被收 €30 等待费，Muse 查政策写邮件全额索回",
+   "te": "€30 Paris hotel-pickup waiting fee refunded in full",
+   "c": "money",
+   "a": "Sandman（@HH002_Dream，X）",
+   "ae": "@HH002_Dream (Sandman, X)",
+   "x": "https://x.com/HH002_Dream/status/2112453085163647473",
+   "b": "ok",
+   "r": "€30 等待费全额退款到账",
+   "re": "Full €30 waiting-fee refund received",
+   "d": "巴黎酒店接机被收 €30 等待费；Muse 查了接机公司的等待费政策、起草交涉邮件，直接跟公司交涉",
+   "de": "Charged a €30 waiting fee on a Paris hotel pickup; Muse reviewed the pickup company's waiting-time policy, drafted the dispute email and took it up with the company directly"
+  },
+  {
+   "t": "人不在家，手机一句话让 Muse 经 SSH/Tailscale 给家里笔记本装上 bot",
+   "te": "Remote bot install on a home laptop via SSH/Tailscale — phone only",
+   "c": "dev",
+   "a": "Dave the Bot-Despot（@OrbitalDesk，X）",
+   "ae": "@OrbitalDesk (Dave the Bot-Despot, X)",
+   "x": "https://x.com/OrbitalDesk/status/2112609284387488045",
+   "b": "ok",
+   "r": "远程装机一次成功，手机上直接跟新 bot\"Dumpling\"聊上",
+   "re": "Remote install succeeded on the first try; chatted with the new bot \"Dumpling\" from the phone",
+   "d": "人不在家、全程只用手机；让 Muse 经 SSH（走 Tailscale）连回家里的笔记本，装上 Mausbot 并把手机端配置信息拿回来",
+   "de": "Away from home with only his phone; had Muse SSH (over Tailscale) into his home laptop, install Mausbot and hand back the phone-app setup info"
+  },
+  {
+   "t": "每小时扫描 HN/Techmeme/高信号 X 账号的新闻 digest artifact",
+   "te": "Hourly news-digest artifact scanning HN, Techmeme and high-signal X accounts",
+   "c": "productivity",
+   "a": "Simon Smith（@_simonsmith，X）",
+   "ae": "@_simonsmith (Simon Smith, X)",
+   "x": "https://x.com/_simonsmith/status/2112668788445335993",
+   "b": "ok",
+   "r": "\"So far, it works really well\"——每小时出短名单、写摘要",
+   "re": "\"So far, it works really well\" — hourly shortlist with summaries",
+   "d": "嫌 Muse 自带 feed 太稀（约 2 小时才一条）；让 Muse 搭了个新闻 artifact，每小时扫描 Hacker News、Techmeme 和高信号 X 账号，按纳入/预警标准过滤，紧急的直接告警，全部存库可搜索",
+   "de": "Found Muse's built-in feed too sparse (about one item every two hours); had Muse build a custom news artifact that scans Hacker News, Techmeme and high-signal X accounts every hour, filters against inclusion criteria, alerts on urgent items and stores everything searchable"
   }
  ]
 }

@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **157 cases** ｜ 🕐 **Last updated: 2026-10-21** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **160 cases** ｜ 🕐 **Last updated: 2026-10-22** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,12 +30,12 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (38)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (39)
 - ✈️ [Travel](#️-travel) (21)
 - 🛒 [Shopping](#-shopping) (20)
-- ⚡ [Productivity · automation](#-productivity--automation) (39)
+- ⚡ [Productivity · automation](#-productivity--automation) (40)
 - 🎨 [Content · creation](#-content--creation) (15)
-- 🛠️ [Dev · building](#️-dev--building) (7)
+- 🛠️ [Dev · building](#️-dev--building) (8)
 - 💼 [Business · consumer rights](#-business--consumer-rights) (17)
 
 ---
@@ -115,6 +115,9 @@
 **155. Double taxation caught, $1,860 saved** ✅ — @at_url (X, 2026-10-16). Had Muse review his tax documents; it found he was being double-taxed. The $1,860 figure is the author's own claim; document details weren't disclosed ([Original post](https://x.com/at_url/status/2111207662079947113)).
 
 **156. $350 tailor bill reimbursed after a week of follow-ups** ✅ — @saleskhalifa (Khalifa, X, 2026-10-16). His wedding suit needed tailoring but the shop's tailors were out sick, so he paid $350 to rush it elsewhere. He had his Muse ("Goob") ask the original shop for reimbursement and follow up for a week — the money came back ([Original post](https://x.com/saleskhalifa/status/2110888090596261905)).
+---
+
+**158. €30 Paris hotel-pickup waiting fee refunded in full** ✅ — @HH002_Dream (Sandman, X, 2026-10-20). Charged a €30 waiting fee on a Paris hotel pickup; Muse reviewed the pickup company's waiting-time policy, drafted the dispute email and took it up with the company directly — the full refund landed back in his account ([Original post](https://x.com/HH002_Dream/status/2112453085163647473)).
 
 
 ## ✈️ Travel
@@ -288,6 +291,8 @@
 
 **157. Recovered a song name after IG/Spotify removed the track** ✅ — @AlfonAmayuelas (Alfonso Amayuelas, X, 2026-10-15). A song attached to an old video was removed from Instagram and Spotify and he'd forgotten its name; Muse found it — screenshot attached ([Original post](https://x.com/AlfonAmayuelas/status/2110530394055647375)).
 
+**160. Hourly news-digest artifact scanning HN, Techmeme and high-signal X accounts** ✅ — @_simonsmith (Simon Smith, X, 2026-10-20). Found Muse's built-in feed too sparse (about one item every two hours); had Muse build a custom news artifact that scans Hacker News, Techmeme and high-signal X accounts every hour, filters against inclusion criteria, alerts on urgent items and stores everything searchable — "so far, it works really well" ([Original post](https://x.com/_simonsmith/status/2112668788445335993)).
+
 
 ## 🎨 Content · creation
 
@@ -338,6 +343,8 @@
 **139. Things has no official API — Muse built the sync in a minute or two** ✅ — @holman (developer). Keeps all to-dos in Things, which has no official API; told Muse to build the sync, and a minute or two later his agent's to-dos were syncing across all his Apple devices (https://x.com/holman/status/2099588794689437736).
 
 **140. A swipe-through Instagram unfollow UI in 2 minutes** ✅ — @thatguybg. Built himself a Tinder-style interface for unfollowing people on Instagram in about two minutes, crediting Muse's native Instagram access rather than the model (https://x.com/thatguybg/status/2097454629839663173).
+
+**159. Remote bot install on a home laptop via SSH/Tailscale — phone only** ✅ — @OrbitalDesk (Dave the Bot-Despot, X, 2026-10-20). Away from home with only his phone; had Muse SSH (over Tailscale) into his home laptop, install Mausbot and hand back the phone-app setup info — then chatted with the new bot "Dumpling" straight from his phone ([Original post](https://x.com/OrbitalDesk/status/2112609284387488045)).
 
 
 ## 💼 Business · consumer rights
@@ -396,6 +403,7 @@ Auto-updated daily at 00:00 (Beijing time).
 
 ## 🗒️ Changelog
 
+- **2026-10-22**: 3 new cases added (fresh 2026-10-19/20 entries from howtousemuse.com, each X original read and verified via fxtwitter: a €30 Paris hotel-pickup waiting fee — Muse reviewed the policy, drafted the dispute email and got the full refund; away from home with only a phone — Muse SSH'd (via Tailscale) into the home laptop to install Mausbot and return the phone-app setup; a custom news artifact scanning HN/Techmeme/high-signal X accounts hourly after the built-in feed proved too sparse). Total: 160.
 - **2026-10-21**: 6 new cases added (a newly adopted standing source, howtousemuse.com, cross-verified on X: climbing shoes ordered from an Italian site — Muse did the shipping + import-tax math and still saved $50, delivered in 6 days; honeymoon booking emails turned into one master itinerary doc with email links and reservation numbers; 3 raw clips edited into a church auction promo video; double taxation caught, $1,860 saved; a $350 tailor bill reimbursed after a week of follow-ups; a song name recovered after IG/Spotify removed the track). Cases 138, 122 and 131 upgraded 🟡→✅ with X originals added. Total: 157.
 - **2026-10-20**: 2 new cases added (real-user IG/FB shares from cwybruce Chinese daily digest issue 24, 2026-10-19, text-only: blind creator @kev_the_blind_pirate's fully managed Muse — 15,000 emails cleared + calendar + video editing, and "Charlie" sourcing OLED screen/ESP32/LiPo battery for a DIY maker's bag charm). Total: 151.
 - **2026-10-19**: 30 new cases added (21 real-user X shares with direct links dug out of messagingagents' HTML: 20-minute Aetna reimbursement over the deductible, a forgotten $200 Verizon gift card claimed back, a 146-search flight price sweep, a garage-freezer buy from spec to warranty filing, a Seoul IG cake shop purchase across language barriers, the first-hand Marketplace address-leak post, 83 missing K-1s tracked down, a Shopify engineering lead's WhatsApp daily digest, a father-of-six's daily family schedule push, 3 medical emails drafted for a severely ill user, an "Alfred" investment assistant, a trade-alpha dashboard, etc.; 3 X shares from howtousemuse.com's new entries in text form: moving-day utility transfers, a 4-iteration animation, a $150-vs-$20 fridge-filter save; 1 X original via 17muse's 10-16 global feed: "chief of staff" inbox mode). plus 4 real-user shares from cwybruce daily digest issue 23 (voice-ordered Tesla Y dashcam, a small-business AI OS, "Rio" the one-person finance/admin, 9am daily auto job applications) and 2 in-site field tests from the 17muse webmaster (drama-screenshot vest hunt, Japan trip transport at nearly half price). Case 44 upgraded 🟡→✅ with the X original. Total: 149.
