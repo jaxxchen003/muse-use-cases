@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **160 cases** ｜ 🕐 **Last updated: 2026-10-22** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **164 cases** ｜ 🕐 **Last updated: 2026-10-23** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,9 +30,9 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (39)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (41)
 - ✈️ [Travel](#️-travel) (21)
-- 🛒 [Shopping](#-shopping) (20)
+- 🛒 [Shopping](#-shopping) (22)
 - ⚡ [Productivity · automation](#-productivity--automation) (40)
 - 🎨 [Content · creation](#-content--creation) (15)
 - 🛠️ [Dev · building](#️-dev--building) (8)
@@ -118,6 +118,8 @@
 ---
 
 **158. €30 Paris hotel-pickup waiting fee refunded in full** ✅ — @HH002_Dream (Sandman, X, 2026-10-20). Charged a €30 waiting fee on a Paris hotel pickup; Muse reviewed the pickup company's waiting-time policy, drafted the dispute email and took it up with the company directly — the full refund landed back in his account ([Original post](https://x.com/HH002_Dream/status/2112453085163647473)).
+**163. Car insurance $260 → $170: only Progressive lets the agent in** ✅ — @MikeCjunior (Mikejnr, X, 2026-10-21). Created a fresh email and handed Muse the "lower my insurance bill" task; several insurers' websites refused agent access and only Progressive let it work — the bill dropped from $260 to $170 a month (author's own claim; flagged as unverified self-report by howtousemuse) ([Original post](https://x.com/MikeCjunior/status/2113032044158894452)).
+**164. Muse called the loyalty team and cut $40 off the fiber bill** ✅ — @JamesCordrey2 (James Cordrey, X, 2026-10-22). Muse called the provider's loyalty/retention team directly to negotiate and handled the follow-up emails; first post of a thread, key facts up front ([Original post](https://x.com/JamesCordrey2/status/2113070700252525003)).
 
 
 ## ✈️ Travel
@@ -209,6 +211,8 @@
 **151. "Charlie" as a DIY maker's procurement agent: OLED screen + ESP32 + LiPo battery sourced and ordered** 🟡 — A DIY creator (Facebook, 10-18 reel). Building a pink bag charm with a built-in time/weather display, she renamed her Muse "Charlie" and had it source a small OLED screen, ESP32 dev board and LiPo battery, compare options and place orders — while she handled breadboard prototyping, soldering and iterating the 3D-printed case. The charm was assembled successfully.
 
 **152. Climbing shoes from an Italian site: $50 saved after shipping + import tax, delivered in 6 days** ✅ — @andriybuday (Andriy Buday, X, 2026-10-19). Only told Muse what he needed; it found an Italian discount site on its own, did the math on shipping + US import tax and still beat every US retail price. He never saw the site or typed his details — confirmed once after full research; shoes arrived in 6 days ([Original post](https://x.com/andriybuday/status/2112001194847879438)).
+**161. Housewarming wine cross-store comparison: $60/bottle vs $99 local, ~$330 saved** ✅ — @VikShetty (Vik Shetty, X, 2026-10-21). One handoff completed three jobs — housewarming wine (Veuve) cross-store price comparison, talking him out of a bad investment, and building a full quote-comparison page from competing vendors ([Original post](https://x.com/VikShetty/status/2113013978632958162)).
+**162. KSU/KU game-ticket price watchdog: $892 → $500, $392 saved** ✅ — @BradyHannaKC (Brady Hanna, X, 2026-10-21). Asked Muse to monitor ticket prices daily and scan Facebook ticket groups hourly; a week before the game it found 4 lower-level tickets for $500 and he bought them on the spot ([Original post](https://x.com/BradyHannaKC/status/2112961536168005898)).
 
 
 ## ⚡ Productivity · automation
@@ -403,6 +407,7 @@ Auto-updated daily at 00:00 (Beijing time).
 
 ## 🗒️ Changelog
 
+- **2026-10-23**: 4 new cases added (fresh 2026-10-20/21 entries from howtousemuse.com + X keyword search, each X original read and verified via fxtwitter: housewarming wine cross-store comparison — Veuve at $60/bottle vs $99 local, ~$330 saved; KSU/KU game-ticket price watchdog — daily price monitoring plus hourly Facebook group scans, $892 → $500 with $392 saved; car insurance $260 → $170 — several insurer websites refused agent access, only Progressive let it work (author's own claim); Muse called the provider's loyalty team directly and cut $40 off the fiber bill). Total: 164.
 - **2026-10-22**: 3 new cases added (fresh 2026-10-19/20 entries from howtousemuse.com, each X original read and verified via fxtwitter: a €30 Paris hotel-pickup waiting fee — Muse reviewed the policy, drafted the dispute email and got the full refund; away from home with only a phone — Muse SSH'd (via Tailscale) into the home laptop to install Mausbot and return the phone-app setup; a custom news artifact scanning HN/Techmeme/high-signal X accounts hourly after the built-in feed proved too sparse). Total: 160.
 - **2026-10-21**: 6 new cases added (a newly adopted standing source, howtousemuse.com, cross-verified on X: climbing shoes ordered from an Italian site — Muse did the shipping + import-tax math and still saved $50, delivered in 6 days; honeymoon booking emails turned into one master itinerary doc with email links and reservation numbers; 3 raw clips edited into a church auction promo video; double taxation caught, $1,860 saved; a $350 tailor bill reimbursed after a week of follow-ups; a song name recovered after IG/Spotify removed the track). Cases 138, 122 and 131 upgraded 🟡→✅ with X originals added. Total: 157.
 - **2026-10-20**: 2 new cases added (real-user IG/FB shares from cwybruce Chinese daily digest issue 24, 2026-10-19, text-only: blind creator @kev_the_blind_pirate's fully managed Muse — 15,000 emails cleared + calendar + video editing, and "Charlie" sourcing OLED screen/ESP32/LiPo battery for a DIY maker's bag charm). Total: 151.

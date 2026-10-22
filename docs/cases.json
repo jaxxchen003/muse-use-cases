@@ -1,7 +1,7 @@
 {
  "meta": {
-  "count": 160,
-  "updated": "2026-10-22",
+  "count": 164,
+  "updated": "2026-10-23",
   "invite": "4P14HY",
   "repo": "https://github.com/jaxxchen003/muse-use-cases",
   "title": "Muse 实战案例库",
@@ -2124,6 +2124,58 @@
    "re": "\"So far, it works really well\" — hourly shortlist with summaries",
    "d": "嫌 Muse 自带 feed 太稀（约 2 小时才一条）；让 Muse 搭了个新闻 artifact，每小时扫描 Hacker News、Techmeme 和高信号 X 账号，按纳入/预警标准过滤，紧急的直接告警，全部存库可搜索",
    "de": "Found Muse's built-in feed too sparse (about one item every two hours); had Muse build a custom news artifact that scans Hacker News, Techmeme and high-signal X accounts every hour, filters against inclusion criteria, alerts on urgent items and stores everything searchable"
+  },
+  {
+   "t": "婚礼乔迁酒水跨店比价：$60/瓶 vs 本地 $99/瓶，省约 $330",
+   "te": "Housewarming wine cross-store comparison: $60/bottle vs $99 local, ~$330 saved",
+   "c": "shopping",
+   "a": "Vik Shetty（@VikShetty，X）",
+   "ae": "@VikShetty (Vik Shetty, X)",
+   "x": "https://x.com/VikShetty/status/2113013978632958162",
+   "b": "ok",
+   "r": "酒水订单省约 $330（作者自述）",
+   "re": "~$330 saved on the wine order (author's own claim)",
+   "d": "一次交办做完三件事：婚礼乔迁酒（Veuve）跨店比价、劝退一笔坏投资、按多家供应商报价生成完整对比页",
+   "de": "One handoff completed three jobs: housewarming wine (Veuve) cross-store price comparison, talking the user out of a bad investment, and building a full quote-comparison page from competing vendors."
+  },
+  {
+   "t": "KSU/KU 球赛票降价哨兵：$892 → $500，省 $392",
+   "te": "KSU/KU game-ticket price watchdog: $892 → $500, $392 saved",
+   "c": "shopping",
+   "a": "Brady Hanna（@BradyHannaKC，X）",
+   "ae": "@BradyHannaKC (Brady Hanna, X)",
+   "x": "https://x.com/BradyHannaKC/status/2112961536168005898",
+   "b": "ok",
+   "r": "$892 → $500，省 $392（作者自述）",
+   "re": "$892 → $500, $392 saved (author's own claim)",
+   "d": "让 Muse 每天盯票价、每小时扫 Facebook 球票群；赛前一周找到 4 张 $500 的低层票，即时下单成交",
+   "de": "Asked Muse to monitor ticket prices daily and scan Facebook ticket groups hourly; a week before the game it found 4 lower-level tickets for $500 and he bought them on the spot."
+  },
+  {
+   "t": "车险 $260 → $170：只有 Progressive 放行 agent 操作",
+   "te": "Car insurance $260 → $170: only Progressive lets the agent in",
+   "c": "money",
+   "a": "Mikejnr（@MikeCjunior，X）",
+   "ae": "@MikeCjunior (Mikejnr, X)",
+   "x": "https://x.com/MikeCjunior/status/2113032044158894452",
+   "b": "ok",
+   "r": "$260/月 → $170/月（作者自述，howtousemuse 标注为未经验证）",
+   "re": "$260/mo → $170/mo (author's own claim, flagged as unverified by howtousemuse)",
+   "d": "新建邮箱后把“降车险”任务交给 Muse；多家保险公司网站拒绝 agent 访问，只有 Progressive 放行，转投后账单降下来",
+   "de": "Created a fresh email and handed Muse the \"lower my insurance bill\" task; several insurers' websites refused agent access and only Progressive let it work — the bill dropped after switching."
+  },
+  {
+   "t": "Muse 打电话给 loyalty team，光纤账单砍 $40",
+   "te": "Muse called the loyalty team and cut $40 off the fiber bill",
+   "c": "money",
+   "a": "James Cordrey（@JamesCordrey2，X）",
+   "ae": "@JamesCordrey2 (James Cordrey, X)",
+   "x": "https://x.com/JamesCordrey2/status/2113070700252525003",
+   "b": "ok",
+   "r": "光纤账单省 $40（周期未公布，作者自述）",
+   "re": "$40 saved on the fiber bill (billing period undisclosed, author's own claim)",
+   "d": "Muse 直接打电话给供应商的 loyalty（忠诚度挽留）部门谈判、还代发了邮件；该帖是 thread 首条，关键事实都在首条",
+   "de": "Muse called the provider's loyalty/retention team directly to negotiate and handled the follow-up emails; first post of a thread, key facts up front."
   }
  ]
 }
