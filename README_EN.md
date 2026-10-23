@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **164 cases** ｜ 🕐 **Last updated: 2026-10-23** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **165 cases** ｜ 🕐 **Last updated: 2026-10-24** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (41)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (42)
 - ✈️ [Travel](#️-travel) (21)
 - 🛒 [Shopping](#-shopping) (22)
 - ⚡ [Productivity · automation](#-productivity--automation) (40)
@@ -120,6 +120,7 @@
 **158. €30 Paris hotel-pickup waiting fee refunded in full** ✅ — @HH002_Dream (Sandman, X, 2026-10-20). Charged a €30 waiting fee on a Paris hotel pickup; Muse reviewed the pickup company's waiting-time policy, drafted the dispute email and took it up with the company directly — the full refund landed back in his account ([Original post](https://x.com/HH002_Dream/status/2112453085163647473)).
 **163. Car insurance $260 → $170: only Progressive lets the agent in** ✅ — @MikeCjunior (Mikejnr, X, 2026-10-21). Created a fresh email and handed Muse the "lower my insurance bill" task; several insurers' websites refused agent access and only Progressive let it work — the bill dropped from $260 to $170 a month (author's own claim; flagged as unverified self-report by howtousemuse) ([Original post](https://x.com/MikeCjunior/status/2113032044158894452)).
 **164. Muse called the loyalty team and cut $40 off the fiber bill** ✅ — @JamesCordrey2 (James Cordrey, X, 2026-10-22). Muse called the provider's loyalty/retention team directly to negotiate and handled the follow-up emails; first post of a thread, key facts up front ([Original post](https://x.com/JamesCordrey2/status/2113070700252525003)).
+**165. Home-insurance cross-channel comparison: Muse emailed agents, self-reported ~$400 saved** ✅ — @TechTradeBlue (X, 2026-10-22). Handed Muse the "shop my home insurance" task; it emailed multiple insurance agents for quotes and pulled quotes from several websites — self-reported savings of about $400 with better coverage (author's own claim; flagged as unverified self-report by howtousemuse) ([Original post](https://x.com/TechTradeBlue/status/2113086665690644806)).
 
 
 ## ✈️ Travel
@@ -406,6 +407,8 @@ Auto-updated daily at 00:00 (Beijing time).
 - Informational only; not consumer or investment advice
 
 ## 🗒️ Changelog
+
+- **2026-10-24**: 1 new case added (a fresh 2026-10-22 entry from howtousemuse.com, X original read and verified via fxtwitter: home-insurance cross-channel comparison — Muse emailed multiple insurance agents for quotes plus website quote scraping, self-reported ~$400 saved with better coverage (author's own claim; flagged as unverified self-report). A YouTube TV RedZone seasonal-cancellation post by @BradyHannaKC was not included: the $84 is a future plan, not a realized saving). Total: 165.
 
 - **2026-10-23**: 4 new cases added (fresh 2026-10-20/21 entries from howtousemuse.com + X keyword search, each X original read and verified via fxtwitter: housewarming wine cross-store comparison — Veuve at $60/bottle vs $99 local, ~$330 saved; KSU/KU game-ticket price watchdog — daily price monitoring plus hourly Facebook group scans, $892 → $500 with $392 saved; car insurance $260 → $170 — several insurer websites refused agent access, only Progressive let it work (author's own claim); Muse called the provider's loyalty team directly and cut $40 off the fiber bill). Total: 164.
 - **2026-10-22**: 3 new cases added (fresh 2026-10-19/20 entries from howtousemuse.com, each X original read and verified via fxtwitter: a €30 Paris hotel-pickup waiting fee — Muse reviewed the policy, drafted the dispute email and got the full refund; away from home with only a phone — Muse SSH'd (via Tailscale) into the home laptop to install Mausbot and return the phone-app setup; a custom news artifact scanning HN/Techmeme/high-signal X accounts hourly after the built-in feed proved too sparse). Total: 160.

@@ -1,7 +1,7 @@
 {
  "meta": {
-  "count": 164,
-  "updated": "2026-10-23",
+  "count": 165,
+  "updated": "2026-10-24",
   "invite": "4P14HY",
   "repo": "https://github.com/jaxxchen003/muse-use-cases",
   "title": "Muse 实战案例库",
@@ -2176,6 +2176,19 @@
    "re": "$40 saved on the fiber bill (billing period undisclosed, author's own claim)",
    "d": "Muse 直接打电话给供应商的 loyalty（忠诚度挽留）部门谈判、还代发了邮件；该帖是 thread 首条，关键事实都在首条",
    "de": "Muse called the provider's loyalty/retention team directly to negotiate and handled the follow-up emails; first post of a thread, key facts up front."
+  },
+  {
+   "t": "房屋保险跨渠道比价：Muse 发邮件询价，自称省约 $400",
+   "te": "Home-insurance cross-channel comparison: Muse emailed agents, self-reported ~$400 saved",
+   "c": "money",
+   "a": "@TechTradeBlue（X，2026-10-22）",
+   "ae": "@TechTradeBlue (X, 2026-10-22)",
+   "x": "https://x.com/TechTradeBlue/status/2113086665690644806",
+   "b": "ok",
+   "r": "自称省约 $400，且保障范围更好（作者自述；站方标注未经验证）",
+   "re": "~$400 saved with better coverage (author's own claim; flagged as unverified self-report)",
+   "d": "把比价房屋保险的任务交给 Muse；Muse 给多家保险代理人发邮件询价，并在多个网站上抓报价。",
+   "de": "Handed Muse the home-insurance shopping task; it emailed multiple insurance agents for quotes and pulled quotes from several websites."
   }
  ]
 }
