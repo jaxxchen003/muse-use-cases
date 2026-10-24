@@ -1,7 +1,7 @@
 {
  "meta": {
-  "count": 165,
-  "updated": "2026-10-24",
+  "count": 173,
+  "updated": "2026-10-25",
   "invite": "4P14HY",
   "repo": "https://github.com/jaxxchen003/muse-use-cases",
   "title": "Muse 实战案例库",
@@ -2189,6 +2189,110 @@
    "re": "~$400 saved with better coverage (author's own claim; flagged as unverified self-report)",
    "d": "把比价房屋保险的任务交给 Muse；Muse 给多家保险代理人发邮件询价，并在多个网站上抓报价。",
    "de": "Handed Muse the home-insurance shopping task; it emailed multiple insurance agents for quotes and pulled quotes from several websites."
+  },
+  {
+   "t": "等娃下课 6 小时，Muse 清掉自估 80 小时的行政杂务",
+   "te": "6 hours waiting for his kid, 80 hours of admin cleared",
+   "c": "productivity",
+   "a": "Daniel Tekle（FB 用户，2026-10-23）",
+   "ae": "Daniel Tekle (Facebook user, 2026-10-23)",
+   "x": null,
+   "b": "cross",
+   "r": "6 小时干完自估 80 小时的活",
+   "re": "80 hours of work estimated, done in 6",
+   "d": "等孩子乐队活动散场时，把 7 账户净值表、Sedona 积分订房、8,000 联系人清洗、退 11 个死群、订阅审计等杂务全甩给 Muse。",
+   "de": "While waiting for his kid's band event, handed Muse a net-worth sheet, a points hotel booking, 8,000 contacts to clean, 11 dead groups to leave and a subscription audit."
+  },
+  {
+   "t": "把 AI“放进”二手奢侈品站：$5,844 山本耀司旧衣逐件“加购占坑”",
+   "te": "AI let loose on a luxury resale site: $5,844 of Yohji Yamamoto “cart-squatted” piece by piece",
+   "c": "shopping",
+   "a": "Mia Sato（@miasato.2，IG 认证创作者，2026-10-22）",
+   "ae": "Mia Sato (@miasato.2, verified IG creator, 2026-10-22)",
+   "x": null,
+   "b": "cross",
+   "r": "最多 9 件、总价 $5,844.50",
+   "re": "Peak 9 items, $5,844.50 in the bag",
+   "d": "每天去 The RealReal 的 Yohji Yamamoto 区把最新上架 10 件加进购物车；进袋锁单 20 分钟等于从其他买家手里“占”货，过期放回再抢。",
+   "de": "Daily, Muse added the 10 newest Yohji Yamamoto listings to the cart; the site's 20-minute bag lock effectively held stock away from other buyers, then released and re-grabbed."
+  },
+  {
+   "t": "搬新城市社交包办：“Alfred”搜 LA 活动 + 暖房派对管 RSVP",
+   "te": "New-city social fixer: “Alfred” finds LA events and runs the housewarming RSVP list",
+   "c": "productivity",
+   "a": "Nathan Cumberbatch（@sxintnate，IG 14 万粉，2026-10-23）",
+   "ae": "Nathan Cumberbatch (@sxintnate, IG, 140K followers, 2026-10-23)",
+   "x": null,
+   "b": "cross",
+   "r": "找活动和后勤交给 AI，人只负责出门交朋友",
+   "re": "AI finds the events and logistics; he just shows up",
+   "d": "按兴趣在 Threads/IG 上搜洛杉矶活动，按类别整理带日期场地；再策划暖房派对，出主题、写邀请文案、管 RSVP。",
+   "de": "Searched Threads/Instagram for LA events by interest, sorted by category with dates and venues; then planned a housewarming party with themes, invites and an RSVP tracker."
+  },
+  {
+   "t": "妈妈脑外包：学校邮件三连提醒，班级合影日再没错过",
+   "te": "“Mom brain” outsourced: triple school-email reminders so class photo day is never missed",
+   "c": "productivity",
+   "a": "Sara Goldberg（FB 用户，2026-10-22）",
+   "ae": "Sara Goldberg (Facebook user, 2026-10-22)",
+   "x": null,
+   "b": "cross",
+   "r": "班级合影日前收到三连提醒 + 邮件摘要",
+   "re": "Three reminders + email summary before class photo day",
+   "d": "让 Muse 监控学校邮件；重要事项前一晚 18:30 和 20:30 各推一条、当天早上 7 点再推一条，外加全天日历事件。",
+   "de": "Muse watches school emails; key items get nudges at 18:30 and 20:30 the night before plus 07:00 on the day, plus an all-day calendar event."
+  },
+  {
+   "t": "“Scout”几分钟列出 7 位教授 + 7 封带简历的 cold email，三周后拿到研究职位",
+   "te": "“Scout” lists 7 professors + 7 tailored cold emails in minutes; research position confirmed 3 weeks later",
+   "c": "productivity",
+   "a": "Palden Bhutia（@engineeringwithpalden，IG 23 万粉，2026-10-22）",
+   "ae": "Palden Bhutia (@engineeringwithpalden, IG, 230K followers, 2026-10-22)",
+   "x": null,
+   "b": "cross",
+   "r": "次日收到教授面谈邀约，三周后研究职位确认",
+   "re": "Professor reply next morning; position confirmed in 3 weeks",
+   "d": "让 Muse “Scout”找 AI 硬件与半导体研究机会、锁定教授，给每位写带简历和成绩单附件的个性化 outreach 邮件。",
+   "de": "Had Muse “Scout” find AI-hardware/semiconductor research openings, shortlist professors and draft a personalized outreach email each, résumé and transcript attached."
+  },
+  {
+   "t": "“$2,000/月内容研究员”平替：profile audit + 竞品选题 + DM 不漏接 + 每天 8 点洞察报告",
+   "te": "A “$2,000/mo content researcher” replacement: profile audit + competitor topics + DM watch + 8am insight brief",
+   "c": "productivity",
+   "a": "Steven Mellor（@thestevenmellor，IG 18 万粉，2026-10-22）",
+   "ae": "Steven Mellor (@thestevenmellor, IG, 180K followers, 2026-10-22)",
+   "x": null,
+   "b": "cross",
+   "r": "作者自称每周省 10–20 小时",
+   "re": "Author claims 10–20 hours saved weekly",
+   "d": "演示创作者工作流：profile audit 找涨粉内容与缺口、竞品研究找爆款选题、DM 监控不漏接、每天 8 点自动推送洞察报告。",
+   "de": "Demoed creator workflow: profile audit for growth and gaps, competitor research for top topics, DM monitoring, and an automatic 08:00 daily insight report."
+  },
+  {
+   "t": "“Scout”六周实战：从零自建 Zazzle 按需印刷店，顺手盯订阅 + 做债务偿还计划",
+   "te": "“Scout” in 6 weeks: a Zazzle print-on-demand store built from zero, plus subscription watch and a debt plan",
+   "c": "business",
+   "a": "FB 女博主（6.3K 粉，2026-10-22）",
+   "ae": "A Facebook creator (6.3K followers, 2026-10-22)",
+   "x": null,
+   "b": "cross",
+   "r": "副业 + 省钱双线程一次跑通",
+   "re": "Side business + savings running on two tracks",
+   "d": "从零自建 Zazzle 按需印刷店（AI 设计、定价、上架全经它手），同时管多邮箱、盯 gym 与 Disney+ 订阅、做债务偿还计划，每步动手前先征得许可。",
+   "de": "Built a Zazzle print-on-demand store from scratch (AI designs, pricing, listings), managed multiple inboxes, watched gym and Disney+ subscriptions, and drew up a debt plan — asking permission before each step."
+  },
+  {
+   "t": "翻完 2,240 则 FB 贴文，数出自己去过日本 16 趟：7 个链接抄错后改程序生成才全对",
+   "te": "Read all 2,240 of his Facebook posts, counted 16 Japan trips — 7 links miscopied, fixed by generating them programmatically",
+   "c": "productivity",
+   "a": "暢哥 / Wendell（17muse.com 站长，2026-10-22 站内实测）",
+   "ae": "Wendell (17muse.com webmaster, in-site field test, 2026-10-22)",
+   "x": null,
+   "b": "cross",
+   "r": "数出 16 趟日本行；约 1,200 万 token，约占周免费额度的 11%",
+   "re": "16 trips counted; ~12M tokens, ~11% of the weekly free quota",
+   "d": "把统计排在周额度 reset 后的 10 月 20 日 9:55 开跑；2,240 则贴文全读完、同趟只取首日打卡、读不到的标“不确定”；初版 7 个链接抄错，改程序从原始资料生成后全对。",
+   "de": "Ran the count right after the weekly quota reset; read all 2,240 posts, one record per trip, undatable ones marked “uncertain”; 7 links miscopied in draft one, fixed by generating them programmatically from source data."
   }
  ]
 }

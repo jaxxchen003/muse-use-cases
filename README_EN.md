@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **165 cases** ｜ 🕐 **Last updated: 2026-10-24** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **173 cases** ｜ 🕐 **Last updated: 2026-10-25** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -32,11 +32,11 @@
 
 - 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (42)
 - ✈️ [Travel](#️-travel) (21)
-- 🛒 [Shopping](#-shopping) (22)
-- ⚡ [Productivity · automation](#-productivity--automation) (40)
+- 🛒 [Shopping](#-shopping) (23)
+- ⚡ [Productivity · automation](#-productivity--automation) (46)
 - 🎨 [Content · creation](#-content--creation) (15)
 - 🛠️ [Dev · building](#️-dev--building) (8)
-- 💼 [Business · consumer rights](#-business--consumer-rights) (17)
+- 💼 [Business · consumer rights](#-business--consumer-rights) (18)
 
 ---
 
@@ -215,6 +215,7 @@
 **161. Housewarming wine cross-store comparison: $60/bottle vs $99 local, ~$330 saved** ✅ — @VikShetty (Vik Shetty, X, 2026-10-21). One handoff completed three jobs — housewarming wine (Veuve) cross-store price comparison, talking him out of a bad investment, and building a full quote-comparison page from competing vendors ([Original post](https://x.com/VikShetty/status/2113013978632958162)).
 **162. KSU/KU game-ticket price watchdog: $892 → $500, $392 saved** ✅ — @BradyHannaKC (Brady Hanna, X, 2026-10-21). Asked Muse to monitor ticket prices daily and scan Facebook ticket groups hourly; a week before the game it found 4 lower-level tickets for $500 and he bought them on the spot ([Original post](https://x.com/BradyHannaKC/status/2112961536168005898)).
 
+**167. AI let loose on a luxury resale site: $5,844 of Yohji Yamamoto "cart-squatted" piece by piece** 🟡 — Mia Sato (@miasato.2, verified IG creator, 2026-10-22). Her "social experiment": send Muse to The RealReal's Women's Yohji Yamamoto section daily and add the 10 newest listings to the cart. The site's rule — an item in the bag is locked for 20 minutes — meant Muse was effectively holding stock away from other buyers; at peak 9 items totalling $5,844.50, then released and re-grabbed each round. Her verdict: "watching AI compete with real people feels genius and demonic at once"; The Verge reported the same week that retailers are getting wary of shopping agents.
 
 ## ⚡ Productivity · automation
 
@@ -298,6 +299,17 @@
 
 **160. Hourly news-digest artifact scanning HN, Techmeme and high-signal X accounts** ✅ — @_simonsmith (Simon Smith, X, 2026-10-20). Found Muse's built-in feed too sparse (about one item every two hours); had Muse build a custom news artifact that scans Hacker News, Techmeme and high-signal X accounts every hour, filters against inclusion criteria, alerts on urgent items and stores everything searchable — "so far, it works really well" ([Original post](https://x.com/_simonsmith/status/2112668788445335993)).
 
+**166. 6 hours waiting for his kid, 80 hours of admin cleared** 🟡 — Daniel Tekle (Facebook user, 2026-10-23). While waiting for his son Isaiah's band event to end at the Circleville Pumpkin Show, he handed Muse a pile of personal admin: 7 financial accounts merged into one net-worth sheet; a Sedona spring-break hotel booked on points plus a free-cancellation SUV rental with a price-drop alert; dog boarding arranged; the front door locked remotely and a weather-based thermostat rule set; 8,000 contacts cleaned (titles updated, duplicates merged, junk removed, photos added); 11 dead Facebook groups left; plus a subscription audit — work he estimates would have taken 80 hours by hand.
+
+**168. New-city social fixer: "Alfred" finds LA events and runs the housewarming RSVP list** 🟡 — Nathan Cumberbatch (@sxintnate, IG, 140K followers, 2026-10-23). After moving to Los Angeles he renamed his Muse "Alfred" and had it search Threads and Instagram for events matching his interests (jazz, chess clubs, wine tasting, vinyl, film events, live sports), returned sorted by category with dates and venues; then had Alfred plan a housewarming party to meet people — theme ideas (vinyl night, chess cocktails, wine-and-jazz night), invitation copy and an on-screen "RSVP Tracker". His take: "the best way to build connections is to initiate; let AI handle finding events and logistics" (a different "Alfred" from #141's investment assistant).
+
+**169. "Mom brain" outsourced: triple school-email reminders so class photo day is never missed** 🟡 — Sara Goldberg (Facebook user, 2026-10-22). She set Muse to watch school emails with a fixed preference: a nudge at 18:30 and 20:30 the night before plus one at 07:00 on the day, plus an all-day calendar event. It caught her daughter Hannah's Grade 1 class photo day (2026-10-20) with three reminders and an email summary, and in the same pass flagged that day's Parc du Mont-Royal field trip with departure time and clothing advice. Her verdict, verbatim: this is built for forgetful parents.
+
+**170. "Scout" lists 7 professors + 7 tailored cold emails in minutes; research position confirmed 3 weeks later** 🟡 — Palden Bhutia (@engineeringwithpalden, IG, 230K followers, 2026-10-22). Instead of manually hunting professors as he did for his first research role, he had Muse "Scout" find AI-hardware/semiconductor research openings, shortlist matching professors and draft a personalized outreach email per professor with résumé and transcript attached — 7 professors and 7 drafts back in minutes. At 07:00 the next morning, driving, he got a professor's reply inviting him to meet in person; three weeks later his next-semester research position was confirmed, along with clarity on "what to learn next" (the video's "comment MUSE for my prompt" hook is a lead-gen device).
+
+**171. A "$2,000/mo content researcher" replacement: profile audit + competitor topics + DM watch + 8am insight brief** 🟡 — Steven Mellor (@thestevenmellor, IG, 180K followers, 2026-10-22). His demoed creator workflow: a profile audit to find what's growing and where the gaps are; competitor research for the best-performing topics and outliers; DM monitoring so important conversations never slip; and an automatic daily insight report pushed at 08:00. He claims the flow saves 10–20 hours a week (the "$2,000/mo researcher" headline is hype copy; the "comment MUSE for the guide" hook is lead-gen).
+
+**173. Read all 2,240 of his Facebook posts, counted 16 Japan trips — 7 links miscopied, fixed by generating them programmatically** 🟡 — Wendell (17muse.com webmaster, in-site field test, 2026-10-22). To answer how many Japan trips he'd actually taken, he scheduled the job for 09:55 on 2026-10-20, right after the weekly token quota reset, and had Muse read all 2,240 posts across 113 pages back to his first post on 2009-09-03, counting one record per trip (first check-in only) and marking the undatable ones "uncertain" rather than guessing. Result: 16 trips from Kyoto/Osaka in September 2012 to Osaka/Koshien/Kyoto in June 2026, each with date, place and a representative post link. The first draft miscopied 7 of the 16 links (mostly one wrong character mid-URL); regenerating the list programmatically from the source data fixed all of them. The scan cost ~12M tokens, about 11% of the weekly free quota (a different cut of the same post archive as the "17-year life profile" case).
 
 ## 🎨 Content · creation
 
@@ -389,6 +401,7 @@
 
 **146. Muse renamed "Rio": one-person finance + admin, all covered** 🟡 — Jenna Smith (@jenna_stufflebeam, Threads, 10-16). Designed price-tag labels, filed documents into tax folders, computed Amazon sourcing totals and ROI, managed email scheduling, sent payment reminders, found and cancelled duplicate subscriptions.
 
+**172. "Scout" in 6 weeks: a Zazzle print-on-demand store built from zero, plus subscription watch and a debt plan** 🟡 — A Facebook creator (6.3K followers, 2026-10-22). Six weeks after discovering Muse she named it "Scout" and had it build a Zazzle print-on-demand store from scratch (AI-generated designs, pricing, listings all through it), manage multiple email accounts, watch gym and Disney+ subscriptions, and draw up a debt-repayment plan — asking her permission before each step. Recorded as a filmed walkthrough, not an endorsement of results (the video carries a referral-code hook).
 
 
 ## 🤝 Contribute
@@ -407,6 +420,8 @@ Auto-updated daily at 00:00 (Beijing time).
 - Informational only; not consumer or investment advice
 
 ## 🗒️ Changelog
+
+- **2026-10-25**: 8 new cases added (7 real-user shares from cwybruce's Chinese daily digest issues 28/29, 2026-10-22/23, text-only: 6 hours waiting for his kid clearing an estimated 80 hours of admin, a $5,844 Yohji Yamamoto "cart-squat" experiment on The RealReal, a new-city "Alfred" finding LA events and running a housewarming RSVP list, triple school-email reminders saving class photo day, "Scout" writing 7 professor cold emails with a research position confirmed 3 weeks later, a "$2,000/mo content researcher" replacement workflow, and "Scout" building a Zazzle print-on-demand store from zero in 6 weeks; plus a 17muse webmaster field test from 2026-10-22: 2,240 Facebook posts read to count 16 Japan trips, with 7 miscopied links fixed by programmatic generation). Total: 173. Not included: a new howtousemuse condo-insurance entry (quotes only, $5,200 vs $3,100, no policy or purchase — unrealized, excluded under the earlier Brady $84 future-plan rule) and a generic one-month testimonial from James Caulkins (no concrete outcome).
 
 - **2026-10-24**: 1 new case added (a fresh 2026-10-22 entry from howtousemuse.com, X original read and verified via fxtwitter: home-insurance cross-channel comparison — Muse emailed multiple insurance agents for quotes plus website quote scraping, self-reported ~$400 saved with better coverage (author's own claim; flagged as unverified self-report). A YouTube TV RedZone seasonal-cancellation post by @BradyHannaKC was not included: the $84 is a future plan, not a realized saving). Total: 165.
 
