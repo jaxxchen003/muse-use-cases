@@ -1,7 +1,7 @@
 {
  "meta": {
-  "count": 173,
-  "updated": "2026-10-25",
+  "count": 177,
+  "updated": "2026-10-26",
   "invite": "4P14HY",
   "repo": "https://github.com/jaxxchen003/muse-use-cases",
   "title": "Muse 实战案例库",
@@ -2293,6 +2293,58 @@
    "re": "16 trips counted; ~12M tokens, ~11% of the weekly free quota",
    "d": "把统计排在周额度 reset 后的 10 月 20 日 9:55 开跑；2,240 则贴文全读完、同趟只取首日打卡、读不到的标“不确定”；初版 7 个链接抄错，改程序从原始资料生成后全对。",
    "de": "Ran the count right after the weekly quota reset; read all 2,240 posts, one record per trip, undatable ones marked “uncertain”; 7 links miscopied in draft one, fixed by generating them programmatically from source data."
+  },
+  {
+   "t": "F1 奥斯汀周末交给“Karl”：地址、时间、交通、梅赛德斯活动优先级一张表排好",
+   "te": "F1 Austin weekend handed to 'Karl': addresses, times, transport and Mercedes priorities in one executable table",
+   "c": "travel",
+   "a": "Wesley Breed（@wesly，IG 33 万粉认证创作者，2026-10-23）",
+   "ae": "Wesley Breed (@wesly, verified IG creator, 330K followers, 2026-10-23)",
+   "x": null,
+   "b": "cross",
+   "r": "一张能直接照着走的 F1 周末日程：Fan Hub、停车贴士、步行站点全排好",
+   "re": "An executable F1 weekend schedule: Fan Hub, parking tips and walkable stops in order",
+   "d": "把 Muse 取名“Karl”，让它按梅赛德斯活动优先级排一整个 F1 奥斯汀周末：地址、时间、交通一次给齐。",
+   "de": "Named her Muse 'Karl' and had it plan a whole F1 Austin weekend, ranked by Mercedes-event priority, with addresses, times and transport included."
+  },
+  {
+   "t": "没有好用的分账 App，就让 Muse 现做一个“Travel Expense Split”",
+   "te": "No good expense-splitting app? Have Muse build 'Travel Expense Split'",
+   "c": "dev",
+   "a": "Yuka Ohishi（@0oyukao0，IG 2.7 万粉，2026-10-23）",
+   "ae": "Yuka Ohishi (@0oyukao0, IG, 27K followers, 2026-10-23)",
+   "x": null,
+   "b": "cross",
+   "r": "2 晚 3 天旅行分账变拍收据 + 自动结算",
+   "re": "A 2-night, 3-day trip split by snapping receipts and auto-settling",
+   "d": "让 Muse 现做分账 App：拍收据自动录入，Email 里捞 Airbnb 确认信，结算结果经 Messenger 发给朋友。",
+   "de": "Had Muse build a split app on the spot: receipt photos auto-entered, Airbnb confirmations pulled from email, settlements sent via Messenger."
+  },
+  {
+   "t": "“Glimmer”：ADHD 成年人的“防拖延搭子”，拖了很久的上架清单终于发出来了",
+   "te": "'Glimmer': an anti-procrastination buddy for an adult with ADHD — the listing backlog finally went live",
+   "c": "productivity",
+   "a": "Michelle Carpintero（FB 小组用户，2026-10-24）",
+   "ae": "Michelle Carpintero (Facebook group user, 2026-10-24)",
+   "x": null,
+   "b": "cross",
+   "r": "作者自述“感觉自己终于有效率了”",
+   "re": "She says she finally feels productive",
+   "d": "把 Muse 取名“Glimmer”：约会提醒、按旧搜索主动推菜谱；拖了很久的上架清单靠 AI 帮忙很快发完了几单。",
+   "de": "Named her Muse 'Glimmer' for appointment reminders and proactive recipe nudges; the long-delayed listing backlog finally went out with AI help."
+  },
+  {
+   "t": "“9 年 CRM 羞耻”一次清仓：9,355 个联系人审到 8,999 个",
+   "te": "A '9-year CRM shame' cleanout: 9,355 contacts audited down to 8,999",
+   "c": "productivity",
+   "a": "thedigitalgal（博主，2026-10-21）",
+   "ae": "thedigitalgal (blogger, 2026-10-21)",
+   "x": null,
+   "b": "cross",
+   "r": "合并 289 组、删 356 条，9,355 清到 8,999",
+   "re": "289 groups merged, 356 entries deleted, 9,355 cut to 8,999",
+   "d": "先完整备份、合并决定权在自己手里逐项批，9 年 Nimble CRM 攒下的重复过期联系人一次清仓；8 组缠不清的留给人判。",
+   "de": "Full backup first, merge calls kept in her hands item by item, clearing nine years of duplicate and stale Nimble CRM contacts; 8 tangled groups left for her to judge."
   }
  ]
 }

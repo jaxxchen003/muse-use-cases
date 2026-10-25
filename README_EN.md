@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **173 cases** ｜ 🕐 **Last updated: 2026-10-25** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **177 cases** ｜ 🕐 **Last updated: 2026-10-26** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -31,11 +31,11 @@
 ## Categories
 
 - 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (42)
-- ✈️ [Travel](#️-travel) (21)
+- ✈️ [Travel](#️-travel) (22)
 - 🛒 [Shopping](#-shopping) (23)
-- ⚡ [Productivity · automation](#-productivity--automation) (46)
+- ⚡ [Productivity · automation](#-productivity--automation) (48)
 - 🎨 [Content · creation](#-content--creation) (15)
-- 🛠️ [Dev · building](#️-dev--building) (8)
+- 🛠️ [Dev · building](#️-dev--building) (9)
 - 💼 [Business · consumer rights](#-business--consumer-rights) (18)
 
 ---
@@ -167,6 +167,7 @@
 
 **153. Honeymoon booking emails turned into one master itinerary doc** ✅ — @matthew_verni (Matt Verni, X, 2026-10-19). Fed booking confirmation emails to Muse; it extracted every stay and flight, linked each with the original email and reservation number, and generated a single master doc ([Original post](https://x.com/matthew_verni/status/2112120235016716442)).
 
+**174. F1 Austin weekend handed to "Karl": addresses, times, transport and Mercedes priorities in one executable table** 🟡 — Wesley Breed (@wesly, verified IG creator, 330K followers, 2026-10-23). He named his Muse "Karl" (after Karl Benz) and had it plan an entire F1 Austin Grand Prix weekend — addresses, times, transport, plus Mercedes-related events ranked by priority. It returned a schedule he could walk through directly: Mercedes Fan Hub (400 Congress Ave), driving/parking tips and walkable stops in order; his video shows the on-site KIMI's queso e pepe food truck, an AMG GT show car, the Fan Hub with a real race car, simulators and a pit-stop challenge. His point: the agent's value isn't telling you what exists, it's handing you a table you can execute.
 
 
 ## 🛒 Shopping
@@ -311,6 +312,10 @@
 
 **173. Read all 2,240 of his Facebook posts, counted 16 Japan trips — 7 links miscopied, fixed by generating them programmatically** 🟡 — Wendell (17muse.com webmaster, in-site field test, 2026-10-22). To answer how many Japan trips he'd actually taken, he scheduled the job for 09:55 on 2026-10-20, right after the weekly token quota reset, and had Muse read all 2,240 posts across 113 pages back to his first post on 2009-09-03, counting one record per trip (first check-in only) and marking the undatable ones "uncertain" rather than guessing. Result: 16 trips from Kyoto/Osaka in September 2012 to Osaka/Koshien/Kyoto in June 2026, each with date, place and a representative post link. The first draft miscopied 7 of the 16 links (mostly one wrong character mid-URL); regenerating the list programmatically from the source data fixed all of them. The scan cost ~12M tokens, about 11% of the weekly free quota (a different cut of the same post archive as the "17-year life profile" case).
 
+**176. "Glimmer": an anti-procrastination buddy for an adult with ADHD — the listing backlog finally went live** 🟡 — Michelle Carpintero (Facebook group user, 2026-10-24). She named her Muse "Glimmer": appointment reminders plus unasked-but-useful nudges like recipe suggestions based on her earlier searches started appearing; and the product-listing backlog she had never shipped because "the background image, title and description all had to be done by hand" went out in a few listings with AI help. Her verdict: she finally feels productive. The post doesn't say what kind of products were listed, so no sales-effect endorsement.
+
+**177. A "9-year CRM shame" cleanout: 9,355 contacts audited down to 8,999** 🟡 — thedigitalgal (blogger, long post, 2026-10-21). Nine years of Nimble CRM contacts — duplicates, stale and expired entries — audited with Muse: full backup first, merge decisions always hers, item by item; 8 tangled conflict groups Muse didn't guess at, left for her to judge. Result: 289 duplicate groups merged, 356 duplicate entries deleted, the database cut from 9,355 to 8,999 contacts. Two honest footnotes in the same post: a stack of business cards now goes into the CRM by photo instead of dying in a drawer; and while Muse completed a flight purchase in her Alaska Airlines account, American Airlines' site blocked the agent as a bot.
+
 ## 🎨 Content · creation
 
 **59. Daily 8am AI-news podcast** — 于為暢 (Wei Chang Yu).
@@ -362,6 +367,8 @@
 **140. A swipe-through Instagram unfollow UI in 2 minutes** ✅ — @thatguybg. Built himself a Tinder-style interface for unfollowing people on Instagram in about two minutes, crediting Muse's native Instagram access rather than the model (https://x.com/thatguybg/status/2097454629839663173).
 
 **159. Remote bot install on a home laptop via SSH/Tailscale — phone only** ✅ — @OrbitalDesk (Dave the Bot-Despot, X, 2026-10-20). Away from home with only his phone; had Muse SSH (over Tailscale) into his home laptop, install Mausbot and hand back the phone-app setup info — then chatted with the new bot "Dumpling" straight from his phone ([Original post](https://x.com/OrbitalDesk/status/2112609284387488045)).
+
+**175. No good expense-splitting app? Have Muse build one: "Travel Expense Split"** 🟡 — Yuka Ohishi (@0oyukao0, IG, 27K followers, 2026-10-23). Fed up with split apps that were ad-heavy, complicated or paid, she had Muse build "Travel Expense Split": add expenses manually or snap a receipt photo for auto-entry; with Email and Messenger connected, Airbnb booking confirmations get pulled in automatically; the final split goes out to friends via Messenger. Her Muse avatar is "Pippi", modelled on her dog Pino. The concrete scene: a 2-night, 3-day trip with two friends where settling up is the painful part (she notes in her Threads post that the merchants and products shown are AI-generated suggestions, not Meta sponsorship).
 
 
 ## 💼 Business · consumer rights
@@ -420,6 +427,8 @@ Auto-updated daily at 00:00 (Beijing time).
 - Informational only; not consumer or investment advice
 
 ## 🗒️ Changelog
+
+- **2026-10-26**: 4 new cases added (real-user shares from cwybruce's Chinese daily digest issue 30, 2026-10-25, text-only: an F1 Austin weekend "Karl" executable itinerary, a built-on-the-spot "Travel Expense Split" app, an ADHD adult's "Glimmer" anti-procrastination buddy, and a "9-year CRM shame" cleanout from 9,355 to 8,999 contacts). Total: 177. Not included: howtousemuse's latest entry is still the 2026-10-23 condo-insurance quote (already excluded as unrealized); 17muse's 2026-10-25 "can you apply for a Muse email" self-Q&A (not a user use case); and issue 30's filtered items (promotional Japan-launch vlogs, lead-gen job auto-apply demo, Klook brand demo, token-usage discussion, a "Scout" repost).
 
 - **2026-10-25**: 8 new cases added (7 real-user shares from cwybruce's Chinese daily digest issues 28/29, 2026-10-22/23, text-only: 6 hours waiting for his kid clearing an estimated 80 hours of admin, a $5,844 Yohji Yamamoto "cart-squat" experiment on The RealReal, a new-city "Alfred" finding LA events and running a housewarming RSVP list, triple school-email reminders saving class photo day, "Scout" writing 7 professor cold emails with a research position confirmed 3 weeks later, a "$2,000/mo content researcher" replacement workflow, and "Scout" building a Zazzle print-on-demand store from zero in 6 weeks; plus a 17muse webmaster field test from 2026-10-22: 2,240 Facebook posts read to count 16 Japan trips, with 7 miscopied links fixed by programmatic generation). Total: 173. Not included: a new howtousemuse condo-insurance entry (quotes only, $5,200 vs $3,100, no policy or purchase — unrealized, excluded under the earlier Brady $84 future-plan rule) and a generic one-month testimonial from James Caulkins (no concrete outcome).
 
