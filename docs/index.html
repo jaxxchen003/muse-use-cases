@@ -363,7 +363,9 @@ let INVITES = [];
 function parseInvite(issue){
   const body = issue.body || "";
   const mCode = body.match(/###\s*你的 Muse 邀请码\s*\n+#?\s*([A-Za-z0-9]{4,12})/)
-             || issue.title.match(/\[邀请码\]\s*([A-Za-z0-9]{4,12})/);
+             || issue.title.match(/\[邀请码\]\s*([A-Za-z0-9]{4,12})/)
+             || issue.title.match(/(?:invite code|邀请码)[:：]\s*([A-Za-z0-9]{4,12})/i)
+             || body.match(/invite code[,\s]+(?:as invited[:：]?\s*)?([A-Za-z0-9]{4,12})/i);
   const mUsed = body.match(/###\s*已使用次数\s*\n+#?\s*(\d+)/);
   const mTotal = body.match(/###\s*邀请码总名额[^\n]*\s*\n+#?\s*(\d+)/);
   const mIntro = body.match(/###\s*一句话介绍\s*\n+#?\s*([^\n#]+)/);
