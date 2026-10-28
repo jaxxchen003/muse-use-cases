@@ -1,7 +1,7 @@
 {
  "meta": {
-  "count": 177,
-  "updated": "2026-10-26",
+  "count": 184,
+  "updated": "2026-10-29",
   "invite": "4P14HY",
   "repo": "https://github.com/jaxxchen003/muse-use-cases",
   "title": "Muse 实战案例库",
@@ -2345,6 +2345,97 @@
    "re": "289 groups merged, 356 entries deleted, 9,355 cut to 8,999",
    "d": "先完整备份、合并决定权在自己手里逐项批，9 年 Nimble CRM 攒下的重复过期联系人一次清仓；8 组缠不清的留给人判。",
    "de": "Full backup first, merge calls kept in her hands item by item, clearing nine years of duplicate and stale Nimble CRM contacts; 8 tangled groups left for her to judge."
+  },
+  {
+   "t": "结肠镜自付 $330 谈到 $0",
+   "te": "Colonoscopy copay negotiated from $330 to $0",
+   "c": "money",
+   "a": "Artem Russakovskii（@ArtemR，X，2026-10-27）",
+   "ae": "Artem Russakovskii (@ArtemR, X, 2026-10-27)",
+   "x": "https://x.com/ArtemR/status/2115136935002046559",
+   "b": "ok",
+   "r": "自付部分从 $330 降至 $0",
+   "re": "Patient share cut from $330 to $0",
+   "d": "收到医生办公室 $330 自付预估邮件后，让 Muse 研究并撰写回复交涉，诊所与保险核对后改价。",
+   "de": "After a $330 copay estimate email from the doctor's office, had Muse research and draft a reply; the clinic rechecked with insurance and repriced."
+  },
+  {
+   "t": "售罄 iPhone Duo 五分钟补货窗口抢到自提",
+   "te": "Sold-out iPhone Duo caught in a 5-minute restock window",
+   "c": "shopping",
+   "a": "Aman（@amanobviously，X，2026-10-27）",
+   "ae": "Aman (@amanobviously, X, 2026-10-27)",
+   "x": "https://x.com/amanobviously/status/2115177112240033825",
+   "b": "ok",
+   "r": "约 5 分钟补货窗口内抢到自提名额",
+   "re": "A pickup slot caught inside a roughly 5-minute restock window",
+   "d": "让 Muse 每 5 分钟查 Apple Canada 5 家门店、核对型号颜色存储，有货时 WhatsApp 提醒，自己预订并到 Pacific Centre 自提，不让 Muse 代买。",
+   "de": "Had Muse check 5 Apple Canada stores every 5 minutes for the exact model, color and storage; a WhatsApp alert on restock, then booked and picked up at Pacific Centre himself, with Muse explicitly not buying."
+  },
+  {
+   "t": "没开口就找到杂货优惠券，省 $32.17",
+   "te": "An unprompted grocery coupon saved $32.17",
+   "c": "shopping",
+   "a": "Bruno Munhoz（@brunomunhozCRO，X，2026-10-27）",
+   "ae": "Bruno Munhoz (@brunomunhozCRO, X, 2026-10-27)",
+   "x": "https://x.com/brunomunhozCRO/status/2114918626264580141",
+   "b": "ok",
+   "r": "省 $32.17",
+   "re": "$32.17 saved",
+   "d": "Muse 在未被要求的情况下主动找到一张优惠券，用在杂货购物上。",
+   "de": "Without being asked, Muse found a coupon and applied it to his grocery shop."
+  },
+  {
+   "t": "抽奖开奖 + 公布图一手包办",
+   "te": "Giveaway winners picked and the announcement graphic made",
+   "c": "productivity",
+   "a": "Bren（@brentradess，X，2026-10-27）",
+   "ae": "Bren (@brentradess, X, 2026-10-27)",
+   "x": "https://x.com/brentradess/status/2115141291600482569",
+   "b": "ok",
+   "r": "获奖者选出、公布图做好",
+   "re": "Winners drawn and the announcement graphic made",
+   "d": "在 X 上办 NFT 和 USDC 抽奖时，让 Muse 用 @xpickr picker 选出获奖者并制作公布图片。",
+   "de": "Running an NFT and USDC giveaway on X, had Muse use the @xpickr picker to draw winners and make the announcement graphic."
+  },
+  {
+   "t": "EMNLP 2026 获奖论文数出来：34 篇",
+   "te": "EMNLP 2026 award papers counted: 34",
+   "c": "productivity",
+   "a": "Matt C.（@matte_ce，X，2026-10-26）",
+   "ae": "Matt C. (@matte_ce, X, 2026-10-26)",
+   "x": "https://x.com/matte_ce/status/2114644685968879752",
+   "b": "ok",
+   "r": "34 篇获奖论文（上一年 12 篇）",
+   "re": "34 award papers (12 the year before)",
+   "d": "让 Muse 统计 EMNLP 2026 获奖论文：筛选会议日程 70 个 oral session，逐个打开数奖杯图标，附完整名单。",
+   "de": "Had Muse count EMNLP 2026 award papers by screening 70 oral sessions in the program, opening each and counting trophy icons, with a full list."
+  },
+  {
+   "t": "IG 收藏的歌全搬进 Spotify，一首不重",
+   "te": "Every song saved on Instagram moved to Spotify, no duplicates",
+   "c": "content",
+   "a": "Noble Soliform（@noblesoliform，X，2026-10-26）",
+   "ae": "Noble Soliform (@noblesoliform, X, 2026-10-26)",
+   "x": "https://x.com/noblesoliform/status/2114711497096208596",
+   "b": "ok",
+   "r": "收藏歌曲全量迁移、无重复",
+   "re": "All saved songs migrated, no duplicates",
+   "d": "让 Muse 找出自己在 Instagram 上保存的每首歌的歌名，全部加入 Spotify 曲库并去重。",
+   "de": "Muse identified every song he had saved on Instagram and added them all to his Spotify library with no duplicates."
+  },
+  {
+   "t": "品牌外联交给 Muse，免费拿到 mic 评测套装",
+   "te": "Brand outreach by Muse landed a free mic kit for review",
+   "c": "business",
+   "a": "Tim Brown（@TimBrown_CA，X，2026-10-26）",
+   "ae": "Tim Brown (@TimBrown_CA, X, 2026-10-26)",
+   "x": "https://x.com/TimBrown_CA/status/2114837722875527540",
+   "b": "ok",
+   "r": "品牌寄送 K688CT mic kit 供内容评测",
+   "re": "Brand sent a K688CT mic kit for content review",
+   "d": "让 Muse 代理负责与品牌 FIFINE 的外联和往来沟通，谈评测合作。",
+   "de": "His Muse handled outreach and follow-ups with the brand FIFINE, which sent a K688CT mic kit for him to review in his content."
   }
  ]
 }

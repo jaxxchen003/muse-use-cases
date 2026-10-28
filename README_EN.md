@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **177 cases** ｜ 🕐 **Last updated: 2026-10-26** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **184 cases** ｜ 🕐 **Last updated: 2026-10-29** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,13 +30,13 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (42)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (43)
 - ✈️ [Travel](#️-travel) (22)
-- 🛒 [Shopping](#-shopping) (23)
-- ⚡ [Productivity · automation](#-productivity--automation) (48)
-- 🎨 [Content · creation](#-content--creation) (15)
+- 🛒 [Shopping](#-shopping) (25)
+- ⚡ [Productivity · automation](#-productivity--automation) (50)
+- 🎨 [Content · creation](#-content--creation) (16)
 - 🛠️ [Dev · building](#️-dev--building) (9)
-- 💼 [Business · consumer rights](#-business--consumer-rights) (18)
+- 💼 [Business · consumer rights](#-business--consumer-rights) (19)
 
 ---
 
@@ -121,6 +121,9 @@
 **163. Car insurance $260 → $170: only Progressive lets the agent in** ✅ — @MikeCjunior (Mikejnr, X, 2026-10-21). Created a fresh email and handed Muse the "lower my insurance bill" task; several insurers' websites refused agent access and only Progressive let it work — the bill dropped from $260 to $170 a month (author's own claim; flagged as unverified self-report by howtousemuse) ([Original post](https://x.com/MikeCjunior/status/2113032044158894452)).
 **164. Muse called the loyalty team and cut $40 off the fiber bill** ✅ — @JamesCordrey2 (James Cordrey, X, 2026-10-22). Muse called the provider's loyalty/retention team directly to negotiate and handled the follow-up emails; first post of a thread, key facts up front ([Original post](https://x.com/JamesCordrey2/status/2113070700252525003)).
 **165. Home-insurance cross-channel comparison: Muse emailed agents, self-reported ~$400 saved** ✅ — @TechTradeBlue (X, 2026-10-22). Handed Muse the "shop my home insurance" task; it emailed multiple insurance agents for quotes and pulled quotes from several websites — self-reported savings of about $400 with better coverage (author's own claim; flagged as unverified self-report by howtousemuse) ([Original post](https://x.com/TechTradeBlue/status/2113086665690644806)).
+
+
+**178. Colonoscopy copay negotiated from $330 to $0** ✅ — Artem Russakovskii (@ArtemR, X, 2026-10-27). After a doctor's office email estimated his colonoscopy copay at $330, he had Muse research and draft a reply; the clinic rechecked with insurance and cut his share to $0 ([Original post](https://x.com/ArtemR/status/2115136935002046559)).
 
 
 ## ✈️ Travel
@@ -217,6 +220,11 @@
 **162. KSU/KU game-ticket price watchdog: $892 → $500, $392 saved** ✅ — @BradyHannaKC (Brady Hanna, X, 2026-10-21). Asked Muse to monitor ticket prices daily and scan Facebook ticket groups hourly; a week before the game it found 4 lower-level tickets for $500 and he bought them on the spot ([Original post](https://x.com/BradyHannaKC/status/2112961536168005898)).
 
 **167. AI let loose on a luxury resale site: $5,844 of Yohji Yamamoto "cart-squatted" piece by piece** 🟡 — Mia Sato (@miasato.2, verified IG creator, 2026-10-22). Her "social experiment": send Muse to The RealReal's Women's Yohji Yamamoto section daily and add the 10 newest listings to the cart. The site's rule — an item in the bag is locked for 20 minutes — meant Muse was effectively holding stock away from other buyers; at peak 9 items totalling $5,844.50, then released and re-grabbed each round. Her verdict: "watching AI compete with real people feels genius and demonic at once"; The Verge reported the same week that retailers are getting wary of shopping agents.
+
+**179. Sold-out iPhone Duo caught in a 5-minute restock window** ✅ — Aman (@amanobviously, X, 2026-10-27). He had Muse check 5 Apple Canada stores in BC every 5 minutes for the exact model, color and storage; a WhatsApp alert arrived when one store restocked, and he booked and picked it up at Pacific Centre himself, with Muse explicitly not buying on his behalf ([Original post](https://x.com/amanobviously/status/2115177112240033825)).
+
+**180. An unprompted grocery coupon saved $32.17** ✅ — Bruno Munhoz (@brunomunhozCRO, X, 2026-10-27). Without being asked, Muse found a coupon and applied it to his grocery shop, saving $32.17 ([Original post](https://x.com/brunomunhozCRO/status/2114918626264580141)).
+
 
 ## ⚡ Productivity · automation
 
@@ -316,6 +324,11 @@
 
 **177. A "9-year CRM shame" cleanout: 9,355 contacts audited down to 8,999** 🟡 — thedigitalgal (blogger, long post, 2026-10-21). Nine years of Nimble CRM contacts — duplicates, stale and expired entries — audited with Muse: full backup first, merge decisions always hers, item by item; 8 tangled conflict groups Muse didn't guess at, left for her to judge. Result: 289 duplicate groups merged, 356 duplicate entries deleted, the database cut from 9,355 to 8,999 contacts. Two honest footnotes in the same post: a stack of business cards now goes into the CRM by photo instead of dying in a drawer; and while Muse completed a flight purchase in her Alaska Airlines account, American Airlines' site blocked the agent as a bot.
 
+**181. Giveaway winners picked and the announcement graphic made** ✅ — Bren (@brentradess, X, 2026-10-27). Running an NFT and USDC giveaway on X, his Muse used the @xpickr picker to draw winners and made the announcement graphic ([Original post](https://x.com/brentradess/status/2115141291600482569)).
+
+**182. EMNLP 2026 award papers counted: 34** ✅ — Matt C. (@matte_ce, X, 2026-10-26). He had Muse count EMNLP 2026 award papers by screening 70 oral sessions in the program, opening each and counting trophy icons, with a full list — 34 award papers, up from 12 the year before ([Original post](https://x.com/matte_ce/status/2114644685968879752)).
+
+
 ## 🎨 Content · creation
 
 **59. Daily 8am AI-news podcast** — 于為暢 (Wei Chang Yu).
@@ -346,6 +359,9 @@
 **138. Four prompt iterations to a finished animation** ✅ — @seanfgates (X, 2026-10-18). Had Muse make an animation, iterating with simple prompts four times; the post includes the finished video ([Original post](https://x.com/seanfgates/status/2111627201816736240)).
 
 **154. Three raw clips edited into a church auction promo video** ✅ — @vibgyj (Vibgy Joseph, X, 2026-10-16). Recorded 3 clips for a church silent-auction gift basket and asked Muse to edit them, add music and vary the speed; the finished video is posted ([Original post](https://x.com/vibgyj/status/2111181542827397380)).
+
+
+**183. Every song saved on Instagram moved to Spotify, no duplicates** ✅ — Noble Soliform (@noblesoliform, X, 2026-10-26). Muse identified every song he had saved on Instagram and added them all to his Spotify library with no duplicates ([Original post](https://x.com/noblesoliform/status/2114711497096208596)).
 
 
 ## 🛠️ Dev · building
@@ -411,6 +427,9 @@
 **172. "Scout" in 6 weeks: a Zazzle print-on-demand store built from zero, plus subscription watch and a debt plan** 🟡 — A Facebook creator (6.3K followers, 2026-10-22). Six weeks after discovering Muse she named it "Scout" and had it build a Zazzle print-on-demand store from scratch (AI-generated designs, pricing, listings all through it), manage multiple email accounts, watch gym and Disney+ subscriptions, and draw up a debt-repayment plan — asking her permission before each step. Recorded as a filmed walkthrough, not an endorsement of results (the video carries a referral-code hook).
 
 
+**184. Brand outreach by Muse landed a free mic kit for review** ✅ — Tim Brown (@TimBrown_CA, X, 2026-10-26). His Muse handled outreach and follow-ups with the brand FIFINE, which sent a K688CT mic kit for him to review in his content ([Original post](https://x.com/TimBrown_CA/status/2114837722875527540)).
+
+
 ## 🤝 Contribute
 
 1. **Share your use case**: open an Issue with the "Share a use case" template — **X shares only**, include the X post link; added after verification (the daily auto-update processes them too)
@@ -427,6 +446,8 @@ Auto-updated daily at 00:00 (Beijing time).
 - Informational only; not consumer or investment advice
 
 ## 🗒️ Changelog
+
+- **2026-10-29**: 7 new cases added (X shares from aisolutionvault's Oct 28 new cards, cross-checked by X link plus post-ID timestamp against the card date: a colonoscopy copay negotiated from $330 to $0, a sold-out iPhone Duo caught in a 5-minute restock window, an unprompted grocery coupon saving $32.17, Instagram saved songs moved to Spotify with no duplicates, giveaway winners picked plus an announcement graphic, EMNLP 2026 award papers counted at 34, and brand outreach landing a free mic review kit). Total: 184. Not included: 3 non-X cards from the same batch (a forum warrants spreadsheet rebuild, Facebook group sketch cards and a Search Console diary); an X post about deleting all of one's tweets (destructive, no benefit); a stock-news heads-up post (a single alert, no measurable outcome); 17muse's Oct 28 Search Console note and Oct 27 quote cards (site-owner content, not X shares, no clear result number); shipwithmuse/musecases/messagingagents showed no verifiable in-window additions (front consumer cards were mostly already-listed cases or undated).
 
 - **2026-10-26**: 4 new cases added (real-user shares from cwybruce's Chinese daily digest issue 30, 2026-10-25, text-only: an F1 Austin weekend "Karl" executable itinerary, a built-on-the-spot "Travel Expense Split" app, an ADHD adult's "Glimmer" anti-procrastination buddy, and a "9-year CRM shame" cleanout from 9,355 to 8,999 contacts). Total: 177. Not included: howtousemuse's latest entry is still the 2026-10-23 condo-insurance quote (already excluded as unrealized); 17muse's 2026-10-25 "can you apply for a Muse email" self-Q&A (not a user use case); and issue 30's filtered items (promotional Japan-launch vlogs, lead-gen job auto-apply demo, Klook brand demo, token-usage discussion, a "Scout" repost).
 
