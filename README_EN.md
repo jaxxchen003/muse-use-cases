@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **190 cases** ｜ 🕐 **Last updated: 2026-10-31** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **193 cases** ｜ 🕐 **Last updated: 2026-10-31** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -32,8 +32,8 @@
 
 - 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (44)
 - ✈️ [Travel](#️-travel) (22)
-- 🛒 [Shopping](#-shopping) (26)
-- ⚡ [Productivity · automation](#-productivity--automation) (52)
+- 🛒 [Shopping](#-shopping) (28)
+- ⚡ [Productivity · automation](#-productivity--automation) (53)
 - 🎨 [Content · creation](#-content--creation) (16)
 - 🛠️ [Dev · building](#️-dev--building) (11)
 - 💼 [Business · consumer rights](#-business--consumer-rights) (19)
@@ -229,6 +229,10 @@
 
 **185. Tire order handled start to finish, $223 under the local quote** ✅ — Chris (@ChrisTwiggsPM, X, 2026-10-29). He handed the tire order to Muse end to end, from ordering to shipping and installation, $223 under the local quote ([Original post](https://x.com/ChrisTwiggsPM/status/2115804460668665952)).
 
+**192. First Marketplace sale: negotiation, pickup scheduling, progress updates** ✅ — Larry Welnowski Jr. (@plasticboss, X, 2026-10-28). Muse helped him sell his first item on Facebook Marketplace: negotiating with the buyer, arranging pickup time and reporting progress ([Original post](https://x.com/plasticboss/status/2115486337373507869)). The post names no item or sale price.
+
+**193. Agent Sparky runs Marketplace, two more Ruggable items sold** ✅ — Shams Muhammad (@ShamsETubriz, X, 2026-10-29). His Muse agent Sparky ran his Facebook Marketplace selling while he focused on TikTok live selling, and two more Ruggable items sold with almost no effort from him ([Original post](https://x.com/ShamsETubriz/status/2115890606304035194)). The post names no sale price.
+
 
 ## ⚡ Productivity · automation
 
@@ -334,7 +338,9 @@
 
 **188. Instagram event posts sorted into separate calendar files** ✅ — charles (@charlesrcrvbc, X, 2026-10-29). Muse sorted event posts from Instagram into separate calendar files ([Original post](https://x.com/charlesrcrvbc/status/2115897985313976661)).
 
-**189. Lab order pulled up when the lab's system was down** ✅ — Sam Cultman (@NathanielJonesX, X, 2026-10-29). With the lab's system down, Muse pulled up his lab order and saved the visit ([Original post](https://x.com/NathanielJonesX/status/2115859253647089921)).
+**189. Lab order pulled up when the lab's system was down** ✅ — Sam Cultman (@NathanielJonesX, X, 2026-10-29). With the lab's system down, Muse pulled up his lab order for the staff ([Original post](https://x.com/NathanielJonesX/status/2115859253647089921)). The post does not explicitly say whether the test itself was then completed.
+
+**191. Family-tree project: Ancestry first pass, multi-database checks, archive letters** ✅ — aburd (@aburd, X, 2026-10-28). Muse worked through his Ancestry material and open questions, cross-checked with newspapers.com and Fold3 subscriptions, verified more on FamilySearch, and wrote to state and local archives with forms and a $107 money order, producing a sourced family tree estimated at about $160–$170 for the whole project ([Original post](https://x.com/aburd/status/2115462217030045899)).
 
 
 ## 🎨 Content · creation
@@ -460,6 +466,7 @@ Auto-updated daily at 00:00 (Beijing time).
 ## 🗒️ Changelog
 
 - **2026-10-31**: 6 new cases added (X shares from aisolutionvault's Oct 30 new cards, cross-checked by X link plus post-ID timestamp against the card date: a tire order handled end to end $223 under the local quote, a company rebrand with a new logo, website reskin and DNS changes saving an estimated $7,000–$10,000, wrong-language movie tickets caught with a refund letter and refund received, Instagram event posts sorted into separate calendar files, a lab order pulled up when the lab's system was down, and two AI agents setting up their own chat channel with a safe word). Total: 190. Not included: 4 non-X cards from the same batch (a Facebook group post, two YouTube posts, a Hacker News post); 3 X cards held or excluded (a family-tree card and a Marketplace-selling card each bundling two X posts that cannot be confirmed as one job or two from the card alone, pending original-post reads; a spam-text TCPA card logging only possible claims with nothing filed or paid); cwybruce issue 35's 4 cases were all Instagram/Threads (not X shares); 17muse's Oct 30 items were site-owner content (not X shares); messagingagents/musecases/howtousemuse/shipwithmuse showed no verifiable in-window additions; the jasonlk post is dated 2026-10-19 and was newly surfaced by the Oct 30 batch (date noted in the entry).
+- **2026-10-31 (supplement)**: 3 more cases added (the original-post reads that arrived after the first push resolved the two held merged cards: the family-tree and Marketplace cards each turned out to be two different people's separate jobs, and the @aburd family-tree project, the @plasticboss first Marketplace sale and the @ShamsETubriz two Ruggable sales all have clear realized outcomes, each confirmed by reading the original post; the @congressdj family-tree post states no concrete outcome and the @sethrose TCPA post's $500–$1,500 is a possible per-violation figure, not money recovered, so both stay excluded). Total: 193. Case 189's wording was also tightened: the lab order was retrieved and the stuck step unblocked, but the post does not explicitly say the test itself was then completed.
 
 - **2026-10-29**: 7 new cases added (X shares from aisolutionvault's Oct 28 new cards, cross-checked by X link plus post-ID timestamp against the card date: a colonoscopy copay negotiated from $330 to $0, a sold-out iPhone Duo caught in a 5-minute restock window, an unprompted grocery coupon saving $32.17, Instagram saved songs moved to Spotify with no duplicates, giveaway winners picked plus an announcement graphic, EMNLP 2026 award papers counted at 34, and brand outreach landing a free mic review kit). Total: 184. Not included: 3 non-X cards from the same batch (a forum warrants spreadsheet rebuild, Facebook group sketch cards and a Search Console diary); an X post about deleting all of one's tweets (destructive, no benefit); a stock-news heads-up post (a single alert, no measurable outcome); 17muse's Oct 28 Search Console note and Oct 27 quote cards (site-owner content, not X shares, no clear result number); shipwithmuse/musecases/messagingagents showed no verifiable in-window additions (front consumer cards were mostly already-listed cases or undated).
 

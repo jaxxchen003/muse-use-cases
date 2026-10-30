@@ -1,6 +1,6 @@
 {
   "meta": {
-    "count": 190,
+    "count": 193,
     "updated": "2026-10-31",
     "invite": "4P14HY",
     "repo": "https://github.com/jaxxchen003/muse-use-cases",
@@ -2490,15 +2490,15 @@
       "de": "Sorted event posts from Instagram into separate calendar files."
     },
     {
-      "t": "化验室系统宕机，Muse 调出化验单保住行程",
+      "t": "化验室系统宕机，Muse 调出化验单",
       "te": "Lab order pulled up when the lab's system was down",
       "c": "productivity",
       "a": "Sam Cultman（@NathanielJonesX，X，2026-10-29）",
       "ae": "Sam Cultman (@NathanielJonesX, X, 2026-10-29)",
       "x": "https://x.com/NathanielJonesX/status/2115859253647089921",
       "b": "ok",
-      "r": "化验行程得以继续，不用白跑一趟",
-      "re": "The lab visit went ahead instead of being wasted",
+      "r": "化验单被调出，现场卡住的环节得以打通",
+      "re": "Lab order retrieved when the system was down",
       "d": "化验室系统宕机时，让 Muse 调出自己的化验单。",
       "de": "With the lab's system down, Muse pulled up the lab order."
     },
@@ -2514,6 +2514,45 @@
       "re": "Agent-to-agent channel working, with a human-approval guardrail in place first",
       "d": "他的 Muse 与自建的 AI 助手 10K 直接协作：两个 agent 自建聊天通道，约定安全词与人工批准护栏。",
       "de": "His Muse and a self-built agent set up their own chat channel, agreeing a safe word and a human-approval guardrail."
+    },
+    {
+      "t": "家谱项目：Ancestry 起手、多库核对、州档案馆发函",
+      "te": "Family-tree project: Ancestry first pass, multi-database checks, archive letters",
+      "c": "productivity",
+      "a": "aburd（@aburd，X，2026-10-28）",
+      "ae": "aburd (@aburd, X, 2026-10-28)",
+      "x": "https://x.com/aburd/status/2115462217030045899",
+      "b": "ok",
+      "r": "已做出有来源的家谱，预计整个项目花费约 $160–$170",
+      "re": "Sourced family tree produced, whole project estimated at about $160–$170",
+      "d": "先让 Muse 梳理 Ancestry 资料并列出待查问题，再用 newspapers.com 与 Fold3 订阅核对扩充，到 FamilySearch 核实，还向多地州和地方档案馆发邮件、填表，并附 $107 汇票索取资料。",
+      "de": "Muse worked through his Ancestry material and open questions, cross-checked with newspapers.com and Fold3 subscriptions, verified more on FamilySearch, and wrote to state and local archives with forms and a $107 money order."
+    },
+    {
+      "t": "Marketplace 卖出第一件商品：议价、约取货、全程汇报",
+      "te": "First Marketplace sale: negotiation, pickup scheduling, progress updates",
+      "c": "shopping",
+      "a": "Larry Welnowski Jr.（@plasticboss，X，2026-10-28）",
+      "ae": "Larry Welnowski Jr. (@plasticboss, X, 2026-10-28)",
+      "x": "https://x.com/plasticboss/status/2115486337373507869",
+      "b": "ok",
+      "r": "第一件商品卖出",
+      "re": "First item sold",
+      "d": "Muse 帮他在 Facebook Marketplace 卖货：与买家议价、约定取货时间，并向他汇报进展。",
+      "de": "Muse helped him sell on Facebook Marketplace: negotiating with the buyer, arranging pickup time and reporting progress."
+    },
+    {
+      "t": "代理 Sparky 打理 Marketplace，又卖出两件 Ruggable 商品",
+      "te": "Agent Sparky runs Marketplace, two more Ruggable items sold",
+      "c": "shopping",
+      "a": "Shams Muhammad（@ShamsETubriz，X，2026-10-29）",
+      "ae": "Shams Muhammad (@ShamsETubriz, X, 2026-10-29)",
+      "x": "https://x.com/ShamsETubriz/status/2115890606304035194",
+      "b": "ok",
+      "r": "又卖出两件 Ruggable 商品，本人几乎没有费力",
+      "re": "Two more Ruggable items sold with almost no effort from him",
+      "d": "他的 Muse 代理 Sparky 替他打理 Facebook Marketplace，他本人忙于 TikTok 直播销售业务。",
+      "de": "His Muse agent Sparky ran his Facebook Marketplace selling while he focused on TikTok live selling."
     }
   ]
 }
