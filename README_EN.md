@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **184 cases** ｜ 🕐 **Last updated: 2026-10-29** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **190 cases** ｜ 🕐 **Last updated: 2026-10-31** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,12 +30,12 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (43)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (44)
 - ✈️ [Travel](#️-travel) (22)
-- 🛒 [Shopping](#-shopping) (25)
-- ⚡ [Productivity · automation](#-productivity--automation) (50)
+- 🛒 [Shopping](#-shopping) (26)
+- ⚡ [Productivity · automation](#-productivity--automation) (52)
 - 🎨 [Content · creation](#-content--creation) (16)
-- 🛠️ [Dev · building](#️-dev--building) (9)
+- 🛠️ [Dev · building](#️-dev--building) (11)
 - 💼 [Business · consumer rights](#-business--consumer-rights) (19)
 
 ---
@@ -124,6 +124,8 @@
 
 
 **178. Colonoscopy copay negotiated from $330 to $0** ✅ — Artem Russakovskii (@ArtemR, X, 2026-10-27). After a doctor's office email estimated his colonoscopy copay at $330, he had Muse research and draft a reply; the clinic rechecked with insurance and cut his share to $0 ([Original post](https://x.com/ArtemR/status/2115136935002046559)).
+
+**187. Wrong-language movie tickets caught, refund letter drafted, refund received** ✅ — Greg Uspensky (@GregoryUspensky, X, 2026-10-28). Muse caught unprompted that his movie tickets were in the wrong language, drafted the refund letter, the refund came through and he bought the right tickets ([Original post](https://x.com/GregoryUspensky/status/2115406430408773870)).
 
 
 ## ✈️ Travel
@@ -224,6 +226,8 @@
 **179. Sold-out iPhone Duo caught in a 5-minute restock window** ✅ — Aman (@amanobviously, X, 2026-10-27). He had Muse check 5 Apple Canada stores in BC every 5 minutes for the exact model, color and storage; a WhatsApp alert arrived when one store restocked, and he booked and picked it up at Pacific Centre himself, with Muse explicitly not buying on his behalf ([Original post](https://x.com/amanobviously/status/2115177112240033825)).
 
 **180. An unprompted grocery coupon saved $32.17** ✅ — Bruno Munhoz (@brunomunhozCRO, X, 2026-10-27). Without being asked, Muse found a coupon and applied it to his grocery shop, saving $32.17 ([Original post](https://x.com/brunomunhozCRO/status/2114918626264580141)).
+
+**185. Tire order handled start to finish, $223 under the local quote** ✅ — Chris (@ChrisTwiggsPM, X, 2026-10-29). He handed the tire order to Muse end to end, from ordering to shipping and installation, $223 under the local quote ([Original post](https://x.com/ChrisTwiggsPM/status/2115804460668665952)).
 
 
 ## ⚡ Productivity · automation
@@ -328,6 +332,10 @@
 
 **182. EMNLP 2026 award papers counted: 34** ✅ — Matt C. (@matte_ce, X, 2026-10-26). He had Muse count EMNLP 2026 award papers by screening 70 oral sessions in the program, opening each and counting trophy icons, with a full list — 34 award papers, up from 12 the year before ([Original post](https://x.com/matte_ce/status/2114644685968879752)).
 
+**188. Instagram event posts sorted into separate calendar files** ✅ — charles (@charlesrcrvbc, X, 2026-10-29). Muse sorted event posts from Instagram into separate calendar files ([Original post](https://x.com/charlesrcrvbc/status/2115897985313976661)).
+
+**189. Lab order pulled up when the lab's system was down** ✅ — Sam Cultman (@NathanielJonesX, X, 2026-10-29). With the lab's system down, Muse pulled up his lab order and saved the visit ([Original post](https://x.com/NathanielJonesX/status/2115859253647089921)).
+
 
 ## 🎨 Content · creation
 
@@ -385,6 +393,10 @@
 **159. Remote bot install on a home laptop via SSH/Tailscale — phone only** ✅ — @OrbitalDesk (Dave the Bot-Despot, X, 2026-10-20). Away from home with only his phone; had Muse SSH (over Tailscale) into his home laptop, install Mausbot and hand back the phone-app setup info — then chatted with the new bot "Dumpling" straight from his phone ([Original post](https://x.com/OrbitalDesk/status/2112609284387488045)).
 
 **175. No good expense-splitting app? Have Muse build one: "Travel Expense Split"** 🟡 — Yuka Ohishi (@0oyukao0, IG, 27K followers, 2026-10-23). Fed up with split apps that were ad-heavy, complicated or paid, she had Muse build "Travel Expense Split": add expenses manually or snap a receipt photo for auto-entry; with Email and Messenger connected, Airbnb booking confirmations get pulled in automatically; the final split goes out to friends via Messenger. Her Muse avatar is "Pippi", modelled on her dog Pino. The concrete scene: a 2-night, 3-day trip with two friends where settling up is the painful part (she notes in her Threads post that the merchants and products shown are AI-generated suggestions, not Meta sponsorship).
+
+**186. Company rebrand: new logo, website reskin and DNS changes** ✅ — Texas Pragmacrat (@texaspragmacrat, X, 2026-10-28). Muse handled a full company rebrand — a new logo, a website reskin and DNS changes — saving an estimated $7,000 to $10,000 by the author's estimate ([Original post](https://x.com/texaspragmacrat/status/2115486204405977561)).
+
+**190. Two AI agents set up their own chat channel, with a safe word** ✅ — Jason Lemkin (@jasonlk, X, 2026-10-19). His Muse and a self-built agent set up their own chat channel, with a human-approval guardrail and a safe word agreed between them ([Original post](https://x.com/jasonlk/status/2112247910750367905)). Note: post dated 2026-10-19, newly surfaced in aisolutionvault's Oct 30 new-card batch.
 
 
 ## 💼 Business · consumer rights
@@ -446,6 +458,8 @@ Auto-updated daily at 00:00 (Beijing time).
 - Informational only; not consumer or investment advice
 
 ## 🗒️ Changelog
+
+- **2026-10-31**: 6 new cases added (X shares from aisolutionvault's Oct 30 new cards, cross-checked by X link plus post-ID timestamp against the card date: a tire order handled end to end $223 under the local quote, a company rebrand with a new logo, website reskin and DNS changes saving an estimated $7,000–$10,000, wrong-language movie tickets caught with a refund letter and refund received, Instagram event posts sorted into separate calendar files, a lab order pulled up when the lab's system was down, and two AI agents setting up their own chat channel with a safe word). Total: 190. Not included: 4 non-X cards from the same batch (a Facebook group post, two YouTube posts, a Hacker News post); 3 X cards held or excluded (a family-tree card and a Marketplace-selling card each bundling two X posts that cannot be confirmed as one job or two from the card alone, pending original-post reads; a spam-text TCPA card logging only possible claims with nothing filed or paid); cwybruce issue 35's 4 cases were all Instagram/Threads (not X shares); 17muse's Oct 30 items were site-owner content (not X shares); messagingagents/musecases/howtousemuse/shipwithmuse showed no verifiable in-window additions; the jasonlk post is dated 2026-10-19 and was newly surfaced by the Oct 30 batch (date noted in the entry).
 
 - **2026-10-29**: 7 new cases added (X shares from aisolutionvault's Oct 28 new cards, cross-checked by X link plus post-ID timestamp against the card date: a colonoscopy copay negotiated from $330 to $0, a sold-out iPhone Duo caught in a 5-minute restock window, an unprompted grocery coupon saving $32.17, Instagram saved songs moved to Spotify with no duplicates, giveaway winners picked plus an announcement graphic, EMNLP 2026 award papers counted at 34, and brand outreach landing a free mic review kit). Total: 184. Not included: 3 non-X cards from the same batch (a forum warrants spreadsheet rebuild, Facebook group sketch cards and a Search Console diary); an X post about deleting all of one's tweets (destructive, no benefit); a stock-news heads-up post (a single alert, no measurable outcome); 17muse's Oct 28 Search Console note and Oct 27 quote cards (site-owner content, not X shares, no clear result number); shipwithmuse/musecases/messagingagents showed no verifiable in-window additions (front consumer cards were mostly already-listed cases or undated).
 
