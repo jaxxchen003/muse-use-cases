@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **193 cases** ｜ 🕐 **Last updated: 2026-10-31** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **202 cases** ｜ 🕐 **Last updated: 2026-11-03** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,13 +30,13 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (44)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (46)
 - ✈️ [Travel](#️-travel) (22)
-- 🛒 [Shopping](#-shopping) (28)
-- ⚡ [Productivity · automation](#-productivity--automation) (53)
+- 🛒 [Shopping](#-shopping) (30)
+- ⚡ [Productivity · automation](#-productivity--automation) (55)
 - 🎨 [Content · creation](#-content--creation) (16)
-- 🛠️ [Dev · building](#️-dev--building) (11)
-- 💼 [Business · consumer rights](#-business--consumer-rights) (19)
+- 🛠️ [Dev · building](#️-dev--building) (13)
+- 💼 [Business · consumer rights](#-business--consumer-rights) (20)
 
 ---
 
@@ -127,6 +127,11 @@
 
 **187. Wrong-language movie tickets caught, refund letter drafted, refund received** ✅ — Greg Uspensky (@GregoryUspensky, X, 2026-10-28). Muse caught unprompted that his movie tickets were in the wrong language, drafted the refund letter, the refund came through and he bought the right tickets ([Original post](https://x.com/GregoryUspensky/status/2115406430408773870)).
 
+
+
+**199. Discount code hunted before a subscription renewal: $50 off Monarch** ✅ — Julian Norton (@JulianNorton, X, 2026-11-01). Before renewing his Monarch subscription he had Muse find a working discount code and test it before paying — $50 saved, and he says Muse has already paid for itself ([Original post](https://x.com/JulianNorton/status/2116710782725652562)).
+
+**201. FTC Amazon settlement $12.99 chased all the way to PayPal** ✅ — André (@andr3barroso, X, 2026-10-31). After receiving an FTC Amazon settlement check in September he handed the follow-up to Muse, which kept pushing until the $12.99 landed in his PayPal while he was at work ([Original post](https://x.com/andr3barroso/status/2116530634382340242)).
 
 ## ✈️ Travel
 
@@ -233,6 +238,11 @@
 
 **193. Agent Sparky runs Marketplace, two more Ruggable items sold** ✅ — Shams Muhammad (@ShamsETubriz, X, 2026-10-29). His Muse agent Sparky ran his Facebook Marketplace selling while he focused on TikTok live selling, and two more Ruggable items sold with almost no effort from him ([Original post](https://x.com/ShamsETubriz/status/2115890606304035194)). The post names no sale price.
 
+
+
+**197. Print shops called in parallel: poster quoted at $115 with tax, pickup time set** ✅ — Nijansh (@nijansh, X, 2026-10-31). Needing a large conference poster printed and getting no reply to emailed quotes, he had Muse call three Sunnyvale print shops: FedEx Office got stuck in a phone menu, a second shop's call transcript showed an abusive interruption, and Oakmead Printing confirmed the specs, quoted $115 including tax and set pickup timing ([Original post](https://x.com/nijansh/status/2116566709016662287)).
+
+**198. Grocery app coupons clipped so he never opens the app** ✅ — S D Winkler (@sdwinkler, X, 2026-10-31). Before his grocery run he had Muse open his grocery store account and clip every digital coupon matching his usual buys, so he gets the best prices without opening the app himself ([Original post](https://x.com/sdwinkler/status/2116559019376865508)).
 
 ## ⚡ Productivity · automation
 
@@ -343,6 +353,11 @@
 **191. Family-tree project: Ancestry first pass, multi-database checks, archive letters** ✅ — aburd (@aburd, X, 2026-10-28). Muse worked through his Ancestry material and open questions, cross-checked with newspapers.com and Fold3 subscriptions, verified more on FamilySearch, and wrote to state and local archives with forms and a $107 money order, producing a sourced family tree estimated at about $160–$170 for the whole project ([Original post](https://x.com/aburd/status/2115462217030045899)).
 
 
+
+**195. Spam callers from voicemail reported to the FCC in bulk** ✅ — Aaron Ng (@localghost, X, 2026-11-01). He asked Muse to do something about spam calls; it went through his voicemail and recent calls and filed FCC complaints against the hundreds of spam callers in it ([Original post](https://x.com/localghost/status/2116932093351727197)).
+
+**196. Front-door replacement quotes from local contractors: $7,500–$17,000** ✅ — Derek Reynolds (@derekreyn22, X, 2026-10-31). He gave Muse the specs and photos for a new front door; it found local contractors, emailed them and filled out their web quote forms, and quotes so far run from $7,500 to $17,000 ([Original post](https://x.com/derekreyn22/status/2116579704110985606)).
+
 ## 🎨 Content · creation
 
 **59. Daily 8am AI-news podcast** — 于為暢 (Wei Chang Yu).
@@ -405,6 +420,11 @@
 **190. Two AI agents set up their own chat channel, with a safe word** ✅ — Jason Lemkin (@jasonlk, X, 2026-10-19). His Muse and a self-built agent set up their own chat channel, with a human-approval guardrail and a safe word agreed between them ([Original post](https://x.com/jasonlk/status/2112247910750367905)). Note: post dated 2026-10-19, newly surfaced in aisolutionvault's Oct 30 new-card batch.
 
 
+
+**200. 30+ WordPress plugin updates tested one by one on a staging site** ✅ — Guy Malachi (@guy, X, 2026-10-31). He had let 30+ plugin updates pile up for months; with access to his staging site, Muse applied them one at a time, tested each against the edge cases he listed, and replaced an abandoned plugin with new code — saving him about 2 days of work every few weeks ([Original post](https://x.com/guy/status/2116394420824408138)).
+
+**202. iOS app built from scratch, LCARS theme toggle added the next day** ✅ — Mr-Quiyst (@MrQuiyst, X, 2026-10-31). He had Muse build an iOS app from scratch and says it did a decent job; the next day he had it add a Star Trek-style LCARS interface as a toggle option, and says it nailed it ([Original post](https://x.com/MrQuiyst/status/2116598527635927165)).
+
 ## 💼 Business · consumer rights
 
 **70. Plumbing company morning ops on autopilot** 🟡 — Jon ONeill (@HouseHackerJon). One 6am message from bed: job board updated, customer texted, office manager briefed on Slack before 8am.
@@ -448,6 +468,9 @@
 **184. Brand outreach by Muse landed a free mic kit for review** ✅ — Tim Brown (@TimBrown_CA, X, 2026-10-26). His Muse handled outreach and follow-ups with the brand FIFINE, which sent a K688CT mic kit for him to review in his content ([Original post](https://x.com/TimBrown_CA/status/2114837722875527540)).
 
 
+
+**194. Small-claims suit over an unpaid contract: settled 20 minutes after service, paid within ten days** ✅ — Phillip Jackson (@philwinkle, X, 2026-10-30). His three-person company had chased another company since March over a defaulted contract; he had Muse prepare the Florida small-claims filing (he signed and submitted it himself), the clerk issued a summons two days later, the company offered a settlement within 20 minutes of being served, and within ten days it paid in full plus recovery expenses; Muse then drafted the motion to dismiss, which the court accepted ([Original post](https://x.com/philwinkle/status/2116180121447014434)). Note: held in the two previous rounds for lack of a direct X link; admitted this round after the aggregator's new card supplied the link and the post-ID timestamp (2026-10-30) cross-checked against the InShorts Oct 31 report and the All Things Muse filing timeline.
+
 ## 🤝 Contribute
 
 1. **Share your use case**: open an Issue with the "Share a use case" template — **X shares only**, include the X post link; added after verification (the daily auto-update processes them too)
@@ -464,6 +487,8 @@ Auto-updated daily at 00:00 (Beijing time).
 - Informational only; not consumer or investment advice
 
 ## 🗒️ Changelog
+
+- **2026-11-03**: 9 new cases added (X shares from aisolutionvault's Nov 2 new cards, cross-checked by X link plus post-ID timestamp against the card date: a small-claims suit over an unpaid contract settled 20 minutes after service and paid within ten days; spam callers from voicemail reported to the FCC in bulk; front-door replacement quotes from local contractors at $7,500–$17,000; print shops called in parallel for a $115 poster quote with tax; grocery app coupons clipped without opening the app; a Monarch discount code saving $50; 30+ WordPress plugin updates tested on a staging site; an FTC Amazon settlement of $12.99 chased to PayPal; an iOS app built from scratch with an LCARS theme toggle). Total: 202. The small-claims case was held in the two previous rounds for lack of a direct X link and is admitted now that the @philwinkle link cross-checks against the InShorts report and the All Things Muse filing timeline. Not included: 5 non-X cards from the same batch (Facebook group cleaning-company ops, a blogging workflow, YouTube uploads, a Medium home-server post, a Facebook group ID-photo watermark); cwybruce issue 38's only user case was a Threads video (not an X share); 17muse/messagingagents/musecases/howtousemuse/shipwithmuse showed no verifiable in-window additions; Issues still hold only 2 invite-code posts, no new case submissions.
 
 - **2026-10-31**: 6 new cases added (X shares from aisolutionvault's Oct 30 new cards, cross-checked by X link plus post-ID timestamp against the card date: a tire order handled end to end $223 under the local quote, a company rebrand with a new logo, website reskin and DNS changes saving an estimated $7,000–$10,000, wrong-language movie tickets caught with a refund letter and refund received, Instagram event posts sorted into separate calendar files, a lab order pulled up when the lab's system was down, and two AI agents setting up their own chat channel with a safe word). Total: 190. Not included: 4 non-X cards from the same batch (a Facebook group post, two YouTube posts, a Hacker News post); 3 X cards held or excluded (a family-tree card and a Marketplace-selling card each bundling two X posts that cannot be confirmed as one job or two from the card alone, pending original-post reads; a spam-text TCPA card logging only possible claims with nothing filed or paid); cwybruce issue 35's 4 cases were all Instagram/Threads (not X shares); 17muse's Oct 30 items were site-owner content (not X shares); messagingagents/musecases/howtousemuse/shipwithmuse showed no verifiable in-window additions; the jasonlk post is dated 2026-10-19 and was newly surfaced by the Oct 30 batch (date noted in the entry).
 - **2026-10-31 (supplement)**: 3 more cases added (the original-post reads that arrived after the first push resolved the two held merged cards: the family-tree and Marketplace cards each turned out to be two different people's separate jobs, and the @aburd family-tree project, the @plasticboss first Marketplace sale and the @ShamsETubriz two Ruggable sales all have clear realized outcomes, each confirmed by reading the original post; the @congressdj family-tree post states no concrete outcome and the @sethrose TCPA post's $500–$1,500 is a possible per-violation figure, not money recovered, so both stay excluded). Total: 193. Case 189's wording was also tightened: the lab order was retrieved and the stuck step unblocked, but the post does not explicitly say the test itself was then completed.

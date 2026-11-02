@@ -1,7 +1,7 @@
 {
   "meta": {
-    "count": 193,
-    "updated": "2026-10-31",
+    "count": 202,
+    "updated": "2026-11-03",
     "invite": "4P14HY",
     "repo": "https://github.com/jaxxchen003/muse-use-cases",
     "title": "Muse 实战案例库",
@@ -2553,6 +2553,123 @@
       "re": "Two more Ruggable items sold with almost no effort from him",
       "d": "他的 Muse 代理 Sparky 替他打理 Facebook Marketplace，他本人忙于 TikTok 直播销售业务。",
       "de": "His Muse agent Sparky ran his Facebook Marketplace selling while he focused on TikTok live selling."
+    },
+    {
+      "t": "小额诉讼追讨欠款：送达 20 分钟内和解、10 天内全额到账",
+      "te": "Small-claims suit over an unpaid contract: settled 20 minutes after service, paid within ten days",
+      "c": "business",
+      "a": "Phillip Jackson（@philwinkle，X，2026-10-30）",
+      "ae": "Phillip Jackson (@philwinkle, X, 2026-10-30)",
+      "x": "https://x.com/philwinkle/status/2116180121447014434",
+      "b": "ok",
+      "r": "送达 20 分钟内和解，10 天内全额付款并补维权开支",
+      "re": "Settlement offered 20 minutes after service, paid in full plus recovery expenses within ten days",
+      "d": "三人公司自 3 月起追讨违约欠款无果；Muse 在佛罗里达小额法庭准备诉状（本人签署并提交），书记官两天后发出传票，随后起草撤诉动议获法院接受。",
+      "de": "His three-person company had chased a defaulted contract since March; Muse prepared the Florida small-claims filing (he signed and submitted it), the clerk issued a summons two days later, and Muse later drafted the motion to dismiss, which the court accepted."
+    },
+    {
+      "t": "语音信箱里的骚扰电话，批量向 FCC 投诉",
+      "te": "Spam callers from voicemail reported to the FCC in bulk",
+      "c": "productivity",
+      "a": "Aaron Ng（@localghost，X，2026-11-01）",
+      "ae": "Aaron Ng (@localghost, X, 2026-11-01)",
+      "x": "https://x.com/localghost/status/2116932093351727197",
+      "b": "ok",
+      "r": "数百个骚扰号码的 FCC 投诉已提交",
+      "re": "FCC complaints filed against hundreds of spam callers",
+      "d": "让 Muse 翻语音信箱和近期来电，筛出疑似骚扰/机器人电话，逐个向 FCC 提交投诉。",
+      "de": "Muse went through his voicemail and recent calls, picked out likely spam and robocall numbers, and filed an FCC complaint for each one."
+    },
+    {
+      "t": "换前门：给规格 + 照片，本地承包商报价 $7,500–$17,000",
+      "te": "Front-door replacement quotes from local contractors: $7,500–$17,000",
+      "c": "productivity",
+      "a": "Derek Reynolds（@derekreyn22，X，2026-10-31）",
+      "ae": "Derek Reynolds (@derekreyn22, X, 2026-10-31)",
+      "x": "https://x.com/derekreyn22/status/2116579704110985606",
+      "b": "ok",
+      "r": "已收到 $7,500–$17,000 的多家报价",
+      "re": "Contractor quotes in: $7,500 to $17,000",
+      "d": "把前门规格和照片交给 Muse，让它找本地承包商、发邮件并填各家网站的询价表。",
+      "de": "He gave Muse the specs and photos for a new front door; it found local contractors, emailed them and filled out their web quote forms."
+    },
+    {
+      "t": "打印店并行询价：海报 $115 含税 + 取货时间",
+      "te": "Print shops called in parallel: poster quoted at $115 with tax, pickup time set",
+      "c": "shopping",
+      "a": "Nijansh（@nijansh，X，2026-10-31）",
+      "ae": "Nijansh (@nijansh, X, 2026-10-31)",
+      "x": "https://x.com/nijansh/status/2116566709016662287",
+      "b": "ok",
+      "r": "拿到 $115（含税）报价 + 取货时间",
+      "re": "$115 quote with tax, pickup timing set",
+      "d": "会议海报急需打印、邮件询价没回音，改让 Muse 给 Sunnyvale 三家打印店打电话询价，Oakmead Printing 确认规格、报含税价并谈好取货时间。",
+      "de": "Needing a conference poster printed with emailed quotes unanswered, he had Muse call three Sunnyvale print shops; Oakmead Printing confirmed the specs, quoted $115 including tax and set pickup timing."
+    },
+    {
+      "t": "杂货店数字优惠券一键全 clip，不用自己开 App",
+      "te": "Grocery app coupons clipped so he never opens the app",
+      "c": "shopping",
+      "a": "S D Winkler（@sdwinkler，X，2026-10-31）",
+      "ae": "S D Winkler (@sdwinkler, X, 2026-10-31)",
+      "x": "https://x.com/sdwinkler/status/2116559019376865508",
+      "b": "ok",
+      "r": "不打开 App 也能拿到最优价",
+      "re": "Best prices without opening the app",
+      "d": "采购前让 Muse 打开杂货店账号，把常买商品对应的数字优惠券逐张 clip。",
+      "de": "Before his grocery run, Muse opened his grocery store account and clipped every digital coupon matching his usual buys."
+    },
+    {
+      "t": "订阅续费前找折扣码，Monarch 省 $50",
+      "te": "Discount code hunted before a subscription renewal: $50 off Monarch",
+      "c": "money",
+      "a": "Julian Norton（@JulianNorton，X，2026-11-01）",
+      "ae": "Julian Norton (@JulianNorton, X, 2026-11-01)",
+      "x": "https://x.com/JulianNorton/status/2116710782725652562",
+      "b": "ok",
+      "r": "省 $50，作者称 Muse 已经回本了",
+      "re": "$50 saved; author says Muse has paid for itself",
+      "d": "续费 Monarch 订阅前让 Muse 找可用折扣码，实测可用才下单。",
+      "de": "Before renewing his Monarch subscription, he had Muse find a working discount code and test it before paying."
+    },
+    {
+      "t": "WordPress 30+ 插件在 staging 站逐个测完",
+      "te": "30+ WordPress plugin updates tested one by one on a staging site",
+      "c": "dev",
+      "a": "Guy Malachi（@guy，X，2026-10-31）",
+      "ae": "Guy Malachi (@guy, X, 2026-10-31)",
+      "x": "https://x.com/guy/status/2116394420824408138",
+      "b": "ok",
+      "r": "30+ 插件全部测完上线，每几周省约 2 天工作量",
+      "re": "30+ plugin updates tested; about 2 days of work saved every few weeks",
+      "d": "30 多个插件更新攒了几个月不敢动；给 Muse 开 staging 站权限，逐个更新、按边界情况逐项测试，废弃插件直接用新代码替换。",
+      "de": "With 30+ plugin updates piled up for months, he gave Muse access to his staging site; it applied updates one at a time, tested each against his edge cases, and replaced an abandoned plugin with new code."
+    },
+    {
+      "t": "FTC 亚马逊和解金 $12.99，一路催到 PayPal 到账",
+      "te": "FTC Amazon settlement $12.99 chased all the way to PayPal",
+      "c": "money",
+      "a": "André（@andr3barroso，X，2026-10-31）",
+      "ae": "André (@andr3barroso, X, 2026-10-31)",
+      "x": "https://x.com/andr3barroso/status/2116530634382340242",
+      "b": "ok",
+      "r": "$12.99 打到 PayPal，人在上班、钱自己到账",
+      "re": "$12.99 paid out to PayPal while he was at work",
+      "d": "9 月收到 FTC 亚马逊和解支票后把后续跟进交给 Muse，一路催到款项落袋。",
+      "de": "After receiving an FTC Amazon settlement check in September, he handed the follow-up to Muse, which kept pushing until the money landed in his PayPal."
+    },
+    {
+      "t": "从零做 iOS App，第二天加 LCARS 主题开关",
+      "te": "iOS app built from scratch, LCARS theme toggle added the next day",
+      "c": "dev",
+      "a": "Mr-Quiyst（@MrQuiyst，X，2026-10-31）",
+      "ae": "Mr-Quiyst (@MrQuiyst, X, 2026-10-31)",
+      "x": "https://x.com/MrQuiyst/status/2116598527635927165",
+      "b": "ok",
+      "r": "App 跑起来了，LCARS 主题开关一次做对",
+      "re": "Working iOS app, plus an LCARS-style theme toggle",
+      "d": "让 Muse 从零做一个 iOS App；第二天再让它加一个星际迷航 LCARS 风格界面作为可切换主题。",
+      "de": "He had Muse build an iOS app from scratch; the next day he had it add a Star Trek-style LCARS interface as a toggle option to the app."
     }
   ]
 }
