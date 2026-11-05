@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **202 cases** ｜ 🕐 **Last updated: 2026-11-03** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **211 cases** ｜ 🕐 **Last updated: 2026-11-06** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,13 +30,13 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (46)
-- ✈️ [Travel](#️-travel) (22)
-- 🛒 [Shopping](#-shopping) (30)
-- ⚡ [Productivity · automation](#-productivity--automation) (55)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (50)
+- ✈️ [Travel](#️-travel) (24)
+- 🛒 [Shopping](#-shopping) (31)
+- ⚡ [Productivity · automation](#-productivity--automation) (56)
 - 🎨 [Content · creation](#-content--creation) (16)
 - 🛠️ [Dev · building](#️-dev--building) (13)
-- 💼 [Business · consumer rights](#-business--consumer-rights) (20)
+- 💼 [Business · consumer rights](#-business--consumer-rights) (21)
 
 ---
 
@@ -133,6 +133,15 @@
 
 **201. FTC Amazon settlement $12.99 chased all the way to PayPal** ✅ — André (@andr3barroso, X, 2026-10-31). After receiving an FTC Amazon settlement check in September he handed the follow-up to Muse, which kept pushing until the $12.99 landed in his PayPal while he was at work ([Original post](https://x.com/andr3barroso/status/2116530634382340242)).
 
+
+**204. 401(k) taken over end to end: rebalanced, fees cut, dashboard built** ✅ — cubeqube (@cubeqube, X, 2026-09-22). Handed his 401(k) to Muse: rebalanced it, switched similar funds to lower-fee versions, built a dashboard of all his financial accounts and transactions with budgets and subscription alerts; it also manages his electric and internet bills, tracks HSA expenses and receipts, and hunts tax-loss harvesting opportunities — all within the free plan's limits ([Original post](https://x.com/cubeqube/status/2102187698127569173)).
+
+**209. Resy dinner booked — then came the $200 cancellation fee** ✅ — zopatoli (@zopatoli, X, 2026-10-20). Had Muse book dinner on Resy; plans changed 15 minutes later and he cancelled — only then did it mention the $200 + tax cancellation fee and that it had used his saved card. He says he would never have booked had he known ([Original post](https://x.com/zopatoli/status/2112680170037588101)). Cautionary case: the booking worked, but the fine print surfaced after the fact.
+
+**210. Every manually-activated credit card offer, activated by Muse** ✅ — Pierre (@Pierre5x, X, 2026-10-22). Had Muse go in and activate all the manually-activated discount offers on his credit cards ([Original post](https://x.com/Pierre5x/status/2113279598980898925)).
+
+**211. The rep spotted the AI — so Muse smoothly transferred the call to its owner** ✅ — Adebowale Ojo (@ifeoluwadebo, X, 2026-10-22). Had Muse call his insurance provider for a quote with certain deductible changes; the person on the other end realized they were speaking with an AI agent and asked to speak with the account owner, and Muse transferred the call to him ([Original post](https://x.com/ifeoluwadebo/status/2113311789370712458)).
+
 ## ✈️ Travel
 
 **29. 7-hour delay → $250 Delta credit in 5 min** 🟡 — Ejaaz ([@cryptopunk7213](https://x.com/cryptopunk7213)). Muse filed the complaint, rebooked an alternative flight, replied to support emails. [Original post](https://x.com/cryptopunk7213/status/2102179999122153690) (2026-09-21).
@@ -179,6 +188,11 @@
 
 **174. F1 Austin weekend handed to "Karl": addresses, times, transport and Mercedes priorities in one executable table** 🟡 — Wesley Breed (@wesly, verified IG creator, 330K followers, 2026-10-23). He named his Muse "Karl" (after Karl Benz) and had it plan an entire F1 Austin Grand Prix weekend — addresses, times, transport, plus Mercedes-related events ranked by priority. It returned a schedule he could walk through directly: Mercedes Fan Hub (400 Congress Ave), driving/parking tips and walkable stops in order; his video shows the on-site KIMI's queso e pepe food truck, an AMG GT show car, the Fan Hub with a real race car, simulators and a pit-stop challenge. His point: the agent's value isn't telling you what exists, it's handing you a table you can execute.
 
+
+
+**206. Cheapest Jeep near LAX for his wife's 30th, with an Amex offer stacked on top** ✅ — hottakefinance (@hottakefinance, X, 2026-09-18). Mid-flight to LA for his wife's 30th birthday trip, he had Muse find the closest and cheapest Jeep Wrangler to rent the next day; it knew he had an Amex Gold card with a $30-back-on-$150+ Turo offer, then routed through Rakuten for another 2% back ([Original post](https://x.com/hottakefinance/status/2101093352519372983)).
+
+**208. He did the meme: Muse booked his flights, sorted airport pickup, and built an itinerary app** ✅ — Qui Vincit (@vincit_amore, X, 2026-10-23). Did the meme and had Muse book his flights, sort out ground transport from the airport, and build a whole itinerary app for the trip ([Original post](https://x.com/vincit_amore/status/2113776908412596573)).
 
 ## 🛒 Shopping
 
@@ -243,6 +257,9 @@
 **197. Print shops called in parallel: poster quoted at $115 with tax, pickup time set** ✅ — Nijansh (@nijansh, X, 2026-10-31). Needing a large conference poster printed and getting no reply to emailed quotes, he had Muse call three Sunnyvale print shops: FedEx Office got stuck in a phone menu, a second shop's call transcript showed an abusive interruption, and Oakmead Printing confirmed the specs, quoted $115 including tax and set pickup timing ([Original post](https://x.com/nijansh/status/2116566709016662287)).
 
 **198. Grocery app coupons clipped so he never opens the app** ✅ — S D Winkler (@sdwinkler, X, 2026-10-31). Before his grocery run he had Muse open his grocery store account and clip every digital coupon matching his usual buys, so he gets the best prices without opening the app himself ([Original post](https://x.com/sdwinkler/status/2116559019376865508)).
+
+
+**205. 1966 beach badge authenticated via eBay and an 800-person Facebook collector group** ✅ — Jared Kubin (@JaredKubin, X, 2026-09-12). Found a vintage 1966 beach badge on eBay; Muse verified the listing was legit, dug through an 800-person Facebook collector group for older examples to compare, and made him a printable 5U soccer practice plan — all before his kids' breakfast ([Original post](https://x.com/JaredKubin/status/2098736865780060177)).
 
 ## ⚡ Productivity · automation
 
@@ -358,6 +375,9 @@
 
 **196. Front-door replacement quotes from local contractors: $7,500–$17,000** ✅ — Derek Reynolds (@derekreyn22, X, 2026-10-31). He gave Muse the specs and photos for a new front door; it found local contractors, emailed them and filled out their web quote forms, and quotes so far run from $7,500 to $17,000 ([Original post](https://x.com/derekreyn22/status/2116579704110985606)).
 
+
+**207. A grocery receipt photo keeps the pantry — and the meal plan — up to date** ✅ — digicodermon (@digicodermon, X, 2026-09-21). Connected Muse to his Notion meal planner: a photo of a grocery receipt registers each purchase to a pantry ingredient, updates stock, tracks per-item cost and suggests meals based on what's actually in stock — and it also fixed all the broken image links in his recipes database ([Original post](https://x.com/digicodermon/status/2102030969654136880)).
+
 ## 🎨 Content · creation
 
 **59. Daily 8am AI-news podcast** — 于為暢 (Wei Chang Yu).
@@ -471,6 +491,9 @@
 
 **194. Small-claims suit over an unpaid contract: settled 20 minutes after service, paid within ten days** ✅ — Phillip Jackson (@philwinkle, X, 2026-10-30). His three-person company had chased another company since March over a defaulted contract; he had Muse prepare the Florida small-claims filing (he signed and submitted it himself), the clerk issued a summons two days later, the company offered a settlement within 20 minutes of being served, and within ten days it paid in full plus recovery expenses; Muse then drafted the motion to dismiss, which the court accepted ([Original post](https://x.com/philwinkle/status/2116180121447014434)). Note: held in the two previous rounds for lack of a direct X link; admitted this round after the aggregator's new card supplied the link and the post-ID timestamp (2026-10-30) cross-checked against the InShorts Oct 31 report and the All Things Muse filing timeline.
 
+
+**203. Ad account leaking $1,742 a week — Muse found 4 dead ads, a broken trial event, and 194 double-counted purchases** ✅ — korzhov_dm (@korzhov_dm, X, 2026-09-21). Asked one question about his ad spend; Muse pulled Meta, his pixel and GA4, found the numbers didn't match, split it by age, device and creative to find 4 dead ads eating the budget, caught a 4.1s mobile LCP on the landing page, found a Tuesday deploy in GitHub that had dropped the trial event, restored the event, backfilled 4 days and deduped 194 double-counted purchases — and kept watching the pixel for 48 hours ([Original post](https://x.com/korzhov_dm/status/2102170898153304475)).
+
 ## 🤝 Contribute
 
 1. **Share your use case**: open an Issue with the "Share a use case" template — **X shares only**, include the X post link; added after verification (the daily auto-update processes them too)
@@ -487,6 +510,8 @@ Auto-updated daily at 00:00 (Beijing time).
 - Informational only; not consumer or investment advice
 
 ## 🗒️ Changelog
+
+- **2026-11-06**: 9 new cases added (older X shares newly surfaced by the newly discovered aggregator musewins.dev, cross-checked by X link plus post-ID timestamp against the aggregator's archive: an ad account leaking $1,742 a week with 4 dead ads found and a dropped trial event fixed; a 401(k) taken over end to end with rebalancing, lower fees and a dashboard; a 1966 beach badge authenticated via eBay and a collector group; the cheapest Jeep near LAX with an Amex offer and Rakuten cashback stacked; a grocery receipt photo keeping a Notion pantry and meal plan up to date; the meme flight booking with airport pickup and an itinerary app; a Resy booking whose $200 cancellation fee surfaced only after cancelling — a cautionary case; manually-activated credit card offers all activated; and an insurer call transferred smoothly once the rep spotted the AI). Total: 211. Not included: 3 X posts from the same site (a store order call too thin on detail, a shopping-trip and outfit plan with a soft result and no numbers, standby-seat monitoring with no stated outcome); cwybruce issue 41's 4 user cases were all Instagram/Facebook (not X shares) and its 2 industry observations are not user shares; working-ref.com's CLEAR+ $304 case (YouTube), the $7,000 university dispute and the $50/mo AT&T case (Reddit), and the German marathon haggling (YouTube) are all non-X sources; messagingagents/musecases/17muse/howtousemuse/shipwithmuse/aisolutionvault showed no verifiable in-window additions; Issues gained 2 invite-code posts (#6 FUMWN1, #7 RAEF7Q), no new case submissions; about 30 @thsottiaux X posts and a batch of Instagram/Facebook/Threads entries on musewins were not individually verified yet and are left for later rounds.
 
 - **2026-11-03**: 9 new cases added (X shares from aisolutionvault's Nov 2 new cards, cross-checked by X link plus post-ID timestamp against the card date: a small-claims suit over an unpaid contract settled 20 minutes after service and paid within ten days; spam callers from voicemail reported to the FCC in bulk; front-door replacement quotes from local contractors at $7,500–$17,000; print shops called in parallel for a $115 poster quote with tax; grocery app coupons clipped without opening the app; a Monarch discount code saving $50; 30+ WordPress plugin updates tested on a staging site; an FTC Amazon settlement of $12.99 chased to PayPal; an iOS app built from scratch with an LCARS theme toggle). Total: 202. The small-claims case was held in the two previous rounds for lack of a direct X link and is admitted now that the @philwinkle link cross-checks against the InShorts report and the All Things Muse filing timeline. Not included: 5 non-X cards from the same batch (Facebook group cleaning-company ops, a blogging workflow, YouTube uploads, a Medium home-server post, a Facebook group ID-photo watermark); cwybruce issue 38's only user case was a Threads video (not an X share); 17muse/messagingagents/musecases/howtousemuse/shipwithmuse showed no verifiable in-window additions; Issues still hold only 2 invite-code posts, no new case submissions.
 
