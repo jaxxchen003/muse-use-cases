@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **211 cases** ｜ 🕐 **Last updated: 2026-11-06** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **226 cases** ｜ 🕐 **Last updated: 2026-11-07** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,13 +30,13 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (50)
-- ✈️ [Travel](#️-travel) (24)
-- 🛒 [Shopping](#-shopping) (31)
-- ⚡ [Productivity · automation](#-productivity--automation) (56)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (56)
+- ✈️ [Travel](#️-travel) (25)
+- 🛒 [Shopping](#-shopping) (32)
+- ⚡ [Productivity · automation](#-productivity--automation) (57)
 - 🎨 [Content · creation](#-content--creation) (16)
-- 🛠️ [Dev · building](#️-dev--building) (13)
-- 💼 [Business · consumer rights](#-business--consumer-rights) (21)
+- 🛠️ [Dev · building](#️-dev--building) (18)
+- 💼 [Business · consumer rights](#-business--consumer-rights) (22)
 
 ---
 
@@ -142,6 +142,14 @@
 
 **211. The rep spotted the AI — so Muse smoothly transferred the call to its owner** ✅ — Adebowale Ojo (@ifeoluwadebo, X, 2026-10-22). Had Muse call his insurance provider for a quote with certain deductible changes; the person on the other end realized they were speaking with an AI agent and asked to speak with the account owner, and Muse transferred the call to him ([Original post](https://x.com/ifeoluwadebo/status/2113311789370712458)).
 
+
+**212. Unclaimed property $97 recovered — plus data-broker opt-outs and Amex offers activated** ✅ — Aaron Skrivan ([@AaronSkrivan](https://x.com/AaronSkrivan), X, 2026-09-10). Had Muse find unclaimed property and file the paperwork ($97), opt out of major data brokers, and activate all his Amex offers — saving ~200 manual clicks ([Original post](https://x.com/AaronSkrivan/status/2098183632120840423)).
+**213. Six months of email receipts turned up a forgotten $100/mo Claude Max sub — $1,200/yr saved** ✅ — [@idobn](https://x.com/idobn) (X, 2026-09-09). Had Muse go through 6 months of email receipts; it found a $100/mo Claude Max subscription on his corporate card that he had forgotten about while the company already had an enterprise license ([Original post](https://x.com/idobn/status/2097570513107272175)).
+**214. The hospital bill “on hold” was never on hold — Muse called and proved it** ✅ — Lucus Bendzsa ([@RealLucusB](https://x.com/RealLucusB), X, 2026-10-24). A hospital bill placed on hold for review arrived anyway; his Muse agent called, navigated the IVR, confirmed the account, and confirmed there was no hold ([Original post](https://x.com/RealLucusB/status/2113984571276415053)).
+**215. Tesla valet parking refund: first call failed, second call approved in full** ✅ — Kyle G ([@kylemissionai](https://x.com/kylemissionai), X, 2026-10-21). A valet refused his Tesla over a phone key, but he had already paid for parking; Muse's first refund call failed for lack of details, it asked him two questions, called again — full refund approved, no hold music for him ([Original post](https://x.com/kylemissionai/status/2113022477152776628)).
+**216. Internet bill went up unannounced — Muse called and talked it down, plus two months' credit back** ✅ — [@CryptoTamilza](https://x.com/CryptoTamilza) (X, 2026-10-20). His internet bill rose without notice; Muse negotiated live with customer care, brought the monthly bill down and got a credit back for the past two months (no amount given in the post) ([Original post](https://x.com/CryptoTamilza/status/2112648082496053496)).
+**217. Pharmacy copay beaten: a discount card cheaper than insurance** ✅ — Nan ([@SuperNanTX](https://x.com/SuperNanTX), X, 2026-10-24). Muse compared prescription discount cards and found one cheaper than her insurance copay (no amount given) ([Original post](https://x.com/SuperNanTX/status/2113991981462392963)).
+
 ## ✈️ Travel
 
 **29. 7-hour delay → $250 Delta credit in 5 min** 🟡 — Ejaaz ([@cryptopunk7213](https://x.com/cryptopunk7213)). Muse filed the complaint, rebooked an alternative flight, replied to support emails. [Original post](https://x.com/cryptopunk7213/status/2102179999122153690) (2026-09-21).
@@ -193,6 +201,9 @@
 **206. Cheapest Jeep near LAX for his wife's 30th, with an Amex offer stacked on top** ✅ — hottakefinance (@hottakefinance, X, 2026-09-18). Mid-flight to LA for his wife's 30th birthday trip, he had Muse find the closest and cheapest Jeep Wrangler to rent the next day; it knew he had an Amex Gold card with a $30-back-on-$150+ Turo offer, then routed through Rakuten for another 2% back ([Original post](https://x.com/hottakefinance/status/2101093352519372983)).
 
 **208. He did the meme: Muse booked his flights, sorted airport pickup, and built an itinerary app** ✅ — Qui Vincit (@vincit_amore, X, 2026-10-23). Did the meme and had Muse book his flights, sort out ground transport from the airport, and build a whole itinerary app for the trip ([Original post](https://x.com/vincit_amore/status/2113776908412596573)).
+
+
+**218. US passport renewed online (95% done by Muse) plus Amex Travel flights for two** ✅ — Cyrus ([@cy_zanfar](https://x.com/cy_zanfar), X, 2026-09-15). Asked Muse to renew his US passport online — it did 95% of the work, handing off only SSN entry and photo upload — then booked his and his wife's flight tickets end to end on Amex Travel ([Original post](https://x.com/cy_zanfar/status/2099684668391969009)).
 
 ## 🛒 Shopping
 
@@ -260,6 +271,9 @@
 
 
 **205. 1966 beach badge authenticated via eBay and an 800-person Facebook collector group** ✅ — Jared Kubin (@JaredKubin, X, 2026-09-12). Found a vintage 1966 beach badge on eBay; Muse verified the listing was legit, dug through an 800-person Facebook collector group for older examples to compare, and made him a printable 5U soccer practice plan — all before his kids' breakfast ([Original post](https://x.com/JaredKubin/status/2098736865780060177)).
+
+
+**219. Son's old tires and rims sold on Marketplace: $470 in 13 days, Substack marketing down 7 hrs/week** — Vincent Kurtis (Substack essay, 2026-10-08). Asked Muse to sell his son's tires from a photo — it drafted the ad and handled buyer replies; tires sold for $250, rims for $220. Muse also took over his Substack marketing (21 Notes, 7 TikToks, 7 Pinterest pins, 7 YouTube Shorts a week), saving about 7 hours a week.
 
 ## ⚡ Productivity · automation
 
@@ -378,6 +392,9 @@
 
 **207. A grocery receipt photo keeps the pantry — and the meal plan — up to date** ✅ — digicodermon (@digicodermon, X, 2026-09-21). Connected Muse to his Notion meal planner: a photo of a grocery receipt registers each purchase to a pantry ingredient, updates stock, tracks per-item cost and suggests meals based on what's actually in stock — and it also fixed all the broken image links in his recipes database ([Original post](https://x.com/digicodermon/status/2102030969654136880)).
 
+
+**220. Weekend trial: restaurant + parking booked, best of 700+ podcast episodes researched** ✅ — David ([@never_offseason](https://x.com/never_offseason), X, 2026-09-14). Skeptical at first, he had Muse book a restaurant and a parking reservation, then research the best of 700+ episodes of a podcast series he likes — both done in one weekend ([Original post](https://x.com/never_offseason/status/2099326880998395949)).
+
 ## 🎨 Content · creation
 
 **59. Daily 8am AI-news podcast** — 于為暢 (Wei Chang Yu).
@@ -445,6 +462,13 @@
 
 **202. iOS app built from scratch, LCARS theme toggle added the next day** ✅ — Mr-Quiyst (@MrQuiyst, X, 2026-10-31). He had Muse build an iOS app from scratch and says it did a decent job; the next day he had it add a Star Trek-style LCARS interface as a toggle option, and says it nailed it ([Original post](https://x.com/MrQuiyst/status/2116598527635927165)).
 
+
+**221. A personal finance tracker app built from scratch: savings goals + full insights** ✅ — Justin ([@swizzy071](https://x.com/swizzy071), X, 2026-09-11). Made a fully fledged finance tracking app with savings goals, tracking and full insights — better than any financial app he had used, since the better features on those are paid ([Original post](https://x.com/swizzy071/status/2098210684828029348)).
+**222. Photo calorie-tracker app built by Muse — paid tracker subscription cancelled** ✅ — Pavuluri Gopikrishna ([@gopikrishna_p1](https://x.com/gopikrishna_p1), X, 2026-09-12). Muse built him a calorie tracker: photograph food to log calories, matched against goals he set — so he cancelled his calorie-tracker subscription ([Original post](https://x.com/gopikrishna_p1/status/2099734634695197121)).
+**223. Siri AI Unlocked website created and published by Muse** ✅ — kottley ([@kottley](https://x.com/kottley), X, 2026-09-22). Used Muse to create and publish a blog dedicated to real-world Siri AI use cases, successes and failures ([Original post](https://x.com/kottley/status/2102358067220287964)).
+**224. Granny's Tales storytelling app: loved ones' voices, auto-fed to Instagram** ✅ — Sai Krishna Manapragada ([@its_me_msk](https://x.com/its_me_msk), X, 2026-09-11). Building an app for tales from around the world to be heard in the voice of loved ones, which feeds his Instagram channel automatically ([Original post](https://x.com/its_me_msk/status/2098652523028521348)).
+**225. Claude multi-agent workflows migrated to Muse, running every morning** ✅ — Newton Jones ([@NewtonJonesIV](https://x.com/NewtonJonesIV), X, 2026-09-10). Migrated multi-agent workflows built for Claude 4.6 to Muse by handing it the master prompt; it executed flawlessly and now runs the prompt every morning at a fraction of the cost, and cleaned up his emails (no cost figure given) ([Original post](https://x.com/NewtonJonesIV/status/2098022398721143207)).
+
 ## 💼 Business · consumer rights
 
 **70. Plumbing company morning ops on autopilot** 🟡 — Jon ONeill (@HouseHackerJon). One 6am message from bed: job board updated, customer texted, office manager briefed on Slack before 8am.
@@ -494,6 +518,9 @@
 
 **203. Ad account leaking $1,742 a week — Muse found 4 dead ads, a broken trial event, and 194 double-counted purchases** ✅ — korzhov_dm (@korzhov_dm, X, 2026-09-21). Asked one question about his ad spend; Muse pulled Meta, his pixel and GA4, found the numbers didn't match, split it by age, device and creative to find 4 dead ads eating the budget, caught a 4.1s mobile LCP on the landing page, found a Tuesday deploy in GitHub that had dropped the trial event, restored the event, backfilled 4 days and deduped 194 double-counted purchases — and kept watching the pixel for 48 hours ([Original post](https://x.com/korzhov_dm/status/2102170898153304475)).
 
+
+**226. His son dreamed up a dizzy-eyed rat — Muse designed it, stocked the store, ordered samples** ✅ — Michael Perry ([@michaelperry](https://x.com/michaelperry), X, 2026-10-25). His son had an idea for a rat with 😵 eyes; they designed it with Muse, which then updated their Shopify store and ordered samples ([Original post](https://x.com/michaelperry/status/2114381024323117169)).
+
 ## 🤝 Contribute
 
 1. **Share your use case**: open an Issue with the "Share a use case" template — **X shares only**, include the X post link; added after verification (the daily auto-update processes them too)
@@ -510,6 +537,8 @@ Auto-updated daily at 00:00 (Beijing time).
 - Informational only; not consumer or investment advice
 
 ## 🗒️ Changelog
+
+- **2026-11-07**: 15 new cases added (older X shares newly surfaced by musewins.dev and shipwithmuse.live, cross-checked by X link plus post-ID timestamp against the aggregators' archives: $97 in unclaimed property plus data-broker opt-outs and Amex offers activated; a forgotten $100/mo Claude Max subscription found in 6 months of email receipts, $1,200/yr saved; a hospital bill's "on hold" status proven false by one call; a Tesla valet parking refund approved in full on the second call; an unannounced internet bill hike talked down with two months' credit back; a pharmacy copay beaten by a discount card; a US passport renewed online (95% by Muse) plus Amex Travel flights for two; a son's old tires and rims sold on Marketplace for $470 in 13 days with Substack marketing down 7 hrs/week (Substack essay, text-only); a weekend trial booking a restaurant and parking plus a 700+ episode podcast deep-dive; a finance tracker app built from scratch; a photo calorie-tracker app that replaced a paid subscription; the Siri AI Unlocked site created and published; the Granny's Tales storytelling app; Claude multi-agent workflows migrated to Muse, running every morning; and a dizzy-eyed rat plush designed, listed and sampled). Total: 226. Not included: musewins' ~30 @thsottiaux X posts turned out to be Codex usage-reset announcements (not Muse use cases), closing that open item; the site's @heretolrn bomber-jacket post (soft result, no amount); cwybruce issue 42's 3 user cases were all Threads/Instagram (not X shares) and its 2 industry observations are not user shares; 3 shipwithmuse X posts (a YouTube channel audit with no stated outcome, a wedding-planning testimonial with no concrete result, a 50-prompt list that is not a user case); agentusecases.ai's $1,500 unclaimed-property case (claim filed but unpaid, no X link to verify) and its Costco microwave purchase (no result stated); messagingagents/musecases/17muse are still at September with no in-window additions; Issues gained no new case submissions.
 
 - **2026-11-06**: 9 new cases added (older X shares newly surfaced by the newly discovered aggregator musewins.dev, cross-checked by X link plus post-ID timestamp against the aggregator's archive: an ad account leaking $1,742 a week with 4 dead ads found and a dropped trial event fixed; a 401(k) taken over end to end with rebalancing, lower fees and a dashboard; a 1966 beach badge authenticated via eBay and a collector group; the cheapest Jeep near LAX with an Amex offer and Rakuten cashback stacked; a grocery receipt photo keeping a Notion pantry and meal plan up to date; the meme flight booking with airport pickup and an itinerary app; a Resy booking whose $200 cancellation fee surfaced only after cancelling — a cautionary case; manually-activated credit card offers all activated; and an insurer call transferred smoothly once the rep spotted the AI). Total: 211. Not included: 3 X posts from the same site (a store order call too thin on detail, a shopping-trip and outfit plan with a soft result and no numbers, standby-seat monitoring with no stated outcome); cwybruce issue 41's 4 user cases were all Instagram/Facebook (not X shares) and its 2 industry observations are not user shares; working-ref.com's CLEAR+ $304 case (YouTube), the $7,000 university dispute and the $50/mo AT&T case (Reddit), and the German marathon haggling (YouTube) are all non-X sources; messagingagents/musecases/17muse/howtousemuse/shipwithmuse/aisolutionvault showed no verifiable in-window additions; Issues gained 2 invite-code posts (#6 FUMWN1, #7 RAEF7Q), no new case submissions; about 30 @thsottiaux X posts and a batch of Instagram/Facebook/Threads entries on musewins were not individually verified yet and are left for later rounds.
 
