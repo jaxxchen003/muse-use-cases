@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **real user shares from X, Reddit, Instagram, Facebook, and Threads** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **230 cases** ｜ 🕐 **Last updated: 2026-11-08** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **311 cases** ｜ 🕐 **Last updated: 2026-11-08** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,13 +30,13 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (57)
-- ✈️ [Travel](#️-travel) (25)
-- 🛒 [Shopping](#-shopping) (32)
-- ⚡ [Productivity · automation](#-productivity--automation) (59)
-- 🎨 [Content · creation](#-content--creation) (17)
-- 🛠️ [Dev · building](#️-dev--building) (18)
-- 💼 [Business · consumer rights](#-business--consumer-rights) (22)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (68)
+- ✈️ [Travel](#️-travel) (37)
+- 🛒 [Shopping](#-shopping) (34)
+- ⚡ [Productivity · automation](#-productivity--automation) (94)
+- 🎨 [Content · creation](#-content--creation) (22)
+- 🛠️ [Dev · building](#️-dev--building) (20)
+- 💼 [Business · consumer rights](#-business--consumer-rights) (36)
 
 ---
 
@@ -99,12 +99,12 @@
 **28. 24h health errands: $80 Oura discount + benefits done right** 🟡 — Khiet Tran (@trannkhiet). Flu shot scheduled, $80 Oura Ring discount found, benefits enrolled without HSA over-contribution.
 
 
-**76. A week, 8 errands: $1,000 in stalled refunds recovered, $200 in subscriptions cut** — @ekate.lee (Threads user). Social drafts, photo/video edits via Kling/Higgsfield, inbox triage, LinkedIn DM cleanup, a support chatbot for her product Networkio — plus two long-delayed refunds (posted 2026-10-09).
+**76. A week, 8 errands: $1,000 in stalled refunds recovered, $200 in subscriptions cut** ✅ — @ekate.lee (Threads user). Social drafts, photo/video edits via Kling/Higgsfield, inbox triage, LinkedIn DM cleanup, a support chatbot for her product Networkio — plus two long-delayed refunds (posted 2026-10-09).
 **85. "A Month with Muse" test: website fixes + 5 car insurance quotes, $1,530/yr saved** 🟡 — @mostly.borrowed.ideas (IG account). A month of real-world testing: had Muse fix his website (added the dark mode + subscribe button he'd wanted for two years — "like hiring a competent dev for $20/mo"); shopped 5 car insurance quotes, saving $1,530/yr, and set it to re-shop every 5 months against "renewal inertia"; also monitors 4 inboxes, sends a daily cricket news digest and tracks GPU prices (2026-10-12 IG long-form video).
 **93. NYC parking ticket cleared in one chat: $115 → $145 fine, $147.90 paid via CityPay** 🟡 — Shervin Shaikh (@shervinshares, IG, 45K followers). A 3-month-overdue NYC parking ticket ("No Standing" at a bus stop): Muse looked it up by license plate on the city site — $115 had grown to $145; it went to CityPay, where a 2% card fee brought the total to $147.90, ready to charge via Stripe Link; the first charge failed on billing-address mismatch, and Muse proactively offered PayPal/eCheck alternatives, ending with a CityPay payment screenshot (2026-10-12 IG reel, screen-recorded, marked "not an ad").
 **94. Jumped on the "subscription negotiation" trend: ~$700/mo saved, car insurance switch saves ~$2,000/yr** 🟡 — Paul Pruitt (Facebook user). After seeing reels of Muse negotiating subscriptions, he gave Muse account access: it canceled idle subscriptions and fixed overcharges, saving ~$700/month; he also switched car insurance from Progressive to GEICO for the same coverage, saving ~$2,000/year (2026-10-12 FB post).
 **115. Subscription audit: 22 cut to 5, monthly fees $149.11 → $58.73, ~$100/mo saved** 🟡 — @karol.ylt (Spanish creator, 2.9K IG followers). Asked Muse to surface every recurring charge, shown on a before/after dashboard (screenshot 2026-10-11); she decided what was worth keeping — the keepers still included Claude Pro ($22.11/mo) and ChatGPT Plus ($20/mo) (2026-10-16 IG reel).
----
+--- [Original post](https://www.threads.com/@ekate.lee/post/DeR4okrm9Lb) (2026-10-09).
 
 **120. Therapist invoices dug out of email → Aetna reimbursement in 20 minutes** ✅ — @natashaghoskins (founder). Muse found every therapist invoice in her email and submitted them to Aetna (https://x.com/natashaghoskins/status/2102821622893961727, 2026-09-23); 20 minutes to cross the deductible, reimbursements for the rest of the year.
 
@@ -151,6 +151,28 @@
 **217. Pharmacy copay beaten: a discount card cheaper than insurance** ✅ — Nan ([@SuperNanTX](https://x.com/SuperNanTX), X, 2026-10-24). Muse compared prescription discount cards and found one cheaper than her insurance copay (no amount given) ([Original post](https://x.com/SuperNanTX/status/2113991981462392963)).
 
 **227. Car insurance shopped and switched: GEICO $2,123 → Progressive $1,536, $1,174/yr saved** ✅ — Mike Nichols ([@MistrDeplorable](https://x.com/MistrDeplorable), X, 2026-10-28). His GEICO renewal came in at $2,123; Muse found a Progressive policy for $1,536 with better coverage, then called GEICO to cancel the old policy — he only joined the call for about a minute to verify his identity. Tagged #MuseMoneyChallenge; 170k+ views ([Original post](https://x.com/MistrDeplorable/status/2115495145437093938)).
+
+**231. 300+ shopping receipts from 6 years of Gmail turned into an accountant-ready collectibles tracker in 30 minutes** ✅ — Austin Evans (via @muse official repost, Threads, 2026-10-31). Had his Muse Lotus search six years of Gmail receipts and build a collectibles tracker in about 30 minutes; the same video also checks F1 US Grand Prix tickets, adds calendar events and delivers a morning tech news briefing. ([Original post](https://www.threads.com/@muse/post/DfKpRPJkZfp)) (2026-10-31).
+
+**232. A $49.99 AppleCare+ charge found in email, refunded in full after a 16-minute call by the assistant** ✅ — MARCIANOTECH (@marcianotech_, Instagram, 2026-11-02). His Muse Baby Muse spotted a $49.99 AppleCare+ charge for an iPad he never activated, then had its assistant Hailey call Apple for 16 minutes to cancel it and refund the full amount to his Amex. ([Original post](https://www.instagram.com/reel/DfQGLrUJ1A0/)) (2026-11-02).
+
+**233. Daily stock alerts with price triggers used for over a month; a car insurance check confirmed his policy was already cheapest** ✅ — Sriram Arumelli (@srirams_chronicles, Instagram, 2026-10-11). Has Muse send daily stock alerts and research ideas with tickers, price triggers, targets and stops; separately had it research cheaper California car insurance from his policy documents, and it concluded his current policy was already competitive. ([Original post](https://www.instagram.com/reel/DeXid7ESXvl/)) (2026-10-11).
+
+**234. About $7,000 in wrong university charges cleared after Muse pulled the records and routed the dispute to the right office** ✅ — u/vainjuggler (Reddit r/MuseAgent, 2026-09-29). Withdrew within the refund deadline but was left with about $7,000 in charges and collections threats after months of unanswered emails; Muse logged into his university account, pulled records showing when he withdrew, found later-semester courses he was never enrolled in, and routed the dispute to the office with authority to fix it. ([Original post](https://www.reddit.com/r/MuseAgent/comments/1wszqn5/meta_muse_just_saved_me_over_7000_in_bs/)) (2026-09-29).
+
+**235. AT&T bill negotiated down $50 a month in about 45 minutes of support chat** ✅ — u/RaiderMike824 (Reddit, 2026-10-03). Had Muse negotiate his AT&T bill; about 45 minutes of support chat with details filled in along the way, and the monthly bill came down $50. ([Original post](https://www.reddit.com/r/MuseAgent/comments/1wwnysh/comment/pdmexe0/)) (2026-10-03).
+
+**236. Muse called SiriusXM, cancelled an unrecognized subscription, declined a $72/year retention offer, $37.65 credit on the way** ✅ — u/Equivalent-Draft9248 (Reddit r/MuseAgent). Muse called SiriusXM, verified the account holder's name and billing ZIP, confirmed an XM radio subscription nobody recognized, declined a $72-a-year retention offer and cancelled it the same day, with a $37.65 credit eligible for refund within three to five business days. ([Original post](https://www.reddit.com/r/MuseAgent/comments/1xoz533/muse_phones_sirius_xm_to_save_me_500/)).
+
+**237. Read the hosting fine print and got a $359.88 refund** ✅ — Greg Hung (Instagram). Had Muse read the hosting renewal terms he had never read, find the refund window and map the whole plan move before he talked to support; $359.88 came back. ([Original post](https://www.instagram.com/reel/DfU5vYSjyaG/)).
+
+**238. Google Workspace cancelled in one chat, ¥13,200 a month saved** ✅ — Katsutoshi Kitamura (Facebook). One chat cancelled the Google Workspace Business Plus subscription for sozo.art before its November 1 billing date. ([Original post](https://www.facebook.com/groups/1905039367540244/permalink/1905662027477978/)).
+
+**239. A 10:44 alert saved his same-day payout deadline after a 9:36 email** ✅ — Reirei (Instagram). An email at 9:36 said his note sales proceeds had to be claimed that very day, a deadline he had completely missed until Muse flagged it at 10:44, then walked him step by step through the payee menu until the claim was done. ([Original post](https://www.instagram.com/p/DfKTyOQExUy/)).
+
+**240. $54 back from subscriptions he forgot he was paying** ✅ — Kailash Sarma (Instagram). Connected his inbox and bank account, found subscriptions he was not using and saved $54 so far, while it also watches restaurant reservation sites for tables and delivers a morning briefing on what mattered overnight. ([Original post](https://www.instagram.com/reel/DfJctTSJqw2/)).
+
+**241. Cancelled his “predatory” pest control contract, only joining the final call** ✅ — flick (Threads). Asked Muse to cancel a pest control contract he calls predatory and near its end; Muse handled most of the cancellation itself, then brought him into the final call with support, where a few personal questions ended the service. ([Original post](https://www.threads.com/@0xflick/post/De8AEPVlsUk)).
 
 ## ✈️ Travel
 
@@ -206,6 +228,30 @@
 
 
 **218. US passport renewed online (95% done by Muse) plus Amex Travel flights for two** ✅ — Cyrus ([@cy_zanfar](https://x.com/cy_zanfar), X, 2026-09-15). Asked Muse to renew his US passport online — it did 95% of the work, handing off only SSN entry and photo upload — then booked his and his wife's flight tickets end to end on Amex Travel ([Original post](https://x.com/cy_zanfar/status/2099684668391969009)).
+
+**242. Las Vegas trip with a senior dog: checked dog-friendly places and called to book restaurants and hotels** ✅ — Andy Cheng (@firerock31, Threads, 2026-10-29). For a Las Vegas trip with his senior dog, Muse checked which places allow dogs and called restaurants and hotels to book, without him having to step in. ([Original post](https://www.threads.com/@firerock31/post/DfFkM2nGKUH)) (2026-10-29).
+
+**243. 106 saved Instagram restaurants turned into a filterable personal map in 5 minutes** ✅ — Mitchell Saron (@mitchellsaron, Instagram, 2026-11-03). Handed Muse the 106 restaurants saved in his Instagram collection and got a personal map in 5 minutes: sorted by cuisine and vibe, 37 marked Clean and 69 Absolute slop, each pin showing address, distance and the matching food Reel, with booking apps linked for tables. ([Original post](https://www.instagram.com/reel/DfRM5WVvomV/)) (2026-11-03).
+
+**244. 31 saved New York restaurant posts became a map; one voice question returned three ~$30 dinner picks** ✅ — Matt Bitter (@bitterbuilds, Instagram, 2026-11-05). Had his Muse Champ turn 31 saved New York restaurant posts into an interactive Manhattan map with addresses, photos and notes, then asked by voice for a Saturday dinner for two in the East Village around $30 with a relaxed vibe; Champ suggested three places, led with Lil' Frankie's, and started booking. ([Original post](https://www.instagram.com/reel/DfXyEXqJtX3/)) (2026-11-05).
+
+**245. A full Chinese itinerary remade in Japanese for the host family, dates, cities and lodging only** ✅ — Wendell Yu (Facebook group, 2026-11-03). Kept his full 11-day Chinese trip plan with flights, rental car and costs for himself, and had Muse make a separate version entirely in Japanese for the Japanese family looking after his daughter Mia: a short thank-you letter up front, two key points (picking up Mia on Nov 7, dinner together on Nov 15), and a table with only dates, cities and lodging. ([Original post](https://www.facebook.com/groups/1412054144392596/permalink/1448423130755697/)) (2026-11-03).
+
+**246. Sold-out restaurant table grabbed by checking OpenTable every 10 minutes** ✅ — u/FloppyDX (Reddit r/MetaAI, 2026-09-17). Set Muse to check for a restaurant cancellation every 10 minutes using the OpenTable connector; when a slot opened for the next day it booked a table for three right away, and the confirmation showed up in his OpenTable account. ([Original post](https://www.reddit.com/r/MetaAI/comments/1wj7ejv/muse_successfully_scanned_for_restaurant/)) (2026-09-17).
+
+**247. He gave Muse his credit card, and it booked a whole month of flights and hotels** ✅ — Austin Armstrong (Instagram). Handed Muse his credit card, and its assistant Dahlia booked his whole month of travel, including a Delta First Class nonstop from RDU to Austin on November 8 for $338.41, another Delta leg to Orlando, and all his hotels. ([Original post](https://www.instagram.com/reel/DfQvZCCOtaI/)).
+
+**248. Four free Huntington tickets booked on the first try after she kept forgetting to apply** ✅ — Storus Marketing (Threads). She knew she could apply for a free ticket on the last Thursday of every month but kept forgetting and missing it; she left it to Muse and it booked on the first try. ([Original post](https://www.threads.com/@storusmarketing/post/DfFgTCkmsB_)).
+
+**249. A boat ride at Takachiho Gorge, watched and booked for her guests** ✅ — YUMIKO (Threads). With Muse keeping watch, she was able to book a Takachiho Gorge boat ride for her guests. ([Original post](https://www.threads.com/@yumiko.fully/post/DfFCDGyH7D1)).
+
+**250. Five months of daily checks failed; Muse's alert landed her Grand Wailea free night in two weeks** ✅ — Lazy Sunday Morning (Threads). After five months of manually checking daily for a standard room, she set Muse alerts, and within two weeks a standard room opened up, letting her secure the full four-night stay at Grand Wailea on her free-night voucher. ([Original post](https://www.threads.com/@hello.outlander/post/DfDuLD5DPZ9)).
+
+**251. December dinner booked, plus concert merch, movie times and parking sorted** ✅ — Teri Watkins (Facebook). Muse booked her December dinner, and in the same post also found concert T-shirts, looked up movie times, reminded her to buy shoes and worked out parking options. ([Original post](https://www.facebook.com/johanna.watkins.3/posts/pfbid02RTBuJZdzwGLNtJrD5UnBF5XbdShXe6cYi9dmkVzSATsH9ZRNNWpKv3T7q9Cpc2Ftl)).
+
+**252. In Japan, Muse booked the stay itself, payment and calendar included** ✅ — 森田松之助 (Threads). A Japanese vacation-rental operator tested Muse on a real stay booking: it completed the reservation on its own, including payment and calendar registration, with no human intervention. ([Original post](https://www.threads.com/@matsunosuke3/post/De6kGUkEzDO)).
+
+**253. She calls her Muse “Holly”: it plans her trips and runs her business** ✅ — Heather Bayer (Facebook). For the last few weeks she has used her Muse Holly: it planned her entire Berlin and Barcelona trip — flights, hotels, a packing list based on the actual weather, and check-in reminders — while also keeping her calendar organized and drafting inbox replies for her approval. ([Original post](https://www.facebook.com/heather.bayer/posts/pfbid0PYt8vGaadz6VSEx5c61DGfBjgFYmh8yM3CxKcqCnS4Wn56pZyypR69A2jcU4sE5Ql)).
 
 ## 🛒 Shopping
 
@@ -276,6 +322,10 @@
 
 
 **219. Son's old tires and rims sold on Marketplace: $470 in 13 days, Substack marketing down 7 hrs/week** — Vincent Kurtis (Substack essay, 2026-10-08). Asked Muse to sell his son's tires from a photo — it drafted the ad and handled buyer replies; tires sold for $250, rims for $220. Muse also took over his Substack marketing (21 Notes, 7 TikToks, 7 Pinterest pins, 7 YouTube Shorts a week), saving about 7 hours a week.
+
+**254. Muse talked a store into taking back his shirt past the return window** ✅ — Joshua McNichols (KUOW journalist, Instagram, 2026-11-06). Gave Muse access to his email and asked it to negotiate a late return of a shirt with a store, past the eligibility window, and the seller agreed to take it back. ([Original post](https://www.instagram.com/reel/DfYl_xSjOxn/)) (2026-11-06).
+
+**255. Amazon blocked his agent, so Muse bought his chocolate on Rakuten without him opening the site** ✅ — Koyama Daisuke (Facebook). Amazon blocked his AI agent, so he tried Rakuten instead, and Muse went from research to checkout without him opening the site once, picking five chocolates including his usual 72% cacao bar. ([Original post](https://www.facebook.com/100049285164736/posts/pfbid02CZDEX8wHQhzPjYgrrwF8WSCE4NUkJRUi98azXma71PsXQQi6uTZUGkbXsv1Ua6o4l/)).
 
 ## ⚡ Productivity · automation
 
@@ -353,7 +403,7 @@
 **147. Resumes sent automatically at 9am daily: job hunting while asleep** 🟡 — Vani (@pages_by_vani, IG, 10-16 "Job portals" episode 3). Uploaded her resume to Muse as a daily 9am scheduled task: it opens Robert Half/Kforce/Insight Global job boards, filters postings by criteria and applies automatically.
 
 
-**150. Blind creator's fully managed Muse: 15,000 emails + calendar + video editing** 🟡 — Kevin Moore (@kev_the_blind_pirate, IG creator, 10-18 reel). Named his Muse "Super Intelligent SI" and has used it for over a month: it cleared 15,000+ emails from his inbox, manages his calendar and reminders, and helps edit videos, make thumbnails, and write titles and descriptions — calls it an "indispensable support" for his digital life.
+**150. Blind creator's fully managed Muse: 15,000 emails + calendar + video editing** ✅ — Kevin Moore (@kev_the_blind_pirate, IG creator, 10-18 reel). Named his Muse "Super Intelligent SI" and has used it for over a month: it cleared 15,000+ emails from his inbox, manages his calendar and reminders, and helps edit videos, make thumbnails, and write titles and descriptions — calls it an "indispensable support" for his digital life. [Original post](https://www.instagram.com/reel/Dep34EvJeJd/).
 
 **157. Recovered a song name after IG/Spotify removed the track** ✅ — @AlfonAmayuelas (Alfonso Amayuelas, X, 2026-10-15). A song attached to an old video was removed from Instagram and Spotify and he'd forgotten its name; Muse found it — screenshot attached ([Original post](https://x.com/AlfonAmayuelas/status/2110530394055647375)).
 
@@ -401,6 +451,76 @@
 
 **230. One health dashboard from Whoop, Apple Health and Cronometer in about an hour** ✅ — Mike McMahon ([@ProShopGuyMF1](https://x.com/ProShopGuyMF1), X, 2026-10-30). Pulled exports from Whoop (recovery and sleep), Apple Health and Cronometer (food and nutrition) and had Muse build one dashboard from them in about an hour ([Original post](https://x.com/ProShopGuyMF1/status/2116308259930075434)).
 
+**256. Norris builds three tools on demand: Reels trend finder, morning email digest, flight-price watch** ✅ — Declann Drostan Tan (@__diditee__, Instagram, 2026-10-28). Connected his Muse Norris to Instagram and email, then had it build web apps on the spot: a weekly Reels trend tool for his niche, a morning digest of important emails, a Tokyo flight-price watch that alerts below budget, and a Gear Tracker that logs purchases from a photo and shows an angry avatar over a $50 budget. ([Original post](https://www.instagram.com/reel/DfBTv8ziy63/)) (2026-10-28).
+
+**257. Every “I'll get back to you” in Gmail turned into an unfinished-promises tracker** ✅ — Midi (@midiforreal, Instagram, 2026-10-28). Named her Muse Husband no.2: it searched Gmail for every “I'll get back to you” and built an unfinished-promises tracker, built a dinner voting site that decides at 6 p.m., and turned her saved Singapore cafes and restaurants into an interactive map with location, cuisine, price and hours. ([Original post](https://www.instagram.com/reel/DfBTrHmTLdo/)) (2026-10-28).
+
+**258. A lawyer who warned agents were dangerous changed her mind: daily 7 a.m. briefings, clashes flagged early** ✅ — Eleni Apostolopoulos Katsoulis (@elevatedwitheleni, Instagram, 2026-10-29). A lawyer who once warned AI agents were dangerous changed her mind after two weeks: with calendar and email access, Muse delivers a 7 a.m. daily briefing, flags schedule clashes days ahead (three kids in three suburbs on the same day), turns a summer-camp confirmation email into a calendar event, and drafts texts to the nanny for approval. ([Original post](https://www.instagram.com/reel/DfFKteXuWGG/)) (2026-10-29).
+
+**259. A 12-week half-marathon plan from calendar and Health data, rain days swapped to the gym** ✅ — Kenneth Lee (@iamkennethlee, Instagram, 2026-10-28). Asked his Muse Kopi by voice to build a 12-week half-marathon plan from his calendar and Health data; got local running routes, and when he asked about rain, Kopi swapped the Tuesday 5 a.m. run for a gym session and wrote the whole schedule into his Wellness calendar. ([Original post](https://www.instagram.com/reel/DfBUjKMzdXG/)) (2026-10-28).
+
+**260. Her agent Lucie ran fashion month: shows logged, glam blocked, triple-bookings stopped** ✅ — Tina Leung (@tinaleung, Instagram, 2026-10-30). During fashion month her Muse Lucie ran the schedule: confirmed shows logged into Google Calendar with time, seat number and address, two-hour glam slots blocked before each show, friend meetups fitted into gaps without triple-booking, and unanswered emails flagged with drafted replies back in New York. ([Original post](https://www.instagram.com/reel/DfHu3vRxvzg/)) (2026-10-30).
+
+**261. Muse is the third AI relationship: a secretary that pushes what matters, reminds birthdays, clears marketing mail** ✅ — Samantha Stier (@gourmettegirl, Instagram, 2026-10-29). Three AIs, three jobs: ChatGPT for communication and finding restaurants, Claude for executive-level admin, and Muse as personal secretary — with email and calendar connected, it pushes important messages first, reminds her about birthday gifts and unsubscribes marketing mail. ([Original post](https://www.instagram.com/reel/DfFqwbsA9kx/)) (2026-10-29).
+
+**262. Two years waiting for usable AI: subscription problems solved, plus a newsletter built on the spot** ✅ — @short.term.gems (Threads, 2026-11-02). After about two years waiting for an AI that felt right — early OpenClaw crashed daily — she tested Muse and Instinct side by side in a week: both were quick to start and both solved subscription problems, and Muse also produced a finished newsletter on the spot. ([Original post](https://www.threads.com/@short.term.gems/post/DfN-5wdFVSd)) (2026-11-02).
+
+**263. Home Assistant handed over: Zigbee, Shelly lights and the boiler bot fixed after Claude couldn't** ✅ — Chanoch Goldfeder (Facebook, 2026-11-01). Handed his whole Home Assistant setup to Muse: old bugs Claude never fixed got solved — new Shelly smart lights connected, the Zigbee install repaired, camera-based reminders wired up, the boiler push-notification bot debugged, air-conditioning state synced with power use, and Shabbat lighting and climate left to run on its own. ([Original post](https://www.facebook.com/cgoldfeder/posts/pfbid02XyAfoQcb4MLMWZhKEQDURfyQYWYYSXXUf1Ytvzu2dyuNvfpfaH7RVL9eXJWWKsfCl)) (2026-11-01).
+
+**264. Gmail drafted, Instagram folders reviewed, brain-dumps turned into action lists** ✅ — Natasha Ibrahim (@thenatashaibrahim, Instagram, 2026-11-03). After a few weeks with Muse: it reads her Gmail and drafts replies, sees her Instagram folders, content and data to judge what performs, connects to Shopify and QuickBooks, and turns her brain-dumps into executable action lists. ([Original post](https://www.instagram.com/reel/DfSCSLtxEU_/)) (2026-11-03).
+
+**265. Loopy texts only for truly urgent mail: five inboxes checked every five minutes** ✅ — @carlyassistant (Instagram, 2026-11-03). Named her Muse Loopy and built an only-urgent-mail filter: it watches five inboxes, checks every five minutes, and texts her phone only for genuinely urgent mail, ignoring newsletters and receipts entirely. ([Original post](https://www.instagram.com/reel/DfSKoatiebb/)) (2026-11-03).
+
+**266. Spark's trio: training handout written, five YouTube comments drafted every other day, Pixel issue diagnosed and fixed** ✅ — Krista Neher (@kristaneher, Instagram, 2026-11-05). Named her Muse Spark: it produced a one-page small-business training handout on its own, finds recent videos in her field and drafts thoughtful YouTube comments — five every other day for her review, never posted without approval — and when her site's Pixel broke, it checked her Meta account, located the problem and walked her through the fix. ([Original post](https://www.instagram.com/reel/DfXrZelFUPB/)) (2026-11-05).
+
+**267. ID photo watermarked before handing over: three diagonal lines, original untouched** ✅ — Wendell Yu (Facebook group, 2026-11-01). He had to hand over a passport photo for a pet-transport booking and knew he couldn't get it back, so he sent Muse a sample of the watermark he wanted and it added a semi-transparent gray diagonal watermark in three lines across the photo; the original stayed untouched and only the watermarked copy was handed over. ([Original post](https://www.facebook.com/groups/1412054144392596/permalink/1446533990944611/)) (2026-11-01).
+
+**268. Two Muses linked through Messenger relay appointments between spouses** ✅ — Gigi (Facebook group, 2026-11-03). Gigi and his wife each have their own Muse, linked through a shared Messenger thread with no coding or API keys: when one Muse learns about an appointment for the other person, it relays it and the other Muse adds it to the right calendar automatically; day to day they also handle email triage and appointment reminders. ([Original post](https://www.facebook.com/groups/metasmuse/permalink/3198450817014935/)) (2026-11-03).
+
+**269. Marathon coach “Anthony”: weekly mileage plan and check-ins, $11,309.52 raised** ✅ — Cory Wharton (@corywharton_ig, Instagram, 2026-10-09). Renamed his Muse Anthony to act as a world-class marathon coach while training for the NYC Marathon and raising money for Children's Heart Disease research in honor of his daughter Maya: a weekly mileage plan starting at 10 miles, check-in notifications, fundraising strategy help, and a Marathon Prep Tracker showing 10 of 10 miles complete. ([Original post](https://www.instagram.com/reel/DeSTyhvy7kd/)) (2026-10-09).
+
+**270. A Muse Space that logs food by voice replaced MyFitnessPal** ✅ — u/Competitive_Theme_80 (Reddit r/MuseAgent). Replaced MyFitnessPal with a Muse Space that logs food and workouts by voice: he tells his Muse what he did or ate, it logs it and verifies food nutrition facts online; the dashboard also shows a heart-coherence score described as a lifestyle signal, not a medical reading. ([Original post](https://www.reddit.com/r/MuseAgent/comments/1xpmyqw/i_was_able_to_replace_myfitnesspal_with_a_space/)).
+
+**271. His Muse reads him his store numbers before he's finished his coffee** ✅ — Jay Lewis (Threads). He already starts his mornings with Muse reading his store numbers before he has finished his coffee; with real-time voice, that work can now happen in the truck between stores, hands busy and eyes on the road. ([Original post](https://www.threads.com/@jvy.l/post/DfYySJuD722)).
+
+**272. 780 saved Instagram videos sorted into collections, no manual sorting** ✅ — Jacques Potts (Threads). Had Muse file 780 saved Instagram videos from @jackybang1212's account — plus 52 from his own — into collections like Content growth and AI tools & prompts, with no manual sorting required. ([Original post](https://www.threads.com/@jacqbots/post/DfP2V7qCGHi)).
+
+**273. 20 services, one entry point: a week with Muse as his task manager** ✅ — Notthi (Threads). A week after wiring more than 20 services into Muse, he no longer remembers which app to open for each errand — one entry point takes every request, from booth bookmarks on a business trip to checking a return Shinkansen ticket change. ([Original post](https://www.threads.com/@notthi/post/DfLvmTBoGOt)).
+
+**274. Two inboxes, one morning digest, and a server that warns him before it fills up** ✅ — Hiroaki Saito (Threads). After a week with Muse, his mornings start with one digest drawn from two Gmail accounts — order confirmations, shipping updates and card payment notices only — while the same assistant watches his home recording server's free space and tracks when new plastic model kits open for pre-order. ([Original post](https://www.threads.com/@hirosai73/post/DfKMKAWj8gz)).
+
+**275. 3,000 saved posts sorted in under 60 seconds, then Muse started answering from them** ✅ — Joshua Stevenson (Instagram). He asked Muse to sort his 3,000 saved Instagram posts — in under 60 seconds it proposed 10 collections, filed every save, and then answered personal questions straight from those saves, like what to cook tonight or how to spend a weekend in Kyoto. ([Original post](https://www.instagram.com/reel/DfHqUUCDdLE/)).
+
+**276. No more hand-typing his schedule: Muse now runs his Cybozu calendar** ✅ — Takato Nozaki (Facebook). He connected Muse to Cybozu Office to end daily hand-entry: reminders suppressed on days off, scheduled reminders otherwise, and calendar menu colors fixed by keyword. Gmail parsing of booked transport is still a future plan, not yet done. ([Original post](https://www.facebook.com/takato.nozaki/posts/pfbid0MFeprn39TgpsewpgwZDXQGytaDe6SgJ9akuxiiHVHUnQ8bE3eS1PAqd5hFPopEWAl)).
+
+**277. He gave Muse a robot body: it booked Paris, applied to 80+ jobs, and ran his smart home** ✅ — kenneth_linn_freedom (Threads). He gave Muse a physical robot body and built and tested four projects with it: a planned and booked Paris trip, 80+ job applications for his sister, smart-home automation via Home Assistant, and a Reachy Mini robot brought to life with the Muse Gadgets SDK. ([Original post](https://www.threads.com/@kenneth_linn_freedom/post/DfBNY5ZI9BJ)).
+
+**278. He said the wrong date in his promo video; Muse revoiced it in under five minutes** ✅ — Manuel Suarez (Facebook). He said the wrong date in his promo video — at 1:10 he said 12 instead of 10 — so he gave the whole video to Muse and asked it to swap the word 12 for 10; less than five minutes later he had a video with his own voice saying October 10th. ([Original post](https://www.facebook.com/theninjamarketer/posts/pfbid02Q7kxtsXnipYM4Dj1bqUdSTmYWjKcZtwWKwypYJTg4wVir5FA6Q9GjrLAvctm4H3Pl)).
+
+**279. Three weeks with Muse: inbox, morning brief, subscriptions, the busywork is gone** ✅ — Jayson Stefanek (Facebook). He started using Muse on October 4, 2026, and in just a few weeks it quietly took over the busywork: cleaned up his email inboxes and maintains them every day, streamlined recurring tasks, sends automated emails right on schedule, and puts together a daily morning brief. ([Original post](https://www.facebook.com/DJCOCreator/posts/pfbid0fxKqhVsEq8VoB2gzwRDx8tDiaCPB1EvaMqSSaTzMCb1KK97jxxEkr7A1uV2tX5Wml)).
+
+**280. Two weeks with Muse: 9,000 unread emails down to under 20, plus a robot** ✅ — Dave Wilson (Facebook). Two weeks into trying AI systems for everyday life, he calls free Muse the most capable of the three he tried: Gmail cleaned from over 9,000 unread to under 20 with a weekly re-check, a Pokémon Go tracker app, daily observance posts, nightly game screenshot posts, a self-balancing robot build, and step and food tracker apps. ([Original post](https://www.facebook.com/Durghan/posts/pfbid0AVBmwGz8AaMyM2Vbq22Fi8Q7RsnqgizaS7Jn8LRs7CuG19rGXad8tCrxQJjCYW85l)).
+
+**281. 36 hours, 2,813 actions: his Muse usage dashboard, by the numbers** ✅ — Kosuke Sekiguchi (Facebook). He shared his Muse usage dashboard: 2,813 actions in about 36 hours from October 23 to 25; 335 inputs produced 31 tasks, 18 completed (58.1%), with login waits and pending confirmations among the bottlenecks. ([Original post](https://www.facebook.com/reel/2760429924391823/)).
+
+**282. His Muse “Alfred” finds the events, fills the calendar, and helps host the dinner party** ✅ — sxintnate (Instagram). He is trying out his Muse Alfred for event ideas, social plans and hosting dinner parties: connected to Instagram, email and OpenTable, Alfred finds nearby events on Threads and Instagram and adds them to his calendar. ([Original post](https://www.instagram.com/reel/De2JffVoWxU)).
+
+**283. Muse cross-checked his calendar against the league site and caught his own scheduling mistake** ✅ — Kevin Evers (Threads). After weeks with Muse, it cross-checked a basketball game in his calendar against the league site schedule and flagged a conflict — he confirmed the error was his; it also auto-cleans duplicate calendar entries. ([Original post](https://www.threads.com/@vdsolutionsai/post/Dex__6gkVH6)).
+
+**284. Muse sat through a 25-minute support call so he didn't have to** ✅ — Chris Pirillo (Threads). His Chromebook charger broke, so he handed the whole replacement to Muse: a roughly 25-minute support call, mostly on hold, documented with a transcript screenshot. The call itself was completed. ([Original post](https://www.threads.com/@chrispirillo/post/De0JnG_GaDQ)).
+
+**285. A month of daily Muse: reminders, flight searches, grocery lists, inventory sheets** ✅ — James Caulkins (Facebook). About a month of daily Muse use: future reminders for personal and work tasks, flight searches from various airports, grocery lists, a one-sheet portfolio summary, day/week/month scheduling, and an inventory spreadsheet. ([Original post](https://www.facebook.com/james.caulkins.7/posts/pfbid032gWNy4tfh8chpZo6ouSaWLzjqXmQn3dV1RtdFt25BXxrSwTExVWkkQQtYRAMLQTol)).
+
+**286. Exactly what Gemini and Siri should have been: Muse picked his store purchase** ✅ — Chris Pirillo (Threads). In a store, he explained his preferences to Muse — what he liked and didn't like — and with relative speed, Muse told him exactly what he needed to get; he calls it exactly what Gemini and Siri should have been all along. ([Original post](https://www.threads.com/@chrispirillo/post/DevF1JlkrzT)).
+
+**287. Muse recalled a forgotten New Year's Eve trip to Sudan from 2022** ✅ — @jwang815 (Threads). When someone asks about a trip he took years ago and he has forgotten the answer, he asks Muse to pull the data: a forgotten New Year's Eve trip to Sudan from 2022. ([Original post](https://www.threads.com/@jwang815/post/Dd9e6y_Gn0W)).
+
+**288. A Columbia student hands her admin load to Muse** ✅ — Ellie (@ellharve, Instagram). In a “make a late start day productive” vlog, the Columbia student hands her administrative tasks to her Muse Buttons (an owl avatar): she types commands for it to pull upcoming school meetings from email and handle the admin load. ([Original post](https://www.instagram.com/reel/DerbXHXx6Gu/)).
+
+**289. Two weeks with Muse: a neurodivergent creator's work setup** ✅ — Tomayia Colvin (Facebook). Two weeks with Muse: it can send her emails, write captions, plan content for the week, help edit reels, sort out her to-do list and write the words on her website; she says she doesn't do any of that alone anymore and just talks to it like a person. ([Original post](https://www.facebook.com/groups/2141454752849625/permalink/4691407831187625/)).
+
+**290. School dates, dinner plans, one email: Muse as family assistant** ✅ — Nai Robi (Facebook). After downloading Muse, it organized all event dates for her boys' school into her calendar, reminds her to make dinner at a certain time and plan around what she wants to cook, and even emailed the school to update her phone number — confirming everything with her first before anything is sent. ([Original post](https://www.facebook.com/kdgunn/posts/pfbid02Vn3FpWEDASZZGzbpuBuKoG9zHCe4p6tBwTih44YPmaSMk7Gr5oJMDuHUztnvQxNEl)).
+
 ## 🎨 Content · creation
 
 **59. Daily 8am AI-news podcast** — 于為暢 (Wei Chang Yu).
@@ -438,6 +558,15 @@
 
 **229. Saved Instagram posts turned into a real ski training plan** ✅ — Brie ([@briechong](https://x.com/briechong), X, 2026-10-28). Had Muse turn the posts she had saved on Instagram into a real ski training plan — and tidy up her saved collection along the way ([Original post](https://x.com/briechong/status/2115303444118643034)).
 
+**291. An NBA shooting coach had Muse plan a shooting workout into a PDF, then trained with it** ✅ — Chris Matthews (@lethalshooter, Instagram, 2026-11-02). The NBA shooting coach had his own Muse plan a shooting workout on the spot: spot shooting, catch and shoot, off the dribble and shooting on the move, all written into a PDF he then went and trained with. ([Original post](https://www.instagram.com/reel/DfQDAMKBNg3/)) (2026-11-02).
+
+**292. Famous quotes turned into sketch-portrait quote cards for social media** ✅ — Wendell Yu (Facebook group, 2026-10-26). He gave Muse a few famous quotes and asked it to turn them into image cards; real photos of the people didn't feel right to use, so it switched to sketch portraits, each landscape card with the sketch on one side and the quote and book title on the other, ready for social media. ([Original post](https://www.facebook.com/groups/1412054144392596/permalink/1440654184865925/)) (2026-10-26).
+
+**293. Blogging workflow handed over: 50+ articles published across two sites** ✅ — Uzair Khan (Facebook group, 2026-10-30). He trained his Muse to run most of his blogging workflow for two websites: it did keyword research on its own, found almost 100 keywords and topics, planned the content strategy, and wrote and published 50+ articles with publishing automated at 15 a day; one still-new site already shows 1,000+ impressions, 15 clicks and an average position around 7. ([Original post](https://www.facebook.com/groups/1625655219228182/permalink/1665287235264980/)) (2026-10-30).
+
+**294. Tonight Muse created his group, set his bio and test-posted his daily cards while he was at work** ✅ — Faisal Hanif (Facebook). Tonight Muse created his group, set his bio and test-posted his daily cards — while he was at work. ([Original post](https://www.facebook.com/groups/1812256339803048/permalink/1812266746468674/)).
+
+**295. 550 wedding photos into a 79-page photo book** ✅ — @soashley_m (Threads). The author shares a progress update on tasks their Muse completed, including turning 550 wedding photos into a 79-page photo book and cleaning the inbox, unsubscribing from twelve unwanted mailing lists. ([Original post](https://www.threads.com/@soashley_m/post/Det_P82IJbg)).
 
 ## 🛠️ Dev · building
 
@@ -459,7 +588,7 @@
 
 **159. Remote bot install on a home laptop via SSH/Tailscale — phone only** ✅ — @OrbitalDesk (Dave the Bot-Despot, X, 2026-10-20). Away from home with only his phone; had Muse SSH (over Tailscale) into his home laptop, install Mausbot and hand back the phone-app setup info — then chatted with the new bot "Dumpling" straight from his phone ([Original post](https://x.com/OrbitalDesk/status/2112609284387488045)).
 
-**175. No good expense-splitting app? Have Muse build one: "Travel Expense Split"** 🟡 — Yuka Ohishi (@0oyukao0, IG, 27K followers, 2026-10-23). Fed up with split apps that were ad-heavy, complicated or paid, she had Muse build "Travel Expense Split": add expenses manually or snap a receipt photo for auto-entry; with Email and Messenger connected, Airbnb booking confirmations get pulled in automatically; the final split goes out to friends via Messenger. Her Muse avatar is "Pippi", modelled on her dog Pino. The concrete scene: a 2-night, 3-day trip with two friends where settling up is the painful part (she notes in her Threads post that the merchants and products shown are AI-generated suggestions, not Meta sponsorship).
+**175. No good expense-splitting app? Have Muse build one: "Travel Expense Split"** ✅ — Yuka Ohishi (@0oyukao0, IG, 27K followers, 2026-10-23). Fed up with split apps that were ad-heavy, complicated or paid, she had Muse build "Travel Expense Split": add expenses manually or snap a receipt photo for auto-entry; with Email and Messenger connected, Airbnb booking confirmations get pulled in automatically; the final split goes out to friends via Messenger. Her Muse avatar is "Pippi", modelled on her dog Pino. The concrete scene: a 2-night, 3-day trip with two friends where settling up is the painful part (she notes in her Threads post that the merchants and products shown are AI-generated suggestions, not Meta sponsorship). [Original post](https://www.instagram.com/reel/De0Y5NbPa7L/) (2026-10-23).
 
 **186. Company rebrand: new logo, website reskin and DNS changes** ✅ — Texas Pragmacrat (@texaspragmacrat, X, 2026-10-28). Muse handled a full company rebrand — a new logo, a website reskin and DNS changes — saving an estimated $7,000 to $10,000 by the author's estimate ([Original post](https://x.com/texaspragmacrat/status/2115486204405977561)).
 
@@ -477,6 +606,10 @@
 **223. Siri AI Unlocked website created and published by Muse** ✅ — kottley ([@kottley](https://x.com/kottley), X, 2026-09-22). Used Muse to create and publish a blog dedicated to real-world Siri AI use cases, successes and failures ([Original post](https://x.com/kottley/status/2102358067220287964)).
 **224. Granny's Tales storytelling app: loved ones' voices, auto-fed to Instagram** ✅ — Sai Krishna Manapragada ([@its_me_msk](https://x.com/its_me_msk), X, 2026-09-11). Building an app for tales from around the world to be heard in the voice of loved ones, which feeds his Instagram channel automatically ([Original post](https://x.com/its_me_msk/status/2098652523028521348)).
 **225. Claude multi-agent workflows migrated to Muse, running every morning** ✅ — Newton Jones ([@NewtonJonesIV](https://x.com/NewtonJonesIV), X, 2026-09-10). Migrated multi-agent workflows built for Claude 4.6 to Muse by handing it the master prompt; it executed flawlessly and now runs the prompt every morning at a fraction of the cost, and cleaned up his emails (no cost figure given) ([Original post](https://x.com/NewtonJonesIV/status/2098022398721143207)).
+
+**296. Password-maker web app thought up, built and published in one day** ✅ — Davey “Sillie Nelson” Duncan (Facebook group, 2026-11-02). He thought of a password tool one morning, and Muse helped him build it and publish it that night: the Sneaky See-It Snake turns words you can remember into passwords made of symbols and numbers (for example, “cat” becomes something like {@T-1d3@), and it stores nothing. ([Original post](https://www.facebook.com/groups/metasmuse/permalink/3198189723707711/)) (2026-11-02).
+
+**297. A personal trainer built a strength-program app just by talking to Muse** ✅ — @willscott_v2 (Threads). On Monday he showed Muse to Randy, his trainer; two days later Randy showed him a strength-program app he built by talking to Muse — no command line, no debugging random code. ([Original post](https://www.threads.com/@willscott_v2/post/DdWrUReiJKJ/)).
 
 ## 💼 Business · consumer rights
 
@@ -530,6 +663,34 @@
 
 **226. His son dreamed up a dizzy-eyed rat — Muse designed it, stocked the store, ordered samples** ✅ — Michael Perry ([@michaelperry](https://x.com/michaelperry), X, 2026-10-25). His son had an idea for a rat with 😵 eyes; they designed it with Muse, which then updated their Shopify store and ordered samples ([Original post](https://x.com/michaelperry/status/2114381024323117169)).
 
+**298. Cosmo landed three hotel collaborations in a day with five media-kit pitch emails** ✅ — Sonam Midha (@sonammidhax, Instagram, 2026-10-27). Had her Muse Cosmo handle creator business: in one day it sent pitch emails with her media kit to five hotels — including Shanghai's Upper House and Beijing's EAST in the screenshots — and landed three paid hotel collaborations the same day. ([Original post](https://www.instagram.com/reel/DfADK4PAxII/)) (2026-10-27).
+
+**299. Buried work invitations found by scanning a month of DMs and email** ✅ — Carri Nelow (@carrinelow, Threads, 2026-10-28). Named her Muse Mumu: afraid of missing work while traveling, she had it scan the past month of DMs and emails, find buried work invitations, and draft a reply for each for her review — explicitly never sending on its own. ([Original post](https://www.threads.com/@carrinelow/post/DfBUyS6DiIN)) (2026-10-28).
+
+**300. A one-person team: overnight research, inquiry emails, market validation and editing** ✅ — Tomas Sadilek (@sadilekinnovation, Instagram, 2026-11-03). He tested Muse across personal and business lines: overnight research with a prototype by morning, drafted client inquiry emails, validated product-market fit for a new product, and built a video-editing pipeline — jump cuts, visuals, subtitles and end cards automated. ([Original post](https://www.instagram.com/reel/DfTBCKVK4yw/)) (2026-11-03).
+
+**301. A one-person operations team: voice notes become scheduled posts, Pinterest 4.6K to 34K in five weeks** ✅ — Yanina Oyarzo (@yanina_oyarzo, Instagram, 2026-11-04). She uses Muse as her operations team: weekly creator task planning, voice notes turned into schedulable posts, old content reused to grow Pinterest monthly views from 4.6K to 34K in five weeks, brand collaboration progress and late payments tracked, affiliate codes across platforms in one dashboard, saved Instagram recipes turned into clickable shopping lists, and Vinted secondhand listings managed while she only ships. ([Original post](https://www.instagram.com/p/DfVXSgrElSs/)) (2026-11-04).
+
+**302. Dash handles invoicing, payroll, weekly close and inbox: $37,500 collected this month** ✅ — Amanda Sabreah (via @muse official repost, Threads, 2026-11-05). She built a business manager called Dash into her Muse: invoicing and chasing payments, organizing payroll, weekly close, clearing inbox spam and drafting replies for her approval, and preparing briefing points before meetings; clear-rule work runs on its own, while writing, sending or spending always asks her first. ([Original post](https://www.threads.com/@muse/post/DfYEJF4keqH)) (2026-11-05).
+
+**303. Keeps a business owner on revenue work, calls out tangents** ✅ — Richard Bryan (Facebook group, 2026-10-28). He asked Muse to keep him focused on his important tasks and call out tangents: it helped set up his website with fillable forms collecting client information for the wills, trusts and other legal documents he prepares, and when he asks for tables on Roberto Clemente's batting average it tells him that project may not be the best use of his time because it doesn't bring in revenue. ([Original post](https://www.facebook.com/groups/1625655219228182/permalink/1663249482135422/)) (2026-10-28).
+
+**304. Cleaning company run day to day: lead briefings, quote escalations, review follow-ups** ✅ — Austin Richey (Facebook group, 2026-10-30). He runs a carpet cleaning company in Mount Juliet, Tennessee, and set Muse up as his operator: every morning it briefs him on leads and booked jobs, watches his business email around the clock and escalates any quote request nobody has answered within 15 minutes, runs review follow-ups after every job, and drafts his daily posts for every platform — with a day-one rule that he sees everything first and nothing starts until he approves. ([Original post](https://www.facebook.com/groups/metasmuse/permalink/3194535247406492/)) (2026-10-30).
+
+**305. Yoga and wellness studio back office run by Muse** ✅ — Yumi Urata (Facebook group, 2026-11-04). She runs a yoga and wellness studio and uses Muse for the back-office work: it writes class descriptions, sub-request emails and workshop flyers, replies to reviews, and keeps projects and follow-ups in one place, all in plain language she can review. ([Original post](https://www.facebook.com/groups/1625655219228182/permalink/1670639231396447/)) (2026-11-04).
+
+**306. Investment due diligence with call brief** ✅ — Igor J Weisbrot (@heretic_777, Threads, 2026-10-11). His Muse identified an investment banking opportunity, conducted due diligence on it, and prepared a call brief and pitch sheet before he engaged. ([Original post](https://www.threads.com/@heretic_777/post/DeXA4bMj3w6)) (2026-10-11).
+
+**307. His dealership's listings now update themselves, prices, sold cars and all** ✅ — Michael Charles (Instagram). Five weeks into Muse, his dealership's listings look after themselves — a vehicle database that updates prices and pulls sold cars, on top of calendar, email and follow-ups handled by the same assistant. ([Original post](https://www.instagram.com/reel/DfOC5zjtRNp/)).
+
+**308. Her assistant Murphy caught the website button sending customers to the wrong store** ✅ — Talk Shop with Ali (Facebook). Her assistant Murphy scanned her emails, spotted that a button on her website was linking to the old ordering site instead of the current one, and offered to fix it — the kind of task she always forgets, handled automatically and correctly. ([Original post](https://www.facebook.com/reel/4768715130014977/)).
+
+**309. His Muse runs the weekly content machine: 8-hour YouTube uploads, scheduled posts, Gumroad shop** ✅ — Sirkel Media (Threads). His weekly content operations run through Muse by chat instruction: 8-hour videos uploaded to YouTube, multiple Instagram and Facebook videos scheduled, and the Gumroad shop managed — the recurring publishing grind, handed over. ([Original post](https://www.threads.com/@sirkel.media13/post/DfC8Wy1Dvsy)).
+
+**310. 60 days of real analytics, then an autopilot content planner** ✅ — Book yello (Facebook). After connecting Instagram to Muse, he got 60 days of real analytics — the first two posts drove 83% of likes, reaching 74,224 accounts, 98% of them non-followers — then wired Muse to a Google Sheets content planner for daily reports and weekly audits on autopilot, and appointed it his Chief Instagram Officer. (A future follower goal is a plan, not a result, and is not stated.) ([Original post](https://www.facebook.com/reel/1524814599674608/)).
+
+**311. This creator automated his entire business with Muse** ✅ — Rifat Ahmed (Instagram). Muse proactively scans his email and found brand opportunities sitting in his spam folder; it replies to brands, sends his invoices, cross-posts his videos with captions, and trims the silent parts from his edits. ([Original post](https://www.instagram.com/reel/De14uVTxGbO)).
+
 ## 🤝 Contribute
 
 1. **Share your use case**: open an Issue with the "Share a use case" template — **shares from X, Reddit, Instagram, Facebook, or Threads**, include the original post link; added after verification (the daily auto-update processes them too)
@@ -546,6 +707,8 @@ Auto-updated daily at 00:00 (Beijing time).
 - Informational only; not consumer or investment advice
 
 ## 🗒️ Changelog
+
+- **2026-11-08 (backfill)**: 81 non-X cases added (total 311): batches previously rejected under the old X-only rule — cwybruce issues 34–43 (24), musewins.dev (45), aisolutionvault / working-ref.com (12) — re-verified one by one under the new rule, all with direct Reddit / Instagram / Facebook / Threads post links (links taken from aggregator archives and domain-matched to the platform; original posts were not opened in-site due to login walls). Three older cases also gained their original-post links (#76 ekate.lee's week of errands, #150 the blind creator's setup, #175 the Travel Expense Split app; all 🟡 → ✅). Not included: vague amounts, demos calling the author's own business, posts with no result numbers, second-hand summaries, advice-only pricing suggestions, forum posts, posts saying only “Muse” with no Meta qualifier, and four cases already in the library (#194 Phillip Jackson's small-claims case, #150, #175, #76). Amounts kept to the record: SiriusXM uses the $37.65 from the call transcript (not the post's $500 headline); Teri Watkins' confirmation number appears only in the aggregator's title and is not cited; Chris Pirillo's entry says only the ~25-minute support call was completed (whether the replacement shipped is unconfirmed).
 
 - **2026-11-08**: 4 new cases added (older X shares newly surfaced by agentstacklist.com, cross-checked by X link plus post-ID timestamp against the aggregator's archive dates: car insurance shopped from GEICO $2,123 to Progressive $1,536, $1,174/yr saved; a utility call through the phone bots to a human in ~4 minutes, then dialed him in; saved Instagram posts turned into a ski training plan; a health dashboard from Whoop, Apple Health and Cronometer built in about an hour). Total: 230. Not included: @sethrose's TCPA spam-text case was already assessed twice and rejected (possible claim amounts only, no case filed, nothing recovered), so it is not re-listed; agentstacklist's remaining items are official announcements, model benchmarks, prompt packs and industry news (not user cases); musewins.dev's latest batch (Nov 6–7) is all Reddit/Instagram/Facebook/Threads (not X shares); cwybruce issue 43's 3 user cases are all Instagram/WEEL second-hand summaries (not X shares) and its 2 industry observations are not user shares; messagingagents/musecases/17muse/shipwithmuse are still at September with no in-window additions; X search found no new in-window user cases (overnight news was the official Muse Spaces/Voice launches); Issues gained no new case submissions. Same-day sourcing rule expanded: no longer X-only — real user shares from Reddit, Instagram, Facebook, and Threads are now included (verification standard unchanged).
 
