@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **226 cases** ｜ 🕐 **Last updated: 2026-11-07** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **230 cases** ｜ 🕐 **Last updated: 2026-11-08** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,11 +30,11 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (56)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (57)
 - ✈️ [Travel](#️-travel) (25)
 - 🛒 [Shopping](#-shopping) (32)
-- ⚡ [Productivity · automation](#-productivity--automation) (57)
-- 🎨 [Content · creation](#-content--creation) (16)
+- ⚡ [Productivity · automation](#-productivity--automation) (59)
+- 🎨 [Content · creation](#-content--creation) (17)
 - 🛠️ [Dev · building](#️-dev--building) (18)
 - 💼 [Business · consumer rights](#-business--consumer-rights) (22)
 
@@ -149,6 +149,8 @@
 **215. Tesla valet parking refund: first call failed, second call approved in full** ✅ — Kyle G ([@kylemissionai](https://x.com/kylemissionai), X, 2026-10-21). A valet refused his Tesla over a phone key, but he had already paid for parking; Muse's first refund call failed for lack of details, it asked him two questions, called again — full refund approved, no hold music for him ([Original post](https://x.com/kylemissionai/status/2113022477152776628)).
 **216. Internet bill went up unannounced — Muse called and talked it down, plus two months' credit back** ✅ — [@CryptoTamilza](https://x.com/CryptoTamilza) (X, 2026-10-20). His internet bill rose without notice; Muse negotiated live with customer care, brought the monthly bill down and got a credit back for the past two months (no amount given in the post) ([Original post](https://x.com/CryptoTamilza/status/2112648082496053496)).
 **217. Pharmacy copay beaten: a discount card cheaper than insurance** ✅ — Nan ([@SuperNanTX](https://x.com/SuperNanTX), X, 2026-10-24). Muse compared prescription discount cards and found one cheaper than her insurance copay (no amount given) ([Original post](https://x.com/SuperNanTX/status/2113991981462392963)).
+
+**227. Car insurance shopped and switched: GEICO $2,123 → Progressive $1,536, $1,174/yr saved** ✅ — Mike Nichols ([@MistrDeplorable](https://x.com/MistrDeplorable), X, 2026-10-28). His GEICO renewal came in at $2,123; Muse found a Progressive policy for $1,536 with better coverage, then called GEICO to cancel the old policy — he only joined the call for about a minute to verify his identity. Tagged #MuseMoneyChallenge; 170k+ views ([Original post](https://x.com/MistrDeplorable/status/2115495145437093938)).
 
 ## ✈️ Travel
 
@@ -395,6 +397,10 @@
 
 **220. Weekend trial: restaurant + parking booked, best of 700+ podcast episodes researched** ✅ — David ([@never_offseason](https://x.com/never_offseason), X, 2026-09-14). Skeptical at first, he had Muse book a restaurant and a parking reservation, then research the best of 700+ episodes of a podcast series he likes — both done in one weekend ([Original post](https://x.com/never_offseason/status/2099326880998395949)).
 
+**228. Utility call: through the phone bots to a human in ~4 minutes, then dialed him in** ✅ — Gagan Bansal ([@bansalg_](https://x.com/bansalg_), X, 2026-10-27). Asked Muse to call his utility company to change his account; it worked through the automated phone menus to a human in about four minutes, then dialed him into the call when the rep needed him ([Original post](https://x.com/bansalg_/status/2114877645053890947)).
+
+**230. One health dashboard from Whoop, Apple Health and Cronometer in about an hour** ✅ — Mike McMahon ([@ProShopGuyMF1](https://x.com/ProShopGuyMF1), X, 2026-10-30). Pulled exports from Whoop (recovery and sleep), Apple Health and Cronometer (food and nutrition) and had Muse build one dashboard from them in about an hour ([Original post](https://x.com/ProShopGuyMF1/status/2116308259930075434)).
+
 ## 🎨 Content · creation
 
 **59. Daily 8am AI-news podcast** — 于為暢 (Wei Chang Yu).
@@ -428,6 +434,9 @@
 
 
 **183. Every song saved on Instagram moved to Spotify, no duplicates** ✅ — Noble Soliform (@noblesoliform, X, 2026-10-26). Muse identified every song he had saved on Instagram and added them all to his Spotify library with no duplicates ([Original post](https://x.com/noblesoliform/status/2114711497096208596)).
+
+
+**229. Saved Instagram posts turned into a real ski training plan** ✅ — Brie ([@briechong](https://x.com/briechong), X, 2026-10-28). Had Muse turn the posts she had saved on Instagram into a real ski training plan — and tidy up her saved collection along the way ([Original post](https://x.com/briechong/status/2115303444118643034)).
 
 
 ## 🛠️ Dev · building
@@ -537,6 +546,8 @@ Auto-updated daily at 00:00 (Beijing time).
 - Informational only; not consumer or investment advice
 
 ## 🗒️ Changelog
+
+- **2026-11-08**: 4 new cases added (older X shares newly surfaced by agentstacklist.com, cross-checked by X link plus post-ID timestamp against the aggregator's archive dates: car insurance shopped from GEICO $2,123 to Progressive $1,536, $1,174/yr saved; a utility call through the phone bots to a human in ~4 minutes, then dialed him in; saved Instagram posts turned into a ski training plan; a health dashboard from Whoop, Apple Health and Cronometer built in about an hour). Total: 230. Not included: @sethrose's TCPA spam-text case was already assessed twice and rejected (possible claim amounts only, no case filed, nothing recovered), so it is not re-listed; agentstacklist's remaining items are official announcements, model benchmarks, prompt packs and industry news (not user cases); musewins.dev's latest batch (Nov 6–7) is all Reddit/Instagram/Facebook/Threads (not X shares); cwybruce issue 43's 3 user cases are all Instagram/WEEL second-hand summaries (not X shares) and its 2 industry observations are not user shares; messagingagents/musecases/17muse/shipwithmuse are still at September with no in-window additions; X search found no new in-window user cases (overnight news was the official Muse Spaces/Voice launches); Issues gained no new case submissions.
 
 - **2026-11-07**: 15 new cases added (older X shares newly surfaced by musewins.dev and shipwithmuse.live, cross-checked by X link plus post-ID timestamp against the aggregators' archives: $97 in unclaimed property plus data-broker opt-outs and Amex offers activated; a forgotten $100/mo Claude Max subscription found in 6 months of email receipts, $1,200/yr saved; a hospital bill's "on hold" status proven false by one call; a Tesla valet parking refund approved in full on the second call; an unannounced internet bill hike talked down with two months' credit back; a pharmacy copay beaten by a discount card; a US passport renewed online (95% by Muse) plus Amex Travel flights for two; a son's old tires and rims sold on Marketplace for $470 in 13 days with Substack marketing down 7 hrs/week (Substack essay, text-only); a weekend trial booking a restaurant and parking plus a 700+ episode podcast deep-dive; a finance tracker app built from scratch; a photo calorie-tracker app that replaced a paid subscription; the Siri AI Unlocked site created and published; the Granny's Tales storytelling app; Claude multi-agent workflows migrated to Muse, running every morning; and a dizzy-eyed rat plush designed, listed and sampled). Total: 226. Not included: musewins' ~30 @thsottiaux X posts turned out to be Codex usage-reset announcements (not Muse use cases), closing that open item; the site's @heretolrn bomber-jacket post (soft result, no amount); cwybruce issue 42's 3 user cases were all Threads/Instagram (not X shares) and its 2 industry observations are not user shares; 3 shipwithmuse X posts (a YouTube channel audit with no stated outcome, a wedding-planning testimonial with no concrete result, a 50-prompt list that is not a user case); agentusecases.ai's $1,500 unclaimed-property case (claim filed but unpaid, no X link to verify) and its Costco microwave purchase (no result stated); messagingagents/musecases/17muse are still at September with no in-window additions; Issues gained no new case submissions.
 

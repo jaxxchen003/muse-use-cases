@@ -1,7 +1,7 @@
 {
  "meta": {
-  "count": 226,
-  "updated": "2026-11-07",
+  "count": 230,
+  "updated": "2026-11-08",
   "invite": "4P14HY",
   "repo": "https://github.com/jaxxchen003/muse-use-cases",
   "title": "Muse 实战案例库",
@@ -2982,6 +2982,58 @@
    "re": "Designed, listed in the store, samples ordered",
    "d": "儿子想做一只翻白眼（😵）的老鼠玩偶，让 Muse 设计、更新 Shopify 店铺、下单打样。",
    "de": "His son had an idea for a rat with 😵 eyes; they designed it with Muse, which updated their Shopify store and ordered samples."
+  },
+  {
+   "t": "车险 GEICO 续保 $2,123，Muse 比价换 Progressive 年省 $1,174",
+   "te": "Car insurance shopped and switched: GEICO $2,123 → Progressive $1,536, $1,174/yr saved",
+   "c": "money",
+   "a": "Mike Nichols（@MistrDeplorable，X，2026-10-28）",
+   "ae": "Mike Nichols (@MistrDeplorable, X, 2026-10-28)",
+   "x": "https://x.com/MistrDeplorable/status/2115495145437093938",
+   "b": "ok",
+   "r": "年省 $1,174（$2,123 → $1,536）",
+   "re": "$1,174/yr saved ($2,123 → $1,536)",
+   "d": "GEICO 续保涨到 $2,123，让 Muse 比价找到保障更好的 Progressive $1,536，随后由 Muse 打电话取消 GEICO 旧保单，本人只在身份验证时接入约 1 分钟。",
+   "de": "His GEICO renewal came in at $2,123; Muse found a Progressive policy for $1,536 with better coverage, then called GEICO to cancel the old policy — he only joined the call for about a minute to verify his identity."
+  },
+  {
+   "t": "公用事业电话：4 分钟闯过电话菜单接通人工，再把本人接进来",
+   "te": "Utility call: through the phone bots to a human in ~4 minutes, then dialed him in",
+   "c": "productivity",
+   "a": "Gagan Bansal（@bansalg_，X，2026-10-27）",
+   "ae": "Gagan Bansal (@bansalg_, X, 2026-10-27)",
+   "x": "https://x.com/bansalg_/status/2114877645053890947",
+   "b": "ok",
+   "r": "约 4 分钟接通人工，本人只在需要时接入",
+   "re": "Human reached in ~4 minutes; he only joined when needed",
+   "d": "让 Muse 给公用事业公司打电话改账户；约 4 分钟闯过自动电话菜单接通人工，需要本人出面时再把他接入通话。",
+   "de": "Asked Muse to call his utility company to change his account; it worked through the automated phone menus to a human in about four minutes, then dialed him into the call when the rep needed him."
+  },
+  {
+   "t": "IG 收藏帖翻成滑雪训练计划，收藏夹顺手整理好",
+   "te": "Saved Instagram posts turned into a real ski training plan",
+   "c": "content",
+   "a": "Brie（@briechong，X，2026-10-28）",
+   "ae": "Brie (@briechong, X, 2026-10-28)",
+   "x": "https://x.com/briechong/status/2115303444118643034",
+   "b": "ok",
+   "r": "收藏帖 → 可执行的滑雪训练计划，收藏夹同步整理",
+   "re": "Saved posts → a real ski training plan, collection tidied too",
+   "d": "让 Muse 读自己在 Instagram 上保存的帖子，翻成一份真正的滑雪训练计划，顺手把收藏夹整理好。",
+   "de": "Had Muse turn the posts she had saved on Instagram into a real ski training plan — and tidy up her saved collection along the way."
+  },
+  {
+   "t": "约 1 小时把 Whoop + Apple Health + Cronometer 整合成一个健康仪表盘",
+   "te": "One health dashboard from Whoop, Apple Health and Cronometer in about an hour",
+   "c": "productivity",
+   "a": "Mike McMahon（@ProShopGuyMF1，X，2026-10-30）",
+   "ae": "Mike McMahon (@ProShopGuyMF1, X, 2026-10-30)",
+   "x": "https://x.com/ProShopGuyMF1/status/2116308259930075434",
+   "b": "ok",
+   "r": "三处健康数据合成一个可看的仪表盘",
+   "re": "Three health data sources merged into one dashboard",
+   "d": "把 Whoop（恢复与睡眠）、Apple Health、Cronometer（饮食营养）的数据导出交给 Muse，约 1 小时整合成一个健康仪表盘。",
+   "de": "Pulled exports from Whoop (recovery and sleep), Apple Health and Cronometer (food and nutrition) and had Muse build one dashboard from them in about an hour."
   }
  ]
 }
