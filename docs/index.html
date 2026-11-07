@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Muse 实战案例库 💡 | 75 个真实高价值玩法</title>
-<meta name="description" content="Meta 个人 AI 智能体 Muse 的真实高价值玩法合集，只收录 X 上的真实用户分享，每日更新。">
+<meta name="description" content="Meta 个人 AI 智能体 Muse 的真实高价值玩法合集，收录 X / Reddit / IG / FB / Threads 上的真实用户分享，每日更新。">
 <style>
 :root{
   --bg:#f6f7f9; --card:#ffffff; --text:#14161a; --muted:#6b7280; --line:#e6e8ec;
@@ -217,11 +217,11 @@ const STR = {
     logoSub: "每日更新",
     searchPh: "搜索案例、作者、关键词…（如：车险、退货、AT&T）",
     ghStar: "⭐ GitHub 加星", copy: "复制", copied: "已复制 ✓",
-    all: "全部", cases: "收录案例", cats: "分类", withX: "附 X 原帖直链", updated: "最后更新",
-    badgeOk: "✅ X 原帖已核验", badgeCross: "🟡 X 分享已确认",
-    viewX: "查看 X 原帖 ↗", empty: "没有找到匹配的案例，换个关键词试试 🔍",
+    all: "全部", cases: "收录案例", cats: "分类", withX: "附原帖直链", updated: "最后更新",
+    badgeOk: "✅ 原帖已核验", badgeCross: "🟡 分享已确认",
+    viewX: "查看原帖 ↗", empty: "没有找到匹配的案例，换个关键词试试 🔍",
     disclaimer: "⚠️ 实际效果因账号权限、地区、服务支持而异；部分案例来自 #MuseMoneyChallenge 期间的用户自述；部分“电话谈判”案例实际有人工参与。本库仅做信息整理，不构成消费或投资建议。",
-    foot: '🤝 在 <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> 分享你的玩法（X 原帖链接）或邀请码 · 每天 0 点自动更新 · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHub 仓库</a>',
+    foot: '🤝 在 <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> 分享你的玩法（原帖链接）或邀请码 · 每天 0 点自动更新 · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHub 仓库</a>',
     heroLabel: "META MUSE · 真实玩家案例",
     heroTitle: "Muse 实战案例库",
     heroInvite: "邀请码 4P14HY", heroCopied: "已复制 ✓",
@@ -242,11 +242,11 @@ const STR = {
     logoSub: "Updated daily",
     searchPh: "Search cases, authors, keywords… (e.g. insurance, refund, AT&T)",
     ghStar: "⭐ Star on GitHub", copy: "Copy", copied: "Copied ✓",
-    all: "All", cases: "Cases", cats: "Categories", withX: "With X post link", updated: "Last updated",
-    badgeOk: "✅ X post verified", badgeCross: "🟡 X share confirmed",
-    viewX: "View X post ↗", empty: "No matching cases — try another keyword 🔍",
+    all: "All", cases: "Cases", cats: "Categories", withX: "With original post link", updated: "Last updated",
+    badgeOk: "✅ Original post verified", badgeCross: "🟡 Share confirmed",
+    viewX: "View original post ↗", empty: "No matching cases — try another keyword 🔍",
     disclaimer: "⚠️ Results vary by account permissions, region and service support. Some cases are self-reported from the #MuseMoneyChallenge campaign; some “phone negotiation” cases reportedly involved humans. Informational only — not consumer or investment advice.",
-    foot: '🤝 Share your playbook (X post link) or invite code in <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> · Auto-updated daily at 00:00 · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHub repo</a>',
+    foot: '🤝 Share your playbook (original post link) or invite code in <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> · Auto-updated daily at 00:00 · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHub repo</a>',
     heroLabel: "META MUSE · REAL USER CASES",
     heroTitle: "Muse Use Cases",
     heroInvite: "Invite code 4P14HY", heroCopied: "Copied ✓",
@@ -274,10 +274,10 @@ function pageTitle(){
 }
 function heroSubHTML(){
   const c = DATA ? DATA.meta.count : null;
-  if (!c) return lang === "zh" ? "真实高价值玩法 · 只收录 X 分享 · 每日更新"
-                              : "Real high-value playbooks · X shares only · Updated daily";
-  return lang === "zh" ? `<b>${c}</b> 个真实高价值玩法 · 只收录 X 分享 · 每日更新`
-                       : `<b>${c}</b> real high-value playbooks · X shares only · Updated daily`;
+  if (!c) return lang === "zh" ? "真实高价值玩法 · X / Reddit / IG / FB / Threads · 每日更新"
+                              : "Real high-value playbooks · X / Reddit / IG / FB / Threads · Updated daily";
+  return lang === "zh" ? `<b>${c}</b> 个真实高价值玩法 · X / Reddit / IG / FB / Threads · 每日更新`
+                       : `<b>${c}</b> real high-value playbooks · X / Reddit / IG / FB / Threads · Updated daily`;
 }
 function renderHero(){
   document.title = pageTitle();

@@ -3,7 +3,7 @@
 # Muse Use Cases 💡
 
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
-> Inclusion rule: **only real shares from X (Twitter)** — we prioritize cases with clear results, real numbers, and high replicability.
+> Inclusion rule: **real user shares from X, Reddit, Instagram, Facebook, and Threads** — we prioritize cases with clear results, real numbers, and high replicability.
 
 📊 **230 cases** ｜ 🕐 **Last updated: 2026-11-08** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
@@ -22,11 +22,11 @@
 
 | Badge | Meaning |
 |-------|---------|
-| ✅ | X post verified: original post read, person/amount/method all match |
-| 🟡 | X share confirmed: handle + aggregator archives cross-checked, direct post URL not yet publicly exposed |
+| ✅ | Original post verified: original post read, person/amount/method all match |
+| 🟡 | Share confirmed: author + aggregator archives cross-checked, direct post URL not yet publicly exposed |
 
-> This library does not use web articles/videos as source *links*: non-X cases keep only the case text and author name, no web links.
-> Verified 2026-10-11/12. When X posts can't be fetched directly, we triple-check via Snowflake-ID timestamps + archive dates + multi-source cross-checks.
+> This library only includes real user shares from X, Reddit, Instagram, Facebook, and Threads; web articles/videos are references only, never source *links*.
+> Verified 2026-10-11/12. When posts can't be fetched directly, we triple-check via post timestamps (Snowflake IDs for X) + archive dates + multi-source cross-checks.
 
 ## Categories
 
@@ -532,7 +532,7 @@
 
 ## 🤝 Contribute
 
-1. **Share your use case**: open an Issue with the "Share a use case" template — **X shares only**, include the X post link; added after verification (the daily auto-update processes them too)
+1. **Share your use case**: open an Issue with the "Share a use case" template — **shares from X, Reddit, Instagram, Facebook, or Threads**, include the original post link; added after verification (the daily auto-update processes them too)
 2. **Share your invite code**: open an Issue with the "Share invite code" template
 3. **Corrections**: Issues or PRs welcome
 
@@ -547,7 +547,7 @@ Auto-updated daily at 00:00 (Beijing time).
 
 ## 🗒️ Changelog
 
-- **2026-11-08**: 4 new cases added (older X shares newly surfaced by agentstacklist.com, cross-checked by X link plus post-ID timestamp against the aggregator's archive dates: car insurance shopped from GEICO $2,123 to Progressive $1,536, $1,174/yr saved; a utility call through the phone bots to a human in ~4 minutes, then dialed him in; saved Instagram posts turned into a ski training plan; a health dashboard from Whoop, Apple Health and Cronometer built in about an hour). Total: 230. Not included: @sethrose's TCPA spam-text case was already assessed twice and rejected (possible claim amounts only, no case filed, nothing recovered), so it is not re-listed; agentstacklist's remaining items are official announcements, model benchmarks, prompt packs and industry news (not user cases); musewins.dev's latest batch (Nov 6–7) is all Reddit/Instagram/Facebook/Threads (not X shares); cwybruce issue 43's 3 user cases are all Instagram/WEEL second-hand summaries (not X shares) and its 2 industry observations are not user shares; messagingagents/musecases/17muse/shipwithmuse are still at September with no in-window additions; X search found no new in-window user cases (overnight news was the official Muse Spaces/Voice launches); Issues gained no new case submissions.
+- **2026-11-08**: 4 new cases added (older X shares newly surfaced by agentstacklist.com, cross-checked by X link plus post-ID timestamp against the aggregator's archive dates: car insurance shopped from GEICO $2,123 to Progressive $1,536, $1,174/yr saved; a utility call through the phone bots to a human in ~4 minutes, then dialed him in; saved Instagram posts turned into a ski training plan; a health dashboard from Whoop, Apple Health and Cronometer built in about an hour). Total: 230. Not included: @sethrose's TCPA spam-text case was already assessed twice and rejected (possible claim amounts only, no case filed, nothing recovered), so it is not re-listed; agentstacklist's remaining items are official announcements, model benchmarks, prompt packs and industry news (not user cases); musewins.dev's latest batch (Nov 6–7) is all Reddit/Instagram/Facebook/Threads (not X shares); cwybruce issue 43's 3 user cases are all Instagram/WEEL second-hand summaries (not X shares) and its 2 industry observations are not user shares; messagingagents/musecases/17muse/shipwithmuse are still at September with no in-window additions; X search found no new in-window user cases (overnight news was the official Muse Spaces/Voice launches); Issues gained no new case submissions. Same-day sourcing rule expanded: no longer X-only — real user shares from Reddit, Instagram, Facebook, and Threads are now included (verification standard unchanged).
 
 - **2026-11-07**: 15 new cases added (older X shares newly surfaced by musewins.dev and shipwithmuse.live, cross-checked by X link plus post-ID timestamp against the aggregators' archives: $97 in unclaimed property plus data-broker opt-outs and Amex offers activated; a forgotten $100/mo Claude Max subscription found in 6 months of email receipts, $1,200/yr saved; a hospital bill's "on hold" status proven false by one call; a Tesla valet parking refund approved in full on the second call; an unannounced internet bill hike talked down with two months' credit back; a pharmacy copay beaten by a discount card; a US passport renewed online (95% by Muse) plus Amex Travel flights for two; a son's old tires and rims sold on Marketplace for $470 in 13 days with Substack marketing down 7 hrs/week (Substack essay, text-only); a weekend trial booking a restaurant and parking plus a 700+ episode podcast deep-dive; a finance tracker app built from scratch; a photo calorie-tracker app that replaced a paid subscription; the Siri AI Unlocked site created and published; the Granny's Tales storytelling app; Claude multi-agent workflows migrated to Muse, running every morning; and a dizzy-eyed rat plush designed, listed and sampled). Total: 226. Not included: musewins' ~30 @thsottiaux X posts turned out to be Codex usage-reset announcements (not Muse use cases), closing that open item; the site's @heretolrn bomber-jacket post (soft result, no amount); cwybruce issue 42's 3 user cases were all Threads/Instagram (not X shares) and its 2 industry observations are not user shares; 3 shipwithmuse X posts (a YouTube channel audit with no stated outcome, a wedding-planning testimonial with no concrete result, a 50-prompt list that is not a user case); agentusecases.ai's $1,500 unclaimed-property case (claim filed but unpaid, no X link to verify) and its Costco microwave purchase (no result stated); messagingagents/musecases/17muse are still at September with no in-window additions; Issues gained no new case submissions.
 

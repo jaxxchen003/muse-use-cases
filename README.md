@@ -3,7 +3,7 @@
 # Muse 实战案例库 💡
 
 > Meta 个人 AI 智能体 **Muse** 的真实高价值玩法合集。
-> 收录标准：**只收录 X（Twitter）上的真实用户分享**，优先收录结果明确、有数字、可复制的案例。
+> 收录标准：**收录 X / Reddit / Instagram / Facebook / Threads 上的真实用户分享**，优先收录结果明确、有数字、可复制的案例。
 
 📊 **收录案例：230** ｜ 🕐 **最后更新：2026-11-08** ｜ 🤖 每日 0 点自动更新 ｜ 🌐 **在线预览站（支持中英双语）：https://jaxxchen003.github.io/muse-use-cases/**
 
@@ -24,11 +24,11 @@
 
 | 标记 | 含义 |
 |------|------|
-| ✅ | X 原帖直链已核验：读到原帖，人物、金额、做法三要素一致 |
-| 🟡 | X 分享已确认：作者 handle 与聚合站归档交叉核验一致，原帖直链暂未公开收录 |
+| ✅ | 原帖直链已核验：读到原帖，人物、金额、做法三要素一致 |
+| 🟡 | 平台分享已确认：作者与聚合站归档交叉核验一致，原帖直链暂未公开收录 |
 
-> 本库不收录纯网页文章/视频作为"来源链接"：非 X 来源的案例仅保留案例描述与作者文本，不附网页链接。
-> 核验日期：2026-10-11/12。X 原帖因平台限制无法直接抓取时，采用帖子 ID 时间戳 + 聚合站归档日期 + 多源交叉三重校验。
+> 本库只收录 X / Reddit / Instagram / Facebook / Threads 上的真实用户分享；纯网页文章/视频仅作参考，不附来源链接。
+> 核验日期：2026-10-11/12。原帖因平台限制无法直接抓取时，采用帖子发布时间（X 用帖子 ID 时间戳）+ 聚合站归档日期 + 多源交叉三重校验。
 
 ---
 
@@ -1471,7 +1471,7 @@
 
 ## 🤝 参与方式
 
-1. **分享你的玩法**：在 Issues 用「分享新玩法」模板提交——**只收录 X 上的真实分享**，请附 X 原帖链接，通过核验后收录（每日自动更新会一并处理）
+1. **分享你的玩法**：在 Issues 用「分享新玩法」模板提交——**收录 X / Reddit / IG / FB / Threads 上的真实分享**，请附原帖链接，通过核验后收录（每日自动更新会一并处理）
 2. **分享你的邀请码**：在 Issues 用「分享邀请码」模板留言，大家互助
 3. **纠错**：发现案例信息有误，欢迎提 Issue 或 PR 指正
 
@@ -1490,7 +1490,7 @@
 
 ## 🗒️ 更新日志
 
-- **2026-11-08**：新增 4 个案例（新发现聚合站 agentstacklist.com 的 X 分享旧帖补录，X 直链 + 帖子 ID 时间戳与聚合站归档日期交叉核验：车险 GEICO 续保 $2,123 比价换 Progressive $1,536、年省 $1,174；公用事业电话 4 分钟闯过菜单接通人工再接本人；IG 收藏帖翻成滑雪训练计划；约 1 小时把 Whoop + Apple Health + Cronometer 整合成健康仪表盘），总数 230。未收录：@sethrose 垃圾短信 TCPA 案此前已两次评估不收录（仅为可能索赔金额、未立案未到账），本次不再重复收录；agentstacklist 其余条目为官方公告/模型评测/提示词包/行业新闻（非用户案例）；musewins.dev 最新一批（11-06/07）均为 Reddit/IG/FB/Threads 来源（非 X 分享）；cwybruce 第 43 期 3 条用户案例均为 IG/WEEL 二手汇总（非 X 分享），2 组行业观察非用户分享；messagingagents/musecases/17muse/shipwithmuse 最新仍为 9 月、无窗口内新增；X 搜索无窗口内新用户案例（当晚新闻为 Muse Spaces/Voice 上线等官方动态）；Issues 无新案例投稿。
+- **2026-11-08**：新增 4 个案例（新发现聚合站 agentstacklist.com 的 X 分享旧帖补录，X 直链 + 帖子 ID 时间戳与聚合站归档日期交叉核验：车险 GEICO 续保 $2,123 比价换 Progressive $1,536、年省 $1,174；公用事业电话 4 分钟闯过菜单接通人工再接本人；IG 收藏帖翻成滑雪训练计划；约 1 小时把 Whoop + Apple Health + Cronometer 整合成健康仪表盘），总数 230。未收录：@sethrose 垃圾短信 TCPA 案此前已两次评估不收录（仅为可能索赔金额、未立案未到账），本次不再重复收录；agentstacklist 其余条目为官方公告/模型评测/提示词包/行业新闻（非用户案例）；musewins.dev 最新一批（11-06/07）均为 Reddit/IG/FB/Threads 来源（非 X 分享）；cwybruce 第 43 期 3 条用户案例均为 IG/WEEL 二手汇总（非 X 分享），2 组行业观察非用户分享；messagingagents/musecases/17muse/shipwithmuse 最新仍为 9 月、无窗口内新增；X 搜索无窗口内新用户案例（当晚新闻为 Muse Spaces/Voice 上线等官方动态）；Issues 无新案例投稿。同日收录规则扩展：不再局限 X 平台，新增收录 Reddit / Instagram / Facebook / Threads 上的真实用户分享（核验标准不变）。
 
 - **2026-11-07**：新增 15 个案例（musewins.dev 与 shipwithmuse.live 旧帖补录，X 直链 + 帖子 ID 时间戳与聚合站归档交叉核验：无人认领财产 $97 + 数据经纪商退订 + Amex 优惠全激活；6 个月邮件收据翻出 $100/月 Claude Max 遗忘订阅、年省 $1,200；医院账单"暂缓收费"一通电话证实为假；Tesla 代客停车退款二次致电全额获批；宽带账单无预警上涨电话谈判降费 + 追回两月差价；药房 copay 比价折扣卡胜过保险；护照在线续签 95% 代办 + Amex Travel 夫妻机票；儿子旧轮胎轮毂 Marketplace 13 天卖 $470、Substack 营销每周省 7 小时（Substack 长文文本收录）；周末试用订餐厅停车位 + 700+ 期播客精华调研；从零做理财追踪 App；拍照记卡路里 App 现做并退订；Siri AI Unlocked 网站创建发布；Granny's Tales 有声故事 App；Claude 多 agent 工作流迁移到 Muse 每天自动跑；翻白眼老鼠玩偶设计上架打样），总数 226。未收录：musewins 约 30 条 @thsottiaux 的 X 帖经核查为 Codex 用量重置播报（非 Muse 玩法），不再留待后续轮次；同站 @heretolrn 夹克数小时送达（无金额的软结果）；cwybruce 第 42 期 3 条用户案例均为 Threads/IG（非 X 分享），2 组行业观察非用户分享；shipwithmuse 3 条 X 帖（@PharmDabbler YouTube 频道审计无结果、@rachanananana 婚礼规划感想无具体结果、@MattPRD 50 条提示词清单非用户案例）；agentusecases.ai 的 $1,500 无人认领财产案（索赔已提交未到账、无 X 直链可核）与 Costco 微波炉代购（无结果数字）未收录；messagingagents/musecases/17muse 最新仍为 9 月、无窗口内新增；Issues 无新案例投稿。
 
