@@ -1,7 +1,7 @@
 {
  "meta": {
-  "count": 311,
-  "updated": "2026-11-08",
+  "count": 313,
+  "updated": "2026-11-09",
   "invite": "4P14HY",
   "repo": "https://github.com/jaxxchen003/muse-use-cases",
   "title": "Muse 实战案例库",
@@ -4087,6 +4087,32 @@
    "re": "Brand opportunities found in spam; replies, invoices, cross-posts and edits handled",
    "d": "Muse 主动扫他的邮箱，在垃圾邮件里发现被埋没的品牌合作机会；它回复品牌、发发票、多平台带文案转发视频、剪掉剪辑里的静音部分。",
    "de": "Muse proactively scans his email and found brand opportunities sitting in his spam folder; it replies to brands, sends his invoices, cross-posts his videos with captions, and trims the silent parts from his edits."
+  },
+  {
+   "t": "演员的“仙女 agent”Pixie：早上 6:30 起床，邮件试镜先汇总、制片公司网站它搭",
+   "te": "Actress's \"fairy agent\" Pixie: up at 6:30, auditions summarized by morning, production-company website built in a gap",
+   "c": "productivity",
+   "a": "Lauren Fitzmaurice（@lolofitzmo，Instagram）",
+   "ae": "Lauren Fitzmaurice (@lolofitzmo, Instagram)",
+   "x": "https://www.instagram.com/reel/Dfc3SO8PPCo/",
+   "b": "ok",
+   "r": "邮件试镜早上汇总成一条短信，制片公司网站空档搭好、首页预览发来，晚上 9 点后只留给写作",
+   "re": "Auditions and emails condensed into one morning text, a production-company website built in a free gap with a homepage preview, and 9pm to midnight protected for writing",
+   "d": "给自己的 Muse 取名“Pixie”：早上跑步、写日记、读经时，Pixie 把邮件、试镜与选角机会汇总成一条短信；去打篮球的空档，Pixie 给她的制片公司搭了个网站、发来首页预览；10 月 30 日截止的试镜 sides 由 Pixie 送到手上；晚上 9 点到 12 点划为不受打扰的写作时间。",
+   "de": "She named her Muse \"Pixie\": while she runs, journals and reads in the morning, Pixie condenses emails, auditions and casting calls into one text; while she plays basketball, Pixie builds a website for her production company and sends a homepage preview; audition sides due October 30 land in her hands, and 9pm to midnight stays protected writing time."
+  },
+  {
+   "t": "“一句话备会”：周五下午 3 点的 AI 项目会，日历 + 邮件翻出三节材料，草稿先过目",
+   "te": "\"Prep me for my meeting\" in one sentence: a Friday 3pm AI project catch-up, three sections ready",
+   "c": "productivity",
+   "a": "Elroy Chua（@elroy_chua，Instagram）",
+   "ae": "Elroy Chua (@elroy_chua, Instagram)",
+   "x": "https://www.instagram.com/reel/DfbnVYAzxfd/",
+   "b": "ok",
+   "r": "一句话下去，三节备会材料递上来，总结邮件草稿先过目",
+   "re": "One sentence in, three sections of meeting prep out, and the follow-up email drafted for review first",
+   "d": "只发一句话“Prep me for my AI PROJECT catchup on Friday 6 Nov, 3-4pm”，Muse 自己翻 Google 日历与 Gmail，整理出三节备会材料：已完成什么、待决策什么（附建议）、谁在干什么；还起草了会后总结邮件，先给他过目再发——全程“没他批准什么都不发”（演示用项目测试）。",
+   "de": "One sentence — \"Prep me for my AI PROJECT catchup on Friday 6 Nov, 3-4pm\" — and Muse pulls Google Calendar and Gmail into three sections: what's done, what needs deciding (with suggestions), and who's doing what; it also drafts the follow-up email for his review first, sending nothing without his approval (tested on a demo project)."
   }
  ]
 }

@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **real user shares from X, Reddit, Instagram, Facebook, and Threads** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **311 cases** ｜ 🕐 **Last updated: 2026-11-08** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **313 cases** ｜ 🕐 **Last updated: 2026-11-09** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -33,7 +33,7 @@
 - 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (68)
 - ✈️ [Travel](#️-travel) (37)
 - 🛒 [Shopping](#-shopping) (34)
-- ⚡ [Productivity · automation](#-productivity--automation) (94)
+- ⚡ [Productivity · automation](#-productivity--automation) (96)
 - 🎨 [Content · creation](#-content--creation) (22)
 - 🛠️ [Dev · building](#️-dev--building) (20)
 - 💼 [Business · consumer rights](#-business--consumer-rights) (36)
@@ -521,6 +521,10 @@
 
 **290. School dates, dinner plans, one email: Muse as family assistant** ✅ — Nai Robi (Facebook). After downloading Muse, it organized all event dates for her boys' school into her calendar, reminds her to make dinner at a certain time and plan around what she wants to cook, and even emailed the school to update her phone number — confirming everything with her first before anything is sent. ([Original post](https://www.facebook.com/kdgunn/posts/pfbid02Vn3FpWEDASZZGzbpuBuKoG9zHCe4p6tBwTih44YPmaSMk7Gr5oJMDuHUztnvQxNEl)).
 
+**312. Actress's "fairy agent" Pixie: up at 6:30, auditions summarized by morning, production-company website built in a gap** ✅ — Lauren Fitzmaurice (@lolofitzmo, Instagram). She named her Muse "Pixie": while she runs, journals and reads in the morning, Pixie condenses emails, auditions and casting calls into one text; while she plays basketball, Pixie builds a website for her production company and sends a homepage preview; audition sides due October 30 land in her hands, and 9pm to midnight stays protected writing time. ([Original post](https://www.instagram.com/reel/Dfc3SO8PPCo/)).
+
+**313. "Prep me for my meeting" in one sentence: a Friday 3pm AI project catch-up, three sections ready** ✅ — Elroy Chua (@elroy_chua, Instagram). One sentence — "Prep me for my AI PROJECT catchup on Friday 6 Nov, 3-4pm" — and Muse pulls Google Calendar and Gmail into three sections: what's done, what needs deciding (with suggestions), and who's doing what; it also drafts the follow-up email for his review first, sending nothing without his approval (tested on a demo project). ([Original post](https://www.instagram.com/reel/DfbnVYAzxfd/)).
+
 ## 🎨 Content · creation
 
 **59. Daily 8am AI-news podcast** — 于為暢 (Wei Chang Yu).
@@ -707,6 +711,8 @@ Auto-updated daily at 00:00 (Beijing time).
 - Informational only; not consumer or investment advice
 
 ## 🗒️ Changelog
+
+- **2026-11-09**: 2 new cases added (from cwybruce issue 44, two Instagram reels from 2026-11-07: actress Lauren Fitzmaurice's "fairy agent" Pixie — auditions and emails summarized by morning, a production-company website built in a free gap; Singapore creator Elroy Chua's one-sentence meeting prep — three sections pulled from calendar and email; both verified by opening the original Instagram posts: HTTP 200 plus matching author, date and caption via Jina). Total: 313. Not included: the same issue's Cory marathon fundraiser duplicates #269; a Times journalist's week-long test is a newspaper article, not a platform share; the newly found aggregator useofmuse.com (255 entries) has nothing from November — all September–October backlog, left for a later round; usage.incidental.site's 7 X links are all Grok Bot guides/comparisons, not Muse cases; agentusecases.ai added no new Muse items; messagingagents/musecases/17muse/shipwithmuse/musewins link sets are unchanged from yesterday; X keyword search found no new in-window posts; Issues gained 4 invite-code posts (#10 YE877J, #11 I99BU7, #12 EC1RFD, #13 WM1OR5), no new case submissions; r/MuseAgent's RSS was bot-walled twice and Arctic Shift timed out, leaving a Reddit coverage gap.
 
 - **2026-11-08 (backfill)**: 81 non-X cases added (total 311): batches previously rejected under the old X-only rule — cwybruce issues 34–43 (24), musewins.dev (45), aisolutionvault / working-ref.com (12) — re-verified one by one under the new rule, all with direct Reddit / Instagram / Facebook / Threads post links (links taken from aggregator archives and domain-matched to the platform; original posts were not opened in-site due to login walls). Three older cases also gained their original-post links (#76 ekate.lee's week of errands, #150 the blind creator's setup, #175 the Travel Expense Split app; all 🟡 → ✅). Not included: vague amounts, demos calling the author's own business, posts with no result numbers, second-hand summaries, advice-only pricing suggestions, forum posts, posts saying only “Muse” with no Meta qualifier, and four cases already in the library (#194 Phillip Jackson's small-claims case, #150, #175, #76). Amounts kept to the record: SiriusXM uses the $37.65 from the call transcript (not the post's $500 headline); Teri Watkins' confirmation number appears only in the aggregator's title and is not cited; Chris Pirillo's entry says only the ~25-minute support call was completed (whether the replacement shipped is unconfirmed).
 
