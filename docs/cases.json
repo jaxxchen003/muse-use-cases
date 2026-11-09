@@ -1,7 +1,7 @@
 {
  "meta": {
-  "count": 313,
-  "updated": "2026-11-09",
+  "count": 315,
+  "updated": "2026-11-10",
   "invite": "4P14HY",
   "repo": "https://github.com/jaxxchen003/muse-use-cases",
   "title": "Muse 实战案例库",
@@ -4113,6 +4113,32 @@
    "re": "One sentence in, three sections of meeting prep out, and the follow-up email drafted for review first",
    "d": "只发一句话“Prep me for my AI PROJECT catchup on Friday 6 Nov, 3-4pm”，Muse 自己翻 Google 日历与 Gmail，整理出三节备会材料：已完成什么、待决策什么（附建议）、谁在干什么；还起草了会后总结邮件，先给他过目再发——全程“没他批准什么都不发”（演示用项目测试）。",
    "de": "One sentence — \"Prep me for my AI PROJECT catchup on Friday 6 Nov, 3-4pm\" — and Muse pulls Google Calendar and Gmail into three sections: what's done, what needs deciding (with suggestions), and who's doing what; it also drafts the follow-up email for his review first, sending nothing without his approval (tested on a demo project)."
+  },
+  {
+   "t": "一周零提示词：188 条视频、229 张图、浅草 13,633 栋楼 3D 重建",
+   "te": "One week, zero prompts: 188 videos, 229 images, and a 3D rebuild of 13,633 Asakusa buildings",
+   "c": "content",
+   "a": "Marcio Lima（Facebook @tbe.predador）",
+   "ae": "Marcio Lima (Facebook @tbe.predador)",
+   "x": "https://www.facebook.com/tbe.predador/posts/pfbid0Ns97TNr8hfDextuTPrtzThCyq1VWv6qKeRXvSpU89L9b96KuGkRgNdUHo5JZ4Ftgl",
+   "b": "ok",
+   "r": "一周交出 188 条视频 + 229 张图 + 13,633 栋建筑 3D 重建 + 44 个人生故事",
+   "re": "188 videos + 229 images + a 3D rebuild of 13,633 buildings + 44 life stories in one week",
+   "d": "“MUSE DAY 8”系列盘点：一周只说话、指挥、给反馈，不写结构化提示词；产出 188 条视频（约 40 分钟）、229 张图片；装上 Blender，用政府公开 3D 数据重建浅草 13,633 栋建筑，做了五重塔纪录片；翻完自己 2018 年以来全部 1,382 条 Instagram 帖子、读了 5,000 条 Facebook 帖子，提炼出 44 个人生故事。",
+   "de": "In his \"MUSE DAY 8\" roundup: a week of only talking, directing and giving feedback, no structured prompts. He produced 188 videos (about 40 minutes) and 229 images; installed Blender and rebuilt all 13,633 buildings in Asakusa from public government 3D data for a five-story pagoda documentary; and had Muse read all 1,382 of his Instagram posts since 2018 plus 5,000 Facebook posts and distill 44 life stories."
+  },
+  {
+   "t": "“不用 ChatGPT 也不用 Claude”：日历短信 Gmail 消费被动盯梢，每周一份订阅报告",
+   "te": "\"No ChatGPT, no Claude\": calendar, texts, Gmail and spending watched passively, with a weekly subscription report",
+   "c": "productivity",
+   "a": "Daniel Manole（@itsdanmanole，Instagram）",
+   "ae": "Daniel Manole (@itsdanmanole, Instagram)",
+   "x": "https://www.instagram.com/reel/DfcgtanB87e/",
+   "b": "ok",
+   "r": "订阅、考试、房租全部被动盯着，每周汇总、到点提醒",
+   "re": "Subscriptions, exams and rent all watched passively, summarized weekly, reminded on time",
+   "d": "明说自己不用 ChatGPT 也不用 Claude，只用 Muse；让它持续追踪日历、短信、Gmail 与消费，每周出一份订阅报告，提醒即将到来的认证考试与房租缴费，帮任务自动化。",
+   "de": "He says he uses neither ChatGPT nor Claude, only Muse: it continuously tracks his calendar, texts, Gmail and spending, puts out a weekly subscription report, and reminds him of upcoming certification exams and rent payments."
   }
  ]
 }
