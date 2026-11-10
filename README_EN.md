@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **real user shares from X, Reddit, Instagram, Facebook, and Threads** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **315 cases** ｜ 🕐 **Last updated: 2026-11-10** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **316 cases** ｜ 🕐 **Last updated: 2026-11-10** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -33,7 +33,7 @@
 - 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (68)
 - ✈️ [Travel](#️-travel) (37)
 - 🛒 [Shopping](#-shopping) (34)
-- ⚡ [Productivity · automation](#-productivity--automation) (97)
+- ⚡ [Productivity · automation](#-productivity--automation) (98)
 - 🎨 [Content · creation](#-content--creation) (23)
 - 🛠️ [Dev · building](#️-dev--building) (20)
 - 💼 [Business · consumer rights](#-business--consumer-rights) (36)
@@ -527,6 +527,8 @@
 
 **315. "No ChatGPT, no Claude": calendar, texts, Gmail and spending watched passively, with a weekly subscription report** 🟡 — Daniel Manole (@itsdanmanole, Instagram). He says he uses neither ChatGPT nor Claude, only Muse: it continuously tracks his calendar, texts, Gmail and spending, puts out a weekly subscription report, and reminds him of upcoming certification exams and rent payments. The same video also introduces Instinct, a shopping agent that only compares prices and places orders — Muse handles life admin, Instinct handles buying. ([Original post](https://www.instagram.com/reel/DfcgtanB87e/)). Self-reported by a small account, with no screen recording.
 
+**316. Fully automated backlink scraping and auto-publishing to his website, with a backlink dashboard Space** ✅ — Mileson07 (@Mileson07, X). He had Muse build an AI workflow that scrapes backlinks automatically and publishes them to his website, plus a backlink dashboard Space to track them all; the screenshot shows 144 backlinks logged with domain, discovery date, type, replicability, status, competitor source and suggested action. ([Original post](https://x.com/Mileson07/status/2120057863145947259)).
+
 ## 🎨 Content · creation
 
 **59. Daily 8am AI-news podcast** — 于為暢 (Wei Chang Yu).
@@ -717,6 +719,8 @@ Auto-updated daily at 00:00 (Beijing time).
 ## 🗒️ Changelog
 
 - **2026-11-10**: 2 new cases added (from cwybruce issue 45, Facebook/Instagram shares from 2026-11-07: Marcio Lima's "MUSE DAY 8" one-week, zero-prompt roundup — 188 videos, 229 images, a 3D rebuild of 13,633 Asakusa buildings, 44 life stories; Daniel Manole's "No ChatGPT, no Claude" — calendar, texts, Gmail and spending watched passively, with a weekly subscription report; both marked 🟡: the original-post links resolve to the right authors and topics — Jina returned the Facebook title "One week with AI agent Muse" and the Instagram title "Muse and Instinct, make AI work for you", and the Instagram embed confirms the author and small account — but a Facebook CAPTCHA wall and the Instagram login wall blocked the full captions, so details follow the digest summary and output figures are self-reported). Total: 315. Not included: the same issue's Sasha DiGiulian "Arlo", Ashton Hall "Ash" and John Bucog folder-organizing items are brand-partnership/ad formats; the Phillip Jackson small-claims retelling video duplicates the source of #37; the Jeff Rossen "AI just buys" item is industry commentary, not a user case; the muse300.com downstream English collection in Issue #14 overlaps the library entirely with no new cases; messagingagents/musecases/17muse/musewins link sets are unchanged from yesterday; shipwithmuse rotated in 15 August–September posts, none in-window; useofmuse.com's latest entry is still 2026-10-13 with zero November entries; agentusecases.ai still lists only the 2 known Muse entries; X keyword search returned only September posts (e.g. @AZJedi2000's $1,800/year car-insurance reply, logged as backlog); Issues gained 1 invite-code post (#15 WGPJ6J); r/MuseAgent's RSS was bot-walled again, leaving a Reddit coverage gap.
+
+- **2026-11-10 (user-requested)**: 1 new case added at the user's request (Mileson07's X post, verified by reading the original post directly: a fully automated backlink-scraping and auto-publishing workflow with a backlink dashboard Space; the screenshot shows 144 backlinks logged). Total: 316.
 
 - **2026-11-09**: 2 new cases added (from cwybruce issue 44, two Instagram reels from 2026-11-07: actress Lauren Fitzmaurice's "fairy agent" Pixie — auditions and emails summarized by morning, a production-company website built in a free gap; Singapore creator Elroy Chua's one-sentence meeting prep — three sections pulled from calendar and email; both verified by opening the original Instagram posts: HTTP 200 plus matching author, date and caption via Jina). Total: 313. Not included: the same issue's Cory marathon fundraiser duplicates #269; a Times journalist's week-long test is a newspaper article, not a platform share; the newly found aggregator useofmuse.com (255 entries) has nothing from November — all September–October backlog, left for a later round; usage.incidental.site's 7 X links are all Grok Bot guides/comparisons, not Muse cases; agentusecases.ai added no new Muse items; messagingagents/musecases/17muse/shipwithmuse/musewins link sets are unchanged from yesterday; X keyword search found no new in-window posts; Issues gained 4 invite-code posts (#10 YE877J, #11 I99BU7, #12 EC1RFD, #13 WM1OR5), no new case submissions; r/MuseAgent's RSS was bot-walled twice and Arctic Shift timed out, leaving a Reddit coverage gap.
 

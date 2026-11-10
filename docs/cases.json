@@ -1,6 +1,6 @@
 {
  "meta": {
-  "count": 315,
+  "count": 316,
   "updated": "2026-11-10",
   "invite": "4P14HY",
   "repo": "https://github.com/jaxxchen003/muse-use-cases",
@@ -4139,6 +4139,19 @@
    "re": "Subscriptions, exams and rent all watched passively, summarized weekly, reminded on time",
    "d": "明说自己不用 ChatGPT 也不用 Claude，只用 Muse；让它持续追踪日历、短信、Gmail 与消费，每周出一份订阅报告，提醒即将到来的认证考试与房租缴费，帮任务自动化。",
    "de": "He says he uses neither ChatGPT nor Claude, only Muse: it continuously tracks his calendar, texts, Gmail and spending, puts out a weekly subscription report, and reminds him of upcoming certification exams and rent payments."
+  },
+  {
+   "t": "AI 全自动化抓取外链、自动上网站，配外链看板 Space",
+   "te": "Fully automated backlink scraping and auto-publishing to his website, with a backlink dashboard Space",
+   "c": "productivity",
+   "a": "超级峰（@Mileson07，X，2026-11-10）",
+   "ae": "Mileson07 (@Mileson07, X, 2026-11-10)",
+   "x": "https://x.com/Mileson07/status/2120057863145947259",
+   "b": "ok",
+   "r": "外链抓取到上网站全流程自动化跑通，144 条外链集中在看板里随时查看",
+   "re": "Backlink scraping to publishing runs fully automated, with 144 backlinks tracked in the dashboard Space",
+   "d": "让 Muse 搭建一套 AI 全自动化流程：抓取外链后自动上网站，再配一个外链看板 Space 集中查看和管理；截图显示看板已收录 144 条外链，含域名、发现日期、类型、可复制性、状态、竞品来源与行动建议。",
+   "de": "He had Muse build an AI workflow that scrapes backlinks automatically and publishes them to his website, plus a backlink dashboard Space to track and manage them; the screenshot shows 144 backlinks logged with domain, discovery date, type, replicability, status, competitor source and suggested action."
   }
  ]
 }
