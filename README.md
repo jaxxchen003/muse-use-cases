@@ -5,7 +5,7 @@
 > Meta 个人 AI 智能体 **Muse** 的真实高价值玩法合集。
 > 收录标准：**收录 X / Reddit / Instagram / Facebook / Threads 上的真实用户分享**，优先收录结果明确、有数字、可复制的案例。
 
-📊 **收录案例：323** ｜ 🕐 **最后更新：2026-11-11** ｜ 🤖 每日 0 点自动更新 ｜ 🌐 **在线预览站（支持中英双语）：https://jaxxchen003.github.io/muse-use-cases/**
+📊 **收录案例：324** ｜ 🕐 **最后更新：2026-11-11** ｜ 🤖 每日 0 点自动更新 ｜ 🌐 **在线预览站（支持中英双语）：https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -38,7 +38,7 @@
 - [✈️ 出行 · 旅行](#️-出行--旅行)（38）
 - [🛒 购物](#-购物)（35）
 - [⚡ 效率 · 自动化](#-效率--自动化)（101）
-- [🎨 内容 · 创作](#-内容--创作)（23）
+- [🎨 内容 · 创作](#-内容--创作)（24）
 - [🛠️ 开发 · 建站](#️-开发--建站)（20）
 - [💼 生意 · 维权](#-生意--维权)（37）
 - [🤝 参与方式](#-参与方式)
@@ -1747,6 +1747,13 @@
 - **结果**：**一周交出 188 条视频 + 229 张图 + 13,633 栋建筑 3D 重建 + 44 个人生故事**
 - **可复制性**：⭐⭐⭐ 一周重度使用盘点样本；产量数字为作者自报，未独立核验
 
+### 324. AI 视频工作流空间：一句话想法到成片任务单，6 镜分镜提示词配音全齐 ✅
+- **作者**：M.（@wlzh，X，2026-11-10）
+- **原帖**：https://x.com/wlzh/status/2120027833762537491（2026-11-10）
+- **做法**：让 Muse 建一个“AI 视频工作流空间”：提示词库（204 条、13 类，同步自 GitHub 提示词合集）、8 阶段策划台（想法→剧本→分镜→美术方向→提示词）、节点画布（拖拽连线 + 时间线编辑器）、批量与导演台（同一创意编译成 Muse Video、Veo、Kling、Sora、Wan、混元 6 个模型版本提示词）、成片区（一句话成片模式 + 本地优先看板）；拿“橘猫雨夜送外卖”试了一把，6 镜分镜、提示词、配音全齐。空间只做策划、提示词与任务单，不直接生视频，生成步骤留入口去对应模型执行
+- **结果**：**橘猫雨夜送外卖试了一把：6 镜分镜、提示词、配音全齐；同一创意一次编译出 6 个模型版本提示词**
+- **可复制性**：⭐⭐⭐⭐ 视频工作流空间的具体做法样本；原帖贴出完整提示词可直接复制，附空间截图
+
 ## 🛠️ 开发 · 建站
 
 ### 66. 一晚建成的案例站 17muse.com 本身
@@ -2144,6 +2151,8 @@
 ## 🗒️ 更新日志
 
 - **2026-11-11**：新增 7 个案例（cwybruce 第 46 期 11-08/09 FB/IG/Threads 分享 6 条：@pjacefilms“Finch”订阅审计——38 项每月 $2,285.21、4 项一键取消；Krupa“Madam Muse”盯机票降价——蒙特利尔飞波士顿 $950→$350/人、两张票省约 $915；contentkaki 最便宜 iPhone 17 S$800 有暗病、次日主动报三家库存；Christopher Lynn“GET MUSE TO DO YOUR ERRANDS”——取消垃圾服务 + 迁移 + 买菜菜谱一次办完；西语创作者 Shopify 与 Meta 广告对账——30 天 $1.1M、1,066 单，14% 的差是复购；@mongbee_marketing Muse Voice 面试陪练 + 发确认邮件；另加 shipwithmuse 11-10 新收录：moonstone_jp“muse on Tuesday”自托管邮件过滤器。7 条均标 🟡：原帖直链已确认解析到对应作者与主题——Jina 抓到 FB/IG 标题（Finch 银行账单审计、Krupa 省 $915 机票、contentkaki 别买 S$800 iPhone 17、Christopher Lynn 办杂事、西语 Shopify 对账）、Threads @muse 转发帖确认 @pjacefilms、Threads 直访确认 mongbee 帖子 ID、X 帖子 ID 时间戳 + Jina 发布时间 + 作者简介三重确认 moonstone_jp，但 FB 验证码墙、IG/Threads/X 登录墙挡住全文，Jina 两次 429 限流 mongbee，细节以日报摘要/聚合站摘录为准，数字均为作者自报），总数 323。未收录：第 46 期同期的 @burberrykiss 旅行险 $157.55 取消（推广口径存疑）、@y_.kitagawa“避免 38,980 日元损失”（附付费 Note 购买链接）、@fadzieai 四用法通用演示（评论领链接）、hlilly73 公司用法概述（无具体结果）、FB 蓝帽衫用户“省了几千美元”（无细节）、@groovebak“Maya”角色介绍（无具体任务）、@rutinelabo Spaces 高尔夫订场（与第 43 期同源）、@thecheatcodetech“Gary”语音演示（与第 43 期同源）、墨西哥上线首测（同源）、@aiwithsachi 风险提醒（与第 36/41 期重复）；3 组行业观察（Muse Ember 发布、英国数周内上线、Active Memory 76%→90%）非用户案例；messagingagents/musecases/17muse/musewins 链接集与昨日一致、无新增；shipwithmuse 轮换 17 条中 16 条为 4–9 月旧帖（积压待核查）、仅 moonstone_jp 为窗口内新案；useofmuse.com 最新仍为 2026-10-13、0 条 11 月条目；agentusecases.ai Muse 计数仍为 68、无新增；X 关键词搜索只返回 Muse Ember/Watch 上线等官方新闻与 9–10 月旧案（Sid Saladi 一个月实测为 10 月纯网页文章、Barron's $25/月为 9 月纯网页文章，均非平台分享、不收录）；Issues 新增 4 条邀请码帖（#16 Q2JV5R、#17 4VHPC9、#18 9OMJ2Q、#19 ARKHZZ），无新案例投稿；r/MuseAgent RSS 再次被墙（连续三日），Reddit 覆盖缺口依旧。
+
+- **2026-11-11（用户指定）**：新增 1 个案例（chen 指定收录：@wlzh（M.）X 原帖经 fxtwitter 直读 + 空间截图核验：AI 视频工作流空间——一句话想法到成片任务单，橘猫雨夜送外卖试了一把，6 镜分镜、提示词、配音全齐；同一创意一次编译出 6 个模型版本提示词；原帖贴出完整提示词），总数 324。
 
 - **2026-11-10**：新增 2 个案例（cwybruce 第 45 期 11-07 FB/IG 分享：Marcio Lima“MUSE DAY 8”一周零提示词盘点——188 条视频、229 张图、浅草 13,633 栋建筑 3D 重建、44 个人生故事；Daniel Manole“不用 ChatGPT 也不用 Claude”——日历短信 Gmail 消费被动盯梢、每周订阅报告；两条均标 🟡：原帖直链已确认解析到对应作者与主题——Jina 抓到 FB 标题“One week with AI agent Muse”与 IG 标题“Muse and Instinct, make AI work for you”、IG 嵌入页确认作者与约 300 粉小号，但 FB 遇验证码墙、IG 登录墙挡住全文，细节以日报摘要为准，产量数字为作者自报），总数 315。未收录：同期的 Sasha DiGiulian“Arlo”攀岩 + 生意案、Ashton Hall“Ash”日程 + 订花案、John Bucog 文件夹整理案均为品牌合作/广告口径；Phillip Jackson 小额诉讼案二手转述视频与第 37 期同源；Jeff Rossen“AI 只管买”行业观察非用户案例；muse300.com 下游英文合集投稿（Issue #14）17 条均与库内重合、无新案；messagingagents/musecases/17muse/musewins 链接集与昨日一致、无新增；shipwithmuse 轮换 15 条均为 8–9 月旧帖、无窗口内新增；useofmuse.com 最新仍为 2026-10-13、0 条 11 月条目；agentusecases.ai 仍仅 2 条已知 Muse 条目；X 关键词搜索只返回 9 月旧案（@AZJedi2000 车险年省 $1,800 回帖等，记入旧案积压待核查）；Issues 新增 1 条邀请码帖（#15 WGPJ6J）；r/MuseAgent RSS 再次被墙，Reddit 覆盖缺口依旧。
 

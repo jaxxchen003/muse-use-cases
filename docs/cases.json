@@ -1,6 +1,6 @@
 {
  "meta": {
-  "count": 323,
+  "count": 324,
   "updated": "2026-11-11",
   "invite": "4P14HY",
   "repo": "https://github.com/jaxxchen003/muse-use-cases",
@@ -4243,6 +4243,19 @@
    "re": "The days of a 90%-noise inbox are over: phishing and spam are moved out before the inbox is opened",
    "d": "和 Muse 一起搭了个自托管邮件过滤程序“muse on Tuesday”：跑在自己的服务器上，24 小时盯着全部 IMAP 邮箱（工作 + 私人），钓鱼与垃圾邮件在打开收件箱之前就被移走。",
    "de": "He and his Muse built a self-hosted email filter, \"muse on Tuesday\": it runs on his own server and watches all his IMAP accounts 24/7 (work and private), moving phishing and spam out before he opens his inbox."
+  },
+  {
+   "t": "AI 视频工作流空间：一句话想法到成片任务单，6 镜分镜提示词配音全齐",
+   "te": "An AI video workflow Space: from a one-sentence idea to a finished-film task list, 6 shots with storyboard, prompts and voiceover all done",
+   "c": "content",
+   "a": "M.（@wlzh，X，2026-11-10）",
+   "ae": "M. (@wlzh, X, 2026-11-10)",
+   "x": "https://x.com/wlzh/status/2120027833762537491",
+   "b": "ok",
+   "r": "橘猫雨夜送外卖试了一把：6 镜分镜、提示词、配音全齐；同一创意一次编译出 6 个模型版本提示词",
+   "re": "Tested with an orange cat delivering takeout on a rainy night: 6 shots with storyboard, prompts and voiceover all done; one idea compiles into 6 model prompt versions",
+   "d": "让 Muse 建一个 AI 视频工作流空间：提示词库（204 条、13 类）、8 阶段策划台、节点画布、批量与导演台（同一创意编译成 Muse Video、Veo、Kling、Sora、Wan、混元 6 个版本）、成片区；拿橘猫雨夜送外卖试了一把，6 镜分镜、提示词、配音全齐。空间只做策划、提示词与任务单，不直接生视频。",
+   "de": "He had Muse build an AI video workflow Space: a 204-prompt library in 13 categories, an 8-stage planning desk, a node canvas, a batch and director desk that compiles one idea into prompt versions for Muse Video, Veo, Kling, Sora, Wan and Hunyuan, and a finished-film zone; tested it on an orange cat delivering takeout on a rainy night — 6 shots with storyboard, prompts and voiceover all done. The Space only plans, prompts and manages tasks; it does not generate video itself."
   }
  ]
 }
