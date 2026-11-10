@@ -5,7 +5,7 @@
 > A curated collection of real, high-value ways people use **Muse**, Meta's personal AI agent.
 > Inclusion rule: **real user shares from X, Reddit, Instagram, Facebook, and Threads** — we prioritize cases with clear results, real numbers, and high replicability.
 
-📊 **316 cases** ｜ 🕐 **Last updated: 2026-11-10** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
+📊 **323 cases** ｜ 🕐 **Last updated: 2026-11-11** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -30,13 +30,13 @@
 
 ## Categories
 
-- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (68)
-- ✈️ [Travel](#️-travel) (37)
-- 🛒 [Shopping](#-shopping) (34)
-- ⚡ [Productivity · automation](#-productivity--automation) (98)
+- 💰 [Money saving · bills · claims](#-money-saving--bills--claims) (69)
+- ✈️ [Travel](#️-travel) (38)
+- 🛒 [Shopping](#-shopping) (35)
+- ⚡ [Productivity · automation](#-productivity--automation) (101)
 - 🎨 [Content · creation](#-content--creation) (23)
 - 🛠️ [Dev · building](#️-dev--building) (20)
-- 💼 [Business · consumer rights](#-business--consumer-rights) (36)
+- 💼 [Business · consumer rights](#-business--consumer-rights) (37)
 
 ---
 
@@ -174,6 +174,8 @@
 
 **241. Cancelled his “predatory” pest control contract, only joining the final call** ✅ — flick (Threads). Asked Muse to cancel a pest control contract he calls predatory and near its end; Muse handled most of the cancellation itself, then brought him into the final call with support, where a few personal questions ended the service. ([Original post](https://www.threads.com/@0xflick/post/De8AEPVlsUk)).
 
+**317. "Finch": 38 subscriptions at $2,285.21 a month, 4 canceled in one click** 🟡 — @pjacefilms (Facebook; reposted by @muse on Threads the same day). He connected his Muse agent "Finch" to his bank (Plaid, read-only) and asked it to list every subscription he was paying: 38 items totaling $2,285.21 a month ($27,422.52 a year), including duplicate streaming and accounting subscriptions and long-unused services. He ticked 4 to cancel and approved Finch's cancellation emails; the confirmation screen showed a gym membership, a streaming subscription, a duplicate accounting package and an entertainment package canceled, with refunds requested for unused months, and the goal board updated to "Save money - 4 subscriptions canceled". He says he lost thousands of dollars to forgotten subscriptions over two years. ([Original post](https://www.facebook.com/reel/1471540751575508/)). Subscription totals are from the video's dashboard; refunds are not yet confirmed as received.
+
 ## ✈️ Travel
 
 **29. 7-hour delay → $250 Delta credit in 5 min** 🟡 — Ejaaz ([@cryptopunk7213](https://x.com/cryptopunk7213)). Muse filed the complaint, rebooked an alternative flight, replied to support emails. [Original post](https://x.com/cryptopunk7213/status/2102179999122153690) (2026-09-21).
@@ -253,6 +255,8 @@
 
 **253. She calls her Muse “Holly”: it plans her trips and runs her business** ✅ — Heather Bayer (Facebook). For the last few weeks she has used her Muse Holly: it planned her entire Berlin and Barcelona trip — flights, hotels, a packing list based on the actual weather, and check-in reminders — while also keeping her calendar organized and drafting inbox replies for her approval. ([Original post](https://www.facebook.com/heather.bayer/posts/pfbid0PYt8vGaadz6VSEx5c61DGfBjgFYmh8yM3CxKcqCnS4Wn56pZyypR69A2jcU4sE5Ql)).
 
+**318. "Madam Muse" watched a flight drop from $950 to $350 a person, saving about $915 on two tickets** 🟡 — Krupa (@krupaandbooks, Instagram). The digital-publishing founder handed her business to her Muse, "Madam Muse": it built her company portfolio site (KR Media Global), posted to social media with approval, made slide decks, checked email every 4 hours and managed her calendar. The most concrete job was flights: Montreal to Boston started at about $950 a person, and Muse pinged her twice as the price fell — first to about $700, then to about $350 a person for a January trip — saving about $915 across two tickets. ([Original post](https://www.instagram.com/reel/DfeEHdexkmE/)). Fares and savings are self-reported by the author and not independently verified.
+
 ## 🛒 Shopping
 
 **39. Photo → Marketplace listing (pricing + copy in one shot)** — 于為暢 (Wei Chang Yu).
@@ -326,6 +330,8 @@
 **254. Muse talked a store into taking back his shirt past the return window** ✅ — Joshua McNichols (KUOW journalist, Instagram, 2026-11-06). Gave Muse access to his email and asked it to negotiate a late return of a shirt with a store, past the eligibility window, and the seller agreed to take it back. ([Original post](https://www.instagram.com/reel/DfYl_xSjOxn/)) (2026-11-06).
 
 **255. Amazon blocked his agent, so Muse bought his chocolate on Rakuten without him opening the site** ✅ — Koyama Daisuke (Facebook). Amazon blocked his AI agent, so he tried Rakuten instead, and Muse went from research to checkout without him opening the site once, picking five chocolates including his usual 72% cacao bar. ([Original post](https://www.facebook.com/100049285164736/posts/pfbid02CZDEX8wHQhzPjYgrrwF8WSCE4NUkJRUi98azXma71PsXQQi6uTZUGkbXsv1Ua6o4l/)).
+
+**319. The cheapest iPhone 17 had hidden defects — Muse flagged them, then reported three in-stock options the next morning** 🟡 — contentkaki (IvanEe, Instagram, Singapore). He asked Muse to find the cheapest iPhone 17 on Carousell from a reputable seller; it returned a S$800 Sage 256GB but read the listing and flagged the defects — a loose camera button that won't press and distorted 0.5x zoom. The next morning Muse messaged him unprompted: all three candidates were still in stock, and it recommended the most reliable one over the cheapest. The same video also shows Gmail connected, with Muse listing monthly software subscriptions and booking a Hyperframes chat. ([Original post](https://www.instagram.com/reel/DfhTt9TkzLf/)). A screen-recorded demo; no purchase is claimed.
 
 ## ⚡ Productivity · automation
 
@@ -529,6 +535,12 @@
 
 **316. Fully automated backlink scraping and auto-publishing to his website, with a backlink dashboard Space** ✅ — Mileson07 (@Mileson07, X). He had Muse build an AI workflow that scrapes backlinks automatically and publishes them to his website, plus a backlink dashboard Space to track them all; the screenshot shows 144 backlinks logged with domain, discovery date, type, replicability, status, competitor source and suggested action. ([Original post](https://x.com/Mileson07/status/2120057863145947259)).
 
+**320. "Get Muse to do your errands": cancel the old trash service, move to a new one, and plan meals from the receipts** 🟡 — Christopher Lynn (Facebook). Two jobs: canceling the old trash service and migrating to a new provider, with Muse drafting the confirmation email for one-tap sending; and groceries — Muse reads Walmart and Sam's Club receipts, tells him what to buy, sends the list to his wife, and plans a week's meals from what's already at home, factoring in upcoming trips, anniversaries and birthdays. ([Original post](https://www.facebook.com/reel/1154024577539791/)). A user self-report with no amounts or screenshots.
+
+**322. Interview rehearsal first, confirmation email after: Muse Voice role-plays the interviewer** 🟡 — @mongbee_marketing (Threads). He asked Muse Voice, "Can we role play my interview, then email the recruiter to confirm the date?" Muse opened as the interviewer; he answered as "Sarah" (10 years in sales, an MBA, founded a coffee company), and Muse coached him on the spot — "lead with the coffee company, it proves owner mindset" — then emailed the recruiter to confirm the date as agreed. ([Original post](https://www.threads.com/@mongbee_marketing/post/DffvxhoDLFm)). A staged demo, recorded as a Voice interview-rehearsal sample.
+
+**323. "muse on Tuesday": a self-hosted email filter that moves phishing and spam out before you open your inbox** 🟡 — moonstone_jp (@moonstone_jp, X). "My inbox was 90% noise. So my Muse and I built muse on Tuesday: a tiny program on my own server that sorts all my real mail — business & private — and moves phishing and spam out before I open my inbox." It watches all his IMAP accounts 24/7. ([Original post](https://x.com/moonstone_jp/status/2119956400990531877)). Post confirmed by author, Snowflake timestamp and bio; full caption via aggregator excerpt.
+
 ## 🎨 Content · creation
 
 **59. Daily 8am AI-news podcast** — 于為暢 (Wei Chang Yu).
@@ -701,6 +713,8 @@
 
 **311. This creator automated his entire business with Muse** ✅ — Rifat Ahmed (Instagram). Muse proactively scans his email and found brand opportunities sitting in his spam folder; it replies to brands, sends his invoices, cross-posts his videos with captions, and trims the silent parts from his edits. ([Original post](https://www.instagram.com/reel/De14uVTxGbO)).
 
+**321. Ad numbers vs real sales, reconciled: Shopify's $1.1M in 30 days vs Meta's ~$1.2M — the 14% gap is repeat buyers** 🟡 — A Spanish-speaking creator (Facebook). He wired Shopify, Meta Ads, GoHighLevel CRM and Muse together to check whether Meta's reported revenue matches Shopify's real sales: Shopify showed $1.1M over 30 days (1,066 orders, 1.7% conversion) against Meta's ~$1.2M, and Muse calculated that 14% of Meta's figure was repeat customers who never came through ads — exactly the gap. The same session also showed Muse spotting a delayed order and messaging the customer via CRM. ([Original post](https://www.facebook.com/reel/2180571456186381/)). Figures are from the video's dashboard and not independently verified.
+
 ## 🤝 Contribute
 
 1. **Share your use case**: open an Issue with the "Share a use case" template — **shares from X, Reddit, Instagram, Facebook, or Threads**, include the original post link; added after verification (the daily auto-update processes them too)
@@ -717,6 +731,8 @@ Auto-updated daily at 00:00 (Beijing time).
 - Informational only; not consumer or investment advice
 
 ## 🗒️ Changelog
+
+- **2026-11-11**: 7 new cases added (6 from cwybruce issue 46, Facebook/Instagram/Threads shares from 2026-11-08/09: @pjacefilms' "Finch" subscription audit — 38 subscriptions at $2,285.21 a month, 4 canceled in one click; Krupa's "Madam Muse" flight-price watch — Montreal to Boston $950 down to $350 a person, about $915 saved on two tickets; contentkaki's cheapest iPhone 17 at S$800 with hidden defects, three in-stock options reported the next morning; Christopher Lynn's "Get Muse to do your errands" — trash-service cancel and move plus grocery and meal planning in one go; a Spanish-speaking creator's Shopify vs Meta ad reconciliation — $1.1M over 30 days, 1,066 orders, the 14% gap is repeat buyers; @mongbee_marketing's Muse Voice interview rehearsal plus confirmation email; plus one from shipwithmuse's 2026-11-10 intake: moonstone_jp's "muse on Tuesday" self-hosted email filter. All 7 marked 🟡: the original-post links resolve to the right authors and topics — Jina returned matching Facebook/Instagram titles, the Threads @muse repost confirms @pjacefilms, a direct Threads fetch confirms the mongbee post ID, and the X post is triple-confirmed by Snowflake timestamp, Jina publish time and the author's bio — but Facebook CAPTCHA, Instagram/Threads/X login walls and two Jina 429 rate limits blocked full captions, so details follow the digest summary and aggregator excerpt and figures are self-reported). Total: 323. Not included: issue 46's @burberrykiss travel-insurance cancel ($157.55, promo tone), @y_.kitagawa's ¥38,980 loss-avoidance (paid Note link), @fadzieai's four-use generic demo (comment-to-get-link), hlilly73's company-usage overview (no concrete result), a Facebook user's "saved thousands" (no details), @groovebak's "Maya" intro (no concrete task), @rutinelabo's Spaces golf booking and @thecheatcodetech's "Gary" voice demo (both duplicate issue 43), the Mexico launch first test (duplicate) and @aiwithsachi's risk video (duplicates issues 36/41); the 3 industry observations (Muse Ember launch, UK launch within weeks, Active Memory 76% to 90%) are not user cases; messagingagents/musecases/17muse/musewins link sets are unchanged from yesterday; shipwithmuse rotated in 17 posts, 16 of them April–September backlog (one in-window case, moonstone_jp); useofmuse.com's latest entry is still 2026-10-13 with zero November entries; agentusecases.ai's Muse count is still 68, no new items; X keyword search returned only official Muse Ember/Watch news and September–October posts (Sid Saladi's month-long test and the Barron's $25/month piece are October/September web articles, not platform shares); Issues gained 4 invite-code posts (#16 Q2JV5R, #17 4VHPC9, #18 9OMJ2Q, #19 ARKHZZ), no new case submissions; r/MuseAgent's RSS was bot-walled again for the third day running, leaving a Reddit coverage gap.
 
 - **2026-11-10**: 2 new cases added (from cwybruce issue 45, Facebook/Instagram shares from 2026-11-07: Marcio Lima's "MUSE DAY 8" one-week, zero-prompt roundup — 188 videos, 229 images, a 3D rebuild of 13,633 Asakusa buildings, 44 life stories; Daniel Manole's "No ChatGPT, no Claude" — calendar, texts, Gmail and spending watched passively, with a weekly subscription report; both marked 🟡: the original-post links resolve to the right authors and topics — Jina returned the Facebook title "One week with AI agent Muse" and the Instagram title "Muse and Instinct, make AI work for you", and the Instagram embed confirms the author and small account — but a Facebook CAPTCHA wall and the Instagram login wall blocked the full captions, so details follow the digest summary and output figures are self-reported). Total: 315. Not included: the same issue's Sasha DiGiulian "Arlo", Ashton Hall "Ash" and John Bucog folder-organizing items are brand-partnership/ad formats; the Phillip Jackson small-claims retelling video duplicates the source of #37; the Jeff Rossen "AI just buys" item is industry commentary, not a user case; the muse300.com downstream English collection in Issue #14 overlaps the library entirely with no new cases; messagingagents/musecases/17muse/musewins link sets are unchanged from yesterday; shipwithmuse rotated in 15 August–September posts, none in-window; useofmuse.com's latest entry is still 2026-10-13 with zero November entries; agentusecases.ai still lists only the 2 known Muse entries; X keyword search returned only September posts (e.g. @AZJedi2000's $1,800/year car-insurance reply, logged as backlog); Issues gained 1 invite-code post (#15 WGPJ6J); r/MuseAgent's RSS was bot-walled again, leaving a Reddit coverage gap.
 

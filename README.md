@@ -5,7 +5,7 @@
 > Meta 个人 AI 智能体 **Muse** 的真实高价值玩法合集。
 > 收录标准：**收录 X / Reddit / Instagram / Facebook / Threads 上的真实用户分享**，优先收录结果明确、有数字、可复制的案例。
 
-📊 **收录案例：316** ｜ 🕐 **最后更新：2026-11-10** ｜ 🤖 每日 0 点自动更新 ｜ 🌐 **在线预览站（支持中英双语）：https://jaxxchen003.github.io/muse-use-cases/**
+📊 **收录案例：323** ｜ 🕐 **最后更新：2026-11-11** ｜ 🤖 每日 0 点自动更新 ｜ 🌐 **在线预览站（支持中英双语）：https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -34,13 +34,13 @@
 
 ## 📑 目录
 
-- [💰 省钱 · 账单 · 索赔](#-省钱--账单--索赔)（68）
-- [✈️ 出行 · 旅行](#️-出行--旅行)（37）
-- [🛒 购物](#-购物)（34）
-- [⚡ 效率 · 自动化](#-效率--自动化)（98）
+- [💰 省钱 · 账单 · 索赔](#-省钱--账单--索赔)（69）
+- [✈️ 出行 · 旅行](#️-出行--旅行)（38）
+- [🛒 购物](#-购物)（35）
+- [⚡ 效率 · 自动化](#-效率--自动化)（101）
 - [🎨 内容 · 创作](#-内容--创作)（23）
 - [🛠️ 开发 · 建站](#️-开发--建站)（20）
-- [💼 生意 · 维权](#-生意--维权)（36）
+- [💼 生意 · 维权](#-生意--维权)（37）
 - [🤝 参与方式](#-参与方式)
 - [⚠️ 免责声明](#️-免责声明)
 
@@ -488,6 +488,13 @@
 - **结果**：**杀虫合同取消办成**
 - **可复制性**：⭐⭐⭐ 取消类电话最适合“agent 先办、本人只接最后一通”：身份问题留给人答
 
+### 317. “Finch”订阅审计：38 项订阅每月 $2,285.21，一句话翻出来、4 项一键取消 🟡
+- **作者**：@pjacefilms（Facebook，2026-11-09；@muse 官方 Threads 同日转发）
+- **原帖**：https://www.facebook.com/reel/1471540751575508/（2026-11-09）
+- **做法**：让自己的 Muse agent“Finch”接上银行（Plaid 只读），扫出全部定期扣费——38 项、每月 $2,285.21（一年 $27,422.52），其中有重复的影视订阅和重复的会计软件套餐、还有长期不用的服务；打一句“List every subscription that I am currently paying”，Finch 列出清单，他勾 4 项取消、批准由 Finch 起草取消邮件发出；后续确认屏显示健身房会员、影视订阅、重复会计套餐、娱乐套餐 4 项已取消，未用月份申请退款，目标看板更新为“Save money - 4 subscriptions canceled”
+- **结果**：**38 项订阅每月 $2,285.21 一次翻出来，4 项一键取消、未用月份申请退款**（作者自述过去两年在这些遗忘订阅上“丢了几千美元”）
+- **可复制性**：⭐⭐⭐⭐⭐ “把全部订阅一次翻出来、勾掉、发取消信”是订阅审计的完整闭环；订阅总额为视频内看板显示，退款到账尚未证实
+
 ## ✈️ 出行 · 旅行
 
 ### 29. 航班延误 7 小时，5 分钟拿到 $250 积分 🟡
@@ -725,6 +732,13 @@
 - **结果**：**柏林 + 巴塞罗那全程行程规划办成；日历收件箱同步有人打理**
 - **可复制性**：⭐⭐⭐⭐ 一次旅行别拆成十次搜索：把机票酒店清单提醒一次交给 agent
 
+### 318. “Madam Muse”盯机票降价：蒙特利尔飞波士顿 $950 等到 $350/人，两张票省约 $915 🟡
+- **作者**：Krupa（@krupaandbooks，Instagram，2026-11-08）
+- **原帖**：https://www.instagram.com/reel/DfeEHdexkmE/（2026-11-08）
+- **做法**：把自己的 Muse 叫“Madam Muse”，生意全托付——它搭了公司作品集网站（KR Media Global）、经批准发社交媒体帖子、做演示文稿、每 4 小时查一次邮件、管日历；最具体的一件是订机票：蒙特利尔飞波士顿最初报价约 $950/人，她让 Muse 盯着等降价，它先后两次提醒降价——先到约 $700、再到约 $350/人（1 月出行）
+- **结果**：**两张票合计省约 $915；“自己根本不会天天去查”**
+- **可复制性**：⭐⭐⭐⭐⭐ “机票降价哨兵”是旅行类最可复制的用法之一；票价与省钱数字为作者自报，未独立核验
+
 ## 🛒 购物
 
 ### 39. 拍照一键上架 Marketplace（定价 + 文案一次搞定）
@@ -944,6 +958,13 @@
 - **做法**：亚马逊挡了他的 agent，改试乐天：Muse 从调研到结账一次办完，挑了 5 块巧克力，包括他常买的 72% 可可那款，全程他一次没打开网站。
 - **结果**：**乐天 5 块巧克力下单办成；亚马逊挡 agent 后换店照常买到**
 - **可复制性**：⭐⭐⭐ 一家店挡 agent 就换一家：让 agent 换店重跑同一单，别卡在原地
+
+### 319. “最便宜的 iPhone 17，它先挑毛病”：Carousell 上 S$800 的 Sage 256GB 有暗病，次日一早主动报三家库存 🟡
+- **作者**：contentkaki（IvanEe，Instagram，2026-11-09，新加坡）
+- **原帖**：https://www.instagram.com/reel/DfhTt9TkzLf/（2026-11-09）
+- **做法**：让 Muse 在 Carousell 上找最便宜的 iPhone 17（要口碑好的卖家），Muse 返回 S$800 的 Sage 256GB，但同时读了卖家描述、把暗病挑明——相机键松动按不下去、0.5 倍镜头成像失真；第二天一早 Muse 主动发来消息：三家候选都还有货，并建议别只贪最便宜、选最稳妥的一家；同一条视频里还接了 Gmail，Muse 把每月软件订阅逐项列出来、还主动约了一个 Hyperframes 聊天的时间
+- **结果**：**最便宜那台有暗病没入手；次日三家库存主动报上，选最稳妥的一家**
+- **可复制性**：⭐⭐⭐⭐ 二手淘货先让 agent 挑毛病、再盯库存；创作者实拍演示，未做“已成交”背书
 
 ## ⚡ 效率 · 自动化
 
@@ -1571,6 +1592,27 @@
 - **结果**：**外链抓取到上网站全流程自动化跑通，144 条外链集中在看板里随时查看**
 - **可复制性**：⭐⭐⭐⭐ 外链自动化 + 看板的具体用法样本；原帖附看板截图
 
+### 320. “GET MUSE TO DO YOUR ERRANDS”：旧垃圾服务它写邮件取消、新家迁移一次办完；Walmart 与 Sam's Club 的收据它翻，菜谱按家里现有的排 🟡
+- **作者**：Christopher Lynn（Facebook，2026-11-09）
+- **原帖**：https://www.facebook.com/reel/1154024577539791/（2026-11-09）
+- **做法**：两件活：① 取消旧的垃圾清运服务并迁移到新服务商，Muse 起草带确认信息的邮件、他点一下就发出；② 管买菜：Muse 看 Walmart 与 Sam's Club 的收据、告诉他该买什么、把清单发给他妻子，再按家里已有的食材排一周菜谱，还把临近的旅行、纪念日与生日都算进去
+- **结果**：**取消 + 迁移 + 买菜 + 菜谱一次接过去**
+- **可复制性**：⭐⭐⭐⭐ 生活杂事“一次接过去”的样本；用户自述，无金额与截图佐证
+
+### 322. “面试先陪练，练完它替你发邮件确认”：Muse Voice 角色扮演面试官，10 年销售 + MBA + 创业经历它先点评、再发确认信 🟡
+- **作者**：@mongbee_marketing（Threads，2026-11-08）
+- **原帖**：https://www.threads.com/@mongbee_marketing/post/DffvxhoDLFm（2026-11-08）
+- **做法**：让 Muse Voice 陪练一场面试——先发一句“Can we role play my interview, then email the recruiter to confirm the date?”，Muse 随即以面试官口吻开场提问；用户以“Sarah”的身份回答（10 年销售、MBA、创过咖啡公司），Muse 当场给反馈：“开头先讲咖啡公司，因为那证明你有 owner 意识”；练完按约定给招聘方发邮件确认面试日期
+- **结果**：**面试陪练 + 反馈 + 确认邮件一次办完**
+- **可复制性**：⭐⭐⭐⭐ Voice 面试陪练是语音功能最先被用户拿来试的场景之一；演示口径（场景为编排）
+
+### 323. “muse on Tuesday”：自托管邮件过滤器，钓鱼与垃圾邮件进收件箱前就被挪走 🟡
+- **作者**：moonstone_jp（@moonstone_jp，X，2026-11-10）
+- **原帖**：https://x.com/moonstone_jp/status/2119956400990531877（2026-11-10）
+- **做法**：和 Muse 一起搭了个自托管邮件过滤程序“muse on Tuesday”：跑在自己的服务器上，24 小时盯着全部 IMAP 邮箱（工作 + 私人），钓鱼与垃圾邮件在打开收件箱之前就被移走；作者原话：“My inbox was 90% noise. So my Muse and I built muse on Tuesday: a tiny program on my own server that sorts all my real mail — business & private — and moves phishing and spam out before I open my inbox.”
+- **结果**：**收件箱 90% 是噪音的日子结束了：钓鱼与垃圾邮件进收件箱前就被挪走**
+- **可复制性**：⭐⭐⭐ “自托管 + IMAP 24 小时过滤”的用法样本；原帖附视频演示
+
 ## 🎨 内容 · 创作
 
 ### 59. 每天早上 8 点的 AI 新闻播客
@@ -2073,6 +2115,13 @@
 - **结果**：**垃圾邮件里的品牌合作机会被翻出来；回信、发票、转发、剪辑全包**
 - **可复制性**：⭐⭐⭐⭐ 品牌合作最怕埋在垃圾邮件里：让 agent 先扫一遍收件箱，包括 spam
 
+### 321. “广告报的数和真卖的数，Muse 对上了”：Shopify 30 天 $1.1M、1,066 单，Meta 报约 $1.2M，14% 的差是复购 🟡
+- **作者**：西语创作者（Facebook，2026-11-09）
+- **原帖**：https://www.facebook.com/reel/2180571456186381/（2026-11-09）
+- **做法**：把 Shopify、Meta Ads、GoHighLevel CRM 与 Muse 四个系统接在一起，验证一件事——Meta 广告后台报的收入和 Shopify 真实销售额对不对得上；结果：Shopify 30 天总销售额 $1.1M（1,066 单、转化率 1.7%），Meta 报约 $1.2M；Muse 算出 $1.2M 里 14% 是没走广告的老客复购，正好解释了这 14% 的差；同场还演示了另一件活：发现一单延迟，自动经 CRM 给客户发消息告知进度
+- **结果**：**广告与真实销售额的 14% 差额算明白了：是老客复购**
+- **可复制性**：⭐⭐⭐⭐ 小企业“广告对账”的具体用法；数字为视频内看板显示，未独立核验
+
 ## 🤝 参与方式
 
 1. **分享你的玩法**：在 Issues 用「分享新玩法」模板提交——**收录 X / Reddit / IG / FB / Threads 上的真实分享**，请附原帖链接，通过核验后收录（每日自动更新会一并处理）
@@ -2093,6 +2142,8 @@
 ---
 
 ## 🗒️ 更新日志
+
+- **2026-11-11**：新增 7 个案例（cwybruce 第 46 期 11-08/09 FB/IG/Threads 分享 6 条：@pjacefilms“Finch”订阅审计——38 项每月 $2,285.21、4 项一键取消；Krupa“Madam Muse”盯机票降价——蒙特利尔飞波士顿 $950→$350/人、两张票省约 $915；contentkaki 最便宜 iPhone 17 S$800 有暗病、次日主动报三家库存；Christopher Lynn“GET MUSE TO DO YOUR ERRANDS”——取消垃圾服务 + 迁移 + 买菜菜谱一次办完；西语创作者 Shopify 与 Meta 广告对账——30 天 $1.1M、1,066 单，14% 的差是复购；@mongbee_marketing Muse Voice 面试陪练 + 发确认邮件；另加 shipwithmuse 11-10 新收录：moonstone_jp“muse on Tuesday”自托管邮件过滤器。7 条均标 🟡：原帖直链已确认解析到对应作者与主题——Jina 抓到 FB/IG 标题（Finch 银行账单审计、Krupa 省 $915 机票、contentkaki 别买 S$800 iPhone 17、Christopher Lynn 办杂事、西语 Shopify 对账）、Threads @muse 转发帖确认 @pjacefilms、Threads 直访确认 mongbee 帖子 ID、X 帖子 ID 时间戳 + Jina 发布时间 + 作者简介三重确认 moonstone_jp，但 FB 验证码墙、IG/Threads/X 登录墙挡住全文，Jina 两次 429 限流 mongbee，细节以日报摘要/聚合站摘录为准，数字均为作者自报），总数 323。未收录：第 46 期同期的 @burberrykiss 旅行险 $157.55 取消（推广口径存疑）、@y_.kitagawa“避免 38,980 日元损失”（附付费 Note 购买链接）、@fadzieai 四用法通用演示（评论领链接）、hlilly73 公司用法概述（无具体结果）、FB 蓝帽衫用户“省了几千美元”（无细节）、@groovebak“Maya”角色介绍（无具体任务）、@rutinelabo Spaces 高尔夫订场（与第 43 期同源）、@thecheatcodetech“Gary”语音演示（与第 43 期同源）、墨西哥上线首测（同源）、@aiwithsachi 风险提醒（与第 36/41 期重复）；3 组行业观察（Muse Ember 发布、英国数周内上线、Active Memory 76%→90%）非用户案例；messagingagents/musecases/17muse/musewins 链接集与昨日一致、无新增；shipwithmuse 轮换 17 条中 16 条为 4–9 月旧帖（积压待核查）、仅 moonstone_jp 为窗口内新案；useofmuse.com 最新仍为 2026-10-13、0 条 11 月条目；agentusecases.ai Muse 计数仍为 68、无新增；X 关键词搜索只返回 Muse Ember/Watch 上线等官方新闻与 9–10 月旧案（Sid Saladi 一个月实测为 10 月纯网页文章、Barron's $25/月为 9 月纯网页文章，均非平台分享、不收录）；Issues 新增 4 条邀请码帖（#16 Q2JV5R、#17 4VHPC9、#18 9OMJ2Q、#19 ARKHZZ），无新案例投稿；r/MuseAgent RSS 再次被墙（连续三日），Reddit 覆盖缺口依旧。
 
 - **2026-11-10**：新增 2 个案例（cwybruce 第 45 期 11-07 FB/IG 分享：Marcio Lima“MUSE DAY 8”一周零提示词盘点——188 条视频、229 张图、浅草 13,633 栋建筑 3D 重建、44 个人生故事；Daniel Manole“不用 ChatGPT 也不用 Claude”——日历短信 Gmail 消费被动盯梢、每周订阅报告；两条均标 🟡：原帖直链已确认解析到对应作者与主题——Jina 抓到 FB 标题“One week with AI agent Muse”与 IG 标题“Muse and Instinct, make AI work for you”、IG 嵌入页确认作者与约 300 粉小号，但 FB 遇验证码墙、IG 登录墙挡住全文，细节以日报摘要为准，产量数字为作者自报），总数 315。未收录：同期的 Sasha DiGiulian“Arlo”攀岩 + 生意案、Ashton Hall“Ash”日程 + 订花案、John Bucog 文件夹整理案均为品牌合作/广告口径；Phillip Jackson 小额诉讼案二手转述视频与第 37 期同源；Jeff Rossen“AI 只管买”行业观察非用户案例；muse300.com 下游英文合集投稿（Issue #14）17 条均与库内重合、无新案；messagingagents/musecases/17muse/musewins 链接集与昨日一致、无新增；shipwithmuse 轮换 15 条均为 8–9 月旧帖、无窗口内新增；useofmuse.com 最新仍为 2026-10-13、0 条 11 月条目；agentusecases.ai 仍仅 2 条已知 Muse 条目；X 关键词搜索只返回 9 月旧案（@AZJedi2000 车险年省 $1,800 回帖等，记入旧案积压待核查）；Issues 新增 1 条邀请码帖（#15 WGPJ6J）；r/MuseAgent RSS 再次被墙，Reddit 覆盖缺口依旧。
 

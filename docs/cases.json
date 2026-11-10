@@ -1,7 +1,7 @@
 {
  "meta": {
-  "count": 316,
-  "updated": "2026-11-10",
+  "count": 323,
+  "updated": "2026-11-11",
   "invite": "4P14HY",
   "repo": "https://github.com/jaxxchen003/muse-use-cases",
   "title": "Muse 实战案例库",
@@ -4152,6 +4152,97 @@
    "re": "Backlink scraping to publishing runs fully automated, with 144 backlinks tracked in the dashboard Space",
    "d": "让 Muse 搭建一套 AI 全自动化流程：抓取外链后自动上网站，再配一个外链看板 Space 集中查看和管理；截图显示看板已收录 144 条外链，含域名、发现日期、类型、可复制性、状态、竞品来源与行动建议。",
    "de": "He had Muse build an AI workflow that scrapes backlinks automatically and publishes them to his website, plus a backlink dashboard Space to track and manage them; the screenshot shows 144 backlinks logged with domain, discovery date, type, replicability, status, competitor source and suggested action."
+  },
+  {
+   "t": "“Finch”订阅审计：38 项订阅每月 $2,285.21，一句话翻出来、4 项一键取消",
+   "te": "\"Finch\": 38 subscriptions at $2,285.21 a month, 4 canceled in one click",
+   "c": "money",
+   "a": "@pjacefilms（Facebook，2026-11-09；@muse 官方 Threads 同日转发）",
+   "ae": "@pjacefilms (Facebook, 2026-11-09; reposted by @muse on Threads the same day)",
+   "x": "https://www.facebook.com/reel/1471540751575508/",
+   "b": "ok",
+   "r": "38 项订阅每月 $2,285.21 一次翻出来，4 项一键取消、未用月份申请退款",
+   "re": "38 subscriptions at $2,285.21 a month surfaced at once; 4 canceled in one click, refunds requested for unused months",
+   "d": "让自己的 Muse agent“Finch”接上银行（Plaid 只读），扫出全部定期扣费——38 项、每月 $2,285.21（一年 $27,422.52），其中有重复的影视订阅和重复的会计软件套餐、还有长期不用的服务；打一句“List every subscription that I am currently paying”，Finch 列出清单，他勾 4 项取消、批准由 Finch 起草取消邮件发出。",
+   "de": "He connected his Muse agent \"Finch\" to his bank (Plaid, read-only) and asked it to list every subscription he was paying: 38 items totaling $2,285.21 a month ($27,422.52 a year), including duplicate streaming and accounting subscriptions and long-unused services. He ticked 4 to cancel and approved Finch's cancellation emails."
+  },
+  {
+   "t": "“Madam Muse”盯机票降价：蒙特利尔飞波士顿 $950 等到 $350/人，两张票省约 $915",
+   "te": "\"Madam Muse\" watched a flight drop from $950 to $350 a person, saving about $915 on two tickets",
+   "c": "travel",
+   "a": "Krupa（@krupaandbooks，Instagram，2026-11-08）",
+   "ae": "Krupa (@krupaandbooks, Instagram, 2026-11-08)",
+   "x": "https://www.instagram.com/reel/DfeEHdexkmE/",
+   "b": "ok",
+   "r": "两张票合计省约 $915；“自己根本不会天天去查”",
+   "re": "About $915 saved across two tickets; \"I would never check every day myself\"",
+   "d": "把自己的 Muse 叫“Madam Muse”，生意全托付——搭公司作品集网站、经批准发社交媒体帖子、做演示文稿、每 4 小时查一次邮件、管日历；订机票最具体：蒙特利尔飞波士顿最初报价约 $950/人，让 Muse 盯着等降价，先后两次提醒降价——先到约 $700、再到约 $350/人（1 月出行）。",
+   "de": "She handed her business to her Muse, \"Madam Muse\": it built her company portfolio site, posted to social media with approval, made slide decks, checked email every 4 hours and managed her calendar. The most concrete job was flights: Montreal to Boston started at about $950 a person, and Muse pinged her twice as the price fell — first to about $700, then to about $350 a person for a January trip."
+  },
+  {
+   "t": "“最便宜的 iPhone 17，它先挑毛病”：Carousell 上 S$800 的 Sage 256GB 有暗病，次日一早主动报三家库存",
+   "te": "The cheapest iPhone 17 had hidden defects — Muse flagged them, then reported three in-stock options the next morning",
+   "c": "shopping",
+   "a": "contentkaki（IvanEe，Instagram，2026-11-09，新加坡）",
+   "ae": "contentkaki (IvanEe, Instagram, 2026-11-09, Singapore)",
+   "x": "https://www.instagram.com/reel/DfhTt9TkzLf/",
+   "b": "ok",
+   "r": "最便宜那台有暗病没入手；次日三家库存主动报上，选最稳妥的一家",
+   "re": "The cheapest unit had hidden defects, so he passed; three in-stock options arrived unprompted the next morning",
+   "d": "让 Muse 在 Carousell 上找最便宜的 iPhone 17（要口碑好的卖家），Muse 返回 S$800 的 Sage 256GB，但同时读了卖家描述、把暗病挑明——相机键松动按不下去、0.5 倍镜头成像失真；第二天一早 Muse 主动发来消息：三家候选都还有货，并建议别只贪最便宜、选最稳妥的一家。",
+   "de": "He asked Muse to find the cheapest iPhone 17 on Carousell from a reputable seller; it returned a S$800 Sage 256GB but read the listing and flagged the defects — a loose camera button that won't press and distorted 0.5x zoom. The next morning Muse messaged him unprompted: all three candidates were still in stock, and it recommended the most reliable one over the cheapest."
+  },
+  {
+   "t": "“GET MUSE TO DO YOUR ERRANDS”：旧垃圾服务它写邮件取消、新家迁移一次办完；Walmart 与 Sam's Club 的收据它翻，菜谱按家里现有的排",
+   "te": "\"Get Muse to do your errands\": cancel the old trash service, move to a new one, and plan meals from the receipts",
+   "c": "productivity",
+   "a": "Christopher Lynn（Facebook，2026-11-09）",
+   "ae": "Christopher Lynn (Facebook, 2026-11-09)",
+   "x": "https://www.facebook.com/reel/1154024577539791/",
+   "b": "ok",
+   "r": "取消 + 迁移 + 买菜 + 菜谱一次接过去",
+   "re": "Cancel, migrate, groceries and meal planning all handed over at once",
+   "d": "两件活：① 取消旧的垃圾清运服务并迁移到新服务商，Muse 起草带确认信息的邮件、他点一下就发出；② 管买菜：Muse 看 Walmart 与 Sam's Club 的收据、告诉他该买什么、把清单发给他妻子，再按家里已有的食材排一周菜谱，还把临近的旅行、纪念日与生日都算进去。",
+   "de": "Two jobs: canceling the old trash service and migrating to a new provider, with Muse drafting the confirmation email for one-tap sending; and groceries — Muse reads Walmart and Sam's Club receipts, tells him what to buy, sends the list to his wife, and plans a week's meals from what's already at home, factoring in upcoming trips, anniversaries and birthdays."
+  },
+  {
+   "t": "“广告报的数和真卖的数，Muse 对上了”：Shopify 30 天 $1.1M、1,066 单，Meta 报约 $1.2M，14% 的差是复购",
+   "te": "Ad numbers vs real sales, reconciled: Shopify's $1.1M in 30 days vs Meta's ~$1.2M — the 14% gap is repeat buyers",
+   "c": "business",
+   "a": "西语创作者（Facebook，2026-11-09）",
+   "ae": "A Spanish-speaking creator (Facebook, 2026-11-09)",
+   "x": "https://www.facebook.com/reel/2180571456186381/",
+   "b": "ok",
+   "r": "广告与真实销售额的 14% 差额算明白了：是老客复购",
+   "re": "The 14% gap between ad-reported and real sales is explained: repeat buyers",
+   "d": "把 Shopify、Meta Ads、GoHighLevel CRM 与 Muse 四个系统接在一起，验证 Meta 广告后台报的收入和 Shopify 真实销售额对不对得上；Shopify 30 天总销售额 $1.1M（1,066 单、转化率 1.7%），Meta 报约 $1.2M；Muse 算出 $1.2M 里 14% 是没走广告的老客复购，正好解释了这 14% 的差。",
+   "de": "He wired Shopify, Meta Ads, GoHighLevel CRM and Muse together to check whether Meta's reported revenue matches Shopify's real sales: Shopify showed $1.1M over 30 days (1,066 orders, 1.7% conversion) against Meta's ~$1.2M, and Muse calculated that 14% of Meta's figure was repeat customers who never came through ads — exactly the gap."
+  },
+  {
+   "t": "“面试先陪练，练完它替你发邮件确认”：Muse Voice 角色扮演面试官，10 年销售 + MBA + 创业经历它先点评、再发确认信",
+   "te": "Interview rehearsal first, confirmation email after: Muse Voice role-plays the interviewer",
+   "c": "productivity",
+   "a": "@mongbee_marketing（Threads，2026-11-08）",
+   "ae": "@mongbee_marketing (Threads, 2026-11-08)",
+   "x": "https://www.threads.com/@mongbee_marketing/post/DffvxhoDLFm",
+   "b": "ok",
+   "r": "面试陪练 + 反馈 + 确认邮件一次办完",
+   "re": "Interview rehearsal, feedback and confirmation email done in one go",
+   "d": "让 Muse Voice 陪练一场面试——先发一句“Can we role play my interview, then email the recruiter to confirm the date?”，Muse 随即以面试官口吻开场提问；用户以“Sarah”的身份回答（10 年销售、MBA、创过咖啡公司），Muse 当场给反馈：“开头先讲咖啡公司，因为那证明你有 owner 意识”；练完按约定给招聘方发邮件确认面试日期。",
+   "de": "He asked Muse Voice, \"Can we role play my interview, then email the recruiter to confirm the date?\" Muse opened as the interviewer; he answered as \"Sarah\" (10 years in sales, an MBA, founded a coffee company), and Muse coached him on the spot — \"lead with the coffee company, it proves owner mindset\" — then emailed the recruiter to confirm the date as agreed."
+  },
+  {
+   "t": "“muse on Tuesday”：自托管邮件过滤器，钓鱼与垃圾邮件进收件箱前就被挪走",
+   "te": "\"muse on Tuesday\": a self-hosted email filter that moves phishing and spam out before you open your inbox",
+   "c": "productivity",
+   "a": "moonstone_jp（@moonstone_jp，X，2026-11-10）",
+   "ae": "moonstone_jp (@moonstone_jp, X, 2026-11-10)",
+   "x": "https://x.com/moonstone_jp/status/2119956400990531877",
+   "b": "ok",
+   "r": "收件箱 90% 是噪音的日子结束了：钓鱼与垃圾邮件进收件箱前就被挪走",
+   "re": "The days of a 90%-noise inbox are over: phishing and spam are moved out before the inbox is opened",
+   "d": "和 Muse 一起搭了个自托管邮件过滤程序“muse on Tuesday”：跑在自己的服务器上，24 小时盯着全部 IMAP 邮箱（工作 + 私人），钓鱼与垃圾邮件在打开收件箱之前就被移走。",
+   "de": "He and his Muse built a self-hosted email filter, \"muse on Tuesday\": it runs on his own server and watches all his IMAP accounts 24/7 (work and private), moving phishing and spam out before he opens his inbox."
   }
  ]
 }
