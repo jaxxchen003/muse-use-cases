@@ -1,7 +1,7 @@
 {
  "meta": {
-  "count": 324,
-  "updated": "2026-11-11",
+  "count": 331,
+  "updated": "2026-11-12",
   "invite": "4P14HY",
   "repo": "https://github.com/jaxxchen003/muse-use-cases",
   "title": "Muse 实战案例库",
@@ -4256,6 +4256,97 @@
    "re": "Tested with an orange cat delivering takeout on a rainy night: 6 shots with storyboard, prompts and voiceover all done; one idea compiles into 6 model prompt versions",
    "d": "让 Muse 建一个 AI 视频工作流空间：提示词库（204 条、13 类）、8 阶段策划台、节点画布、批量与导演台（同一创意编译成 Muse Video、Veo、Kling、Sora、Wan、混元 6 个版本）、成片区；拿橘猫雨夜送外卖试了一把，6 镜分镜、提示词、配音全齐。空间只做策划、提示词与任务单，不直接生视频。",
    "de": "He had Muse build an AI video workflow Space: a 204-prompt library in 13 categories, an 8-stage planning desk, a node canvas, a batch and director desk that compiles one idea into prompt versions for Muse Video, Veo, Kling, Sora, Wan and Hunyuan, and a finished-film zone; tested it on an orange cat delivering takeout on a rainy night — 6 shots with storyboard, prompts and voiceover all done. The Space only plans, prompts and manages tasks; it does not generate video itself."
+  },
+  {
+   "t": "“Ernesto”不到一个月省近 $2,000：$80 重复扣费追回、积分重排机票免费省 $800",
+   "te": "\"Ernesto\" saved nearly $2,000 in under a month: an $80 duplicate charge clawed back, a flight made free with points",
+   "c": "money",
+   "a": "Courtney Johnson（@courtlynnjohnson，Instagram，2026-11-09，26 万粉）",
+   "ae": "Courtney Johnson (@courtlynnjohnson, Instagram, 2026-11-09, 260K followers)",
+   "x": "https://www.instagram.com/reel/Dfh7DLryzbU/",
+   "b": "ok",
+   "r": "不到一个月省近 $2,000；“不用你吩咐、自己盯着、到点叫你”",
+   "re": "Nearly $2,000 saved in under a month; \"no prompting needed — it watches and calls you when something is off\"",
+   "d": "给自己的 Muse 取名“Ernesto”（大象头像），不到一个月省了近 $2,000，五笔账都具体：$80 重复扣费找银行追回、重排积分策略把一张机票订成免费省 $800 现金、提醒发一张被遗忘的 $400 发票、催她上完一门已付费 $100 一直没打开的网课、找到一个一年 $300 不用的健身房会员取消；大部分干预不是她吩咐的——Ernesto 在后台自己盯着账户，发现问题才来找她确认，花钱前一定先问她。",
+   "de": "She named her Muse \"Ernesto\" (elephant avatar), and in under a month it saved her nearly $2,000 across five itemized jobs: an $80 duplicate charge reversed by the bank, a flight booked free by reworking her points strategy ($800 cash saved), a forgotten $400 invoice flagged, a $100 online course she had paid for and never opened finally finished, and a $300-a-year gym membership she never used canceled. Most interventions were unprompted — Ernesto watches her accounts in the background, comes to her when something is off, and always asks before spending."
+  },
+  {
+   "t": "两周 4 个 co-op 面试，自己一份申请没投：简历 + skill-file.md 交给它，备考期间它按 JD 改简历、填表、从邮件抄验证码",
+   "te": "Four co-op interviews in two weeks without submitting a single application himself",
+   "c": "productivity",
+   "a": "@ghzijad（Instagram，2026-11-10）",
+   "ae": "@ghzijad (Instagram, 2026-11-10)",
+   "x": "https://www.instagram.com/reel/DfjCFQwuV7E/",
+   "b": "ok",
+   "r": "两周 4 个面试，自己一份申请没投",
+   "re": "Four interviews in two weeks, zero applications submitted by hand",
+   "d": "用 Muse 自动化 co-op（带薪实习）求职，两周拿到 4 个面试——期间自己一份申请都没投，全在备考：给 Muse 一份基础简历 + 一份 skill-file.md（项目、技能、经历），再接上招聘信息；Muse 读 JD、按岗改简历、填申请表、从邮件里抄验证码；先盯着看前两三个申请，确认它“就是按你的方式投的”，再放手全自动。",
+   "de": "He automated his co-op (paid internship) job hunt with Muse and landed 4 interviews in two weeks — while submitting zero applications himself and spending the time studying for exams. His setup: hand Muse a base resume plus a skill-file.md (projects, skills, experience) and plug in the job listings; Muse reads each job description, tailors the resume per role, fills in the forms and pulls verification codes from email. Watch the first two or three applications to confirm it applies \"the way you would\", then let it run fully automatic."
+  },
+  {
+   "t": "“Muse 在跑我的人生”：接 Gmail、ClickUp、Instagram，明天发什么它先给 10 个钩子 + 10 条同类爆款链接",
+   "te": "\"Muse runs my life\": it reads his Gmail, ClickUp and Instagram, then hands him 10 hooks and 10 proven viral videos for tomorrow's post",
+   "c": "content",
+   "a": "Alex Costa（800 万粉创作者，Instagram，2026-11-09；经 @sundaskhalidd 采访）",
+   "ae": "Alex Costa (8M-follower creator, Instagram, 2026-11-09; interviewed by @sundaskhalidd)",
+   "x": "https://www.instagram.com/reel/DfhqArahWwf/",
+   "b": "ok",
+   "r": "明天发什么、钩子怎么写、同类爆款长什么样，一次递上来",
+   "re": "Tomorrow's topic, the hooks and the proven viral references, all handed over at once",
+   "d": "被问用什么做内容，他说不用 ChatGPT、Claude 或 Gemini，只用 Muse——“它在跑我的人生”，接了桌面端、手机、Gmail、ClickUp 和 Instagram；连上 ClickUp 后问一句“明天发什么”，Muse 建任务、给 10 个钩子创意、再附 10 条同类已验证爆款视频的链接，他按自己的风格改编重拍；别的工具“听着像机器人”，Muse 看的是他账号上真实跑过的数据、再按过去表现给建议。",
+   "de": "Asked which AI he uses for content, he said none of ChatGPT, Claude or Gemini — only Muse: \"it runs my life\", connected to his desktop, phone, Gmail, ClickUp and Instagram. With ClickUp connected, he asks \"what should I post tomorrow\", and Muse creates the task, gives 10 hook ideas and attaches 10 links to proven viral videos in the same lane, which he re-shoots in his own style. Other tools \"sound like robots\", while Muse works from data on what actually performed on his own account and advises from past performance."
+  },
+  {
+   "t": "“愤怒客户找错了门”：Muse 接 GoHighLevel CRM + Shopify，按电话一查——这人根本不是我们的客户",
+   "te": "\"The angry customer had the wrong store\": Muse checked GoHighLevel CRM and Shopify by phone number — no such customer",
+   "c": "business",
+   "a": "Carlos Eduardo Rueda Martell（Facebook，2026-11-10，西语）",
+   "ae": "Carlos Eduardo Rueda Martell (Facebook, 2026-11-10, in Spanish)",
+   "x": "https://www.facebook.com/reel/1445865346960284/",
+   "b": "ok",
+   "r": "找错门的客诉几分钟平息，不用等发酵",
+   "re": "A misdirected complaint settled in minutes instead of festering",
+   "d": "收到一位客户的连串愤怒消息，坚称被多收了与自家商品不符的金额、指责他们不诚信——但双方此前毫无往来；让接了 GoHighLevel CRM 与 Shopify 的 Muse 按电话号码交叉查两边系统：查无此人，确认对方找错了商家；Muse 随即起草一封礼貌回复解释误会发过去，对方明白后停止了指责。",
+   "de": "He received a string of angry messages from a customer insisting she had been overcharged for an amount that did not even match his products and accusing his business of dishonesty — though they had never dealt with each other. He asked his Muse, wired into GoHighLevel CRM and Shopify, to cross-check both systems by her phone number: no contact, no purchase — she had the wrong store. Muse then drafted a polite reply explaining the mix-up, which he sent; she understood and stopped the accusations."
+  },
+  {
+   "t": "四个 Spaces 就是四个小应用：学习搭档每日出题、仪表盘同步邮件日历、训练计划按目标编、菜谱从 IG reel 存下来变采购清单",
+   "te": "Four Spaces, four little apps: a study partner that quizzes daily, a dashboard syncing mail and calendar, a trainer, and a meal planner",
+   "c": "productivity",
+   "a": "Emily Higgins（Threads，2026-11-10；经 @muse 官方账号转发）",
+   "ae": "Emily Higgins (Threads, 2026-11-10; reposted by the official @muse account)",
+   "x": "https://www.threads.com/@muse/post/DfkXlR9Gt7e",
+   "b": "ok",
+   "r": "学习、待办、训练、做饭四件天天要用的事，各自有了一个住的地方",
+   "re": "Study, to-dos, training and cooking — four everyday jobs each got a place to live",
+   "d": "自 Muse 上线起每天都用，并用 Spaces 搭了四个定制小应用：Learning Partner（学习搭档）每天随机出一个主题（屏录里是“量子芝诺效应”），分入门、深入、精读三档；Daily Dashboard（每日仪表盘）同步邮件、日历与对话，追踪待办、排每天的计划；Personal Training App（私人训练应用）按她的目标编训练计划、记组数次数、帮约健身课；Meal Planner 从 Instagram reel 与网上搜索存菜谱、排一周菜单、自动生成采购清单。",
+   "de": "She has used Muse daily since launch and built four custom mini-apps with Spaces: a Learning Partner that picks a random topic each day (the quantum Zeno effect in the screen recording) in beginner, deep-dive and close-reading tiers; a Daily Dashboard that syncs email, calendar and chats, tracks to-dos and plans each day; a Personal Training App that writes training plans to her goals, logs sets and reps and books fitness classes; and a Meal Planner that saves recipes from Instagram reels and web searches, plans the week's menu and generates the shopping list."
+  },
+  {
+   "t": "“Ume”三个月全托付：隐适美提醒、网球课自动订、旅行它盯机票酒店签证；但通知过载也让她错过一班飞机",
+   "te": "\"Ume\", three months fully handed over: Invisalign reminders, auto-booked tennis lessons, trips watched end to end — and one missed flight from notification overload",
+   "c": "productivity",
+   "a": "Alice Nguyen Le Anh（@its.alicehere，Instagram，2026-11-10，Meta 员工）",
+   "ae": "Alice Nguyen Le Anh (@its.alicehere, Instagram, 2026-11-10, Meta employee)",
+   "x": "https://www.instagram.com/p/DfkEhM8k8FB/",
+   "b": "ok",
+   "r": "三个月全托付的五块用法 + 一次通知过载错过航班的翻车",
+   "re": "Three months of full hand-over across five areas — plus one missed flight from notification overload",
+   "d": "介绍自己的 Muse “Ume”，三个月用法分五块：生活 admin——隐适美提醒、护肤流程、自动订网球/芭蕾课、每日播客；购物——帮她找 Oleada 网球包的折扣；coding buddy——陪她写一个数字抹茶架小应用；旅行向导——找机票、盯价格、订住宿、提醒签证；内容助手——整理点子、搭工具；她也自曝了一次翻车：通知过载让她错过一班飞机。",
+   "de": "She introduces her Muse \"Ume\" and three months of use across five areas: life admin — Invisalign reminders, skincare routine, auto-booked tennis and ballet classes, a daily podcast; shopping — finding a discount on an Oleada tennis bag; a coding buddy — building a digital matcha-stand app with her; a travel guide — finding flights, watching prices, booking stays, flagging visas; and a content assistant — organizing ideas and building tools. She also shares a failure: notification overload made her miss a flight."
+  },
+  {
+   "t": "“Alfred”晨间简报一页纸：日历、48 小时内的 deadline、等你回复的人、当天唯一关键胜利",
+   "te": "\"Alfred\", a one-page morning brief: today's calendar, deadlines inside 48 hours, people waiting on a reply, and the day's one key win",
+   "c": "productivity",
+   "a": "Nick Good（Facebook 群组，2026-11-10，房地产从业者）",
+   "ae": "Nick Good (Facebook group, 2026-11-10, real-estate professional)",
+   "x": "https://www.facebook.com/groups/1707928907613821/permalink/1708459510894094/",
+   "b": "ok",
+   "r": "打开邮箱之前，先知道今天哪件最重要",
+   "re": "Before opening the inbox, know what matters most today",
+   "d": "晨间工作流是先收一份 agent 生成的简报、再看邮箱——他的 Muse “Alfred” overnight 扫一遍变化，按优先级排成一页纸：今天的日历、48 小时内到期的客户/合同 deadline、等他回复的人，以及“今天唯一关键的胜利是什么”；有效的自动化不需要一堆 agent，一条写清楚的指令就够了。",
+   "de": "His morning workflow starts with an agent-generated brief before he opens his inbox: his Muse \"Alfred\" sweeps overnight changes and ranks them on one page — today's calendar, client and contract deadlines due within 48 hours, people waiting on his reply, and \"the one key win for today\". Effective automation does not need a stack of agents — one clearly written instruction is enough."
   }
  ]
 }
