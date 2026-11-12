@@ -56,7 +56,14 @@
    "r": "年省 $3,500",
    "re": "Save $3,500/yr",
    "d": "上传现有车险保单，要求“同等保障找更便宜的”；约 5 分钟内 Muse 找到新方案、完成购买并取消旧保单。",
-   "de": "Uploaded his policy, asked for cheaper identical coverage; in ~5 min Muse found a new plan, bought it and cancelled the old one."
+   "de": "Uploaded his policy, asked for cheaper identical coverage; in ~5 min Muse found a new plan, bought it and cancelled the old one.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HR4nFxLXcAEb2eR.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HR4nFxLXcAEb2eR.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "Xfinity 电话砍价，5 年省约 $5,118",
@@ -69,7 +76,14 @@
    "r": "约 $5,118（锁定 $85.30/月）",
    "re": "~$5,118 (locked $85.30/mo)",
    "d": "让 Muse 打电话给 Xfinity，闯过电话菜单树，身份验证环节再把本人接进来，全程有 agent 与客服对话实录。",
-   "de": "Had Muse call Xfinity, navigate the phone tree, patch him in live at verification — with a full agent–rep transcript."
+   "de": "Had Muse call Xfinity, navigate the phone tree, patch him in live at verification — with a full agent–rep transcript.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSTYJWfakAEU5o7.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSTYJWfakAEU5o7.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "Verizon 账单 $516→$386/月，睡前发起醒来办好",
@@ -108,7 +122,14 @@
    "r": "$40/月 ＋ 3 个月免费",
    "re": "$40/mo + 3 months free",
    "d": "授权 Muse“接受任何低于 $70/月的方案”，由它去谈判。注意部分电话谈判案例实际有人工客服参与。",
-   "de": "Authorized Muse to “accept anything under $70/mo”. Caveat: some viral “phone negotiation” cases reportedly involved human agents."
+   "de": "Authorized Muse to “accept anything under $70/mo”. Caveat: some viral “phone negotiation” cases reportedly involved human agents.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSMFLNKaoAAzhAs.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSMFLNKaoAAzhAs.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "两户 AT&T 账单，24 个月合计省 $1,920",
@@ -121,7 +142,19 @@
    "r": "24 个月省约 $1,920",
    "re": "~$1,920 over 24 months",
    "d": "让 Muse 替两户家庭的 AT&T 网络账单谈价。",
-   "de": "Had Muse negotiate AT&T internet bills for two households."
+   "de": "Had Muse negotiate AT&T internet bills for two households.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSXKdI-XMAAhrr1.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSXKdI-XMAAhrr1.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSXKdJBWQAEufQj.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSXKdJBWQAEufQj.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "车险比价 15 分钟，年省 $1,156",
@@ -134,7 +167,14 @@
    "r": "年省约 $1,156",
    "re": "~$1,156/yr",
    "d": "在健身房随手上传当前车险单，Muse 按同等保障比价。碎片时间交办的典范。",
-   "de": "Uploaded his policy at the gym; Muse shopped identical coverage."
+   "de": "Uploaded his policy at the gym; Muse shopped identical coverage.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSSrTTvWkAAAjan.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSSrTTvWkAAAjan.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "医疗账单逐行审计，省下 $4,000+",
@@ -199,7 +239,14 @@
    "r": "约 $1,026 credit",
    "re": "~$1,026 credit",
    "d": "持续追踪已订 United 航班的降价，然后找客服把差价要回来。“帮我盯着已订的航班，降了就去要差价”。",
-   "de": "Tracked a booked United flight, chatted with United to secure the credit."
+   "de": "Tracked a booked United flight, chatted with United to secure the credit.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HR4UNIJWEAsFS3_.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HR4UNIJWEAsFS3_.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "为岳父找回 $1,750 无人认领财产",
@@ -225,7 +272,14 @@
    "r": "$800+，约 10 分钟",
    "re": "$800+ in ~10 min",
    "d": "一句话交办：“查我住过的所有州有没有我的无人认领财产”。",
-   "de": "One prompt: check every state lived in."
+   "de": "One prompt: check every state lived in.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HR4xx8-akAAGZS8.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HR4xx8-akAAGZS8.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "Amazon 退货 $239 ＋ 狗看病理赔 $516",
@@ -420,7 +474,24 @@
    "r": "Delta ＋$250 积分",
    "re": "+$250 Delta credit",
    "d": "航班延误后直接让 Muse 处理索赔——自动填投诉表、找替代航班重新预订、回复客服邮件，全程约 5 分钟。",
-   "de": "Muse filed the complaint, rebooked an alternative flight, replied to support emails — about 5 minutes."
+   "de": "Muse filed the complaint, rebooked an alternative flight, replied to support emails — about 5 minutes.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSxxjqpaMAAgDIF.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSxxjqpaMAAgDIF.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSxxjqrbIAA3S_q.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSxxjqrbIAA3S_q.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSxxjqtacAAsoFs.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSxxjqtacAAsoFs.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "机票/酒店降价追踪＋自动通知",
@@ -446,7 +517,14 @@
    "r": "睡觉时办好值机",
    "re": "Checked in while asleep",
    "d": "半夜睡觉时 Muse 自动帮他办好航班值机。",
-   "de": "Muse checked him into his flight overnight while he slept."
+   "de": "Muse checked him into his flight overnight while he slept.",
+   "m": [
+    {
+     "k": "vid",
+     "u": "https://video.twimg.com/amplify_video/2097966119218814979/vid/avc1/720x1280/e1q1ZIs1jErt3947.mp4?tag=29",
+     "p": "https://pbs.twimg.com/amplify_video_thumb/2097966119218814979/img/RIMEik2dPKHtlpZ-.jpg"
+    }
+   ]
   },
   {
    "t": "REAL ID 预约",
@@ -563,7 +641,14 @@
    "r": "谈价＋约自提",
    "re": "Negotiated + pickup arranged",
    "d": "找到 Marketplace 商品、谈价、约自提一条龙。",
-   "de": "Found the item, negotiated the price, arranged pickup — end to end."
+   "de": "Found the item, negotiated the price, arranged pickup — end to end.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HRuFCrxWYAE1q2r.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HRuFCrxWYAE1q2r.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "白板照片 → Sam's Club 杂货一键下单",
@@ -615,7 +700,14 @@
    "r": "全程不用盯",
    "re": "No babysitting needed",
    "d": "联系客服、预约上门取件全程跑完。",
-   "de": "Customer service + pickup scheduling, all handled."
+   "de": "Customer service + pickup scheduling, all handled.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSNHf4-a8AAwLPz.png?name=small",
+     "f": "https://pbs.twimg.com/media/HSNHf4-a8AAwLPz.png?name=orig"
+    }
+   ]
   },
   {
    "t": "eBay 捡漏改自动推送",
@@ -719,7 +811,14 @@
    "r": "替掉付费订阅",
    "re": "Replaced paid sub",
    "d": "让 Muse 给能找到的每家数据经纪商发邮件要求删除，只用掉约 2% 的免费周额度。",
-   "de": "Emailed every data broker found; used ~2% of the free weekly quota."
+   "de": "Emailed every data broker found; used ~2% of the free weekly quota.",
+   "m": [
+    {
+     "k": "vid",
+     "u": "https://video.twimg.com/tweet_video/HR8q4vUaoAAZkir.mp4",
+     "p": "https://pbs.twimg.com/tweet_video_thumb/HR8q4vUaoAAZkir.jpg"
+    }
+   ]
   },
   {
    "t": "7 天 10 任务压力测试",
@@ -1616,7 +1715,14 @@
    "r": "$200，\"够付一两年产品费\"",
    "re": "$200 — \"paid for itself for the next year or two\"",
    "d": "签约时忘了领的 $200 礼品卡，Muse 替他找出来兑现",
-   "de": "The $200 signup gift card he forgot to claim — Muse dug it out and redeemed it"
+   "de": "The $200 signup gift card he forgot to claim — Muse dug it out and redeemed it",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSZWhJfWUAAxbDo.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSZWhJfWUAAxbDo.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "搬家一口气办妥：水电燃气 + 保险账户转移",
@@ -1655,7 +1761,14 @@
    "r": "比价、下单、定出发时间一次闭环",
    "re": "Compare, book and set departure time in one loop",
    "d": "告诉 Muse 早班机时间，它对比 Uber 和机场停车，买 Groupon 把停车费砍半、经浏览器订好，最后还告诉他几点出门",
-   "de": "Told Muse about his morning flight; it compared Uber vs airport parking, bought a Groupon to halve parking, booked it in the browser, then told him when to leave"
+   "de": "Told Muse about his morning flight; it compared Uber vs airport parking, bought a Groupon to halve parking, booked it in the browser, then told him when to leave",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HR8fX81aAAAxXWS.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HR8fX81aAAAxXWS.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "酒店官网直订便宜 5–10% + 免取消，还挖出 $50 credit",
@@ -1668,7 +1781,14 @@
    "r": "官网直订便宜 5–10% 且免费取消，还找到 $50 酒店 credit",
    "re": "Direct booking 5–10% cheaper with free cancellation, plus a $50 hotel credit found",
    "d": "Muse 对比酒店官网、Expedia、Booking 三家价格",
-   "de": "Muse checked the hotel's own site against Expedia and Booking"
+   "de": "Muse checked the hotel's own site against Expedia and Booking",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HS67WvcawAACnMh.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HS67WvcawAACnMh.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "NYC 旅行全程用 Muse 订，Stripe Link 付款\"10/10\"",
@@ -1681,7 +1801,19 @@
    "r": "\"great experience\"，\"10/10 personal agent\"",
    "re": "\"Great experience\", a \"10/10 personal agent\"",
    "d": "整单 NYC 旅行经 Muse 预订，付款走 Stripe Link",
-   "de": "Booked a whole New York trip through Muse with the Stripe Link payment step"
+   "de": "Booked a whole New York trip through Muse with the Stripe Link payment step",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSNwv91X0AAT1j0.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSNwv91X0AAT1j0.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSNwwSoWMAI7C6-.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSNwwSoWMAI7C6-.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "车库冰柜：按规格比价下单 + 追踪物流 + 提交保修注册",
@@ -1772,7 +1904,29 @@
    "r": "学校群的信息洪水变成一份日报",
    "re": "The school-group firehose becomes one daily digest",
    "d": "三个 agent 各有固定 cron：Muse 负责每天读完孩子学校所有家长 WhatsApp 群 + 全部邮件，发每日摘要并转发给妻子",
-   "de": "Three agents with standing crons; Muse's job: a daily read of all parents' WhatsApp groups for the kids' schools plus all email, sent as a daily summary and forwarded to his wife"
+   "de": "Three agents with standing crons; Muse's job: a daily read of all parents' WhatsApp groups for the kids' schools plus all email, sent as a daily summary and forwarded to his wife",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSqsFJNWwAAu8Cs.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSqsFJNWwAAu8Cs.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSqsFI1W4AAG6uj.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSqsFI1W4AAG6uj.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSqsG_LWcAAOdPL.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSqsG_LWcAAOdPL.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSqskewWcAES2j4.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSqskewWcAES2j4.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "Muse feed 每日报告：X 时间线 + 功能上线 + 会议 + 新闻",
@@ -1837,7 +1991,14 @@
    "r": "提示词迭代四次即得可用动画",
    "re": "Four prompt iterations to a usable animation",
    "d": "让 Muse 做动画，只用简单的提示词来回改了四次，帖子附成品视频",
-   "de": "Had Muse make an animation, iterating with simple prompts four times; the post includes the finished video"
+   "de": "Had Muse make an animation, iterating with simple prompts four times; the post includes the finished video",
+   "m": [
+    {
+     "k": "vid",
+     "u": "https://video.twimg.com/amplify_video/2111624204684558336/vid/avc1/1080x1920/Zc6TD5_Aan97q8j3.mp4?tag=29",
+     "p": "https://pbs.twimg.com/amplify_video_thumb/2111624204684558336/img/7vPpelJH1aw2mtne.jpg"
+    }
+   ]
   },
   {
    "t": "Things 无官方 API，让 Muse 现搭同步：1–2 分钟全苹果设备待办打通",
@@ -1863,7 +2024,14 @@
    "r": "想法到可用工具，2 分钟",
    "re": "From idea to working tool in 2 minutes",
    "d": "用 Muse 给自己搭了个滑动取关 IG 的界面，2 分钟搞定；他归功于 Muse 的 IG 原生接入而非模型本身",
-   "de": "Built a Tinder-style Instagram unfollow interface in about two minutes, crediting Muse's native Instagram access rather than the model"
+   "de": "Built a Tinder-style Instagram unfollow interface in about two minutes, crediting Muse's native Instagram access rather than the model",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HRune22XsAAMhG8.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HRune22XsAAMhG8.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "投资助手 \"Alfred\"：盯 X 投资话题 + 播客转录 + 每日新闻监控",
@@ -1902,7 +2070,14 @@
    "r": "\"估计很快会被修掉\"——第一份 agent 数据导出边界实测",
    "re": "\"Guessing this gets patched soon\" — a first field test of the agent's data-export lines",
    "d": "让 Muse 导出全部 IG 粉丝名单；更意外的是，它还同意导出每个粉丝的粉丝名单",
-   "de": "Had Muse export all his Instagram followers; more surprisingly, it agreed to export each of his followers' followers"
+   "de": "Had Muse export all his Instagram followers; more surprisingly, it agreed to export each of his followers' followers",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HRwHiHWbwAAEmjv.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HRwHiHWbwAAEmjv.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "开车一句话，Tesla Y 行车记录仪比价下单到支付验证",
@@ -2019,7 +2194,14 @@
    "r": "意大利折扣站下单，省 $50，6 天送达",
    "re": "Ordered from an Italian discount site, saved $50, delivered in 6 days",
    "d": "只说需求，Muse 自己找到意大利折扣站，核算运费+美国进口税后仍比全美零售价便宜；用户没见过该网站、没输过个人信息，确认一次即下单",
-   "de": "Only told Muse what he needed; it found an Italian discount site on its own, did the math on shipping + US import tax and still beat every US retail price. He never saw the site or typed his details — confirmed once after full research."
+   "de": "Only told Muse what he needed; it found an Italian discount site on its own, did the math on shipping + US import tax and still beat every US retail price. He never saw the site or typed his details — confirmed once after full research.",
+   "m": [
+    {
+     "k": "vid",
+     "u": "https://video.twimg.com/amplify_video/2112000321040125952/vid/avc1/1080x1920/3Ipbures15UHV_Zm.mp4?tag=29",
+     "p": "https://pbs.twimg.com/media/HU9VJg1bUAEwI3K.jpg"
+    }
+   ]
   },
   {
    "t": "蜜月预订邮件一键生成 master 行程文档",
@@ -2045,7 +2227,14 @@
    "r": "3 段素材剪成义卖篮宣传视频，配乐变速一次搞定，成品已贴出",
    "re": "3 clips edited into a gift-basket promo video, music and speed changes in one go; finished video posted",
    "d": "为教堂义卖篮录了 3 段素材，丢给 Muse 让它剪辑、配乐、变速，一句话要求成片",
-   "de": "Recorded 3 clips for a church silent-auction gift basket and asked Muse to edit them, add music and vary the speed; the finished video is posted."
+   "de": "Recorded 3 clips for a church silent-auction gift basket and asked Muse to edit them, add music and vary the speed; the finished video is posted.",
+   "m": [
+    {
+     "k": "vid",
+     "u": "https://video.twimg.com/amplify_video/2111181384802832384/vid/avc1/1080x1920/6hZsqSCyTGgc0jFL.mp4?tag=29",
+     "p": "https://pbs.twimg.com/amplify_video_thumb/2111181384802832384/img/kESnP0NBT4Vsq6IW.jpg"
+    }
+   ]
   },
   {
    "t": "揪出双重征税，省 $1,860",
@@ -2084,7 +2273,14 @@
    "r": "歌名找回，附截图",
    "re": "Song name recovered, screenshot attached",
    "d": "旧视频附的歌从 IG/Spotify 下架后想不起歌名，让 Muse 找回来",
-   "de": "A song attached to an old video was removed from Instagram and Spotify and he'd forgotten its name; Muse found it."
+   "de": "A song attached to an old video was removed from Instagram and Spotify and he'd forgotten its name; Muse found it.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HUoaXZVaQAA5CsF.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HUoaXZVaQAA5CsF.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "巴黎酒店接机被收 €30 等待费，Muse 查政策写邮件全额索回",
@@ -2097,7 +2293,14 @@
    "r": "€30 等待费全额退款到账",
    "re": "Full €30 waiting-fee refund received",
    "d": "巴黎酒店接机被收 €30 等待费；Muse 查了接机公司的等待费政策、起草交涉邮件，直接跟公司交涉",
-   "de": "Charged a €30 waiting fee on a Paris hotel pickup; Muse reviewed the pickup company's waiting-time policy, drafted the dispute email and took it up with the company directly"
+   "de": "Charged a €30 waiting fee on a Paris hotel pickup; Muse reviewed the pickup company's waiting-time policy, drafted the dispute email and took it up with the company directly",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVDw39UaMAAXNAC.png?name=small",
+     "f": "https://pbs.twimg.com/media/HVDw39UaMAAXNAC.png?name=orig"
+    }
+   ]
   },
   {
    "t": "人不在家，手机一句话让 Muse 经 SSH/Tailscale 给家里笔记本装上 bot",
@@ -2123,7 +2326,14 @@
    "r": "\"So far, it works really well\"——每小时出短名单、写摘要",
    "re": "\"So far, it works really well\" — hourly shortlist with summaries",
    "d": "嫌 Muse 自带 feed 太稀（约 2 小时才一条）；让 Muse 搭了个新闻 artifact，每小时扫描 Hacker News、Techmeme 和高信号 X 账号，按纳入/预警标准过滤，紧急的直接告警，全部存库可搜索",
-   "de": "Found Muse's built-in feed too sparse (about one item every two hours); had Muse build a custom news artifact that scans Hacker News, Techmeme and high-signal X accounts every hour, filters against inclusion criteria, alerts on urgent items and stores everything searchable"
+   "de": "Found Muse's built-in feed too sparse (about one item every two hours); had Muse build a custom news artifact that scans Hacker News, Techmeme and high-signal X accounts every hour, filters against inclusion criteria, alerts on urgent items and stores everything searchable",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVGzpTZXoAAvLml.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVGzpTZXoAAvLml.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "婚礼乔迁酒水跨店比价：$60/瓶 vs 本地 $99/瓶，省约 $330",
@@ -2149,7 +2359,14 @@
    "r": "$892 → $500，省 $392（作者自述）",
    "re": "$892 → $500, $392 saved (author's own claim)",
    "d": "让 Muse 每天盯票价、每小时扫 Facebook 球票群；赛前一周找到 4 张 $500 的低层票，即时下单成交",
-   "de": "Asked Muse to monitor ticket prices daily and scan Facebook ticket groups hourly; a week before the game it found 4 lower-level tickets for $500 and he bought them on the spot."
+   "de": "Asked Muse to monitor ticket prices daily and scan Facebook ticket groups hourly; a week before the game it found 4 lower-level tickets for $500 and he bought them on the spot.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVK_UVYWoAAD-pD.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVK_UVYWoAAD-pD.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "车险 $260 → $170：只有 Progressive 放行 agent 操作",
@@ -2162,7 +2379,19 @@
    "r": "$260/月 → $170/月（作者自述，howtousemuse 标注为未经验证）",
    "re": "$260/mo → $170/mo (author's own claim, flagged as unverified by howtousemuse)",
    "d": "新建邮箱后把“降车险”任务交给 Muse；多家保险公司网站拒绝 agent 访问，只有 Progressive 放行，转投后账单降下来",
-   "de": "Created a fresh email and handed Muse the \"lower my insurance bill\" task; several insurers' websites refused agent access and only Progressive let it work — the bill dropped after switching."
+   "de": "Created a fresh email and handed Muse the \"lower my insurance bill\" task; several insurers' websites refused agent access and only Progressive let it work — the bill dropped after switching.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVL-7dEakAAbGV6.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVL-7dEakAAbGV6.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVL-7dBbMAAntia.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVL-7dBbMAAntia.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "Muse 打电话给 loyalty team，光纤账单砍 $40",
@@ -2357,7 +2586,14 @@
    "r": "自付部分从 $330 降至 $0",
    "re": "Patient share cut from $330 to $0",
    "d": "收到医生办公室 $330 自付预估邮件后，让 Muse 研究并撰写回复交涉，诊所与保险核对后改价。",
-   "de": "After a $330 copay estimate email from the doctor's office, had Muse research and draft a reply; the clinic rechecked with insurance and repriced."
+   "de": "After a $330 copay estimate email from the doctor's office, had Muse research and draft a reply; the clinic rechecked with insurance and repriced.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVp51TVaUAAeePf.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVp51TVaUAAeePf.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "售罄 iPhone Duo 五分钟补货窗口抢到自提",
@@ -2370,7 +2606,14 @@
    "r": "约 5 分钟补货窗口内抢到自提名额",
    "re": "A pickup slot caught inside a roughly 5-minute restock window",
    "d": "让 Muse 每 5 分钟查 Apple Canada 5 家门店、核对型号颜色存储，有货时 WhatsApp 提醒，自己预订并到 Pacific Centre 自提，不让 Muse 代买。",
-   "de": "Had Muse check 5 Apple Canada stores every 5 minutes for the exact model, color and storage; a WhatsApp alert on restock, then booked and picked up at Pacific Centre himself, with Muse explicitly not buying."
+   "de": "Had Muse check 5 Apple Canada stores every 5 minutes for the exact model, color and storage; a WhatsApp alert on restock, then booked and picked up at Pacific Centre himself, with Muse explicitly not buying.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVqeX5gbwAAiLph.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVqeX5gbwAAiLph.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "没开口就找到杂货优惠券，省 $32.17",
@@ -2383,7 +2626,14 @@
    "r": "省 $32.17",
    "re": "$32.17 saved",
    "d": "Muse 在未被要求的情况下主动找到一张优惠券，用在杂货购物上。",
-   "de": "Without being asked, Muse found a coupon and applied it to his grocery shop."
+   "de": "Without being asked, Muse found a coupon and applied it to his grocery shop.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVmzSBXWoAAZ1oG.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVmzSBXWoAAZ1oG.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "抽奖开奖 + 公布图一手包办",
@@ -2396,7 +2646,14 @@
    "r": "获奖者选出、公布图做好",
    "re": "Winners drawn and the announcement graphic made",
    "d": "在 X 上办 NFT 和 USDC 抽奖时，让 Muse 用 @xpickr picker 选出获奖者并制作公布图片。",
-   "de": "Running an NFT and USDC giveaway on X, had Muse use the @xpickr picker to draw winners and make the announcement graphic."
+   "de": "Running an NFT and USDC giveaway on X, had Muse use the @xpickr picker to draw winners and make the announcement graphic.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVp8-Eza8AAN0S9.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVp8-Eza8AAN0S9.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "EMNLP 2026 获奖论文数出来：34 篇",
@@ -2435,7 +2692,14 @@
    "r": "品牌寄送 K688CT mic kit 供内容评测",
    "re": "Brand sent a K688CT mic kit for content review",
    "d": "让 Muse 代理负责与品牌 FIFINE 的外联和往来沟通，谈评测合作。",
-   "de": "His Muse handled outreach and follow-ups with the brand FIFINE, which sent a K688CT mic kit for him to review in his content."
+   "de": "His Muse handled outreach and follow-ups with the brand FIFINE, which sent a K688CT mic kit for him to review in his content.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVlps2qWwAAykpt.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVlps2qWwAAykpt.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "轮胎订单全程代办，比本地报价省 $223",
@@ -2513,7 +2777,14 @@
    "r": "agent 间协作通道跑通，且“动之前先经人批”的护栏先立好",
    "re": "Agent-to-agent channel working, with a human-approval guardrail in place first",
    "d": "他的 Muse 与自建的 AI 助手 10K 直接协作：两个 agent 自建聊天通道，约定安全词与人工批准护栏。",
-   "de": "His Muse and a self-built agent set up their own chat channel, agreeing a safe word and a human-approval guardrail."
+   "de": "His Muse and a self-built agent set up their own chat channel, agreeing a safe word and a human-approval guardrail.",
+   "m": [
+    {
+     "k": "vid",
+     "u": "https://video.twimg.com/amplify_video/2112201545630748672/vid/avc1/1920x1080/XlCHMfp4F9ir-Whm.mp4?tag=29",
+     "p": "https://pbs.twimg.com/amplify_video_thumb/2112201545630748672/img/EqI3X0Us64p61I-1.jpg"
+    }
+   ]
   },
   {
    "t": "家谱项目：Ancestry 起手、多库核对、州档案馆发函",
@@ -2552,7 +2823,19 @@
    "r": "又卖出两件 Ruggable 商品，本人几乎没有费力",
    "re": "Two more Ruggable items sold with almost no effort from him",
    "d": "他的 Muse 代理 Sparky 替他打理 Facebook Marketplace，他本人忙于 TikTok 直播销售业务。",
-   "de": "His Muse agent Sparky ran his Facebook Marketplace selling while he focused on TikTok live selling."
+   "de": "His Muse agent Sparky ran his Facebook Marketplace selling while he focused on TikTok live selling.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HV0nSXfXEAADO7E.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HV0nSXfXEAADO7E.jpg?name=orig"
+    },
+    {
+     "k": "vid",
+     "u": "https://video.twimg.com/amplify_video/2115890557528510464/vid/avc1/1080x1920/uShGbbLynlT56WbG.mp4?tag=29",
+     "p": "https://pbs.twimg.com/amplify_video_thumb/2115890557528510464/img/XaBL-3GHR_goHsP2.jpg"
+    }
+   ]
   },
   {
    "t": "小额诉讼追讨欠款：送达 20 分钟内和解、10 天内全额到账",
@@ -2565,7 +2848,19 @@
    "r": "送达 20 分钟内和解，10 天内全额付款并补维权开支",
    "re": "Settlement offered 20 minutes after service, paid in full plus recovery expenses within ten days",
    "d": "三人公司自 3 月起追讨违约欠款无果；Muse 在佛罗里达小额法庭准备诉状（本人签署并提交），书记官两天后发出传票，随后起草撤诉动议获法院接受。",
-   "de": "His three-person company had chased a defaulted contract since March; Muse prepared the Florida small-claims filing (he signed and submitted it), the clerk issued a summons two days later, and Muse later drafted the motion to dismiss, which the court accepted."
+   "de": "His three-person company had chased a defaulted contract since March; Muse prepared the Florida small-claims filing (he signed and submitted it), the clerk issued a summons two days later, and Muse later drafted the motion to dismiss, which the court accepted.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HV4svQOXYAA1k_r.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HV4svQOXYAA1k_r.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HV4uJmAX0AAZCfm.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HV4uJmAX0AAZCfm.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "语音信箱里的骚扰电话，批量向 FCC 投诉",
@@ -2578,7 +2873,14 @@
    "r": "数百个骚扰号码的 FCC 投诉已提交",
    "re": "FCC complaints filed against hundreds of spam callers",
    "d": "让 Muse 翻语音信箱和近期来电，筛出疑似骚扰/机器人电话，逐个向 FCC 提交投诉。",
-   "de": "Muse went through his voicemail and recent calls, picked out likely spam and robocall numbers, and filed an FCC complaint for each one."
+   "de": "Muse went through his voicemail and recent calls, picked out likely spam and robocall numbers, and filed an FCC complaint for each one.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HWDahS8bIAANm8U.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HWDahS8bIAANm8U.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "换前门：给规格 + 照片，本地承包商报价 $7,500–$17,000",
@@ -2656,7 +2958,19 @@
    "r": "$12.99 打到 PayPal，人在上班、钱自己到账",
    "re": "$12.99 paid out to PayPal while he was at work",
    "d": "9 月收到 FTC 亚马逊和解支票后把后续跟进交给 Muse，一路催到款项落袋。",
-   "de": "After receiving an FTC Amazon settlement check in September, he handed the follow-up to Muse, which kept pushing until the money landed in his PayPal."
+   "de": "After receiving an FTC Amazon settlement check in September, he handed the follow-up to Muse, which kept pushing until the money landed in his PayPal.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HV8EKJfXcAARwnI.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HV8EKJfXcAARwnI.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HV8EKJWWgAAuuYP.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HV8EKJWWgAAuuYP.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "从零做 iOS App，第二天加 LCARS 主题开关",
@@ -2682,7 +2996,14 @@
    "r": "每周 $1,742 的漏损被堵住，并继续盯 pixel 48 小时",
    "re": "$1,742 a week in leakage stopped, with the pixel watched for 48 more hours",
    "d": "只问了一句广告花费，Muse 拉通 Meta、pixel 与 GA4 对数，按年龄/设备/创意拆分找到 4 条烧钱的无效广告，查到落地页移动端 LCP 4.1 秒，又到 GitHub 找到周二一次部署丢了 trial 事件，恢复事件、回补 4 天数据、去重 194 笔重复购买。",
-   "de": "Asked one question about his ad spend; Muse pulled Meta, his pixel and GA4, found the numbers didn't match, split it by age, device and creative to find 4 dead ads eating the budget, caught a 4.1s mobile LCP on the landing page, found a Tuesday deploy in GitHub that had dropped the trial event, restored the event, backfilled 4 days and deduped 194 double-counted purchases."
+   "de": "Asked one question about his ad spend; Muse pulled Meta, his pixel and GA4, found the numbers didn't match, split it by age, device and creative to find 4 dead ads eating the budget, caught a 4.1s mobile LCP on the landing page, found a Tuesday deploy in GitHub that had dropped the trial event, restored the event, backfilled 4 days and deduped 194 double-counted purchases.",
+   "m": [
+    {
+     "k": "vid",
+     "u": "https://video.twimg.com/amplify_video/2102170829379305472/vid/avc1/1920x1080/5jJiaHxPL9NJR342.mp4?tag=29",
+     "p": "https://pbs.twimg.com/amplify_video_thumb/2102170829379305472/img/OzNW6j7K5XdTjwHk.jpg"
+    }
+   ]
   },
   {
    "t": "401(k) 全套接管：调仓降费、搭仪表盘，电费网费账单也管",
@@ -2708,7 +3029,14 @@
    "r": "徽章真伪鉴定完成，早餐前全部办完",
    "re": "Badge authenticated before his kids' breakfast",
    "d": "在 eBay 找到一枚 1966 年复古海滩徽章，让 Muse 核验 listing 是否可信，又翻了一个 800 人的 Facebook 收藏者群组找更早的同款对照，顺手还做了一份可打印的 5U 儿童足球训练计划。",
-   "de": "Found a vintage 1966 beach badge on eBay; Muse verified the listing was legit, dug through an 800-person Facebook collector group for older examples to compare, and made him a printable 5U soccer practice plan."
+   "de": "Found a vintage 1966 beach badge on eBay; Muse verified the listing was legit, dug through an 800-person Facebook collector group for older examples to compare, and made him a printable 5U soccer practice plan.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HSA2DjRXIAImTG5.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HSA2DjRXIAImTG5.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "妻子 30 岁生日之旅：LAX 附近最便宜 Jeep，还叠了 Amex 优惠",
@@ -2760,7 +3088,14 @@
    "r": "订位本身成功，但 $200 + 税取消费事后才披露；作者称早知道就不会订",
    "re": "Booking worked, but the $200 + tax cancellation fee surfaced only after cancelling",
    "d": "让 Muse 在 Resy 订晚餐，15 分钟后计划有变取消，Muse 这时才说有 $200 + 税的取消费、且用的是他存好的卡。反面教材：让 agent 订位/订票前先报取消政策与扣款方式。",
-   "de": "Had Muse book dinner on Resy; plans changed 15 minutes later and he cancelled — only then did it mention the $200 + tax cancellation fee and that it had used his saved card. A cautionary case: get the cancellation terms before the agent books."
+   "de": "Had Muse book dinner on Resy; plans changed 15 minutes later and he cancelled — only then did it mention the $200 + tax cancellation fee and that it had used his saved card. A cautionary case: get the cancellation terms before the agent books.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVG_RLqakAAebGj.png?name=small",
+     "f": "https://pbs.twimg.com/media/HVG_RLqakAAebGj.png?name=orig"
+    }
+   ]
   },
   {
    "t": "信用卡手动激活的优惠，Muse 一次全激活",
@@ -2812,7 +3147,14 @@
    "r": "发现被遗忘的 $100/月 Claude Max 订阅，年省 $1,200",
    "re": "Found a forgotten $100/mo Claude Max subscription, saving $1,200 a year",
    "d": "让 Muse 翻 6 个月邮件收据，逐笔核对订阅。",
-   "de": "Had Muse go through 6 months of email receipts and check every subscription."
+   "de": "Had Muse go through 6 months of email receipts and check every subscription.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HRwRCgwWEAAmxRo.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HRwRCgwWEAAmxRo.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "医院账单“暂缓收费”是假的：Muse 一通电话确认根本没 hold",
@@ -2825,7 +3167,14 @@
    "r": "确认账单并无暂缓，扣款异常坐实，可凭此追讨",
    "re": "Confirmed the bill was never on hold, proving the charge was wrong",
    "d": "收到“已暂缓审核”的医院账单仍被扣款，让 Muse 打电话给医院，闯过语音菜单、核对账户，确认账单从未被暂缓。",
-   "de": "A hospital bill placed on hold for review arrived anyway; Muse called, navigated the IVR, confirmed the account, and confirmed there was no hold."
+   "de": "A hospital bill placed on hold for review arrived anyway; Muse called, navigated the IVR, confirmed the account, and confirmed there was no hold.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVZhw4rXQAA07Hw.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVZhw4rXQAA07Hw.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "Tesla 代客停车退款：首通电话失败，补问两句再打就全额获批",
@@ -2864,7 +3213,14 @@
    "r": "找到比保险 copay 更便宜的折扣卡（帖子未给具体省额）",
    "re": "Found a discount card cheaper than the insurance copay (no amount given)",
    "d": "让 Muse 对比各家处方折扣卡与保险自付价。",
-   "de": "Muse compared prescription discount cards and found one cheaper than insurance."
+   "de": "Muse compared prescription discount cards and found one cheaper than insurance.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVZofKlXQAA6eFz.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVZofKlXQAA6eFz.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "美国护照在线续签 95% 代办，还顺手订好夫妻机票",
@@ -2981,7 +3337,19 @@
    "r": "设计完成、店铺上架、样品已下单",
    "re": "Designed, listed in the store, samples ordered",
    "d": "儿子想做一只翻白眼（😵）的老鼠玩偶，让 Muse 设计、更新 Shopify 店铺、下单打样。",
-   "de": "His son had an idea for a rat with 😵 eyes; they designed it with Muse, which updated their Shopify store and ordered samples."
+   "de": "His son had an idea for a rat with 😵 eyes; they designed it with Muse, which updated their Shopify store and ordered samples.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVfKTnHWkAAyTxg.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVfKTnHWkAAyTxg.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVfKTnQWsAAwrJ7.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVfKTnQWsAAwrJ7.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "车险 GEICO 续保 $2,123，Muse 比价换 Progressive 年省 $1,174",
@@ -2994,7 +3362,19 @@
    "r": "年省 $1,174（$2,123 → $1,536）",
    "re": "$1,174/yr saved ($2,123 → $1,536)",
    "d": "GEICO 续保涨到 $2,123，让 Muse 比价找到保障更好的 Progressive $1,536，随后由 Muse 打电话取消 GEICO 旧保单，本人只在身份验证时接入约 1 分钟。",
-   "de": "His GEICO renewal came in at $2,123; Muse found a Progressive policy for $1,536 with better coverage, then called GEICO to cancel the old policy — he only joined the call for about a minute to verify his identity."
+   "de": "His GEICO renewal came in at $2,123; Muse found a Progressive policy for $1,536 with better coverage, then called GEICO to cancel the old policy — he only joined the call for about a minute to verify his identity.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVu_noLXIAE5Nsp.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVu_noLXIAE5Nsp.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVu_n47WIAAfnbi.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVu_n47WIAAfnbi.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "公用事业电话：4 分钟闯过电话菜单接通人工，再把本人接进来",
@@ -3007,7 +3387,14 @@
    "r": "约 4 分钟接通人工，本人只在需要时接入",
    "re": "Human reached in ~4 minutes; he only joined when needed",
    "d": "让 Muse 给公用事业公司打电话改账户；约 4 分钟闯过自动电话菜单接通人工，需要本人出面时再把他接入通话。",
-   "de": "Asked Muse to call his utility company to change his account; it worked through the automated phone menus to a human in about four minutes, then dialed him into the call when the rep needed him."
+   "de": "Asked Muse to call his utility company to change his account; it worked through the automated phone menus to a human in about four minutes, then dialed him into the call when the rep needed him.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVmMKmxbEAAkn89.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVmMKmxbEAAkn89.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "IG 收藏帖翻成滑雪训练计划，收藏夹顺手整理好",
@@ -3020,7 +3407,24 @@
    "r": "收藏帖 → 可执行的滑雪训练计划，收藏夹同步整理",
    "re": "Saved posts → a real ski training plan, collection tidied too",
    "d": "让 Muse 读自己在 Instagram 上保存的帖子，翻成一份真正的滑雪训练计划，顺手把收藏夹整理好。",
-   "de": "Had Muse turn the posts she had saved on Instagram into a real ski training plan — and tidy up her saved collection along the way."
+   "de": "Had Muse turn the posts she had saved on Instagram into a real ski training plan — and tidy up her saved collection along the way.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVsRQmnaIAAdFY6.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVsRQmnaIAAdFY6.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVsRQmqaIAALG9p.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVsRQmqaIAALG9p.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HVsRQmma4AAEEw7.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HVsRQmma4AAEEw7.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "约 1 小时把 Whoop + Apple Health + Cronometer 整合成一个健康仪表盘",
@@ -3033,7 +3437,29 @@
    "r": "三处健康数据合成一个可看的仪表盘",
    "re": "Three health data sources merged into one dashboard",
    "d": "把 Whoop（恢复与睡眠）、Apple Health、Cronometer（饮食营养）的数据导出交给 Muse，约 1 小时整合成一个健康仪表盘。",
-   "de": "Pulled exports from Whoop (recovery and sleep), Apple Health and Cronometer (food and nutrition) and had Muse build one dashboard from them in about an hour."
+   "de": "Pulled exports from Whoop (recovery and sleep), Apple Health and Cronometer (food and nutrition) and had Muse build one dashboard from them in about an hour.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HV6ii0jakAAhPiO.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HV6ii0jakAAhPiO.jpg?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HV6ii0taUAAyOzu.png?name=small",
+     "f": "https://pbs.twimg.com/media/HV6ii0taUAAyOzu.png?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HV6ii0oasAAnlMj.png?name=small",
+     "f": "https://pbs.twimg.com/media/HV6ii0oasAAnlMj.png?name=orig"
+    },
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HV6ii0rbMAAPOE0.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HV6ii0rbMAAPOE0.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "6 年 Gmail 300 多封购物收据，30 分钟翻成一张给会计的收藏品追踪表",
@@ -4151,7 +4577,14 @@
    "r": "外链抓取到上网站全流程自动化跑通，144 条外链集中在看板里随时查看",
    "re": "Backlink scraping to publishing runs fully automated, with 144 backlinks tracked in the dashboard Space",
    "d": "让 Muse 搭建一套 AI 全自动化流程：抓取外链后自动上网站，再配一个外链看板 Space 集中查看和管理；截图显示看板已收录 144 条外链，含域名、发现日期、类型、可复制性、状态、竞品来源与行动建议。",
-   "de": "He had Muse build an AI workflow that scrapes backlinks automatically and publishes them to his website, plus a backlink dashboard Space to track and manage them; the screenshot shows 144 backlinks logged with domain, discovery date, type, replicability, status, competitor source and suggested action."
+   "de": "He had Muse build an AI workflow that scrapes backlinks automatically and publishes them to his website, plus a backlink dashboard Space to track and manage them; the screenshot shows 144 backlinks logged with domain, discovery date, type, replicability, status, competitor source and suggested action.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HWv1X46XAAA8KIc.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HWv1X46XAAA8KIc.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "“Finch”订阅审计：38 项订阅每月 $2,285.21，一句话翻出来、4 项一键取消",
@@ -4242,7 +4675,14 @@
    "r": "收件箱 90% 是噪音的日子结束了：钓鱼与垃圾邮件进收件箱前就被挪走",
    "re": "The days of a 90%-noise inbox are over: phishing and spam are moved out before the inbox is opened",
    "d": "和 Muse 一起搭了个自托管邮件过滤程序“muse on Tuesday”：跑在自己的服务器上，24 小时盯着全部 IMAP 邮箱（工作 + 私人），钓鱼与垃圾邮件在打开收件箱之前就被移走。",
-   "de": "He and his Muse built a self-hosted email filter, \"muse on Tuesday\": it runs on his own server and watches all his IMAP accounts 24/7 (work and private), moving phishing and spam out before he opens his inbox."
+   "de": "He and his Muse built a self-hosted email filter, \"muse on Tuesday\": it runs on his own server and watches all his IMAP accounts 24/7 (work and private), moving phishing and spam out before he opens his inbox.",
+   "m": [
+    {
+     "k": "vid",
+     "u": "https://video.twimg.com/amplify_video/2119956383978360832/vid/avc1/720x720/t2rOkclrdlG2aIDP.mp4?tag=29",
+     "p": "https://pbs.twimg.com/amplify_video_thumb/2119956383978360832/img/k-AS8gRK1nNtQLZI.jpg"
+    }
+   ]
   },
   {
    "t": "AI 视频工作流空间：一句话想法到成片任务单，6 镜分镜提示词配音全齐",
@@ -4255,7 +4695,14 @@
    "r": "橘猫雨夜送外卖试了一把：6 镜分镜、提示词、配音全齐；同一创意一次编译出 6 个模型版本提示词",
    "re": "Tested with an orange cat delivering takeout on a rainy night: 6 shots with storyboard, prompts and voiceover all done; one idea compiles into 6 model prompt versions",
    "d": "让 Muse 建一个 AI 视频工作流空间：提示词库（204 条、13 类）、8 阶段策划台、节点画布、批量与导演台（同一创意编译成 Muse Video、Veo、Kling、Sora、Wan、混元 6 个版本）、成片区；拿橘猫雨夜送外卖试了一把，6 镜分镜、提示词、配音全齐。空间只做策划、提示词与任务单，不直接生视频。",
-   "de": "He had Muse build an AI video workflow Space: a 204-prompt library in 13 categories, an 8-stage planning desk, a node canvas, a batch and director desk that compiles one idea into prompt versions for Muse Video, Veo, Kling, Sora, Wan and Hunyuan, and a finished-film zone; tested it on an orange cat delivering takeout on a rainy night — 6 shots with storyboard, prompts and voiceover all done. The Space only plans, prompts and manages tasks; it does not generate video itself."
+   "de": "He had Muse build an AI video workflow Space: a 204-prompt library in 13 categories, an 8-stage planning desk, a node canvas, a batch and director desk that compiles one idea into prompt versions for Muse Video, Veo, Kling, Sora, Wan and Hunyuan, and a finished-film zone; tested it on an orange cat delivering takeout on a rainy night — 6 shots with storyboard, prompts and voiceover all done. The Space only plans, prompts and manages tasks; it does not generate video itself.",
+   "m": [
+    {
+     "k": "img",
+     "u": "https://pbs.twimg.com/media/HWvaDVgaUAAIBP3.jpg?name=small",
+     "f": "https://pbs.twimg.com/media/HWvaDVgaUAAIBP3.jpg?name=orig"
+    }
+   ]
   },
   {
    "t": "“Ernesto”不到一个月省近 $2,000：$80 重复扣费追回、积分重排机票免费省 $800",

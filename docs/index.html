@@ -25,9 +25,7 @@ header.top .wrap.head-wrap{display:grid;grid-template-columns:1fr auto 1fr;align
   padding:10px 16px;font-size:15px;outline:none}
 .search input:focus{border-color:var(--ink)}
 .search.hidden{display:none}
-.lang-toggle{display:flex;background:#fff;border:1px solid var(--line);border-radius:999px;overflow:hidden}
-.lang-toggle button{background:none;border:none;color:var(--muted);padding:9px 16px;font-size:14px;cursor:pointer;font-weight:600}
-.lang-toggle button.on{background:var(--ink);color:#fff}
+.lang-select{background:#fff;border:1px solid var(--line);border-radius:999px;padding:9px 12px;font-size:14px;font-weight:600;color:var(--text);cursor:pointer;max-width:140px}
 .gh-btn{display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--line);
   border-radius:999px;padding:9px 18px;font-size:14px;font-weight:700;color:var(--ink);text-decoration:none;white-space:nowrap}
 .gh-btn:hover{border-color:var(--ink);box-shadow:0 4px 12px rgba(17,20,24,.08)}
@@ -108,6 +106,19 @@ header.top .wrap.head-wrap{display:grid;grid-template-columns:1fr auto 1fr;align
 .icode.spent:hover{transform:none;box-shadow:none}
 .btn-ghost{display:inline-block;background:#fff;border:1px solid var(--line);color:var(--ink);border-radius:999px;padding:12px 28px;font-weight:700;font-size:15px;cursor:pointer;margin-left:10px}
 .btn-ghost.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+/* case media */
+.card-media{width:100%;border-radius:12px;display:block;background:#eef0f3}
+video.card-media{background:#000;max-height:340px}
+/* invite ad slots */
+.ad-slots{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:18px 0 6px}
+.ad-slot{border:1.5px dashed #c9cdd4;border-radius:18px;padding:20px;display:flex;flex-direction:column;gap:6px;text-decoration:none;color:var(--muted);background:#fff}
+.ad-slot:hover{border-color:var(--ink)}
+.ad-slot-tag{font-weight:800;font-size:15px;color:var(--ink)}
+.ad-slot-price{font-size:13px}
+.ad-slot-cta{font-size:13px;font-weight:700;color:var(--ink)}
+.invite-count{color:var(--muted);font-size:13px;margin-top:10px}
+@media(max-width:1000px){.invite-grid,.ad-slots{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:640px){.invite-grid,.ad-slots{grid-template-columns:1fr}}
 /* invite codes */
 .invite-head{background:#fff;border:1px solid var(--line);border-radius:20px;padding:28px;margin:18px 0}
 .invite-head h2{font-size:22px;color:var(--ink);margin-bottom:8px}
@@ -117,12 +128,12 @@ header.top .wrap.head-wrap{display:grid;grid-template-columns:1fr auto 1fr;align
 .btn-ink{display:inline-block;background:var(--ink);color:#fff;border-radius:999px;
   padding:12px 28px;font-weight:700;text-decoration:none;font-size:15px}
 .btn-ink:hover{opacity:.88}
-.invite-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px;padding:6px 0 40px}
-.icode{background:#fff;border:1px solid var(--line);border-radius:18px;padding:22px;
-  display:flex;flex-direction:column;gap:12px;transition:.15s;position:relative}
+.invite-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;padding:6px 0 40px}
+.icode{background:#fff;border:1px solid var(--line);border-radius:18px;padding:16px;
+  display:flex;flex-direction:column;gap:10px;transition:.15s;position:relative}
 .icode:hover{transform:translateY(-3px);box-shadow:0 12px 28px rgba(17,20,24,.08)}
 .icode-top{display:flex;align-items:center;justify-content:space-between;gap:10px}
-.icode code{font-family:ui-monospace,monospace;font-size:30px;font-weight:800;letter-spacing:3px;color:var(--ink);cursor:pointer}
+.icode code{font-family:ui-monospace,monospace;font-size:26px;font-weight:800;letter-spacing:2px;color:var(--ink);cursor:pointer}
 .copybtn{background:var(--ink);color:#fff;border:none;border-radius:999px;padding:8px 18px;
   font-size:13px;font-weight:700;cursor:pointer;white-space:nowrap}
 .copybtn:hover{opacity:.85}
@@ -158,9 +169,7 @@ body{min-height:100vh;display:flex;flex-direction:column}
       <button id="tabInvite">🎁 邀请码互助</button>
     </nav>
     <div class="head-right">
-    <div class="lang-toggle" role="group" aria-label="language">
-      <button id="btnZh" class="on">中文</button><button id="btnEn">EN</button>
-    </div>
+    <select id="langSel" class="lang-select" aria-label="language"></select>
     <a class="gh-btn" id="ghBtn" href="https://github.com/jaxxchen003/muse-use-cases" target="_blank" rel="noopener" title="GitHub"><svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg><span id="ghLabel"></span></a>
     </div>
   </div>
@@ -204,12 +213,14 @@ body{min-height:100vh;display:flex;flex-direction:column}
     <div class="invite-head">
       <h2 id="inviteTitle"></h2>
       <p id="inviteDesc"></p>
+      <p id="inviteCount" class="invite-count"></p>
       <div class="invite-actions">
         <a id="inviteSubmit" class="btn-ink" href="https://github.com/jaxxchen003/muse-use-cases/issues/new?template=share-invite-code.yml" target="_blank" rel="noopener"></a>
         <button id="inviteLeftOnly" class="btn-ghost"></button>
       </div>
       <p class="note" id="inviteNote"></p>
     </div>
+    <div class="ad-slots" id="adSlots"></div>
     <div id="inviteGrid" class="invite-grid"></div>
   </section>
 </div>
@@ -225,6 +236,7 @@ body{min-height:100vh;display:flex;flex-direction:column}
 const $ = s => document.querySelector(s);
 let DATA = null, activeCat = "all", activeView = "cases";
 let lang = localStorage.getItem("muse-lang") || "zh";
+const LANGS = [["zh","中文"],["en","English"],["ja","日本語"],["ko","한국어"],["th","ไทย"],["vi","Tiếng Việt"],["id","Bahasa Indonesia"],["de","Deutsch"],["fr","Français"],["es","Español"],["pt","Português"]];
 let inviteLoaded = false;
 let sortMode = "new", onlyX = false, shown = 24, lastQ = "", inviteLeftOnly = false;
 
@@ -255,7 +267,10 @@ const STR = {
     inviteFail: "加载失败，请稍后重试，或直接去 Issues 查看。",
     sortLabel: "排序", sortNew: "最新在前", sortOld: "最早在前", onlyX: "仅看附原帖",
     loadMore: "加载更多", moreLeft: n => `还剩 ${n} 条`,
-    inviteLeftOnly: "仅看有剩余", inviteAll: "显示全部"
+    inviteLeftOnly: "仅看有剩余", inviteAll: "显示全部",
+    adSlot: "广告位招租", adPrice: "$39 / 月", adCta: "成为赞助商 ↗",
+    inviteCount: n => `共 ${n} 个邀请码`,
+    cats: { money: "省钱 · 账单 · 索赔", travel: "出行 · 旅行", shopping: "购物", productivity: "效率 · 自动化", content: "内容 · 创作", dev: "开发 · 建站", business: "生意 · 维权" }
   },
   en: {
     logoSub: "Updated daily",
@@ -283,11 +298,294 @@ const STR = {
     inviteFail: "Failed to load. Please retry later or check Issues directly.",
     sortLabel: "Sort", sortNew: "Newest first", sortOld: "Oldest first", onlyX: "With original post only",
     loadMore: "Load more", moreLeft: n => `${n} more`,
-    inviteLeftOnly: "With remaining only", inviteAll: "Show all"
-  }
+    inviteLeftOnly: "With remaining only", inviteAll: "Show all",
+    adSlot: "Ad space available", adPrice: "$39 / month", adCta: "Become a sponsor ↗",
+    inviteCount: n => `${n} invite codes`,
+    cats: { money: "Money saving", travel: "Travel", shopping: "Shopping", productivity: "Productivity", content: "Content", dev: "Dev", business: "Business" }
+  },
+  ja: {
+    logoSub: "毎日更新",
+    searchPh: "ケース・作者・キーワードを検索…（例：保険、返金、AT&T）",
+    ghStar: "⭐ GitHubでスター", copy: "コピー", copied: "コピーしました ✓",
+    all: "すべて", cases: "収録ケース", cats: "カテゴリ", withX: "原投稿リンクあり", updated: "最終更新",
+    badgeOk: "✅ 原投稿を確認済み", badgeCross: "🟡 シェアを確認済み",
+    viewX: "原投稿を見る ↗", empty: "一致するケースがありません。キーワードを変えてみてください 🔍",
+    disclaimer: "⚠️ 効果はアカウント権限・地域・サービス対応により異なります。一部は #MuseMoneyChallenge 期間のユーザー自己申告です。一部「電話交渉」ケースには人が関与したとの報告があります。情報整理のみで、消費・投資の助言ではありません。",
+    foot: '🤝 <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> であなたの活用法（原投稿リンク）や招待コードをシェア · 毎日0時に自動更新 · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHubリポジトリ</a>',
+    heroLabel: "META MUSE · 実際のユーザー事例",
+    heroTitle: "Muse 活用事例集",
+    heroInvite: "招待コード 4P14HY", heroCopied: "コピーしました ✓",
+    heroSide: "Issuesで活用法・招待コードをシェア",
+    heroCard1t: "自動車保険の乗り換え", heroCard1a: "年間 $3,500 節約",
+    heroCard2t: "Verizonの料金交渉", heroCard2a: "$516 → $386 / 月",
+    tabCases: "💡 ケース集", tabInvite: "🎁 招待コード",
+    inviteTitle: "🎁 招待コード共有エリア",
+    inviteDesc: "あなたのMuse招待コードをシェアして、みんなで助け合いましょう。コードをクリックするとコピーできます。",
+    inviteSubmit: "＋ 招待コードを提出",
+    inviteNote: "注：Muse公式は招待コードの利用データAPIを提供していないため、使用回数・残数は各共有者がIssueで更新し、このサイトが自動で読み取って表示します。",
+    ownerBadge: "管理者", usedWord: "使用済み", leftWord: "残り", timesWord: "回",
+    updateUsage: "使用回数を更新 ↗",
+    inviteLoading: "招待コードを読み込み中…", inviteEmpty: "まだ招待コードがありません。最初の共有者になりましょう 👆",
+    inviteFail: "読み込みに失敗しました。しばらくしてから再試行するか、Issuesで直接ご確認ください。",
+    sortLabel: "並び替え", sortNew: "新しい順", sortOld: "古い順", onlyX: "原投稿リンクのみ",
+    loadMore: "もっと見る", moreLeft: n => `残り ${n} 件`,
+    inviteLeftOnly: "残りありのみ", inviteAll: "すべて表示",
+    adSlot: "広告枠募集中", adPrice: "$39 / 月", adCta: "スポンサーになる ↗",
+    inviteCount: n => `招待コード ${n} 件`,
+    cats: { money: "節約・請求・返金", travel: "旅行", shopping: "買い物", productivity: "効率化・自動化", content: "コンテンツ・創作", dev: "開発・サイト構築", business: "ビジネス・権利保護" }
+  },
+  ko: {
+    logoSub: "매일 업데이트",
+    searchPh: "사례, 작성자, 키워드 검색… (예: 보험, 환불, AT&T)",
+    ghStar: "⭐ GitHub에서 스타", copy: "복사", copied: "복사됨 ✓",
+    all: "전체", cases: "수집된 사례", cats: "카테고리", withX: "원본 게시물 링크 있음", updated: "마지막 업데이트",
+    badgeOk: "✅ 원본 게시물 확인됨", badgeCross: "🟡 공유 확인됨",
+    viewX: "원본 게시물 보기 ↗", empty: "일치하는 사례가 없습니다. 다른 키워드를 시도해 보세요 🔍",
+    disclaimer: "⚠️ 효과는 계정 권한, 지역, 서비스 지원 여부에 따라 다릅니다. 일부 사례는 #MuseMoneyChallenge 기간의 사용자 자가 보고이며, 일부 “전화 협상” 사례에는 사람이 개입했다는 보고가 있습니다. 정보 정리용이며 소비·투자 조언이 아닙니다.",
+    foot: '🤝 <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a>에서 당신의 활용법(원본 게시물 링크)이나 초대 코드를 공유하세요 · 매일 0시 자동 업데이트 · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHub 저장소</a>',
+    heroLabel: "META MUSE · 실제 사용자 사례",
+    heroTitle: "Muse 활용 사례집",
+    heroInvite: "초대 코드 4P14HY", heroCopied: "복사됨 ✓",
+    heroSide: "Issues에서 활용법·초대 코드 공유",
+    heroCard1t: "자동차 보험 갈아타기", heroCard1a: "연간 $3,500 절약",
+    heroCard2t: "Verizon 요금 협상", heroCard2a: "$516 → $386 / 월",
+    tabCases: "💡 사례집", tabInvite: "🎁 초대 코드",
+    inviteTitle: "🎁 초대 코드 공유 공간",
+    inviteDesc: "당신의 Muse 초대 코드를 공유하고 서로 도와주세요. 코드를 클릭하면 복사됩니다.",
+    inviteSubmit: "＋ 내 초대 코드 제출",
+    inviteNote: "참고: Muse 공식은 초대 코드 사용량 API를 제공하지 않으므로, 사용/남은 횟수는 공유자가 Issue에서 직접 업데이트하며 이 사이트가 자동으로 읽어 표시합니다.",
+    ownerBadge: "운영자", usedWord: "사용됨", leftWord: "남음", timesWord: "회",
+    updateUsage: "사용 횟수 업데이트 ↗",
+    inviteLoading: "초대 코드를 불러오는 중…", inviteEmpty: "아직 공유된 초대 코드가 없습니다. 첫 번째 공유자가 되어 보세요 👆",
+    inviteFail: "불러오기에 실패했습니다. 잠시 후 다시 시도하거나 Issues에서 직접 확인해 주세요.",
+    sortLabel: "정렬", sortNew: "최신순", sortOld: "오래된순", onlyX: "원본 링크만 보기",
+    loadMore: "더 보기", moreLeft: n => `남은 ${n}개`,
+    inviteLeftOnly: "남은 코드만 보기", inviteAll: "모두 보기",
+    adSlot: "광고 자리 모집 중", adPrice: "$39 / 월", adCta: "후원하기 ↗",
+    inviteCount: n => `초대 코드 ${n}개`,
+    cats: { money: "절약·요금·클레임", travel: "여행", shopping: "쇼핑", productivity: "효율·자동화", content: "콘텐츠·창작", dev: "개발·사이트 구축", business: "비즈니스·권리 보호" }
+  },
+  th: {
+    logoSub: "อัปเดตทุกวัน",
+    searchPh: "ค้นหาเคส ผู้เขียน คีย์เวิร์ด… (เช่น ประกัน คืนเงิน AT&T)",
+    ghStar: "⭐ Star บน GitHub", copy: "คัดลอก", copied: "คัดลอกแล้ว ✓",
+    all: "ทั้งหมด", cases: "เคสที่รวบรวม", cats: "หมวดหมู่", withX: "มีลิงก์โพสต์ต้นฉบับ", updated: "อัปเดตล่าสุด",
+    badgeOk: "✅ ตรวจสอบโพสต์ต้นฉบับแล้ว", badgeCross: "🟡 ยืนยันการแชร์แล้ว",
+    viewX: "ดูโพสต์ต้นฉบับ ↗", empty: "ไม่พบเคสที่ตรงกัน ลองใช้คีย์เวิร์ดอื่น 🔍",
+    disclaimer: "⚠️ ผลลัพธ์ขึ้นอยู่กับสิทธิ์บัญชี ภูมิภาค และการรองรับของบริการ เคสบางส่วนเป็นการรายงานของผู้ใช้ในช่วง #MuseMoneyChallenge และเคส “เจรจาทางโทรศัพท์” บางรายการมีรายงานว่ามีคนเข้ามาเกี่ยวข้อง ใช้เพื่อเป็นข้อมูลเท่านั้น ไม่ใช่คำแนะนำด้านการบริโภคหรือการลงทุน",
+    foot: '🤝 แชร์วิธีใช้งานของคุณ (ลิงก์โพสต์ต้นฉบับ) หรือรหัสเชิญใน <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> · อัปเดตอัตโนมัติทุกวันเวลา 00:00 · <a href="https://github.com/jaxxchen003/muse-use-cases">ที่เก็บ GitHub</a>',
+    heroLabel: "META MUSE · เคสผู้ใช้จริง",
+    heroTitle: "คลังเคสการใช้งาน Muse",
+    heroInvite: "รหัสเชิญ 4P14HY", heroCopied: "คัดลอกแล้ว ✓",
+    heroSide: "แชร์วิธีใช้และรหัสเชิญใน Issues",
+    heroCard1t: "เปลี่ยนประกันรถยนต์", heroCard1a: "ประหยัด $3,500/ปี",
+    heroCard2t: "ต่อรองบิล Verizon", heroCard2a: "$516 → $386 / เดือน",
+    tabCases: "💡 คลังเคส", tabInvite: "🎁 รหัสเชิญ",
+    inviteTitle: "🎁 พื้นที่แบ่งปันรหัสเชิญ",
+    inviteDesc: "แบ่งปันรหัสเชิญ Muse ของคุณเพื่อช่วยเหลือกัน คลิกรหัสเพื่อคัดลอก",
+    inviteSubmit: "＋ ส่งรหัสเชิญของฉัน",
+    inviteNote: "หมายเหตุ: Muse ไม่มี API ข้อมูลการใช้รหัสเชิญ จำนวนครั้งที่ใช้/คงเหลือผู้แชร์จะอัปเดตเองใน Issue และเว็บไซต์จะอ่านมาแสดงอัตโนมัติ",
+    ownerBadge: "เจ้าของ", usedWord: "ใช้แล้ว", leftWord: "เหลือ", timesWord: "ครั้ง",
+    updateUsage: "อัปเดตจำนวนครั้งที่ใช้ ↗",
+    inviteLoading: "กำลังโหลดรหัสเชิญ…", inviteEmpty: "ยังไม่มีใครแชร์รหัสเชิญ มาเป็นคนแรกกันเถอะ 👆",
+    inviteFail: "โหลดไม่สำเร็จ กรุณาลองใหม่ภายหลัง หรือดูใน Issues โดยตรง",
+    sortLabel: "เรียงตาม", sortNew: "ใหม่สุดก่อน", sortOld: "เก่าสุดก่อน", onlyX: "เฉพาะที่มีลิงก์ต้นฉบับ",
+    loadMore: "โหลดเพิ่มเติม", moreLeft: n => `เหลืออีก ${n} รายการ`,
+    inviteLeftOnly: "เฉพาะที่ยังเหลือ", inviteAll: "แสดงทั้งหมด",
+    adSlot: "เปิดรับผู้ลงโฆษณา", adPrice: "$39 / เดือน", adCta: "เป็นผู้สนับสนุน ↗",
+    inviteCount: n => `รหัสเชิญ ${n} รหัส`,
+    cats: { money: "ประหยัด·บิล·เคลม", travel: "ท่องเที่ยว", shopping: "ช้อปปิ้ง", productivity: "ประสิทธิภาพ·อัตโนมัติ", content: "คอนเทนต์·สร้างสรรค์", dev: "พัฒนา·สร้างเว็บ", business: "ธุรกิจ·เรียกร้องสิทธิ์" }
+  },
+  vi: {
+    logoSub: "Cập nhật hằng ngày",
+    searchPh: "Tìm case, tác giả, từ khóa… (vd: bảo hiểm, hoàn tiền, AT&T)",
+    ghStar: "⭐ Star trên GitHub", copy: "Sao chép", copied: "Đã sao chép ✓",
+    all: "Tất cả", cases: "Case đã sưu tầm", cats: "Danh mục", withX: "Có link bài gốc", updated: "Cập nhật lần cuối",
+    badgeOk: "✅ Đã xác minh bài gốc", badgeCross: "🟡 Đã xác nhận chia sẻ",
+    viewX: "Xem bài gốc ↗", empty: "Không tìm thấy case phù hợp, thử từ khóa khác nhé 🔍",
+    disclaimer: "⚠️ Kết quả tùy thuộc vào quyền tài khoản, khu vực và dịch vụ hỗ trợ. Một số case do người dùng tự báo cáo trong #MuseMoneyChallenge; một số case “đàm phán qua điện thoại” được cho là có người thật tham gia. Chỉ mang tính tham khảo, không phải lời khuyên tiêu dùng hay đầu tư.",
+    foot: '🤝 Chia sẻ cách dùng của bạn (link bài gốc) hoặc mã mời trong <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> · Tự động cập nhật lúc 00:00 hằng ngày · <a href="https://github.com/jaxxchen003/muse-use-cases">Kho GitHub</a>',
+    heroLabel: "META MUSE · CASE NGƯỜI DÙNG THẬT",
+    heroTitle: "Thư viện case dùng Muse",
+    heroInvite: "Mã mời 4P14HY", heroCopied: "Đã sao chép ✓",
+    heroSide: "Chia sẻ cách dùng & mã mời trong Issues",
+    heroCard1t: "Đổi bảo hiểm ô tô", heroCard1a: "Tiết kiệm $3.500/năm",
+    heroCard2t: "Mặc cả hóa đơn Verizon", heroCard2a: "$516 → $386 / tháng",
+    tabCases: "💡 Thư viện case", tabInvite: "🎁 Mã mời",
+    inviteTitle: "🎁 Khu vực chia sẻ mã mời",
+    inviteDesc: "Chia sẻ mã mời Muse của bạn để mọi người giúp đỡ lẫn nhau. Nhấn vào mã để sao chép.",
+    inviteSubmit: "＋ Gửi mã mời của tôi",
+    inviteNote: "Lưu ý: Muse không có API dữ liệu sử dụng mã mời, số lượt đã dùng/còn lại do người chia sẻ tự cập nhật trong Issue và trang web sẽ tự động đọc để hiển thị.",
+    ownerBadge: "Chủ sở hữu", usedWord: "Đã dùng", leftWord: "Còn lại", timesWord: "lượt",
+    updateUsage: "Cập nhật lượt dùng ↗",
+    inviteLoading: "Đang tải mã mời…", inviteEmpty: "Chưa có ai chia sẻ mã mời, hãy là người đầu tiên nhé 👆",
+    inviteFail: "Tải thất bại, vui lòng thử lại sau hoặc xem trực tiếp trong Issues.",
+    sortLabel: "Sắp xếp", sortNew: "Mới nhất trước", sortOld: "Cũ nhất trước", onlyX: "Chỉ bài có link gốc",
+    loadMore: "Tải thêm", moreLeft: n => `Còn ${n} case`,
+    inviteLeftOnly: "Chỉ mã còn lượt", inviteAll: "Hiện tất cả",
+    adSlot: "Đang nhận đặt quảng cáo", adPrice: "$39 / tháng", adCta: "Trở thành nhà tài trợ ↗",
+    inviteCount: n => `${n} mã mời`,
+    cats: { money: "Tiết kiệm·hóa đơn·khiếu nại", travel: "Du lịch", shopping: "Mua sắm", productivity: "Hiệu suất·tự động hóa", content: "Nội dung·sáng tạo", dev: "Phát triển·xây web", business: "Kinh doanh·bảo vệ quyền lợi" }
+  },
+  id: {
+    logoSub: "Diperbarui harian",
+    searchPh: "Cari kasus, penulis, kata kunci… (mis: asuransi, refund, AT&T)",
+    ghStar: "⭐ Star di GitHub", copy: "Salin", copied: "Tersalin ✓",
+    all: "Semua", cases: "Kasus terkumpul", cats: "Kategori", withX: "Ada tautan posting asli", updated: "Terakhir diperbarui",
+    badgeOk: "✅ Posting asli terverifikasi", badgeCross: "🟡 Berbagi terkonfirmasi",
+    viewX: "Lihat posting asli ↗", empty: "Tidak ada kasus yang cocok, coba kata kunci lain 🔍",
+    disclaimer: "⚠️ Hasil berbeda-beda tergantung izin akun, wilayah, dan dukungan layanan. Sebagian kasus merupakan laporan pengguna selama #MuseMoneyChallenge; sebagian kasus “negosiasi telepon” dilaporkan melibatkan manusia. Hanya untuk informasi, bukan saran konsumsi atau investasi.",
+    foot: '🤝 Bagikan caramu (tautan posting asli) atau kode undangan di <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> · Diperbarui otomatis setiap hari pukul 00:00 · <a href="https://github.com/jaxxchen003/muse-use-cases">Repositori GitHub</a>',
+    heroLabel: "META MUSE · KASUS PENGGUNA ASLI",
+    heroTitle: "Kumpulan Kasus Muse",
+    heroInvite: "Kode undangan 4P14HY", heroCopied: "Tersalin ✓",
+    heroSide: "Bagikan cara pakai & kode undangan di Issues",
+    heroCard1t: "Pindah asuransi mobil", heroCard1a: "Hemat $3.500/tahun",
+    heroCard2t: "Nego tagihan Verizon", heroCard2a: "$516 → $386 / bulan",
+    tabCases: "💡 Kumpulan Kasus", tabInvite: "🎁 Kode Undangan",
+    inviteTitle: "🎁 Area berbagi kode undangan",
+    inviteDesc: "Bagikan kode undangan Muse kamu dan saling membantu. Klik kode untuk menyalin.",
+    inviteSubmit: "＋ Kirim kode undanganku",
+    inviteNote: "Catatan: Muse tidak menyediakan API data penggunaan kode undangan, jadi jumlah terpakai/sisa diperbarui sendiri oleh pembagi di Issue dan situs ini membacanya secara otomatis.",
+    ownerBadge: "Pemilik", usedWord: "Terpakai", leftWord: "Sisa", timesWord: "kali",
+    updateUsage: "Perbarui jumlah pemakaian ↗",
+    inviteLoading: "Memuat kode undangan…", inviteEmpty: "Belum ada yang berbagi kode undangan, jadilah yang pertama 👆",
+    inviteFail: "Gagal memuat. Coba lagi nanti atau lihat langsung di Issues.",
+    sortLabel: "Urutkan", sortNew: "Terbaru dulu", sortOld: "Terlama dulu", onlyX: "Hanya yang ada tautan asli",
+    loadMore: "Muat lagi", moreLeft: n => `Tersisa ${n} kasus`,
+    inviteLeftOnly: "Hanya yang masih tersisa", inviteAll: "Tampilkan semua",
+    adSlot: "Slot iklan tersedia", adPrice: "$39 / bulan", adCta: "Jadi sponsor ↗",
+    inviteCount: n => `${n} kode undangan`,
+    cats: { money: "Hemat·tagihan·klaim", travel: "Travel", shopping: "Belanja", productivity: "Produktivitas·otomasi", content: "Konten·kreasi", dev: "Dev·membangun web", business: "Bisnis·klaim hak" }
+  },
+  de: {
+    logoSub: "Täglich aktualisiert",
+    searchPh: "Fälle, Autoren, Stichwörter suchen… (z. B. Versicherung, Erstattung, AT&T)",
+    ghStar: "⭐ Auf GitHub sternen", copy: "Kopieren", copied: "Kopiert ✓",
+    all: "Alle", cases: "Gesammelte Fälle", cats: "Kategorien", withX: "Mit Link zum Originalpost", updated: "Zuletzt aktualisiert",
+    badgeOk: "✅ Originalpost verifiziert", badgeCross: "🟡 Teilen bestätigt",
+    viewX: "Originalpost ansehen ↗", empty: "Keine passenden Fälle gefunden – versuch es mit einem anderen Stichwort 🔍",
+    disclaimer: "⚠️ Die Ergebnisse hängen von Kontoberechtigungen, Region und Dienstunterstützung ab. Einige Fälle sind Selbstauskünfte aus der #MuseMoneyChallenge; bei einigen „Telefonverhandlungs“-Fällen waren Berichten zufolge Menschen beteiligt. Nur zur Information – keine Verbrauchs- oder Anlageberatung.",
+    foot: '🤝 Teile deinen Anwendungsfall (Link zum Originalpost) oder Einladungscode in den <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> · Täglich um 00:00 automatisch aktualisiert · <a href="https://github.com/jaxxchen003/muse-use-cases">GitHub-Repo</a>',
+    heroLabel: "META MUSE · ECHTE NUTZERFÄLLE",
+    heroTitle: "Muse Anwendungsfälle",
+    heroInvite: "Einladungscode 4P14HY", heroCopied: "Kopiert ✓",
+    heroSide: "Anwendungsfälle & Einladungscodes in Issues teilen",
+    heroCard1t: "Kfz-Versicherung wechseln", heroCard1a: "$3.500/Jahr sparen",
+    heroCard2t: "Verizon-Rechnung verhandeln", heroCard2a: "$516 → $386 / Monat",
+    tabCases: "💡 Fälle", tabInvite: "🎁 Einladungscodes",
+    inviteTitle: "🎁 Einladungscodes der Community",
+    inviteDesc: "Teile deinen Muse-Einladungscode und helft einander. Klicke auf einen Code, um ihn zu kopieren.",
+    inviteSubmit: "＋ Meinen Einladungscode einreichen",
+    inviteNote: "Hinweis: Muse bietet keine API für Einladungscodes an; genutzte/verbleibende Anzahlen werden von den Teilenden in ihren Issues aktualisiert und hier automatisch ausgelesen.",
+    ownerBadge: "Inhaber", usedWord: "Genutzt", leftWord: "übrig", timesWord: "-mal",
+    updateUsage: "Nutzung aktualisieren ↗",
+    inviteLoading: "Einladungscodes werden geladen…", inviteEmpty: "Noch keine Einladungscodes – sei der Erste 👆",
+    inviteFail: "Laden fehlgeschlagen. Bitte später erneut versuchen oder direkt in den Issues nachsehen.",
+    sortLabel: "Sortieren", sortNew: "Neueste zuerst", sortOld: "Älteste zuerst", onlyX: "Nur mit Originalpost",
+    loadMore: "Mehr laden", moreLeft: n => `Noch ${n} Fälle`,
+    inviteLeftOnly: "Nur mit Restplätzen", inviteAll: "Alle anzeigen",
+    adSlot: "Werbeplatz frei", adPrice: "$39 / Monat", adCta: "Sponsor werden ↗",
+    inviteCount: n => `${n} Einladungscodes`,
+    cats: { money: "Sparen·Rechnungen·Forderungen", travel: "Reisen", shopping: "Einkaufen", productivity: "Produktivität·Automatisierung", content: "Inhalte·Kreation", dev: "Entwicklung·Websites", business: "Geschäft·Rechtsdurchsetzung" }
+  },
+  fr: {
+    logoSub: "Mis à jour quotidiennement",
+    searchPh: "Rechercher cas, auteurs, mots-clés… (ex. : assurance, remboursement, AT&T)",
+    ghStar: "⭐ Star sur GitHub", copy: "Copier", copied: "Copié ✓",
+    all: "Tout", cases: "Cas collectés", cats: "Catégories", withX: "Avec lien vers le post d'origine", updated: "Dernière mise à jour",
+    badgeOk: "✅ Post d'origine vérifié", badgeCross: "🟡 Partage confirmé",
+    viewX: "Voir le post d'origine ↗", empty: "Aucun cas correspondant, essayez un autre mot-clé 🔍",
+    disclaimer: "⚠️ Les résultats varient selon les autorisations du compte, la région et la prise en charge du service. Certains cas sont des témoignages d'utilisateurs pendant #MuseMoneyChallenge ; certains cas de « négociation par téléphone » auraient impliqué des humains. À titre informatif uniquement — pas un conseil de consommation ou d'investissement.",
+    foot: '🤝 Partagez votre cas d’usage (lien vers le post d’origine) ou votre code d’invitation dans les <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> · Mise à jour automatique quotidienne à 00h00 · <a href="https://github.com/jaxxchen003/muse-use-cases">Dépôt GitHub</a>',
+    heroLabel: "META MUSE · VRAIS CAS D'UTILISATEURS",
+    heroTitle: "Cas d'usage Muse",
+    heroInvite: "Code d'invitation 4P14HY", heroCopied: "Copié ✓",
+    heroSide: "Partager cas d'usage et codes dans Issues",
+    heroCard1t: "Changer d'assurance auto", heroCard1a: "Économiser 3 500 $/an",
+    heroCard2t: "Négocier la facture Verizon", heroCard2a: "516 $ → 386 $ / mois",
+    tabCases: "💡 Cas d'usage", tabInvite: "🎁 Codes d'invitation",
+    inviteTitle: "🎁 Codes d'invitation communautaires",
+    inviteDesc: "Partagez votre code d'invitation Muse et entraidez-vous. Cliquez sur un code pour le copier.",
+    inviteSubmit: "＋ Soumettre mon code d'invitation",
+    inviteNote: "Remarque : Muse ne fournit pas d'API pour les codes d'invitation ; les nombres utilisés/restants sont mis à jour par chaque partageur dans son Issue, et cette page les lit automatiquement.",
+    ownerBadge: "Propriétaire", usedWord: "Utilisé", leftWord: "restant(s)", timesWord: "fois",
+    updateUsage: "Mettre à jour l'usage ↗",
+    inviteLoading: "Chargement des codes d'invitation…", inviteEmpty: "Aucun code d'invitation pour l'instant — soyez le premier 👆",
+    inviteFail: "Échec du chargement. Réessayez plus tard ou consultez directement les Issues.",
+    sortLabel: "Trier", sortNew: "Plus récents d'abord", sortOld: "Plus anciens d'abord", onlyX: "Avec post d'origine uniquement",
+    loadMore: "Charger plus", moreLeft: n => `${n} cas restants`,
+    inviteLeftOnly: "Avec places restantes uniquement", inviteAll: "Tout afficher",
+    adSlot: "Espace publicitaire disponible", adPrice: "39 $ / mois", adCta: "Devenir sponsor ↗",
+    inviteCount: n => `${n} codes d'invitation`,
+    cats: { money: "Économies·factures·réclamations", travel: "Voyage", shopping: "Achats", productivity: "Productivité·automatisation", content: "Contenu·création", dev: "Dév·sites web", business: "Business·recours" }
+  },
+  es: {
+    logoSub: "Actualizado a diario",
+    searchPh: "Buscar casos, autores, palabras clave… (ej.: seguro, reembolso, AT&T)",
+    ghStar: "⭐ Dar estrella en GitHub", copy: "Copiar", copied: "Copiado ✓",
+    all: "Todo", cases: "Casos recopilados", cats: "Categorías", withX: "Con enlace a la publicación original", updated: "Última actualización",
+    badgeOk: "✅ Publicación original verificada", badgeCross: "🟡 Compartido confirmado",
+    viewX: "Ver publicación original ↗", empty: "No hay casos coincidentes, prueba otra palabra clave 🔍",
+    disclaimer: "⚠️ Los resultados varían según los permisos de la cuenta, la región y el soporte del servicio. Algunos casos son testimonios de usuarios durante #MuseMoneyChallenge; en algunos casos de «negociación telefónica» habrían participado personas. Solo informativo, no es asesoramiento de consumo ni de inversión.",
+    foot: '🤝 Comparte tu caso (enlace a la publicación original) o tu código de invitación en los <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> · Actualización automática diaria a las 00:00 · <a href="https://github.com/jaxxchen003/muse-use-cases">Repositorio de GitHub</a>',
+    heroLabel: "META MUSE · CASOS REALES DE USUARIOS",
+    heroTitle: "Casos de uso de Muse",
+    heroInvite: "Código de invitación 4P14HY", heroCopied: "Copiado ✓",
+    heroSide: "Compartir casos y códigos en Issues",
+    heroCard1t: "Cambiar el seguro del auto", heroCard1a: "Ahorrar $3.500/año",
+    heroCard2t: "Negociar la factura de Verizon", heroCard2a: "$516 → $386 / mes",
+    tabCases: "💡 Casos", tabInvite: "🎁 Códigos de invitación",
+    inviteTitle: "🎁 Códigos de invitación de la comunidad",
+    inviteDesc: "Comparte tu código de invitación de Muse y ayúdense entre todos. Haz clic en un código para copiarlo.",
+    inviteSubmit: "＋ Enviar mi código de invitación",
+    inviteNote: "Nota: Muse no ofrece API de uso de códigos de invitación; los usos/restantes los actualiza cada persona en su Issue y esta página los lee automáticamente.",
+    ownerBadge: "Propietario", usedWord: "Usado", leftWord: "restantes", timesWord: "veces",
+    updateUsage: "Actualizar uso ↗",
+    inviteLoading: "Cargando códigos de invitación…", inviteEmpty: "Aún no hay códigos de invitación, ¡sé el primero! 👆",
+    inviteFail: "Error al cargar. Inténtalo más tarde o consulta directamente los Issues.",
+    sortLabel: "Ordenar", sortNew: "Más recientes primero", sortOld: "Más antiguos primero", onlyX: "Solo con publicación original",
+    loadMore: "Cargar más", moreLeft: n => `Quedan ${n} casos`,
+    inviteLeftOnly: "Solo con plazas restantes", inviteAll: "Mostrar todo",
+    adSlot: "Espacio publicitario disponible", adPrice: "$39 / mes", adCta: "Ser patrocinador ↗",
+    inviteCount: n => `${n} códigos de invitación`,
+    cats: { money: "Ahorro·facturas·reclamos", travel: "Viajes", shopping: "Compras", productivity: "Productividad·automatización", content: "Contenido·creación", dev: "Desarrollo·webs", business: "Negocios·reclamaciones" }
+  },
+  pt: {
+    logoSub: "Atualizado diariamente",
+    searchPh: "Pesquisar casos, autores, palavras-chave… (ex.: seguro, reembolso, AT&T)",
+    ghStar: "⭐ Dar star no GitHub", copy: "Copiar", copied: "Copiado ✓",
+    all: "Tudo", cases: "Casos coletados", cats: "Categorias", withX: "Com link da publicação original", updated: "Última atualização",
+    badgeOk: "✅ Publicação original verificada", badgeCross: "🟡 Compartilhamento confirmado",
+    viewX: "Ver publicação original ↗", empty: "Nenhum caso correspondente, tente outra palavra-chave 🔍",
+    disclaimer: "⚠️ Os resultados variam conforme as permissões da conta, a região e o suporte do serviço. Alguns casos são relatos de usuários durante a #MuseMoneyChallenge; alguns casos de “negociação por telefone” teriam envolvido pessoas. Apenas informativo — não é aconselhamento de consumo ou investimento.",
+    foot: '🤝 Compartilhe seu caso (link da publicação original) ou seu código de convite nas <a href="https://github.com/jaxxchen003/muse-use-cases/issues">Issues</a> · Atualização automática diária às 00:00 · <a href="https://github.com/jaxxchen003/muse-use-cases">Repositório GitHub</a>',
+    heroLabel: "META MUSE · CASOS REAIS DE USUÁRIOS",
+    heroTitle: "Casos de uso do Muse",
+    heroInvite: "Código de convite 4P14HY", heroCopied: "Copiado ✓",
+    heroSide: "Compartilhar casos e códigos nas Issues",
+    heroCard1t: "Trocar o seguro do carro", heroCard1a: "Economizar US$ 3.500/ano",
+    heroCard2t: "Negociar a fatura da Verizon", heroCard2a: "US$ 516 → US$ 386 / mês",
+    tabCases: "💡 Casos", tabInvite: "🎁 Códigos de convite",
+    inviteTitle: "🎁 Códigos de convite da comunidade",
+    inviteDesc: "Compartilhe seu código de convite do Muse e ajudem uns aos outros. Clique em um código para copiá-lo.",
+    inviteSubmit: "＋ Enviar meu código de convite",
+    inviteNote: "Nota: o Muse não oferece API de uso de códigos de convite; os números de usados/restantes são atualizados por cada pessoa na sua Issue, e esta página os lê automaticamente.",
+    ownerBadge: "Proprietário", usedWord: "Usado", leftWord: "restantes", timesWord: "vezes",
+    updateUsage: "Atualizar uso ↗",
+    inviteLoading: "Carregando códigos de convite…", inviteEmpty: "Ainda não há códigos de convite — seja o primeiro 👆",
+    inviteFail: "Falha ao carregar. Tente novamente mais tarde ou veja diretamente nas Issues.",
+    sortLabel: "Ordenar", sortNew: "Mais recentes primeiro", sortOld: "Mais antigos primeiro", onlyX: "Só com publicação original",
+    loadMore: "Carregar mais", moreLeft: n => `Faltam ${n} casos`,
+    inviteLeftOnly: "Só com vagas restantes", inviteAll: "Mostrar tudo",
+    adSlot: "Espaço publicitário disponível", adPrice: "US$ 39 / mês", adCta: "Seja patrocinador ↗",
+    inviteCount: n => `${n} códigos de convite`,
+    cats: { money: "Economia·contas·reembolsos", travel: "Viagem", shopping: "Compras", productivity: "Produtividade·automação", content: "Conteúdo·criação", dev: "Desenvolvimento·sites", business: "Negócios·reivindicações" }
+  },
 };
-const T = () => STR[lang];
-const catName = c => lang === "zh" ? c.zh : c.en;
+Object.keys(STR).forEach(l => { STR[l] = { ...STR.en, ...STR[l] }; });
+const T = () => STR[lang] || STR.en;
+const catName = c => (T().cats || {})[c.id] || (lang === "zh" ? c.zh : c.en);
 function pageTitle(){
   const base = lang === "zh" ? "Muse 实战案例库 💡" : "Muse Use Cases 💡";
   const c = DATA ? DATA.meta.count : null;
@@ -331,8 +629,11 @@ function applyLang(){
   $("#inviteLeftOnly").textContent = inviteLeftOnly ? T().inviteAll : T().inviteLeftOnly;
   $("#inviteLeftOnly").classList.toggle("on", inviteLeftOnly);
   $("#inviteNote").textContent = T().inviteNote;
-  $("#btnZh").classList.toggle("on", lang === "zh");
-  $("#btnEn").classList.toggle("on", lang === "en");
+  const sel = $("#langSel");
+  if (!sel.options.length) LANGS.forEach(([v, l]) => {
+    const o = document.createElement("option"); o.value = v; o.textContent = l; sel.appendChild(o); });
+  sel.value = lang;
+  renderAds();
   localStorage.setItem("muse-lang", lang);
   if (DATA) renderAll();
   if (inviteLoaded) renderInvites();
@@ -344,6 +645,15 @@ function badge(b){
   const txt = b === "ok" ? T().badgeOk : T().badgeCross;
   return `<span class="badge ${cls}">${txt}</span>`;
 }
+function mediaHTML(c){
+  if (!c.m || !c.m.length) return "";
+  const it = c.m[0];
+  if (it.k === "vid"){
+    const poster = it.p ? ` poster="${it.p}"` : "";
+    return `<video class="card-media" controls preload="none" playsinline${poster} src="${it.u}"></video>`;
+  }
+  return `<a href="${it.f || it.u}" target="_blank" rel="noopener"><img class="card-media" loading="lazy" src="${it.u}" alt=""></a>`;
+}
 function card(c){
   const t = lang === "zh" ? c.t : c.te;
   const a = lang === "zh" ? c.a : c.ae;
@@ -351,6 +661,7 @@ function card(c){
   const d = lang === "zh" ? c.d : c.de;
   const x = c.x ? `<a class="xbtn" href="${c.x}" target="_blank" rel="noopener">${T().viewX}</a>` : "";
   return `<article class="card"><div>${badge(c.b)}</div><h3>${t}</h3>
+    ${mediaHTML(c)}
     <div class="result">${r}</div><div class="author">${a}</div>
     <p class="desc">${d}</p>${x}</article>`;
 }
@@ -464,6 +775,8 @@ function renderInvites(){
     if (ra !== null && rb !== null) return rb - ra;
     return 0;
   });
+  const nCodes = INVITES.filter(i => i.code).length + 1;
+  $("#inviteCount").textContent = T().inviteCount(nCodes);
   const cards = [inviteCardHTML(owner, true)]
     .concat(list.map(i => inviteCardHTML(i, false)));
   $("#inviteGrid").innerHTML = cards.join("") ||
@@ -493,6 +806,15 @@ function loadInvites(){
   });
 }
 
+function renderAds(){
+  $("#adSlots").innerHTML = [1, 2, 3].map(() =>
+    `<a class="ad-slot" href="https://github.com/sponsors/jaxxchen003" target="_blank" rel="noopener">
+      <span class="ad-slot-tag">${T().adSlot}</span>
+      <span class="ad-slot-price">${T().adPrice}</span>
+      <span class="ad-slot-cta">${T().adCta}</span>
+    </a>`).join("");
+}
+
 /* ---------- view switching ---------- */
 function switchView(v){
   activeView = v;
@@ -506,8 +828,7 @@ function switchView(v){
 }
 $("#tabCases").addEventListener("click", () => switchView("cases"));
 $("#tabInvite").addEventListener("click", () => switchView("invite"));
-$("#btnZh").addEventListener("click", () => { lang = "zh"; applyLang(); });
-$("#btnEn").addEventListener("click", () => { lang = "en"; applyLang(); });
+$("#langSel").addEventListener("change", e => { lang = e.target.value; applyLang(); });
 $("#q").addEventListener("input", render);
 $("#loadMore").addEventListener("click", () => { shown += 24; render(); });
 $("#inviteLeftOnly").addEventListener("click", () => {
