@@ -5,7 +5,7 @@
 > Meta 个人 AI 智能体 **Muse** 的真实高价值玩法合集。
 > 收录标准：**收录 X / Reddit / Instagram / Facebook / Threads 上的真实用户分享**，优先收录结果明确、有数字、可复制的案例。
 
-📊 **收录案例：331** ｜ 🕐 **最后更新：2026-11-12** ｜ 🤖 每日 0 点自动更新 ｜ 🌐 **在线预览站（支持中英双语）：https://jaxxchen003.github.io/muse-use-cases/**
+📊 **收录案例：341** ｜ 🕐 **最后更新：2026-11-13** ｜ 🤖 每日 0 点自动更新 ｜ 🌐 **在线预览站（支持中英双语）：https://jaxxchen003.github.io/muse-use-cases/**
 
 ---
 
@@ -34,13 +34,13 @@
 
 ## 📑 目录
 
-- [💰 省钱 · 账单 · 索赔](#-省钱--账单--索赔)（70）
-- [✈️ 出行 · 旅行](#️-出行--旅行)（38）
-- [🛒 购物](#-购物)（35）
-- [⚡ 效率 · 自动化](#-效率--自动化)（105）
-- [🎨 内容 · 创作](#-内容--创作)（25）
+- [💰 省钱 · 账单 · 索赔](#-省钱--账单--索赔)（73）
+- [✈️ 出行 · 旅行](#️-出行--旅行)（39）
+- [🛒 购物](#-购物)（36）
+- [⚡ 效率 · 自动化](#-效率--自动化)（108）
+- [🎨 内容 · 创作](#-内容--创作)（26）
 - [🛠️ 开发 · 建站](#️-开发--建站)（20）
-- [💼 生意 · 维权](#-生意--维权)（38）
+- [💼 生意 · 维权](#-生意--维权)（39）
 - [🤝 参与方式](#-参与方式)
 - [⚠️ 免责声明](#️-免责声明)
 
@@ -502,6 +502,27 @@
 - **结果**：**不到一个月省近 $2,000；“不用你吩咐、自己盯着、到点叫你”**
 - **可复制性**：⭐⭐⭐⭐⭐ 后台盯账户、到点叫你的订阅/账单审计样本；金额为作者自报，未独立核验；该 reel 标注 #MetaPartner
 
+### 334. “Leroy Jenkins”主动报双重扣费：NBA League Pass 两条路同时扣，一年约 $460 买同一服务 🟡
+- **作者**：Jamian C. Polk（@jamiancpolk，Threads，2026-11-10）
+- **原帖**：https://www.threads.com/@jamiancpolk/post/Dfk4Qj0kQht（2026-11-10）
+- **做法**：他的 Muse “Leroy Jenkins”主动提醒他被双重扣费——NBA League Pass 同时走了 Apple 月付 $24.99（约 $299.88/年）与 Prime Video 年付 $159.99，一年约 $460 买的是同一项服务；截图里 Leroy 把重复项列清楚、建议取消哪一个，还顺带指出另一笔重复发票问题。他强调这不是他吩咐的，是 Leroy 自己发现的
+- **结果**：**同一服务两条路同时扣、一年约 $460，agent 自己翻出来、告诉你取消哪一个**
+- **可复制性**：⭐⭐⭐⭐⭐ 后台盯着、主动报重复扣费的用法；用户自述 + 截图口径，金额为作者自报，未独立核验
+
+### 335. “Trevor”盗刷善后：公司卡被盗后找出她漏掉的 3 笔未授权交易，还重配 QuickBooks 让收款不断 🟡
+- **作者**：Leah Herring（Facebook，2026-11-10，小企业主）
+- **原帖**：https://www.facebook.com/leah.herring.56/posts/pfbid02RHUadXLmamd9VyhevLvt4kr4qqy8ZjUx7iRdgiyTgUCPZshu9z6neMPdqabS2ceel（2026-11-10）
+- **做法**：公司卡信息被盗、资金被取走后，Muse “Trevor”在过去一个月里帮她找出 3 笔她自己漏掉的未授权交易，给出对应电话号码、该说什么、金额与日期清单，并排好先联系谁的优先级；还帮她重配了 QuickBooks，让信用卡收款在等新公司账户开户的 7–10 天里继续进个人账户、不断流。她称之为“救命”
+- **结果**：**漏掉的 3 笔未授权交易找出来、电话清单与优先级排好；等新账户的 7–10 天里收款不断流**
+- **可复制性**：⭐⭐⭐⭐ “盗刷善后 + 收款不断流”的具体样本；用户自述口径，交易细节为作者自报，未独立核验
+
+### 338. “Hana”翻出无人认领的小钱：CVS、GoodRx、店内 ATM、亚马逊退货各一笔，德州“found money”还挂着一笔 ✅
+- **作者**：Kevin Moore（@kev_the_blind_pirate，Instagram，2026-11-12，盲人创作者）
+- **原帖**：https://www.instagram.com/reel/Dfnxr0fRRsm/（2026-11-12）
+- **做法**：他的 Muse “Hana”帮他翻出网上可能属于他的集体诉讼赔偿与无人认领资金——用 CVS 应用/网站 $5、用 GoodRx 卡 $5、用店内 ATM $5、亚马逊退货遇阻各一笔，另有一个德州 “found money”网站上还挂着属于他的钱。他说作为盲人，这类“不然不会去办”的事，agent 帮他办了
+- **结果**：**散在五六个地方的小钱一次翻出来、告诉你哪笔能领**
+- **可复制性**：⭐⭐⭐⭐ “找无人认领的钱”的样本；用户自述口径，金额小且为作者自报，未独立核验；他 10-18 的“15,000 封邮件”案已收录，本条是同一作者的新帖、不同用法
+
 ## ✈️ 出行 · 旅行
 
 ### 29. 航班延误 7 小时，5 分钟拿到 $250 积分 🟡
@@ -746,6 +767,13 @@
 - **结果**：**两张票合计省约 $915；“自己根本不会天天去查”**
 - **可复制性**：⭐⭐⭐⭐⭐ “机票降价哨兵”是旅行类最可复制的用法之一；票价与省钱数字为作者自报，未独立核验
 
+### 333. 收藏夹里的旅行 reel 变行程：7 条上海收藏 reel 翻成多日行程，带营业时间与地图 ✅
+- **作者**：Shama Hyder（@shamahyder，Instagram，2026-11-11，认证，2.9 万粉）
+- **原帖**：https://www.instagram.com/reel/Dfmy3shRLkO/（2026-11-11）
+- **做法**：她把收藏夹里攒的旅行 reel 叫“reel 坟场”——上海、伦敦、纽约小面馆全存着、一次没翻过。对着 Muse 口述一句（经 Wispr Flow 语音输入）：“把我存的 reel 里所有上海的地方翻出来，做一份行程”——Muse 从 7 条上海 reel 里提炼出一份多日行程《Shanghai, the way you saved it》，含天安千树、苏河沿岸等具体地点，附营业时间、地图与每日计划。她的收尾值得记：“研究你早就做完了，只是你自己不知道”
+- **结果**：**7 条上海收藏 reel 一次翻成多日行程，营业时间与地图都配好**
+- **可复制性**：⭐⭐⭐⭐ “收藏夹变行程”的具体用法样本；创作者实拍演示，行程未做“已按此出行”背书
+
 ## 🛒 购物
 
 ### 39. 拍照一键上架 Marketplace（定价 + 文案一次搞定）
@@ -972,6 +1000,13 @@
 - **做法**：让 Muse 在 Carousell 上找最便宜的 iPhone 17（要口碑好的卖家），Muse 返回 S$800 的 Sage 256GB，但同时读了卖家描述、把暗病挑明——相机键松动按不下去、0.5 倍镜头成像失真；第二天一早 Muse 主动发来消息：三家候选都还有货，并建议别只贪最便宜、选最稳妥的一家；同一条视频里还接了 Gmail，Muse 把每月软件订阅逐项列出来、还主动约了一个 Hyperframes 聊天的时间
 - **结果**：**最便宜那台有暗病没入手；次日三家库存主动报上，选最稳妥的一家**
 - **可复制性**：⭐⭐⭐⭐ 二手淘货先让 agent 挑毛病、再盯库存；创作者实拍演示，未做“已成交”背书
+
+### 341. “Jolly Mall”：每天早上翻你的 IG 收藏，按 90 年代邮购目录风给你推购物推荐 🟡
+- **作者**：@gspark337（Threads，2026-11-10，韩语）
+- **原帖**：https://www.threads.com/@gspark337/post/DfjpIk7AEYM（2026-11-10）
+- **做法**：他用 Spaces 搭了一个 “Jolly Mall”——每天早上 Muse 翻一遍他的 Instagram 收藏、生成个性化购物推荐，再以 1990 年代邮购目录（“MALL IN THE SKY - FALL '95 CATALOG”）的复古风格呈现，点进单品有详情（手工瓷杯等）；侧边栏里还有 “Lunchbox Planner”（午餐盒计划）与 “Pickup and Carpool”（接送拼车）两个 Space
+- **结果**：**收藏夹每天早上翻一遍、按你的口味推回来**
+- **可复制性**：⭐⭐⭐⭐ “Spaces 购物推荐 + 生活小应用”的样本；韩语用户屏录演示口径；与第 47 期 Emily Higgins 的四个 Spaces 同源，都是“一句话搭出的小应用”正在成型的证据
 
 ## ⚡ 效率 · 自动化
 
@@ -1648,6 +1683,27 @@
 - **结果**：**打开邮箱之前，先知道今天哪件最重要**
 - **可复制性**：⭐⭐⭐⭐ “一条写清楚的指令”的晨间简报样本；群组帖口径，简报模板为作者自述，未独立核验
 
+### 332. 301 份招聘申请，Muse 不到 3 美分筛出 4 个全职人选 ✅
+- **作者**：Eric Siu（@ericosiu，Instagram，2026-11-12，12 万粉，认证）
+- **原帖**：https://www.instagram.com/p/DfnvgoRKZfV/（2026-11-12）
+- **做法**：Alex Hormozi 在 Instagram 发了一个 Head of Content 职位，评论区涌入 300 多份申请。他把全部评论者跑了一遍 TypesafeAI Jev API + 接了自己 Instagram 的 Meta Muse，按简介、照片与内容深度打分，分成 hire / peer / agency / park 四档——301 人里 11 人过线、只有 4 人适合全职，AI 总成本不到 3 美分（Hormozi 的招聘原帖已被删除）
+- **结果**：**301 份申请、不到 3 美分筛出 4 个全职人选**
+- **可复制性**：⭐⭐⭐⭐ 招人初筛的 agent 用法样本；筛选标准为作者自定，未独立核验；帖尾“评论 TALENT 领工具”属引流口径不采纳
+
+### 339. “Ben”语音优先：打字困难，她靠语音使唤它——涂色书项目、吃药提醒、可打印表格全接过去 🟡
+- **作者**：Claret M. Belle（Facebook，2026-11-10）
+- **原帖**：https://www.facebook.com/claret.belle/posts/pfbid07p1SYTabRZj62PCqe8UkXPmh6G8rbAVmQ84pvZVBWh19n1LYsnMZQu3hdbbT1d4ol（2026-11-10）
+- **做法**：她打字困难，偏爱用麦克风听写或实时语音跟自己的 Muse “Ben”说话——用法很日常：管涂色书项目、起草由她自己批准的社帖、处理邮件与日历、每天 7:30 吃药提醒、做可打印的表格、记住进行中的项目
+- **结果**：**打字难的人也能开口使唤它，日常杂事全接过去**
+- **可复制性**：⭐⭐⭐ “语音优先 + 无障碍”的用法样本；用户自述口径；帖尾邀请码口径不采纳
+
+### 340. 老婆生日前夜，它先提醒你：送花、1–3 点空档午餐、下周三安排，三个选项贴着日历给 🟡
+- **作者**：@deals_so_good（Threads，2026-11-10）
+- **原帖**：https://www.threads.com/@deals_so_good/post/DfkJrIxjjHX（2026-11-10）
+- **做法**：他妻子生日是前一天，Muse 在前一晚主动提醒了他，还给了贴合他日历的三个选项——送花、在 1–3 点的空档约午餐，或安排到下周三。他说 agent 盯的不只是工作日程，个人日子也记得
+- **结果**：**前一晚先提醒、再把能约的时间递上来**
+- **可复制性**：⭐⭐⭐ “主动提醒个人日子”的样本；用户文字帖口径，事小但真实；帖尾邀请码口径不采纳
+
 ## 🎨 内容 · 创作
 
 ### 59. 每天早上 8 点的 AI 新闻播客
@@ -1795,6 +1851,13 @@
 - **做法**：被问用什么做内容，他说不用 ChatGPT、Claude 或 Gemini，只用 Muse——“它在跑我的人生”，接了桌面端、手机、Gmail、ClickUp 和 Instagram。被追问一个真实用法，他给了工作流：连上 ClickUp 后，问一句“明天发什么”，Muse 建任务、给 10 个钩子创意、再附 10 条同类已验证爆款视频的链接，他按自己的风格改编重拍。他的区分值得记：别的工具“听着像机器人”，Muse 看的是他账号上真实跑过的数据、再按过去表现给建议，不是凭空写脚本
 - **结果**：**明天发什么、钩子怎么写、同类爆款长什么样，一次递上来**
 - **可复制性**：⭐⭐⭐⭐ 创作者“选题 + 钩子 + 爆款参照”的工作流样本；采访口述口径，工作流为作者自述，未独立核验；他同时说明当前主页并非 Muse 生成、只是受它启发
+
+### 337. 一条 Reel 的全套，它先写好给你改：角度、逐字脚本、B-roll、剪辑备注一次递上，前 3 秒又单独改了一版 ✅
+- **作者**：Parth Anand（@rage.insaan，Instagram，2026-11-10，3.2 万粉）
+- **原帖**：https://www.instagram.com/reel/DfkOE-us07u/（2026-11-10）
+- **做法**：他让 Muse 帮他策划一条讲“二手市场崩塌”的 Reel（面向大学生与年轻职场人），Muse 一次递上全套：角度（“Secondhand isn't dying. The bargain is.”）、格式、带时间戳的逐字脚本、B-roll 建议、剪辑备注、文案、标签与发布时间；他又追问一句“前 3 秒再抓人一点、能一个人拍、1 分钟内”，Muse 改了一版开场——向镜头扔衣服、三机位简化。他的定性值得记：想点子容易，难的是策划和拍摄
+- **结果**：**角度、脚本、机位、文案全套一次递上，再按要求改前 3 秒**
+- **可复制性**：⭐⭐⭐⭐ “内容策划全套 + 迭代改稿”的用法样本；创作者实拍演示；帖尾“看看你的 agent 能做什么”属下载号召口径不采纳
 
 ## 🛠️ 开发 · 建站
 
@@ -2178,6 +2241,13 @@
 - **结果**：**找错门的客诉几分钟平息，不用等发酵**
 - **可复制性**：⭐⭐⭐⭐ 小企业“CRM + 店铺双系统 cross-check”的用法；西语用户自述，查证过程为作者自述，未独立核验
 
+### 336. “Avatal”小生意三件套：Stripe 未收 $16,292 一问就翻出来，Slack 纠错、团队讨论变下周营销日历 🟡
+- **作者**：Tal Navarro（@talnavarro1，Threads，2026-11-11，小企业主）
+- **原帖**：https://www.threads.com/@talnavarro1/post/DfnRVihiKrC（2026-11-11）
+- **做法**：她的 Muse “Avatal”（她自述“不是 Meta 赞助”）三件活都有屏录：① 收款——问一句“这个月谁还没付”，Muse 从 Stripe 拉出 $16,292 的未结发票汇总；② 管团队——让它跟进 Slack，拿到任务进展，还让它给发错表格链接的同事发去纠正消息；③ 做营销——把团队讨论直接变成下周的 Notion 营销计划、排成内容日历。她说小生意就是“同时当 CEO、会计、团队经理和市场”，agent 接的是中间那几层
+- **结果**：**谁没付钱、谁发错了链接、下周发什么，先翻出来、再排成表**
+- **可复制性**：⭐⭐⭐⭐ 小生意“收款 + 管团队 + 做营销”三件套样本；金额为视频内看板显示，未独立核验；帖尾“评论 MUSE 领链接”属引流口径不采纳
+
 ## 🤝 参与方式
 
 1. **分享你的玩法**：在 Issues 用「分享新玩法」模板提交——**收录 X / Reddit / IG / FB / Threads 上的真实分享**，请附原帖链接，通过核验后收录（每日自动更新会一并处理）
@@ -2199,6 +2269,7 @@
 
 ## 🗒️ 更新日志
 
+- **2026-11-13**：新增 10 个案例（cwybruce 第 48 期 11-10/11/12 IG/FB/Threads 分享 10 条：Eric Siu 301 份招聘申请、不到 3 美分筛出 4 个全职人选；Shama Hyder 7 条上海收藏 reel 翻成多日行程；Jamian Polk“Leroy Jenkins”NBA League Pass 双重扣费一年约 $460；Leah Herring“Trevor”盗刷善后找出漏掉的 3 笔未授权交易、重配 QuickBooks 让收款不断；Tal Navarro“Avatal”Stripe 未收 $16,292、Slack 纠错、团队讨论变下周营销日历；Parth Anand 一条 Reel 全套先写好再改前 3 秒；Kevin Moore“Hana”集体诉讼与无人认领小额；Claret M. Belle“Ben”语音优先无障碍；@deals_so_good 老婆生日前夜提醒；@gspark337“Jolly Mall”每天早上翻 IG 收藏推购物推荐。4 条标 ✅（Jina 抓到 Eric Siu、Shama Hyder、Parth Anand、Kevin Moore 原帖全文，人物、金额、做法三要素与日报一致），6 条标 🟡（原帖直链已确认解析到对应作者与帖子 ID，但 IG/FB/Threads 登录墙与 FB 验证码墙挡住部分全文，细节以日报摘要为准，数字均为作者自报），总数 341。未收录：第 48 期同期的 @muse 官方 Ashton Hall“Ash”与 Justin Gaethje“Highlight”品牌广告口径与第 47 期重复、Peter Yang $800/年账单谈判的 @alstackdaily 二次剪辑（原案第 1 期已收录）、@museai.cases TreePen18“$480/年网费谈判”二手转述推广账号内容、@theaiimpact 四例汇编（9–10 月旧帖二手汇编）、Rony Meisler WhatsApp 讲解 + 自家社群引流（第 47 期已记）、@juanesogo Matt Robb 地址事件复述（第 3/5 期及 AP 跟进已收录）、@stacksignallabs“Sam 一夜四任务”演示脚本 + 邀请码口径、@kenshotshot 粤语助手以邀请码引流为主（第 47 期已记）、@harrytaylor_property 房产中介“Muse”为第三方借名产品、Muse Ember 各路二次转述与第 46 期重复、@metaforbusiness 小企业轮播为官方营销素材（第 47 期已记）、多语言“介绍 Muse 是什么”科普视频与邀请码/评论领指南类引流帖继续过滤；1 组行业观察（Active Memory + Active Focus 11-06 起全员免费）非用户案例；messagingagents/musecases/17muse/musewins 链接集与昨日完全一致、无新增；shipwithmuse 轮换 22 条均为 7–9 月旧帖、最新 filedAt 仍为 2026-11-10（已收录 #323）、无窗口内新增；useofmuse.com 最新仍为 2026-10-13、0 条 11 月条目；agentusecases.ai Muse 计数仍为 69（与昨日实测一致，昨日日志误记为 68）、无新增；X 关键词搜索只返回 9–10 月旧闻与网页文章、无窗口内新用户案例；Issues 新增多条邀请码帖（11-12 当日新建，含 #301–#330），无 new-case 标签投稿；r/MuseAgent RSS 再次返回 bot 墙 HTML（连续五日），Reddit 覆盖缺口依旧。
 - **2026-11-12**：新增 7 个案例（cwybruce 第 47 期 11-09/10 FB/IG/Threads 分享 7 条：Courtney Johnson“Ernesto”不到一个月省近 $2,000——$80 重复扣费追回、积分重排机票免费省 $800、$400 被忘发票提醒、$100 网课催完、$300/年健身房取消；@ghzijad 两周 4 个 co-op 面试、自己一份申请没投；Alex Costa“ Muse 在跑我的人生”——明天发什么它先给 10 个钩子 + 10 条同类爆款链接；Carlos Eduardo“愤怒客户找错了门”——GoHighLevel CRM + Shopify 按电话一查、对方根本不是客户；Emily Higgins 四个 Spaces 就是四个小应用——学习搭档、每日仪表盘、私人训练、菜谱采购清单；Alice Nguyen“Ume”三个月全托付——隐适美提醒、网球课自动订、旅行盯机票酒店签证，但通知过载错过一班飞机；Nick Good“Alfred”晨间简报一页纸。7 条均标 🟡：原帖直链已确认解析到对应作者与主题——Jina 抓到 IG/FB 标题（Courtney“saved $2k using the @muse app”、ghzijad“Comment interview”、Sundaskhalidd 采访 Alex Costa“10 hooks”、Carlos 西语全文 CRM + Shopify 查无此人、Alice“how I actually use it”+“I work at Meta”、Nick Good 群组帖“start the day with a brief, not your inbox”），Threads @muse 转发帖确认帖子 ID，但 IG/FB/Threads 登录墙与 FB 验证码墙挡住部分全文，细节以日报摘要为准，数字均为作者自报），总数 331。未收录：第 47 期同期的 @muse 官方 Ashton Hall“Ash”与 Justin Gaethje“Highlight”均为品牌广告制作口径、Josh Richards“Gary”约会夜视频与 @metaforbusiness“ Muse for Small Business”轮播均为官方营销素材、@kenshotshot 粤语助手用法以邀请码引流为主、@ivansfull“Jarbis”东京—巴厘岛旅行演示为纯推广演示无结果佐证、Rony Meisler WhatsApp 版讲解 + 自家社群引流、@morin_ai89 / @shachiku_shacho_claude 日语“20 个任务清单”类教程帖无个人实测结果；1 组行业观察（Muse 上 Apple Watch，11-09）非用户案例；Muse Ember 各路二次转述与第 46 期重复、英国上线消息与第 46 期重复、Muse Voice 美国全量上线已在第 43 期收录；messagingagents/musecases/17muse/musewins 链接集与昨日完全一致、无新增；shipwithmuse 轮换 15 条均为 7–9 月旧帖、最新 filedAt 仍为 2026-11-10（已收录 #323）、无窗口内新增；useofmuse.com 数据源已迁至 data/use-cases.js，最新仍为 2026-10-13、0 条 11 月条目；agentusecases.ai Muse 计数仍为 68、无新增；X 关键词搜索只返回 Muse Ember 上线等官方新闻、无窗口内新用户案例；Issues 新增多条邀请码帖（11-11 当日新建，含 #224–#230），无 new-case 标签投稿；r/MuseAgent RSS 再次返回 bot 墙 HTML（连续四日），Reddit 覆盖缺口依旧。
 
 - **2026-11-11**：新增 7 个案例（cwybruce 第 46 期 11-08/09 FB/IG/Threads 分享 6 条：@pjacefilms“Finch”订阅审计——38 项每月 $2,285.21、4 项一键取消；Krupa“Madam Muse”盯机票降价——蒙特利尔飞波士顿 $950→$350/人、两张票省约 $915；contentkaki 最便宜 iPhone 17 S$800 有暗病、次日主动报三家库存；Christopher Lynn“GET MUSE TO DO YOUR ERRANDS”——取消垃圾服务 + 迁移 + 买菜菜谱一次办完；西语创作者 Shopify 与 Meta 广告对账——30 天 $1.1M、1,066 单，14% 的差是复购；@mongbee_marketing Muse Voice 面试陪练 + 发确认邮件；另加 shipwithmuse 11-10 新收录：moonstone_jp“muse on Tuesday”自托管邮件过滤器。7 条均标 🟡：原帖直链已确认解析到对应作者与主题——Jina 抓到 FB/IG 标题（Finch 银行账单审计、Krupa 省 $915 机票、contentkaki 别买 S$800 iPhone 17、Christopher Lynn 办杂事、西语 Shopify 对账）、Threads @muse 转发帖确认 @pjacefilms、Threads 直访确认 mongbee 帖子 ID、X 帖子 ID 时间戳 + Jina 发布时间 + 作者简介三重确认 moonstone_jp，但 FB 验证码墙、IG/Threads/X 登录墙挡住全文，Jina 两次 429 限流 mongbee，细节以日报摘要/聚合站摘录为准，数字均为作者自报），总数 323。未收录：第 46 期同期的 @burberrykiss 旅行险 $157.55 取消（推广口径存疑）、@y_.kitagawa“避免 38,980 日元损失”（附付费 Note 购买链接）、@fadzieai 四用法通用演示（评论领链接）、hlilly73 公司用法概述（无具体结果）、FB 蓝帽衫用户“省了几千美元”（无细节）、@groovebak“Maya”角色介绍（无具体任务）、@rutinelabo Spaces 高尔夫订场（与第 43 期同源）、@thecheatcodetech“Gary”语音演示（与第 43 期同源）、墨西哥上线首测（同源）、@aiwithsachi 风险提醒（与第 36/41 期重复）；3 组行业观察（Muse Ember 发布、英国数周内上线、Active Memory 76%→90%）非用户案例；messagingagents/musecases/17muse/musewins 链接集与昨日一致、无新增；shipwithmuse 轮换 17 条中 16 条为 4–9 月旧帖（积压待核查）、仅 moonstone_jp 为窗口内新案；useofmuse.com 最新仍为 2026-10-13、0 条 11 月条目；agentusecases.ai Muse 计数仍为 68、无新增；X 关键词搜索只返回 Muse Ember/Watch 上线等官方新闻与 9–10 月旧案（Sid Saladi 一个月实测为 10 月纯网页文章、Barron's $25/月为 9 月纯网页文章，均非平台分享、不收录）；Issues 新增 4 条邀请码帖（#16 Q2JV5R、#17 4VHPC9、#18 9OMJ2Q、#19 ARKHZZ），无新案例投稿；r/MuseAgent RSS 再次被墙（连续三日），Reddit 覆盖缺口依旧。
