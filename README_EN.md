@@ -797,4 +797,11 @@ Auto-updated daily at 00:00 (Beijing time).
 
 ---
 
+## 📜 License
+
+- **Code** (site code and scripts): [Apache License 2.0](LICENSE)
+- **Case content** (README entries and `docs/cases.json`): [CC BY-NC-SA 4.0](LICENSE-CONTENT.txt) — free to share and adapt with attribution, non-commercial use, and share-alike. Original posts remain the copyright of their authors.
+
+---
+
 *Made with 💡 by [jaxxchen003](https://github.com/jaxxchen003) · PRs / Issues welcome*

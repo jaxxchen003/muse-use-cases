@@ -2248,4 +2248,11 @@
 
 ---
 
+## 📜 开源协议
+
+- **代码**（网站代码、脚本）：[Apache License 2.0](LICENSE)
+- **案例内容**（README 案例条目、`docs/cases.json`）：[CC BY-NC-SA 4.0](LICENSE-CONTENT.txt)——可自由分享与改编，须署名、非商业使用、相同方式共享。原帖内容版权归原作者所有。
+
+---
+
 *Made with 💡 by [jaxxchen003](https://github.com/jaxxchen003) · PR / Issue 欢迎*

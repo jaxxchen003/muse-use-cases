@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Muse 实战案例库 💡 | 75 个真实高价值玩法</title>
+<title>Muse 实战案例库 💡 | 真实高价值玩法</title>
 <meta name="description" content="Meta 个人 AI 智能体 Muse 的真实高价值玩法合集，收录 X / Reddit / IG / FB / Threads 上的真实用户分享，每日更新。">
 <style>
 :root{
@@ -96,6 +96,18 @@ header.top .wrap.head-wrap{display:grid;grid-template-columns:1fr auto 1fr;align
   border-radius:10px;padding:7px 16px;font-size:13px;text-decoration:none;font-weight:600}
 .xbtn:hover{background:#e2e5ea}
 .empty{text-align:center;color:var(--muted);padding:60px 0;grid-column:1/-1}
+/* sort + load more */
+.sortbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:0 0 16px}
+.sortbar .lbl{color:var(--muted);font-size:13px;margin-right:2px}
+.sortbar button{background:#fff;border:1px solid var(--line);color:var(--text);border-radius:999px;padding:7px 16px;font-size:13px;cursor:pointer;font-weight:600}
+.sortbar button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.loadmore-wrap{display:flex;justify-content:center;padding:6px 0 40px}
+.loadmore{background:var(--ink);color:#fff;border:none;border-radius:999px;padding:12px 34px;font-size:15px;font-weight:700;cursor:pointer}
+.loadmore:hover{opacity:.88}
+.icode.spent{opacity:.55}
+.icode.spent:hover{transform:none;box-shadow:none}
+.btn-ghost{display:inline-block;background:#fff;border:1px solid var(--line);color:var(--ink);border-radius:999px;padding:12px 28px;font-weight:700;font-size:15px;cursor:pointer;margin-left:10px}
+.btn-ghost.on{background:var(--ink);color:#fff;border-color:var(--ink)}
 /* invite codes */
 .invite-head{background:#fff;border:1px solid var(--line);border-radius:20px;padding:28px;margin:18px 0}
 .invite-head h2{font-size:22px;color:var(--ink);margin-bottom:8px}
@@ -183,7 +195,9 @@ body{min-height:100vh;display:flex;flex-direction:column}
     </section>
     <section class="stats" id="stats"></section>
     <nav class="filters" id="filters"></nav>
+    <div class="sortbar" id="sortbar"></div>
     <main id="grid"></main>
+    <div class="loadmore-wrap"><button id="loadMore" class="loadmore" style="display:none"></button></div>
   </section>
 
   <section id="viewInvite" hidden>
@@ -192,6 +206,7 @@ body{min-height:100vh;display:flex;flex-direction:column}
       <p id="inviteDesc"></p>
       <div class="invite-actions">
         <a id="inviteSubmit" class="btn-ink" href="https://github.com/jaxxchen003/muse-use-cases/issues/new?template=share-invite-code.yml" target="_blank" rel="noopener"></a>
+        <button id="inviteLeftOnly" class="btn-ghost"></button>
       </div>
       <p class="note" id="inviteNote"></p>
     </div>
@@ -211,6 +226,7 @@ const $ = s => document.querySelector(s);
 let DATA = null, activeCat = "all", activeView = "cases";
 let lang = localStorage.getItem("muse-lang") || "zh";
 let inviteLoaded = false;
+let sortMode = "new", onlyX = false, shown = 24, lastQ = "", inviteLeftOnly = false;
 
 const STR = {
   zh: {
@@ -236,7 +252,10 @@ const STR = {
     ownerBadge: "站长", usedWord: "已用", leftWord: "剩余", timesWord: "次",
     updateUsage: "更新使用次数 ↗",
     inviteLoading: "正在加载邀请码…", inviteEmpty: "还没有人分享邀请码，来做第一个吧 👆",
-    inviteFail: "加载失败，请稍后重试，或直接去 Issues 查看。"
+    inviteFail: "加载失败，请稍后重试，或直接去 Issues 查看。",
+    sortLabel: "排序", sortNew: "最新在前", sortOld: "最早在前", onlyX: "仅看附原帖",
+    loadMore: "加载更多", moreLeft: n => `还剩 ${n} 条`,
+    inviteLeftOnly: "仅看有剩余", inviteAll: "显示全部"
   },
   en: {
     logoSub: "Updated daily",
@@ -261,7 +280,10 @@ const STR = {
     ownerBadge: "Owner", usedWord: "Used", leftWord: "left", timesWord: "",
     updateUsage: "Update usage ↗",
     inviteLoading: "Loading invite codes…", inviteEmpty: "No invite codes yet — be the first 👆",
-    inviteFail: "Failed to load. Please retry later or check Issues directly."
+    inviteFail: "Failed to load. Please retry later or check Issues directly.",
+    sortLabel: "Sort", sortNew: "Newest first", sortOld: "Oldest first", onlyX: "With original post only",
+    loadMore: "Load more", moreLeft: n => `${n} more`,
+    inviteLeftOnly: "With remaining only", inviteAll: "Show all"
   }
 };
 const T = () => STR[lang];
@@ -306,6 +328,8 @@ function applyLang(){
   $("#inviteTitle").textContent = T().inviteTitle;
   $("#inviteDesc").textContent = T().inviteDesc;
   $("#inviteSubmit").textContent = T().inviteSubmit;
+  $("#inviteLeftOnly").textContent = inviteLeftOnly ? T().inviteAll : T().inviteLeftOnly;
+  $("#inviteLeftOnly").classList.toggle("on", inviteLeftOnly);
   $("#inviteNote").textContent = T().inviteNote;
   $("#btnZh").classList.toggle("on", lang === "zh");
   $("#btnEn").classList.toggle("on", lang === "en");
@@ -343,16 +367,34 @@ function renderAll(){
     `<button class="pill on" data-cat="all">${T().all}<span class="n">${DATA.cases.length}</span></button>` +
     DATA.cats.map(c => `<button class="pill" data-cat="${c.id}">${catName(c)}<span class="n">${counts[c.id]||0}</span></button>`).join("");
   document.querySelectorAll(".pill").forEach(p =>
-    p.addEventListener("click", () => { activeCat = p.dataset.cat; render(); }));
+    p.addEventListener("click", () => { activeCat = p.dataset.cat; shown = 24; render(); }));
+  $("#sortbar").innerHTML =
+    `<span class="lbl">${T().sortLabel}</span>` +
+    `<button data-sort="new" class="${sortMode === "new" ? "on" : ""}">${T().sortNew}</button>` +
+    `<button data-sort="old" class="${sortMode === "old" ? "on" : ""}">${T().sortOld}</button>` +
+    `<button data-onlyx="1" class="${onlyX ? "on" : ""}">${T().onlyX}</button>`;
+  document.querySelectorAll("#sortbar button[data-sort]").forEach(b =>
+    b.addEventListener("click", () => { sortMode = b.dataset.sort; shown = 24; renderAll(); }));
+  document.querySelectorAll("#sortbar button[data-onlyx]").forEach(b =>
+    b.addEventListener("click", () => { onlyX = !onlyX; shown = 24; renderAll(); }));
   render();
 }
 function render(){
   const q = $("#q").value.trim().toLowerCase();
-  const list = DATA.cases.filter(c =>
+  if (q !== lastQ){ lastQ = q; shown = 24; }
+  let list = DATA.cases.filter(c =>
     (activeCat === "all" || c.c === activeCat) &&
+    (!onlyX || c.x) &&
     (!q || (c.t + c.te + c.a + c.ae + c.d + c.de + c.r + c.re).toLowerCase().includes(q)));
-  $("#grid").innerHTML = list.length ? list.map(card).join("")
+  if (sortMode === "new") list = list.slice().reverse();
+  const total = list.length;
+  const page = list.slice(0, shown);
+  $("#grid").innerHTML = page.length ? page.map(card).join("")
     : `<div class="empty">${T().empty}</div>`;
+  const more = total - shown;
+  const btn = $("#loadMore");
+  if (more > 0){ btn.style.display = ""; btn.textContent = T().loadMore + " · " + T().moreLeft(more); }
+  else btn.style.display = "none";
   document.querySelectorAll(".pill").forEach(p =>
     p.classList.toggle("on", p.dataset.cat === activeCat));
 }
@@ -378,6 +420,10 @@ function parseInvite(issue){
     date: (issue.created_at || "").slice(0, 10)
   };
 }
+function remainingOf(inv){
+  if (inv.used !== null && inv.total !== null) return Math.max(inv.total - inv.used, 0);
+  return null;
+}
 function inviteCardHTML(inv, isOwner){
   const meta = [];
   if (inv.used !== null && inv.total !== null && inv.total > 0){
@@ -392,7 +438,8 @@ function inviteCardHTML(inv, isOwner){
       ? `<div class="icode-meta">${T().usedWord} ${inv.used}${T().timesWord}</div>`
       : `<div class="icode-meta">${T().usedWord} ${inv.used}</div>`);
   }
-  return `<article class="icode">
+  const spent = remainingOf(inv) === 0;
+  return `<article class="icode${spent ? " spent" : ""}">
     ${isOwner ? `<span class="owner-tag">${T().ownerBadge}</span>` : ""}
     <div class="icode-top"><code data-code="${inv.code}">${inv.code}</code>
       <button class="copybtn" data-code="${inv.code}">${T().copy}</button></div>
@@ -406,8 +453,19 @@ function renderInvites(){
   const owner = { code: "4P14HY", used: null, total: null,
     intro: lang === "zh" ? "站长 chen 的邀请码，欢迎使用" : "Owner chen's invite code — welcome aboard",
     user: "jaxxchen003", url: "", date: "" };
+  let list = INVITES.filter(i => i.code && i.code !== "4P14HY");
+  if (inviteLeftOnly) list = list.filter(i => remainingOf(i) !== 0);
+  list.sort((a, b) => {
+    const ra = remainingOf(a), rb = remainingOf(b);
+    if (ra === 0 && rb !== 0) return 1;
+    if (rb === 0 && ra !== 0) return -1;
+    if (ra === null && rb !== null) return 1;
+    if (rb === null && ra !== null) return -1;
+    if (ra !== null && rb !== null) return rb - ra;
+    return 0;
+  });
   const cards = [inviteCardHTML(owner, true)]
-    .concat(INVITES.filter(i => i.code && i.code !== "4P14HY").map(i => inviteCardHTML(i, false)));
+    .concat(list.map(i => inviteCardHTML(i, false)));
   $("#inviteGrid").innerHTML = cards.join("") ||
     `<div class="empty">${T().inviteEmpty}</div>`;
   document.querySelectorAll("[data-code]").forEach(el => {
@@ -451,6 +509,13 @@ $("#tabInvite").addEventListener("click", () => switchView("invite"));
 $("#btnZh").addEventListener("click", () => { lang = "zh"; applyLang(); });
 $("#btnEn").addEventListener("click", () => { lang = "en"; applyLang(); });
 $("#q").addEventListener("input", render);
+$("#loadMore").addEventListener("click", () => { shown += 24; render(); });
+$("#inviteLeftOnly").addEventListener("click", () => {
+  inviteLeftOnly = !inviteLeftOnly;
+  $("#inviteLeftOnly").textContent = inviteLeftOnly ? T().inviteAll : T().inviteLeftOnly;
+  $("#inviteLeftOnly").classList.toggle("on", inviteLeftOnly);
+  if (inviteLoaded) renderInvites();
+});
 $("#heroInviteBtn").addEventListener("click", () => {
   navigator.clipboard.writeText("4P14HY").then(() => {
     $("#heroInviteText").textContent = T().heroCopied;
