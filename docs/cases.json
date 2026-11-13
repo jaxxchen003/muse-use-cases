@@ -1,7 +1,7 @@
 {
   "meta": {
-    "count": 341,
-    "updated": "2026-11-13",
+    "count": 349,
+    "updated": "2026-11-14",
     "invite": "4P14HY",
     "repo": "https://github.com/jaxxchen003/muse-use-cases",
     "title": "Muse 实战案例库",
@@ -4874,8 +4874,8 @@
       "de": "He asked Muse to plan a Reel about \"the secondhand market collapsing\" and got the full kit in one pass — angle, format, timestamped script, B-roll, edit notes, caption, hashtags and timing; asked for a grabbier solo-filmable first 3 seconds under a minute, Muse reworked the opening."
     },
     {
-      "t": "“Hana”翻出无人认领的小钱：CVS、GoodRx、店内 ATM、亚马逊退货各一笔，德州“found money”还挂着一笔",
-      "te": "\"Hana\" dug up unclaimed small money: CVS, GoodRx, an in-store ATM and an Amazon return — one claim each, plus one still sitting on a Texas \"found money\" site",
+      "t": "“Hana”翻出无人认领的小钱：CVS、GoodRx、店内 ATM、亚马逊退货各一笔，德州“found money”还挂着 $88.26",
+      "te": "\"Hana\" dug up unclaimed small money: CVS, GoodRx, an in-store ATM and an Amazon return — one claim each, plus $88.26 still sitting on a Texas \"found money\" site",
       "c": "money",
       "a": "Kevin Moore（@kev_the_blind_pirate，Instagram，2026-11-12，盲人创作者）",
       "ae": "Kevin Moore (@kev_the_blind_pirate, Instagram, 2026-11-12, blind creator)",
@@ -4883,8 +4883,8 @@
       "b": "ok",
       "r": "散在五六个地方的小钱一次翻出来、告诉你哪笔能领",
       "re": "Small sums scattered across five or six places, surfaced at once with which ones can be claimed",
-      "d": "Muse 帮他翻出集体诉讼赔偿与无人认领资金：CVS 应用/网站 $5、GoodRx 卡 $5、店内 ATM $5、亚马逊退货遇阻各一笔，德州“found money”网站上还挂着属于他的钱。",
-      "de": "Muse surfaced class-action payouts and unclaimed funds: $5 via the CVS app, $5 on a GoodRx card, $5 in ATM fees, an Amazon return refunded late, plus money still listed for him on a Texas \"found money\" site."
+      "d": "Muse 帮他翻出集体诉讼赔偿与无人认领资金：CVS 应用/网站 $5、GoodRx 卡 $5、店内 ATM $5、亚马逊退货遇阻各一笔，德州“found money”网站上还挂着属于他的 $88.26。",
+      "de": "Muse surfaced class-action payouts and unclaimed funds: $5 via the CVS app, $5 on a GoodRx card, $5 in ATM fees, an Amazon return refunded late, plus $88.26 still listed for him on a Texas \"found money\" site."
     },
     {
       "t": "“Ben”语音优先：打字困难，她靠语音使唤它——涂色书项目、吃药提醒、可打印表格全接过去",
@@ -4924,6 +4924,110 @@
       "re": "Your saves reviewed every morning, recommendations pushed back in your taste",
       "d": "用 Spaces 搭“Jolly Mall”：每天早上 Muse 翻一遍 Instagram 收藏、生成个性化购物推荐，以 1990 年代邮购目录复古风格呈现，单品有点进详情；侧边栏还有“Lunchbox Planner”与“Pickup and Carpool”两个 Space。",
       "de": "He built a \"Jolly Mall\" Space: every morning Muse goes through his Instagram saves and generates personalized shopping recommendations in a 1990s mail-order catalog style, with product details on tap; the sidebar also holds a \"Lunchbox Planner\" and a \"Pickup and Carpool\" Space."
+    },
+    {
+      "t": "用上 Muse 的头几天，先从自家保险公司下手：在线聊一聊就省了 $504",
+      "te": "His first days with Muse started with his own insurer: a chat enquiry saved $504",
+      "c": "money",
+      "a": "James Belias（@sutherlandexp，X，2026-11-12）",
+      "ae": "James Belias (@sutherlandexp, X, 2026-11-12)",
+      "x": "https://x.com/sutherlandexp/status/2120832426847211850",
+      "b": "ok",
+      "r": "跟自家保险公司在线聊一聊，省了 $504",
+      "re": "A chat enquiry with his own insurer saved $504",
+      "d": "刚用上 Muse，接上个人邮箱；跟已经投保的保险公司在线聊了聊询价，省了 $504；他说给的权限越多、它越好用。",
+      "de": "New to Muse, he connected his personal email and saved $504 on a chat enquiry with an insurer he already uses; he says the more access you give it, the better it works."
+    },
+    {
+      "t": "不再半夜给酒吧发邮件：Muse 当订场经纪人，37 场演出排到明年 6 月",
+      "te": "No more midnight emails to bars: his Muse booking agent landed 37 gigs into next June",
+      "c": "business",
+      "a": "Graham Snyder（Facebook，2026-11-12）",
+      "ae": "Graham Snyder (Facebook, 2026-11-12)",
+      "x": "https://www.facebook.com/Graham3183/posts/pfbid0cWhVWCHSEva4cXKGDM31YNHyjSEcqybBz5FjTiUEw2TumB7gqo32Qj5v3gabHXsgl",
+      "b": "ok",
+      "r": "37 场演出订到明年 6 月，半夜发邮件的活不用自己干了",
+      "re": "37 gigs booked into next June — no more midnight emails to bars",
+      "d": "去年秋天还半夜给酒吧发邮件、大多没回音；让 Muse 当订场经纪人：推销场地、管日历与账本、有人回信立刻通知；已订下 37 个演出日、排到明年 6 月。",
+      "de": "Last fall he spent his nights emailing bars and mostly got nowhere; Muse now pitches the rooms, keeps his calendar and books, and tells him the minute somebody writes back — 37 dates booked, clear into next June."
+    },
+    {
+      "t": "房东的前台交给 Muse：首月 83 个咨询、13 场看房、租出 3 套",
+      "te": "A landlord's whole front office, run by Muse: 83 inquiries, 13 tours, 3 units leased in the first month",
+      "c": "business",
+      "a": "Michael Beaudry（Facebook，2026-11-13，musewins 归档）",
+      "ae": "Michael Beaudry (Facebook, archived 2026-11-13)",
+      "x": "https://www.facebook.com/beaudrysr/posts/pfbid02khsTBYbaJeCNwD1SXuzMU4s8i9bKbPzJnYBVHtJUqZyUnzAdMJZLevauSGZMYg1jl",
+      "b": "ok",
+      "r": "首月 83 个咨询、13 场看房、租出 3 套，业主只在看房与决策时出面",
+      "re": "83 inquiries, 13 tours and 3 units leased in the first month — the owner only steps in for tours and decisions",
+      "d": "给出租商业物业的客户搭的：agent 即时回每条 Marketplace 询价、要电话、约看房；管看房日程、把线索推给物业经理；物业经理没动静就自己升级跟进；每条线索进自维护 CRM。首月 83 个咨询、51 次跟进、13 场看房、6 份申请、租出 3 套。",
+      "de": "Built for a client who leases commercial space: the agent answers every Marketplace inquiry, asks for the phone number, offers a tour, manages showings, passes leads to the property manager and escalates if the manager goes quiet; every thread lives in a CRM the agent keeps. First month: 83 inquiries, 51 follow-ups, 13 tours, 6 applications, 3 units leased."
+    },
+    {
+      "t": "曾说 AI agent 没用，3 周后改口：Muse 自己投了 300+ 份简历，拿到十几次面试",
+      "te": "He called AI agents useless — then his Muse applied to 300+ jobs on its own and landed a dozen-plus interviews",
+      "c": "productivity",
+      "a": "u/Sssuree（Reddit r/MuseAgent，2026-11-13）",
+      "ae": "u/Sssuree (Reddit r/MuseAgent, 2026-11-13)",
+      "x": "https://www.reddit.com/r/MuseAgent/comments/1xumgx1/i_was_a_non_believe_until_it_started_working/",
+      "b": "ok",
+      "r": "3 周投出 300+ 份简历，拿到十几次面试、4 次进了第二轮",
+      "re": "300+ applications in 3 weeks, a dozen-plus interviews and 4 second rounds",
+      "d": "朋友 2–3 个月前推荐用 Muse 申请工作，他起初反对；调整提示词与工具后，Muse 用 hiringcafe 找本领域活跃且已验证的职位，3 周申请 300+ 份、每天约 15 份，还主动找 LinkedIn 招聘人员、发邮件联系、找招聘经理；自 10 月中旬起建仪表盘跟进。",
+      "de": "A friend recommended Muse for job hunting 2–3 months ago; he was against it at first. After tweaking prompts and tooling, Muse used hiringcafe to find active, verified jobs and applied to 300+ in 3 weeks, about 15 a day, while finding LinkedIn recruiters, emailing them and tracking down hiring managers; he has tracked it on a dashboard since mid-October."
+    },
+    {
+      "t": "没有现成的 4.6L V8 拆解图，他用 Muse 做了个可交互 3D 拆解：21 步、每步对着 Ford 工厂手册",
+      "te": "No clean breakdown of the 4.6L V8 existed — so he built an interactive 3D teardown with Muse, 21 steps matched to Ford's factory manual",
+      "c": "dev",
+      "a": "u/Super_Ad9558（Reddit r/MuseAgent，2026-11-12；r/CrownVictoria crosspost）",
+      "ae": "u/Super_Ad9558 (Reddit r/MuseAgent, 2026-11-12; crossposted from r/CrownVictoria)",
+      "x": "https://www.reddit.com/r/MuseAgent/comments/1xugsbk/looking_for_feedback_i_built_with_muse_an/",
+      "b": "ok",
+      "r": "21 步交互式 3D 拆解做出来了，每步都能对上 Ford 工厂手册",
+      "re": "A 21-step interactive 3D teardown, every step matched to Ford's factory manual",
+      "d": "汽车专业夜校学生、转行者，靠拆解学习；用 Muse 帮手、依据 Ford 工厂文档，做了 1999 Crown Victoria P71 的 4.6L Modular V8 交互式 3D 拆解：浏览器里可拆解、重装；共 21 步，每步遵循 Ford 工厂流程，步骤卡片链接到 Ford 服务页面与手册具体页、附完整工厂 303-01 章节；Play 模式可走完拆解/重装全程。",
+      "de": "An automotive night-school student and career changer built an interactive 3D teardown of the 4.6L Modular V8 from a '99 Crown Vic P71 with heavy help from Muse, working from Ford factory documentation: 21 steps, each following the factory procedure, with step cards linking to Ford service pages and manual pages plus the full factory section 303-01; a Play mode walks through the whole teardown and reassembly."
+    },
+    {
+      "t": "接上电力与燃气供应商，做了个家庭能耗仪表盘：月度用量与费用一目了然",
+      "te": "He connected Muse to his electric and gas provider and built a home energy dashboard",
+      "c": "productivity",
+      "a": "u/down_vote_magnet_（Reddit r/MuseAgent，2026-11-13）",
+      "ae": "u/down_vote_magnet_ (Reddit r/MuseAgent, 2026-11-13)",
+      "x": "https://www.reddit.com/r/MuseAgent/comments/1xuukej/created_the_energy_usage_dashboard_was_able_to/",
+      "b": "ok",
+      "r": "电/燃气账单接进来，月度用量与费用曲线一次看清",
+      "re": "Electric and gas bills connected — monthly usage and cost curves at a glance",
+      "d": "把 Muse 接到电力与燃气供应商（Eversource），做了家庭能耗仪表盘：月度用量与费用历史曲线，电费自 2024 年 5 月、燃气自 2023 年 11 月按账单周期计；2026 年 9 月用电峰值 534 kWh；最新账单周期 2026-09-09→10-07：电 354 kWh、燃气 15 therms，合计 $187.84。",
+      "de": "He connected Muse to his electric and gas provider (Eversource) and built a home energy dashboard: monthly consumption and cost history curves, billed per the supplier's cycles — electricity since May 2024, gas since November 2023 — with peak electricity use of 534 kWh in September 2026; the latest billed cycle, 2026-09-09 to 2026-10-07, shows 354 kWh of electricity and 15 therms of gas for $187.84."
+    },
+    {
+      "t": "“Musie”带她逛 Gainesville 美食 crawl：3 个点、预算 $45–65，连拍摄清单都做成 PDF",
+      "te": "\"Musie\" planned her Gainesville food crawl: 3 stops, a $45–65 budget, and a shot list — all delivered as a PDF",
+      "c": "travel",
+      "a": "Victoria Liu（@vickiiliu，Instagram，2026-11-12，7.1 万粉）",
+      "ae": "Victoria Liu (@vickiiliu, Instagram, 2026-11-12, 71K followers)",
+      "x": null,
+      "b": "cross",
+      "r": "3 个点、预算 $45–65、拍摄清单全做成一份 PDF",
+      "re": "3 stops, a $45–65 budget and a shot list — all in one PDF",
+      "d": "把选美食 crawl 地点的活交给 Muse“Musie”：先在步行距离内找 3 个本地点，再按“一个下午拍完”核对营业时间、给预算与拍摄清单；Muse 交回完整 PDF，3 个站点附介绍、预算约 $45–65、附详细拍摄清单。",
+      "de": "She handed picking food-crawl stops to her Muse \"Musie\": find 3 local spots within walking distance, then check opening hours against \"shoot it all in one afternoon\" and hand back a budget and a shot list; Muse returned a full PDF with 3 stops, introductions, a budget of about $45–65 and a detailed shot list."
+    },
+    {
+      "t": "要一台高流量滑移装载机，它自己上 Marketplace 全国找、还私信卖家",
+      "te": "He needed a high-flow skid steer — so it searched Marketplace nationwide and messaged sellers itself",
+      "c": "shopping",
+      "a": "Nathan Brooks（Facebook，2026-11-12）",
+      "ae": "Nathan Brooks (Facebook, 2026-11-12)",
+      "x": null,
+      "b": "cross",
+      "r": "全国翻 listing、一家家私信问，符合要求的机器找回来一台",
+      "re": "Listings searched nationwide, sellers messaged one by one — a fitting machine found",
+      "d": "做生意需要一台高流量滑移装载机，把要求与价格区间告诉 Muse 后，Muse 自己去 Facebook Marketplace 全国范围搜、给卖家发私信，找回来一台符合要求的；他说 Muse 的主动记忆层让它能接着上下文办事。",
+      "de": "He needed a high-flow skid steer for his business, so he gave Muse the requirements and a price range; it searched Facebook Marketplace nationwide and messaged sellers, and brought back a machine that fit; he says Muse's active memory lets it keep working from context."
     }
   ]
 }
