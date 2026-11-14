@@ -1,7 +1,7 @@
 {
   "meta": {
-    "count": 349,
-    "updated": "2026-11-14",
+    "count": 358,
+    "updated": "2026-11-15",
     "invite": "4P14HY",
     "repo": "https://github.com/jaxxchen003/muse-use-cases",
     "title": "Muse 实战案例库",
@@ -5028,6 +5028,123 @@
       "re": "Listings searched nationwide, sellers messaged one by one — a fitting machine found",
       "d": "做生意需要一台高流量滑移装载机，把要求与价格区间告诉 Muse 后，Muse 自己去 Facebook Marketplace 全国范围搜、给卖家发私信，找回来一台符合要求的；他说 Muse 的主动记忆层让它能接着上下文办事。",
       "de": "He needed a high-flow skid steer for his business, so he gave Muse the requirements and a price range; it searched Facebook Marketplace nationwide and messaged sellers, and brought back a machine that fit; he says Muse's active memory lets it keep working from context."
+    },
+    {
+      "t": "IRS 说他欠税，Muse 查税单一算：不但已缴清，IRS 反而欠他钱",
+      "te": "The IRS said he owed tax — his Muse checked the transcripts and found the IRS owed him instead",
+      "c": "money",
+      "a": "u/Nouvre588（Reddit r/MuseAgent，2026-11-13）",
+      "ae": "u/Nouvre588 (Reddit r/MuseAgent, 2026-11-13)",
+      "x": "https://www.reddit.com/r/MuseAgent/comments/1xv6ldo/muse_helped_me_dispute_a_tax_error/",
+      "b": "ok",
+      "r": "欠税通知变退税，12 月到账",
+      "re": "A tax-due notice turned into a refund, inbound in December",
+      "d": "IRS 又寄来通知说他欠税；他把税单传给 Muse，Muse 一查发现他早就缴清了，而且 IRS 反而欠他钱；Muse 还代他给 IRS 代表打了电话，退款 12 月到账。",
+      "de": "The IRS sent another notice saying he owed on his taxes; he loaded his tax transcripts into Muse, which found he had already paid — and that the IRS owed him money instead. It called the IRS representative for him, and the refund is inbound in December."
+    },
+    {
+      "t": "开车赶不上 4 小时升舱窗口，手表上的 Muse 一分钟抢下升舱座",
+      "te": "Driving past his 4-hour upgrade window, his watch Muse grabbed the seat in a minute",
+      "c": "travel",
+      "a": "u/shy_sherlock_holmes（Reddit r/MuseAgent，2026-11-13）",
+      "ae": "u/shy_sherlock_holmes (Reddit r/MuseAgent, 2026-11-13)",
+      "x": "https://www.reddit.com/r/MuseAgent/comments/1xuwzjl/helped_me_get_a_comfortable_seat_in_flight/",
+      "b": "ok",
+      "r": "开车途中一分钟升舱搞定",
+      "re": "An upgrade secured in a minute, from the driver's seat",
+      "d": "有 Frontier 航空会籍，起飞前 4 小时可免费选升舱座位；当时正在开车、没法靠边停车，就让手表上的 Muse 去办：Muse 从 Gmail 取确认码，一分钟内自己办完；他下车时每班仅 4 个的升舱座位已抢光。",
+      "de": "His Frontier status lets him pick a free upgrade seat 4 hours before departure — and he was driving at exactly that minute, with no way to pull over. He asked the Muse on his watch to do it; it pulled the confirmation code from Gmail and finished in about a minute, and by the time he got out of the car the flight's four upgradable seats were gone."
+    },
+    {
+      "t": "想念简单的日子，他用 Muse 给老诺基亚重做了贪吃蛇：绿屏、计分、越吃越快",
+      "te": "He misses the simple days, so he rebuilt Snake for his old Nokia screen — with Muse",
+      "c": "dev",
+      "a": "u/KhartoumGhoul（Reddit r/MuseAgent，2026-11-13）",
+      "ae": "u/KhartoumGhoul (Reddit r/MuseAgent, 2026-11-13)",
+      "x": "https://www.reddit.com/r/MuseAgent/comments/1xvankg/i_built_j2me_classic_snake_game_using_muse/",
+      "b": "ok",
+      "r": "老诺基亚贪吃蛇在 2026 年跑起来了",
+      "re": "The old Nokia Snake runs again in 2026",
+      "d": "做了个经典 Snake MIDlet（J2ME，MIDP 2.0 / CLDC 1.1），跑在手机 J2ME Loader 上，诺基亚绿屏原汁原味；方向键或 2/4/6/8 移动、FIRE 开始/暂停，最高分保存、吃得越多越快；他说只用了“一丁点 AI 助手帮忙”，怀旧是 100% 真的。",
+      "de": "He built a classic Snake MIDlet for J2ME (MIDP 2.0 / CLDC 1.1) that runs on J2ME Loader on his phone, Nokia green screen and all: arrow keys or 2/4/6/8 to move, FIRE to start and pause, a saved high score, and it gets faster the more you eat. He says it took only \"a little help from an AI assistant\" — \"but the nostalgia is 100% real\"."
+    },
+    {
+      "t": "悬浮 Muse 按钮是 Mac 专属，没有 Mac 的他让 Muse 现做了一个安卓版",
+      "te": "The floating Muse button was Mac-only — so his Muse built one for Android",
+      "c": "dev",
+      "a": "u/jakartaundercover（Reddit r/MuseAgent，2026-11-13）",
+      "ae": "u/jakartaundercover (Reddit r/MuseAgent, 2026-11-13)",
+      "x": "https://www.reddit.com/r/MuseAgent/comments/1xv2l8s/the_floating_muse_button_is_maconly_so_muse_built/",
+      "b": "ok",
+      "r": "安卓也有了悬浮 Muse 球，一个下午六版迭代到 v1.6",
+      "re": "Android got its own floating Muse bubble — six versions in one afternoon, v1.6 is the one",
+      "d": "发现悬浮 Muse 按钮是 Mac 应用功能，自己用安卓、没有 Mac，抱怨了一句（本是玩笑）；Muse 直接做了这款应用，叫 Muse Bubble：头像悬浮在任何应用之上，一点开 Muse、双击开设置、长按关闭，记位置、重启后自己回来；一个下午因为不断挑细节做了六个版本，v1.6 是最终完美版。",
+      "de": "He found out the floating Muse button is a Mac app feature; he is on Android, with no Mac, and complained about it — mostly as a joke. His Muse just built the app: Muse Bubble, her face floating over any other app — one tap opens Muse, double tap opens the bubble's settings, long press turns it off, it remembers where you parked it and comes back on its own after a reboot. Six versions in one afternoon of nitpicking later, v1.6 is the one."
+    },
+    {
+      "t": "一句“放《星际穿越》”，整台电视都听话：Muse 经 Home Assistant 接管客厅",
+      "te": "Say \"Play Interstellar\" and the whole TV obeys — his Muse runs the living room",
+      "c": "productivity",
+      "a": "u/Noratlam（Reddit r/MuseAgent，2026-11-13）",
+      "ae": "u/Noratlam (Reddit r/MuseAgent, 2026-11-13)",
+      "x": "https://www.reddit.com/r/MuseAgent/comments/1xv2yr5/i_turned_my_tv_into_a_fully_aicontrolled_media/",
+      "b": "ok",
+      "r": "电视使用频率翻倍：开口 5 秒办完",
+      "re": "He uses his TV twice as much now — 5 seconds from spoken command to done",
+      "d": "媒体设备跑 Kodi 与 SmartTube（YouTube），树莓派上装了 Home Assistant；Muse 经 Home Assistant 桥接电视与媒体设备，自然语言指挥：管整个 Kodi 电影库、整理并重命名影片；一句“放《星际穿越》，先暂停等我准备好”，开机到办完约 5 秒。",
+      "de": "His media device runs Kodi and SmartTube (YouTube), with Home Assistant on a Raspberry Pi; Muse connects through Home Assistant as the bridge to the TV and media devices, so plain spoken commands run everything: it manages the whole Kodi movie library, sorts and renames films properly, and handles the whole process in about 5 seconds — from turning on the TV to doing exactly what he asked."
+    },
+    {
+      "t": "用了两个月 Muse 当私人助理：每天 8 点晨报、收件箱先起草好回复，四条 routine 在跑",
+      "te": "Two months with Muse as a personal assistant: an 8 AM briefing every day, inbox replies pre-drafted, four routines running",
+      "c": "productivity",
+      "a": "u/Sea-Possible-4993（Reddit r/MetaAI，2026-11-09；经 @wealthiestempire IG 轮播 11-13 转述）",
+      "ae": "u/Sea-Possible-4993 (Reddit r/MetaAI, 2026-11-09; surfaced via @wealthiestempire's Instagram carousel on 2026-11-13)",
+      "x": "https://www.reddit.com/r/MetaAI/comments/1xryn81/ive_been_using_muse_as_a_personal_assistant_for_a/",
+      "b": "ok",
+      "r": "晨报 + 收件箱起草 + 四条 routine 每天自己跑",
+      "re": "Morning briefing, pre-drafted inbox replies and four routines — running themselves every day",
+      "d": "Muse 跨对话记上下文、跑固定 routine：每天 8 点晨报（前 3 项优先事项、日历、天气、待批复草稿）、一天多次查收件箱并按他的风格先起草好回复、分话题开对话；四块具体用法：备课（讲义与讨论题）、家庭后勤（比赛日程、旅行机票价格追踪）、行政跟进（发票、订阅）、可信研究（医生短名单）；他给的四条“训助手”经验：立好固定规则、错一次就纠正、关键事要求它先核实、一次只练一个 routine。",
+      "de": "His Muse remembers context across chats and runs fixed routines: an 8 AM briefing every day (top 3 priorities, calendar, weather, drafts awaiting approval), checking the inbox several times a day and pre-drafting replies in his voice, and separate chats per topic — teaching prep (handouts and discussion questions), family logistics (game-day checks, pickup reminders, flight and hotel price tracking), admin follow-ups (invoices, subscriptions), and trusted research (a verified, rated shortlist of doctors). His four tips for training an assistant: set fixed rules, correct it the moment it gets something wrong, make it verify before acting on anything important, and train one routine at a time."
+    },
+    {
+      "t": "摆摊的收据不用自己翻：它自己从邮件里找出来归档，发票到了还主动提醒",
+      "te": "Stall receipts, found and filed by itself: it digs them out of email and reminds him about invoices",
+      "c": "productivity",
+      "a": "@nimo_u_（Threads，2026-11-13，日语）",
+      "ae": "@nimo_u_ (Threads, 2026-11-13, in Japanese)",
+      "x": null,
+      "b": "cross",
+      "r": "收据自己归档、发票发货到点提醒",
+      "re": "Receipts filed themselves, invoices and shipping flagged on time",
+      "d": "日本用户：让 Muse 在一堆邮件里找与摆摊（chai stall）开支收据相关的信，Muse 自动把相关邮件抽出来、整理进一个文件夹；还根据邮件内容主动提醒发票与发货的事；他强调“自己什么都没做”，连帖子配文都是 Muse 写的。",
+      "de": "A Japanese user running a chai stall asked Muse to find expense receipts scattered across dozens of emails; Muse pulled the relevant messages out and filed them into a folder, and proactively reminded him about invoices and shipping from what the emails said. He stresses he \"did nothing himself\" — even the post's caption was written by Muse."
+    },
+    {
+      "t": "每天早上先递 Gmail 重点摘要：股价财报随问随查，资本利得税它帮着算",
+      "te": "A Gmail digest first thing every morning: stocks and earnings on demand, capital-gains tax worked out for him",
+      "c": "productivity",
+      "a": "@dansan5009（Threads，2026-11-13，日语）",
+      "ae": "@dansan5009 (Threads, 2026-11-13, in Japanese)",
+      "x": null,
+      "b": "cross",
+      "r": "晨间摘要 + 投资税务 + 旅行行程每天有人盯",
+      "re": "Morning digest, investment tax and travel plans — watched every day",
+      "d": "日本用户每天用 Muse 做四件事：早上收一份 Gmail 重要邮件摘要、随问随查股价与财报、最近让它算清资本利得与亏损的税务对冲、确认回补时机，全家旅行行程也交给它管。",
+      "de": "A Japanese user runs four things through Muse every day: a morning digest of important Gmail, stock prices and earnings on demand, working out capital-gains and loss tax offsets and confirming when to buy back in, and the whole family's travel itinerary."
+    },
+    {
+      "t": "假期全家那一摊，它一天接过去：妈妈的机票、健身时间、8–10 人聚餐采购单、弟弟的黑五篮球装备",
+      "te": "The whole family's holiday load, handed over in one day: his mom's flight, gym time, a dinner list for 8–10, his brother's Black Friday basketball gear",
+      "c": "travel",
+      "a": "Anthony Hamilton Jr（@hamilt0njr，Instagram，2026-11-13）",
+      "ae": "Anthony Hamilton Jr (@hamilt0njr, Instagram, 2026-11-13)",
+      "x": null,
+      "b": "cross",
+      "r": "假期筹备四件套一天接完",
+      "re": "Four holiday-prep jobs, handed over in a single day",
+      "d": "感恩节假期临近，他让 Muse 一天里接了四件活：给妈妈订亚特兰大飞洛杉矶的机票并比选项、在日程里找时间健身并加进日历、给 8–10 人的家庭聚餐列采购清单、给弟弟找黑五篮球装备折扣（球鞋与 Wilson NBA 篮球的具体推荐）；视频结尾一家人围坐吃感恩节大餐。",
+      "de": "With Thanksgiving coming, he handed Muse four jobs in a single day: book his mom's Atlanta-to-Los Angeles flight and compare options, find gym time in his schedule and add it to the calendar, write the shopping list for a family dinner of 8–10, and find Black Friday basketball-gear deals for his brother (specific sneaker and Wilson NBA ball picks). The video ends with the family sitting down to Thanksgiving dinner together."
     }
   ]
 }
