@@ -7,6 +7,8 @@
 
 📊 **收录案例：349** ｜ 🕐 **最后更新：2026-11-14** ｜ 🤖 每日 0 点自动更新 ｜ 🌐 **在线预览站（支持中英双语）：https://jaxxchen003.github.io/muse-use-cases/**
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/jaxxchen003) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jaxxchen003)
+
 ---
 
 ## 🎁 我的 Muse 邀请码：`4P14HY`
@@ -2318,6 +2320,12 @@
 - 部分高额节省案例来自 Meta 营销活动 **#MuseMoneyChallenge**，多为用户自述，实际因人而异
 - 部分"电话谈判"类案例经报道实际有人工参与执行，并非纯 AI 完成
 - 本库仅做信息整理，不构成消费或投资建议
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jaxxchen003/muse-use-cases&type=Date)](https://star-history.com/#jaxxchen003/muse-use-cases&Date)
 
 ---
 

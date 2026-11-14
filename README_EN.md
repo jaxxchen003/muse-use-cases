@@ -7,6 +7,8 @@
 
 📊 **349 cases** ｜ 🕐 **Last updated: 2026-11-14** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/jaxxchen003) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jaxxchen003)
+
 ---
 
 ## 🎁 My Muse invite code: `4P14HY`
@@ -781,6 +783,12 @@ Auto-updated daily at 00:00 (Beijing time).
 - Some big-savings cases come from Meta's **#MuseMoneyChallenge** campaign and are self-reported
 - Some viral "phone negotiation" cases reportedly involved human agents, not pure AI
 - Informational only; not consumer or investment advice
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jaxxchen003/muse-use-cases&type=Date)](https://star-history.com/#jaxxchen003/muse-use-cases&Date)
+
+---
 
 ## 🗒️ Changelog
 
