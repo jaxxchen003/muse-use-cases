@@ -7,7 +7,7 @@
 
 📊 **349 cases** ｜ 🕐 **Last updated: 2026-11-14** ｜ 🤖 Auto-updated daily at 00:00 (Beijing time) ｜ 🌐 **Live site (Chinese/English): https://jaxxchen003.github.io/muse-use-cases/**
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/jaxxchen003) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jaxxchen003)
+[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/jaxxchen003) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/chrischen003)
 
 ---
 
