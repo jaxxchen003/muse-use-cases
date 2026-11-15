@@ -5,7 +5,7 @@
 > Meta 个人 AI 智能体 **Muse** 的真实高价值玩法合集。
 > 收录标准：**收录 X / Reddit / Instagram / Facebook / Threads 上的真实用户分享**，优先收录结果明确、有数字、可复制的案例。
 
-📊 **收录案例：358** ｜ 🕐 **最后更新：2026-11-15** ｜ 🤖 每日 0 点自动更新 ｜ 🌐 **在线预览站（支持中英双语）：https://jaxxchen003.github.io/muse-use-cases/**
+📊 **收录案例：373** ｜ 🕐 **最后更新：2026-11-16** ｜ 🤖 每日 0 点自动更新 ｜ 🌐 **在线预览站（支持中英双语）：https://jaxxchen003.github.io/muse-use-cases/**
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/jaxxchen003) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/chrischen003)
 
@@ -36,12 +36,12 @@
 
 ## 📑 目录
 
-- [💰 省钱 · 账单 · 索赔](#-省钱--账单--索赔)（75）
-- [✈️ 出行 · 旅行](#️-出行--旅行)（42）
-- [🛒 购物](#-购物)（37）
-- [⚡ 效率 · 自动化](#-效率--自动化)（114）
-- [🎨 内容 · 创作](#-内容--创作)（26）
-- [🛠️ 开发 · 建站](#️-开发--建站)（23）
+- [💰 省钱 · 账单 · 索赔](#-省钱--账单--索赔)（76）
+- [✈️ 出行 · 旅行](#️-出行--旅行)（45）
+- [🛒 购物](#-购物)（38）
+- [⚡ 效率 · 自动化](#-效率--自动化)（119）
+- [🎨 内容 · 创作](#-内容--创作)（27）
+- [🛠️ 开发 · 建站](#️-开发--建站)（27）
 - [💼 生意 · 维权](#-生意--维权)（41）
 - [🤝 参与方式](#-参与方式)
 - [⚠️ 免责声明](#️-免责声明)
@@ -539,6 +539,13 @@
 - **结果**：**欠税通知变退税，12 月到账**
 - **可复制性**：⭐⭐⭐⭐ “税单丢给 agent、先算清再打电话”的样本；用户自述口径，退款金额未在帖中说明
 
+### 359. 叫它 Sparx：翻出 17 个被遗忘的订阅、一个个取消，一年省 $4,000+ ✅
+- **作者**：u/AdEvening6998（Reddit r/MuseAgent，2026-11-14）
+- **原帖**：https://www.reddit.com/r/MuseAgent/comments/1xwbe6p/muse_has_saved_me_over_4000_a_year/（2026-11-14）
+- **做法**：给自己的 Muse 起名 Sparx；让它去翻这些年办下又忘掉的订阅，一个个找出来——17 个以上不再需要；经他允许，Sparx 自己去取消，其中不少是他自己退订时会被“踢皮球”的账户
+- **结果**：**17 个被遗忘订阅取消，称一年省 $4,000+**
+- **可复制性**：⭐⭐⭐⭐ “订阅大扫除 + 代取消”的样本；用户自述口径，$4,000+ 只出现在帖子标题、正文未列金额
+
 ## ✈️ 出行 · 旅行
 
 ### 29. 航班延误 7 小时，5 分钟拿到 $250 积分 🟡
@@ -809,6 +816,25 @@
 - **结果**：**假期筹备四件套一天接完**
 - **可复制性**：⭐⭐⭐⭐ “假期筹备成组托管”的用法样本；创作者实拍演示口径；感恩节 + 黑五节点，家庭场景的 agent 用法第一次成组出现；原帖直链未公开，细节以 cwybruce 第 50 期摘要为准
 
+### 360. 全美航班停飞那天，她的 Muse Pip 三度抢票：$419 售罄、$425 售罄，第三次 $325.40 订到 ✅
+- **作者**：Rachel Gainsbrugh（@drrachelgainsbrugh，与 @short.term.gems 合著，Instagram，2026-11-15）
+- **原帖**：https://www.instagram.com/reel/DfviPJDEjzn/（2026-11-15）
+- **做法**：FAA 前一天停飞全美航班，她滞留佛罗里达、儿子当晚有 homecoming；一边收拾行李一边口述交给 Muse Pip：第一次找到迈阿密出发 $419 的座位、她确认后售罄，第二次 $425 同样售罄，第三次迈阿密飞亚特兰大 $325.40 成功订到；她经安全链接自己付款，Pip 没碰卡号；Pip 还把日期、时间与确认号发给了她的管理员；她管理员同时搜到的最好座位是单程 $2,000
+- **结果**：**停飞日三度抢票，$325.40 订到回家机票**
+- **可复制性**：⭐⭐⭐⭐ “航班大面积停飞日的语音抢票”样本；用户自述口径；Pip 一开始给的是最后一排中间座，管理员随后换到前排靠窗——AI 快、人工收尾
+
+### 361. 它替我打电话去酒店砍 2 晚起订：两家都说不行、狗每晚加 $25，没订成也如实汇报 🟡
+- **作者**：Snehal（@snehals.playground，Instagram，2026-11-14）
+- **做法**：创作者屏录实测：一次让 Muse 办了三件小事——① 打电话给 Avalon 的 Hermosa Hotel & Cottages 和 Catalina Canyon Inn，想把 2 晚起订改成 1 晚、带一只 15 磅的 Shih Tzu：Muse 先问清她的名字、声音偏好、回拨电话与狗狗信息再打过去，回来如实汇报——两家都坚持 2 晚起订、狗狗每晚加 $25，没订成；② 查未付过路费：翻出一笔 $2.28 的 SR261 违规（10 月 13 日，Irvine West 出口），确认之前 $59.78 已付清后，用存档 Visa 付掉 $2.28；③ 盯 HYROX San Diego 门票开售：先报“官方未公布”，随后按 RoxRadar 推送“11 月 19 日中午 12 点 PT 开售”，并注明官网仍写“soon”
+- **结果**：**没办成的电话也如实汇报；$2.28 过路费付掉、门票开售时间盯住**
+- **可复制性**：⭐⭐⭐⭐ “打了、对方拒绝了、如实汇报”的首例样本；电话代打 11 月 12 日刚向美国付费用户开放；原帖直链未公开，细节以 cwybruce 第 51 期摘要为准
+
+### 368. 音乐节周末全托付给 “Chunky”：Portola 接送、订 Burma Love，回来还报了 2 万多步 🟡
+- **作者**：Priyanka Naik（经 @muse 官方 Threads 转发，2026-11-14）
+- **做法**：她给自己的 Muse 取名 “Chunky”（一只“相当圆润贪吃的海豹”），周末去旧金山 Portola 音乐节全程交给它：先拆周末计划、报 Portola 接送信息、推荐 Burma Love 与 Teakwood 两家餐厅并订好位；跨州出行前按“环保时髦精”风格给穿搭建议，她白天黑夜两套都穿上了；回来一问，周末走了 2 万多步
+- **结果**：**音乐节周末接送订位穿搭一次排好、回来还有步数总结**
+- **可复制性**：⭐⭐⭐ “音乐节周末全托付”的用法样本；来源为 @muse 官方账号转发的用户演示；原帖直链未公开，细节以 cwybruce 第 51 期摘要为准
+
 ## 🛒 购物
 
 ### 39. 拍照一键上架 Marketplace（定价 + 文案一次搞定）
@@ -1048,6 +1074,12 @@
 - **做法**：做生意需要一台高流量（high-flow）滑移装载机，把要求与价格区间告诉 Muse 后，Muse 自己去 Facebook Marketplace 全国范围搜、给卖家发私信，找回来一台符合要求的；他说 Muse 的主动记忆层让它能接着上下文办事——给它要求与预算，它自己去找、去问
 - **结果**：**全国翻 listing、一家家私信问，符合要求的机器找回来一台**
 - **可复制性**：⭐⭐⭐ “二手设备代找 + 代问卖家”的用法样本；用户自述口径，成交与否未说明，不做“已成交”背书；原帖直链未公开，细节以 cwybruce 第 49 期摘要为准
+
+### 362. 一个下午，18 件二手上架四个平台：给它照片，它查同款成交价、写标题描述，一半的上架是它自己点的 🟡
+- **作者**：George “Big George” Kokoris（@biggeorgessecondact，Instagram，2026-11-14）
+- **做法**：他和妻子经营转售生意，写 eBay listing 向来最耗时；一个下午把商品照片交给 Muse：Muse 查同款成交价、写标题与描述、一步步带着他走完上架流程——约 3 小时，18 件商品上架 eBay、Vinted、OfferUp 与 Facebook Marketplace 四个平台；他说其中一半基本是 Muse 自己点的，他只在 eBay 上点了几个按钮；中途也有被平台挡住、要人工接手的时候
+- **结果**：**3 小时 18 件二手上架四平台**
+- **可复制性**：⭐⭐⭐⭐ “转售生意批量上架”的样本；用户自述 + 卖家后台录屏口径，18 件/3 小时为作者自报；原帖直链未公开，细节以 cwybruce 第 51 期摘要为准
 
 ## ⚡ 效率 · 自动化
 
@@ -1785,6 +1817,39 @@
 - **结果**：**晨间摘要 + 投资税务 + 旅行行程每天有人盯**
 - **可复制性**：⭐⭐⭐ “晨间摘要 + 投资税务”的日常用法样本；用户自述口径，帖尾邀请码口径不采纳；原帖直链未公开，细节以 cwybruce 第 50 期摘要为准
 
+### 363. 酸面团也有日程表：它把食谱做成带计时器的 Space，几点回家揉面、整形、进烤箱一目了然 ✅
+- **作者**：u/therealtechknew（Reddit r/MuseAgent，2026-11-14）
+- **原帖**：https://www.reddit.com/r/MuseAgent/comments/1xvqr8x/sourdough_bread_tracker_i_can_plan_appointments/（2026-11-14）
+- **做法**：做了个酸面团制作 Space：把 Preppy Kitchen 的酸面团食谱交给 Muse，让它做成追踪器；可选开始时间，查看 mixing、stretch-and-folds、shaping、baking 各步骤的到家时间，每步有计时器、标记完成即进入下一步；发酵仍需看面团状态、不能完全按钟表来
+- **结果**：**做面包不用守着面团，约会能不能排一眼看清**
+- **可复制性**：⭐⭐⭐ “食谱变日程追踪器”的 Space 样本；用户自述口径
+
+### 364. 一个 Muse，96 项活：六周时间，非技术出身的他把全家交给一个 agent ✅
+- **作者**：u/Destable（Reddit r/MuseAgent，2026-11-14）
+- **原帖**：https://www.reddit.com/r/MuseAgent/comments/1xwbn4k/when_i_got_muse_i_searched_everywhere_for_ideas/（2026-11-14）
+- **做法**：六周时间、业余时间，他和 Muse 搭出 96 项能力，每项都写清“用什么搭成”：家庭网络探查（网关延迟、丢包、测速、局域网设备普查）、保险库（Muse 登录网站不用看密码）、HomeKit（32 个 Apple Home、160+ 配件）、预算工作簿、家庭食谱网站等；他只负责把需求说清楚、做判断、在 Muse 卡住时帮着想办法
+- **结果**：**96 项能力六周搭成，家里从网络到家务有人盯**
+- **可复制性**：⭐⭐⭐⭐⭐ “非技术用户 + 六周 + 96 项”的完整方法论样本；用户自述口径；原帖列全 96 项做法，本条为代表性节选
+
+### 365. 租车生意不用天天盯：每天早上它先查新订单，取车还车提醒 WhatsApp 自动发 ✅
+- **作者**：u/Plane_Moose_8098（Reddit r/MuseAgent，2026-11-15；法语标题，正文为 r/MuseAssistant 英文交叉帖）
+- **原帖**：https://www.reddit.com/r/MuseAgent/comments/1xwij8t/ce_que_mon_assistant_ia_vient_de_configurer_pour/（2026-11-15）
+- **做法**：每天早上先查自己租车网站的新订单；有新单就问他要租客联系方式，剩下的全接过去：取车前一晚发 WhatsApp 确认信息、还车前一晚发归还提醒，MacBook 合上也能自动发；每天早上还检查 WhatsApp 连接是否存活，断了就先把消息备好等他复制发送
+- **结果**：**租车提醒全自动，租客准时收到、他只负责点头**
+- **可复制性**：⭐⭐⭐⭐ “小生意日常提醒自动化”的样本；用户自述口径；帖子正文只写“a real AI assistant”，Muse 身份来自 r/MuseAgent 分区语境
+
+### 366. 健身教练的后台叫 “Suki”：学员报一组训练，它几秒内记好组数、围度与补剂 🟡
+- **作者**：Susan Day Belcher（@susan_day_23，Instagram，2026-11-14）
+- **做法**：健身教练把自己的 Muse 叫 “Suki”，用来跑健身生意与播客的后台：学员发来一组训练（高脚杯深蹲、罗马尼亚硬拉、俯卧撑），连同围度、肌酸与 Peptide X 的用量，Suki 几秒内确认已记录、跨设备同步；她说此前总被问“学员数据多到崩溃怎么管”，答案就是交给 Suki 记
+- **结果**：**学员训练数据几秒记好、跨设备同步**
+- **可复制性**：⭐⭐⭐ “健身教练客户数据后台”的用法样本；创作者自述口径；原帖直链未公开，细节以 cwybruce 第 51 期摘要为准
+
+### 367. 用了两周，它开始替我盯场子：健身房空位每小时查一次、快过期的积分与通勤卡它先提醒 🟡
+- **作者**：@ltepam たんたん（Threads，2026-11-14，日语）
+- **做法**：日本用户用 Muse 两周，总结了几件“不只是聊天”的用法：每小时查一次健身房空位、有空就发通知；快过期的积分与通勤卡，到期前先提醒；第二天比赛的天气与换乘路线，提前查好递上来
+- **结果**：**空位、过期、换乘全有人惦记**
+- **可复制性**：⭐⭐⭐ “两周使用后的常规自动化”样本；用户自述口径；原帖直链未公开，细节以 cwybruce 第 51 期摘要为准
+
 ## 🎨 内容 · 创作
 
 ### 59. 每天早上 8 点的 AI 新闻播客
@@ -1939,6 +2004,13 @@
 - **做法**：他让 Muse 帮他策划一条讲“二手市场崩塌”的 Reel（面向大学生与年轻职场人），Muse 一次递上全套：角度（“Secondhand isn't dying. The bargain is.”）、格式、带时间戳的逐字脚本、B-roll 建议、剪辑备注、文案、标签与发布时间；他又追问一句“前 3 秒再抓人一点、能一个人拍、1 分钟内”，Muse 改了一版开场——向镜头扔衣服、三机位简化。他的定性值得记：想点子容易，难的是策划和拍摄
 - **结果**：**角度、脚本、机位、文案全套一次递上，再按要求改前 3 秒**
 - **可复制性**：⭐⭐⭐⭐ “内容策划全套 + 迭代改稿”的用法样本；创作者实拍演示；帖尾“看看你的 agent 能做什么”属下载号召口径不采纳
+
+### 369. 一个创意、一上午：Muse Lily 把“喷气式卡车吓唬安静街区”拍成了恐怖预告片 ✅
+- **作者**：u/Impossible_Nose_4844（Reddit r/MuseAgent，2026-11-14）
+- **原帖**：https://www.reddit.com/r/MuseAgent/comments/1xwamc9/muse_creating_movie_trailers/（2026-11-14）
+- **做法**：早上给自己的 Muse Lily 一个创意：一辆喷气式半挂卡车在安静街区作祟，致敬《Christine》与《The Car》；Lily 写剧本、生成片段、执导配音、剪辑、成片检查后交给他，一上午完成一分钟预告片；他有 30 多年电影、特技与制片经验
+- **结果**：**一个创意一上午变成一分钟恐怖预告片**
+- **可复制性**：⭐⭐⭐ “一句话创意 → 成片”的创作样本；用户自述口径；成片在 YouTube，未逐帧核验，按帖文记
 
 ## 🛠️ 开发 · 建站
 
@@ -2095,6 +2167,34 @@
 - **做法**：发现悬浮 Muse 按钮是 Mac 应用功能，自己用安卓、没有 Mac，抱怨了一句（本是玩笑）；Muse 直接做了这款应用，叫 Muse Bubble：头像悬浮在任何应用之上，一点开 Muse、双击开设置（大小、隐藏、关闭）、长按关闭，记位置、重启后自己回来；一个下午因为不断挑细节做了六个版本，v1.6 是最终完美版
 - **结果**：**安卓也有了悬浮 Muse 球，一个下午六版迭代到 v1.6**
 - **可复制性**：⭐⭐⭐⭐ “没有的功能让 agent 现做一个”的开发样本；用户自述口径，“she”是作者给自己 Muse 起的人格
+
+### 370. 零建站经验，三天：Muse Vincent 帮他把家谱做成网站、还管托管 ✅
+- **作者**：u/Low_Belt_2611（Reddit r/MuseAgent，2026-11-14）
+- **原帖**：https://www.reddit.com/r/MuseAgent/comments/1xvwt20/i_used_meta_muse_to_create_and_host_an_entire/（2026-11-14）
+- **做法**：想做家谱网站多年，没时间整理有限的研究、零建站经验；让自己的 Muse Vincent 帮忙：搜公开记录补全研究、设计、搭建并托管网站，还专门设了个 Space 当后端、方便管理更新与反馈；利用上下班前后空闲时间，三天做完；他是 Power Plan 订阅用户，那周大部分 token 都花在这上面
+- **结果**：**三天做出并上线家谱网站，带后端与留言本**
+- **可复制性**：⭐⭐⭐⭐ “零经验三天建站 + 托管”的样本；用户自述口径；Muse 托管无法看访问统计，用留言本做了变通
+
+### 371. 闲置迷你电脑变私人 Netflix：Muse 经 SSH 搭好 Jellyfin，他全程几乎没碰终端 ✅
+- **作者**：u/toohightottype（Reddit r/MuseAgent，2026-11-14；r/MuseAssistant 交叉帖）
+- **原帖**：https://www.reddit.com/r/MuseAgent/comments/1xwcb7k/muse_turned_my_mini_pc_into_a_media_server/（2026-11-14）
+- **做法**：家里有台闲置 Beelink 迷你电脑，不知道干什么用，就问了 Muse；几小时后跑起 Ubuntu + Docker，Jellyfin 当私人 Netflix、qBittorrent 下片；大电脑把 Ubuntu 安装盘写进 U 盘，之后全由迷你电脑自己跑；手机上加个下载、片子自己进 Jellyfin，手机小遥控器能播放暂停、调音量、开关字幕；蓝牙音箱遥控器也能暂停电影
+- **结果**：**闲置小电脑几小时变私人影院，Ryzen 3 + 8GB 跑 1080p 没问题**
+- **可复制性**：⭐⭐⭐⭐ “旧硬件 + SSH 远程搭建”的样本；用户自述口径；全程只在聊天里确认步骤、几乎没碰终端
+
+### 372. 不到两个月，他让 Muse 建了这一堆：圣经新译本、Discord 机甲游戏、自家应用商店 ✅
+- **作者**：u/Aetheric_Space（Reddit r/MuseAgent，2026-11-14）
+- **原帖**：https://www.reddit.com/r/MuseAgent/comments/1xvs4pn/when_man_meets_machine_nothing_is_impossible/（2026-11-14）
+- **做法**：不到两个月，他让 Muse 建的不是提示词、是能跑的东西：圣经 Aingel Chronicles——81 卷埃塞俄比亚正典、从 Ge'ez 重新翻译，免费；Discord 机甲多人文字游戏 Hardened-Core Universal（任务、竞技场、派系、战争）；自家应用商店，含 Signal Scanner、BrentGuard Family、KUROpet 等应用；还有两家 Unicity 生意网站与“水晶棱镜量子相对论”理论及星系旋转曲线模拟
+- **结果**：**不到两个月攒出一串能跑的作品，称用了 80 亿 token**
+- **可复制性**：⭐⭐⭐ “两个月集中建造”的作品集样本；用户自述口径；付费应用与生意网站为作者自有项目，README 只附 Reddit 原帖
+
+### 373. 等不及 Meta 出共享审核，他自己做了：Muse Space 也能加人类或 AI 审核员，免费 ✅
+- **作者**：u/MoneyMgtow（Reddit r/MuseAgent，2026-11-14）
+- **原帖**：https://www.reddit.com/r/MuseAgent/comments/1xvr4ms/museai_shared_spaces_multi_human_and_ai_agents/（2026-11-14）
+- **做法**：他觉得 Meta 几个月内可能会出类似功能，但“可能不免费、还可能烧掉大量 token”，于是自己先做了 MuseAI Shared Spaces：给自己的 Space 加审核员，可以是人、可以是 AI、也可以两者都有，分不同权限等级；还做了自定义中继，称比 Meta 自己出要省约一半 token；仓库 Git-FED/MuseAi-Shared-Spaces，免费
+- **结果**：**Space 共享审核自己先做出来了，人或 AI 都能当审核员**
+- **可复制性**：⭐⭐⭐ “社区先行补官方功能空缺”的开发样本；用户自述口径；这是作者自建的第三方项目、并非 Meta 官方功能
 
 ## 💼 生意 · 维权
 
@@ -2391,6 +2491,7 @@
 
 ## 🗒️ 更新日志
 
+- **2026-11-16**：新增 15 个案例（musewins 11-15 归档 10 条 + cwybruce 第 51 期 5 条：u/AdEvening6998 的 Muse Sparx 翻出 17 个被遗忘订阅并代取消、称一年省 $4,000+；Rachel Gainsbrugh 全美航班停飞那天 Muse Pip 三度抢票、$325.40 订到迈阿密飞亚特兰大；Snehal 打电话砍酒店 2 晚起订未果如实汇报、付 $2.28 过路费、盯 HYROX 门票 11 月 19 日开售；George Kokoris 一个下午 18 件二手上架四个平台；u/therealtechknew 酸面团食谱做成带计时器的日程追踪 Space；u/Destable 一个 Muse 六周 96 项能力；u/Plane_Moose_8098 租车生意每天早上查新订单、WhatsApp 自动发取车还车提醒；Susan Day Belcher 健身生意后台叫 “Suki”；@ltepam 用了两周、健身房空位每小时查、积分通勤卡过期先提醒；Priyanka Naik 音乐节周末全托付给 “Chunky”；u/Impossible_Nose_4844 的 Muse Lily 一上午导演喷气卡车恐怖预告片；u/Low_Belt_2611 三天零经验让 Muse Vincent 设计搭建托管家谱网站；u/toohightottype 闲置 Beelink 迷你电脑变 Jellyfin 私人 Netflix；u/Aetheric_Space 不到两个月让 Muse 建了圣经新译本、Discord 机甲游戏、自家应用商店；u/MoneyMgtow 自建 MuseAI 共享空间、给 Space 加人类或 AI 审核员）。10 条标 ✅（浏览器实地读到九条 r/MuseAgent 原帖与一条 IG reel，作者、时间、正文三要素一致；本轮 musewins 的 Reddit 直链 10/10 正确；Sparx 的 $4,000+ 只在标题出现、正文未列金额；租车帖正文只写“a real AI assistant”，Muse 身份来自 r/MuseAgent 分区语境；共享空间为作者自建第三方项目、非官方功能；Pip 先给最后一排中间座、管理员随后换前排靠窗）；5 条标 🟡（Snehal、Kokoris、Belcher、ltepam、Naik 原帖直链未公开，按规范只留作者文本、不附链接，细节以 cwybruce 第 51 期摘要为准）。未收录：cwybruce 第 51 期已排除的 8 项（alliekmiller $1,300 订阅审计与第 46 期前 LinkedIn 同案重复；Stephen Thompson Sidekick 品牌口径；Anthony Hamilton Jr 与第 50 期重复；Digital Laura “10 小时赚 $10,000”无可核细节；@brandonmeaux 点子教程无实测；MG Business $85 有线账单二手转述；电话代打转述与第 49 期重复；Roberto P. Nickson 设备展示无任务结果）；5 组行业观察（Paul Walsh 隐私分析、Sierra Poppy 1.0、HUMAN Security agent 流量、WSJ 日文版代付、Rob Leathern prompt injection）为新闻分析、非用户案例，不收。messagingagents / musecases HTML md5 与昨日完全相同、17muse 直链集无变化（首页轮换浮现 Wendell 三条站长旧案：旅游险 11-08、Map Code 11-10、拍收据记账 11-09，均已出窗口、记入回填积压）；shipwithmuse 轮换 19 条均为 2026-04-12～09-21 旧帖；useofmuse.com 最新仍为 2026-10-13；agentusecases.ai Muse 计数 72（与昨日持平）；X 关键词搜索只返回网页文章与无关结果（MUSE 币、Muse 乐队、模型榜）、无窗口内新用户案例；Issues 无 new-case 标签投稿；r/MuseAgent RSS 再次返回 bot 墙 HTML（连续八日），Reddit 覆盖缺口依旧——本轮 Reddit 核验改走浏览器实地读帖，九条均未遇登录墙直接读到全文。总数 373。
 - **2026-11-15**：新增 9 个案例（musewins 11-14 归档 5 条 + cwybruce 第 50 期 4 条：u/Nouvre588 IRS 说他欠税、Muse 查税单发现已缴清且 IRS 反欠他钱、代打电话退款 12 月到账；u/shy_sherlock_holmes 开车赶不上 4 小时升舱窗口、手表 Muse 一分钟抢下 Frontier 升舱座；u/KhartoumGhoul 用 Muse 给老诺基亚重做 J2ME 贪吃蛇；u/jakartaundercover 悬浮 Muse 按钮 Mac 专属、Muse 现做安卓版 Muse Bubble 六版到 v1.6；u/Noratlam Muse 经 Home Assistant 接管 Kodi 电视与电影库、一句“放《星际穿越》”5 秒办完；u/Sea-Possible-4993 用了两个月 Muse 当私人助理、每天 8 点晨报、四条 routine 在跑；@nimo_u_ 摆摊收据自己从邮件里翻出来归档；@dansan5009 每天早上先递 Gmail 重点摘要、资本利得税它帮着算；Anthony Hamilton Jr 假期全家那一摊一天接过去）。6 条标 ✅（浏览器实地读到五条 r/MuseAgent 原帖与一条 r/MetaAI 原帖，作者、时间、正文三要素一致；本轮 musewins 的 Reddit 直链 5/5 正确、与昨日 3/4 有误形成对比）；3 条标 🟡（nimo_u_、dansan5009、hamilt0njr 原帖直链未公开，按规范只留作者文本、不附链接，细节以 cwybruce 第 50 期摘要为准）。未收录：musewins stephen-thompson-sidekick（UFC 选手 Stephen Thompson “Sidekick”备战演示，@muse 官方 Threads 品牌运动员合作口径，cwybruce 第 50 期亦未单列）；@jasonxt2026 “Ernesto 省近 $2,000”为第 47 期 Courtney Johnson 案的二次转发；@museai.cases Nick 租车买断省 $1,250 为早期 Nick Prince 案的二手转述；CyberGuy “6,800+ 个 Muse 分享聊天可被公开搜到”与第 41 期 Claroc 10-20 事件同一源头；@stlpercy “Costco 电视 $299 比价”为插画演示、无真实使用证据；电话代打功能各路 11-13 转述与第 49 期官方口径重复；Malachi Cooper 房产 FSBO 晨报教程第 49 期已记为无结果佐证。messagingagents / musecases HTML md5 与昨日完全相同、17muse 直链集无变化；shipwithmuse 轮换 20 条均为 2026-08-06～09-22 旧帖；useofmuse.com 最新仍为 2026-10-13；agentusecases.ai Muse 计数 72（与昨日持平）；X 关键词搜索只返回 9–10 月旧闻与网页文章、无窗口内新用户案例；Issues 无 new-case 标签投稿；r/MuseAgent RSS 再次返回 bot 墙 HTML（连续七日），Reddit 覆盖缺口依旧——本轮 Reddit 核验改走浏览器实地读帖。总数 358。
 - **2026-11-14**：新增 8 个案例（musewins 11-13 归档 4 条 + cwybruce 第 49 期 11-12 分享 2 条 + 浏览器实地核验 Reddit 2 条：James Belias 跟自家保险公司在线聊一聊省 $504；Graham Snyder Muse 当订场经纪人、37 场演出排到明年 6 月；Michael Beaudry 房东前台全托管、首月 83 咨询/13 看房/租出 3 套；u/Sssuree 3 周投 300+ 份简历、十几次面试/4 次第二轮；u/Super_Ad9558 用 Muse 做 4.6L V8 交互式 3D 拆解、21 步对 Ford 工厂手册；u/down_vote_magnet_ 接电/燃气供应商做家庭能耗仪表盘；Victoria Liu“Musie”Gainesville 美食 crawl 3 个点、预算 $45–65、拍摄清单成 PDF；Nathan Brooks 要高流量滑移装载机、Muse 上 Marketplace 全国找还私信卖家。6 条标 ✅（Jina 抓到 sutherlandexp X 原帖与 Graham Snyder FB 原帖全文；浏览器实地读到 sssuree、V8 拆解、能耗仪表盘三条 Reddit 原帖，作者、时间、正文三要素一致），2 条标 🟡（Beaudry FB 链接确认解析到对应作者与帖子、登录墙挡住正文；Victoria Liu 与 Nathan Brooks 原帖直链未公开，按规范只留作者文本、不附链接，细节以 cwybruce 第 49 期摘要为准）。另修正 #338：musewins 全文转录与昨日 Jina 截断处“Plus eighty-eight dol…”交叉印证，德州“found money”金额补为 $88.26。未收录：cwybruce 第 49 期 Tom Eggemeier Zendesk CEO“5 天省 $3,105”——Forbes 与 Fortune 金额口径对不上（$3,105/5 天 vs $3,150/年）、访谈为 10 月下旬旧内容、非平台原帖；@trentevolaa“ Milo”150 美元家居代购与 Sasha DiGiulian“Arlo”均为 #MetaPartner 品牌合作口径；musewins kevin-moore-class-action 与已收录 #338 同一帖（Kevin Moore IG 11-12）；musewins muse-gadgets-hardware 的 Reddit 链接有误（ID 1otfsgz 实际指向 2025 年他版帖子）、站内搜索亦未找到该标题帖子，无法核验；musewins 的 V8 拆解与能耗仪表盘链接 ID 同样有误（1ottkqh 页面不存在、1otn4n4 指向 2025 年他版 NSFW 帖子），已用浏览器站内搜索找到正确链接 1xugsbk 与 1xuukej 并逐条核验——musewins 的 Reddit 直链今后须逐条实地核验、不可直接采信；agentusecases.ai Muse 计数 69→72（新增 3 条未定位，抽查的一条“自动投简历”引用的 X 原帖为 10-09 旧帖，属旧案积压）；shipwithmuse 轮换 22 条均为 7–9 月旧帖、最新 filedAt 仍为 2026-11-10（已收录 #323）；messagingagents HTML md5 与昨日完全相同、musecases/17muse/musewins 链接集除上述新增外无变化；useofmuse.com 最新仍为 2026-10-13；X 关键词搜索只返回 9–10 月旧闻与网页文章、无窗口内新用户案例；Issues 无 new-case 标签投稿；r/MuseAgent RSS 再次返回 bot 墙 HTML（连续六日），Reddit 覆盖缺口依旧——本轮 Reddit 核验改走浏览器实地读帖。总数 349。
 - **2026-11-13**：新增 10 个案例（cwybruce 第 48 期 11-10/11/12 IG/FB/Threads 分享 10 条：Eric Siu 301 份招聘申请、不到 3 美分筛出 4 个全职人选；Shama Hyder 7 条上海收藏 reel 翻成多日行程；Jamian Polk“Leroy Jenkins”NBA League Pass 双重扣费一年约 $460；Leah Herring“Trevor”盗刷善后找出漏掉的 3 笔未授权交易、重配 QuickBooks 让收款不断；Tal Navarro“Avatal”Stripe 未收 $16,292、Slack 纠错、团队讨论变下周营销日历；Parth Anand 一条 Reel 全套先写好再改前 3 秒；Kevin Moore“Hana”集体诉讼与无人认领小额；Claret M. Belle“Ben”语音优先无障碍；@deals_so_good 老婆生日前夜提醒；@gspark337“Jolly Mall”每天早上翻 IG 收藏推购物推荐。4 条标 ✅（Jina 抓到 Eric Siu、Shama Hyder、Parth Anand、Kevin Moore 原帖全文，人物、金额、做法三要素与日报一致），6 条标 🟡（原帖直链已确认解析到对应作者与帖子 ID，但 IG/FB/Threads 登录墙与 FB 验证码墙挡住部分全文，细节以日报摘要为准，数字均为作者自报），总数 341。未收录：第 48 期同期的 @muse 官方 Ashton Hall“Ash”与 Justin Gaethje“Highlight”品牌广告口径与第 47 期重复、Peter Yang $800/年账单谈判的 @alstackdaily 二次剪辑（原案第 1 期已收录）、@museai.cases TreePen18“$480/年网费谈判”二手转述推广账号内容、@theaiimpact 四例汇编（9–10 月旧帖二手汇编）、Rony Meisler WhatsApp 讲解 + 自家社群引流（第 47 期已记）、@juanesogo Matt Robb 地址事件复述（第 3/5 期及 AP 跟进已收录）、@stacksignallabs“Sam 一夜四任务”演示脚本 + 邀请码口径、@kenshotshot 粤语助手以邀请码引流为主（第 47 期已记）、@harrytaylor_property 房产中介“Muse”为第三方借名产品、Muse Ember 各路二次转述与第 46 期重复、@metaforbusiness 小企业轮播为官方营销素材（第 47 期已记）、多语言“介绍 Muse 是什么”科普视频与邀请码/评论领指南类引流帖继续过滤；1 组行业观察（Active Memory + Active Focus 11-06 起全员免费）非用户案例；messagingagents/musecases/17muse/musewins 链接集与昨日完全一致、无新增；shipwithmuse 轮换 22 条均为 7–9 月旧帖、最新 filedAt 仍为 2026-11-10（已收录 #323）、无窗口内新增；useofmuse.com 最新仍为 2026-10-13、0 条 11 月条目；agentusecases.ai Muse 计数仍为 69（与昨日实测一致，昨日日志误记为 68）、无新增；X 关键词搜索只返回 9–10 月旧闻与网页文章、无窗口内新用户案例；Issues 新增多条邀请码帖（11-12 当日新建，含 #301–#330），无 new-case 标签投稿；r/MuseAgent RSS 再次返回 bot 墙 HTML（连续五日），Reddit 覆盖缺口依旧。
