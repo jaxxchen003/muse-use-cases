@@ -770,12 +770,13 @@ function inviteCardHTML(inv, isOwner){
   </article>`;
 }
 function renderInvites(){
-  const owner = { code: "4P14HY", used: null, total: null,
-    intro: lang === "zh" ? "站长 chen 的邀请码，欢迎使用" : "Owner chen's invite code — welcome aboard",
+  const owner = { code: "4P14HY", used: 30, total: 30,
+    intro: lang === "zh" ? "站长 chen 的邀请码，已用完" : "Owner chen's invite code — fully used",
     user: "jaxxchen003", url: "", date: "" };
   let list = INVITES.filter(i => i.code && i.code !== "4P14HY");
   const seen = new Set();
   list = list.filter(i => { if (seen.has(i.code)) return false; seen.add(i.code); return true; });
+  list.push(owner);
   if (inviteLeftOnly) list = list.filter(i => remainingOf(i) !== 0);
   list.sort((a, b) => {
     const ra = remainingOf(a), rb = remainingOf(b);
@@ -786,10 +787,9 @@ function renderInvites(){
     if (ra !== null && rb !== null) return rb - ra;
     return 0;
   });
-  const nCodes = list.length + 1;
+  const nCodes = list.length;
   $("#inviteCount").textContent = T().inviteCount(nCodes);
-  const cards = [inviteCardHTML(owner, true)]
-    .concat(list.map(i => inviteCardHTML(i, false)));
+  const cards = list.map(i => inviteCardHTML(i, i.code === "4P14HY"));
   $("#inviteGrid").innerHTML = cards.join("") ||
     `<div class="empty">${T().inviteEmpty}</div>`;
   document.querySelectorAll("[data-code]").forEach(el => {
