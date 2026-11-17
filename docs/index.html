@@ -804,17 +804,25 @@ function copyCode(code, btn){
       setTimeout(() => btn.textContent = old, 1500); }
   });
 }
-function loadInvites(){
+async function loadInvites(){
   if (inviteLoaded) return;
   inviteLoaded = true;
   $("#inviteGrid").innerHTML = `<div class="empty">${T().inviteLoading}</div>`;
-  fetch(ISSUES_API).then(r => r.json()).then(list => {
-    INVITES = (Array.isArray(list) ? list : [])
-      .filter(i => !i.pull_request).map(parseInvite);
+  try {
+    let page = 1, all = [];
+    while (true){
+      const r = await fetch(ISSUES_API + "&page=" + page);
+      const list = await r.json();
+      if (!Array.isArray(list) || list.length === 0) break;
+      all = all.concat(list);
+      if (list.length < 100) break;
+      page++;
+    }
+    INVITES = all.filter(i => !i.pull_request).map(parseInvite);
     renderInvites();
-  }).catch(() => {
+  } catch (e){
     $("#inviteGrid").innerHTML = `<div class="empty">${T().inviteFail}</div>`;
-  });
+  }
 }
 
 function renderAds(){
