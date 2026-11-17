@@ -1,0 +1,38 @@
+name: 📌 申请本周置顶
+description: 在 X 上分享本仓库，为你的案例赢得首页置顶位（每周 3 个，先到先得）
+title: "[置顶申请] "
+labels: ["pin-apply"]
+body:
+  - type: input
+    id: x_handle
+    attributes:
+      label: 你的 X 用户名
+      description: 只能置顶你自己的案例，案例原帖的作者须是这个账号
+      placeholder: 例：jaxxchen003（不用带 @）
+    validations:
+      required: true
+  - type: input
+    id: post
+    attributes:
+      label: X 分享帖链接
+      description: 在 X 上分享本仓库的帖子，帖子正文或链接须包含 github.com/jaxxchen003/muse-use-cases，且须在本周内发布
+      placeholder: 例：https://x.com/jaxxchen003/status/1234567890123456789
+    validations:
+      required: true
+  - type: input
+    id: case
+    attributes:
+      label: 要置顶的案例编号
+      description: 案例库里的编号（README / 预览站里的 #数字），且该案例的原帖作者是你本人
+      placeholder: 例：401
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: 置顶规则
+      options:
+        - label: 我已知晓：每周只有 3 个置顶位，按核验通过的先后顺序，先到先得；申请自提交起 7 天内有效，每周一 00:00 置顶位清空重排
+          required: true
+        - label: 我已知晓：核验由定时任务自动完成（每天 00:30），通过后自动上首页，无需人工确认；未通过的申请不会单独通知
+          required: true

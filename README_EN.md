@@ -20,6 +20,18 @@
 
 ---
 
+## 📌 Share to pin: 3 homepage slots every week
+
+The homepage banner and invite-page slots are no longer ads: only **3 slots** each week, first come first served, reset every Monday at 00:00 (Beijing time).
+
+1. Post on X sharing this repo — the post must link `github.com/jaxxchen003/muse-use-cases` and be published within the current week;
+2. File an Issue with the [“Apply for this week's pin”](https://github.com/jaxxchen003/muse-use-cases/issues/new?template=apply-pin.yml) template: your X handle, the share-post link, and the case number to pin;
+3. A scheduled job verifies daily at 00:30: the post exists, you wrote it, and the case's original author is you. Verified entries take the open slots in submission order; overflow waits in line, and an application stays valid for 7 days from submission.
+
+You can only pin your own case; failed verifications are not notified individually.
+
+---
+
 ## 📖 Verification standard
 
 | Badge | Meaning |
