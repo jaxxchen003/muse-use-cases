@@ -11,7 +11,7 @@
 
 ---
 
-## 🎁 My Muse invite code: `4P14HY`
+## 🎁 My Muse invite code: `NWR2CN`
 
 - 📱 **Mobile app**: Muse App → Settings → **Redeem token** (available within 48 hours of joining)
 - 💻 **Web**: muse.ai → Settings → General → Usage → **Redeem invite code**
