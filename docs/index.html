@@ -838,6 +838,11 @@ function renderInvites(){
     if (ra !== null && rb !== null) return rb - ra;
     return 0;
   });
+  // 站长码始终置顶（用完后除外：剩余为 0 时仍按正常排序沉底）
+  if (remainingOf(owner) !== 0) {
+    const oi = list.findIndex(i => i.code === owner.code);
+    if (oi > 0) { const [o] = list.splice(oi, 1); list.unshift(o); }
+  }
   const nCodes = list.length;
   $("#inviteCount").textContent = T().inviteCount(nCodes);
   const cards = list.map(i => inviteCardHTML(i, i.code === "NWR2CN"));
