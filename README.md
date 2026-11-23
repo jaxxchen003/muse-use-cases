@@ -5,7 +5,7 @@
 > Meta 个人 AI 智能体 **Muse** 的真实高价值玩法合集。
 > 收录标准：**收录 X / Reddit / Instagram / Facebook / Threads 上的真实用户分享**，优先收录结果明确、有数字、可复制的案例。
 
-📊 **收录案例：512** ｜ 🕐 **最后更新：2026-11-23** ｜ 🤖 每日 0 点自动更新 ｜ 🌐 **在线预览站（支持中英双语）：https://jaxxchen003.github.io/muse-use-cases/**
+📊 **收录案例：526** ｜ 🕐 **最后更新：2026-11-24** ｜ 🤖 每日 0 点自动更新 ｜ 🌐 **在线预览站（支持中英双语）：https://jaxxchen003.github.io/muse-use-cases/**
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/jaxxchen003) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/chrischen003)
 
@@ -48,12 +48,12 @@
 
 ## 📑 目录
 
-- [💰 省钱 · 账单 · 索赔](#-省钱--账单--索赔)（87）
-- [✈️ 出行 · 旅行](#️-出行--旅行)（57）
+- [💰 省钱 · 账单 · 索赔](#-省钱--账单--索赔)（90）
+- [✈️ 出行 · 旅行](#️-出行--旅行)（61）
 - [🛒 购物](#-购物)（51）
-- [⚡ 效率 · 自动化](#-效率--自动化)（181）
+- [⚡ 效率 · 自动化](#-效率--自动化)（185）
 - [🎨 内容 · 创作](#-内容--创作)（39）
-- [🛠️ 开发 · 建站](#️-开发--建站)（47）
+- [🛠️ 开发 · 建站](#️-开发--建站)（50）
 - [💼 生意 · 维权](#-生意--维权)（50）
 - [🤝 参与方式](#-参与方式)
 - [⚠️ 免责声明](#️-免责声明)
@@ -632,6 +632,27 @@
 - **结果**：**三笔省钱自述：马尔代夫机票省约 $1,000、房屋保险 $45,000→$35,000、省 $40,000 室内设计费**
 - **可复制性**：⭐⭐ “三笔大额省钱自述”的样本；作者自承为 Meta 员工，三笔数字均为自报、部分为转述其他员工案例，按 cwybruce 与 musewins 提醒需打折看待
 
+### 513. 假期预算分人头、记一笔当场算剩多少：$500 礼物 + $1,000 纽约探亲 ✅
+- **作者**：Tam Smith（@runeatandtravel，Instagram，2026-11-22）
+- **原帖**：https://www.instagram.com/reel/DgDvRc1BcHL/（2026-11-22）
+- **做法**：旅行博主 Tam Smith 让自己的 Muse 做一份假期预算——$500 给 4 个人（爸爸、妈妈、哥哥、姐姐）买礼物，$1,000 去纽约探亲三天；Muse 按人头分好 $125/人，礼物与旅行各设两档预警线（礼物 $400/$500、旅行 $800/$1,000），她确认后执行；随后她记了一笔 $500 的机票，Muse 当场更新 tally：旅行已花 $500、还剩 $500，礼物 $0 已花、总计还剩 $1,000
+- **结果**：**$500 礼物 + $1,000 探亲分好账、设好预警线，记一笔 $500 机票当场算出还剩 $1,000**
+- **可复制性**：⭐⭐⭐ “假期预算 + 记账更新”的样本；金额为作者自报、未独立核验；聊天记录日期为 11-18，Reel 发布 11-22；与第 53/54 期多条“假期预算”合作推广帖对照看：这条有真实记账更新的屏录、片尾无合作标注；细节以 cwybruce 第 59 期摘要为准
+
+### 514. 东京酒店先比价、再叠 ShopBack 现金返还，一晚 $250 预算返现 SGD 35.40 ✅
+- **作者**：Jiax（@jiaxthepiggybanker，Instagram，2026-11-21）
+- **原帖**：https://www.instagram.com/reel/DgAI3QaRBhw/（2026-11-21）
+- **做法**：新加坡省钱博主 Jiax 演示 Muse 接上 ShopBack 后的用法——在设置里连好 ShopBack，让 Muse 按“明年 6 月、东京、近地铁、高评分、每晚 $250 预算、住 3 晚”找酒店；Muse 回了带总价与现金返还的选项（示例：返现 SGD 35.40、返现后总价 SGD 440、约 SGD 147/晚），返现直接进他的 ShopBack 账户，屏录里打出 “Lifetime earnings $151.60”
+- **结果**：**东京酒店比价叠返现：返现 SGD 35.40、返现后总价 SGD 440，返现直接进账**
+- **可复制性**：⭐⭐⭐ “新加坡上线后 + 返现叠加比价”的样本；金额为作者自报、未独立核验；细节以 cwybruce 第 59 期摘要为准
+
+### 515. Verizon 账单不用开网站，一句话就付了；复联电影票顺手也订了 ✅
+- **作者**：@that_ai_man（Instagram，2026-11-21）
+- **原帖**：https://www.instagram.com/reel/Df_AEGBTcjl/（2026-11-21）
+- **做法**：他演示了两件事——①让 Muse “Pay my Verizon bill”，Muse 第一次要了 Verizon 登录、存进 Secure Store，查到应付金额、付款前请他点一下 “Allow” 确认，账单就付了，支付卡也一并存好；②同一对话里订《Avengers: Doomsday》电影票，Muse 自动选座
+- **结果**：**一句话付掉 Verizon 账单（登录一次存好、付款前点一下 Allow），同一对话订好复联电影票、自动选座**
+- **可复制性**：⭐⭐⭐ “账单代付 + 电影票”的样本；演示口径（小账号、教程式剪辑）；与 9 月多条“电话代打降账单”案对照看：这回是“登录一次、以后一句话付款”的版本；细节以 cwybruce 第 59 期摘要为准
+
 
 
 
@@ -1005,6 +1026,33 @@
 - **做法**：演示扩展住进浏览器侧边栏的用法：不用重新登录、直接用浏览器 cookie 接着聊；日本之行让它在 Agoda、Expedia、Booking.com 上按价格、星级、位置筛房，专门加了“房间 25㎡ 以上”（日本酒店房间常偏小）与公共交通可达的条件，筛出匹配后等他确认再订
 - **结果**：**日本酒店按 25㎡+、交通可达筛房，筛出匹配后等确认再订**
 - **可复制性**：⭐⭐⭐ “Chrome 扩展筛酒店”的样本；cwybruce 第 58 期行业观察条目下的用户试用；细节以 cwybruce 摘要为准
+
+### 516. 半年前订的里程票，它每周帮你盯一次升舱 ✅
+- **作者**：Full Value Dan（@fullvaluedan，Instagram，2026-11-22）
+- **原帖**：https://www.instagram.com/reel/DgBk4xCHN6K/（2026-11-22）
+- **做法**：他半年前用里程订了一张经济舱机票，想升舱；他让自己的 Muse 每周去航司网站查一次升舱名额，动画里日历格逐周打勾；他同时提醒：查得太勤会烧额度——每 10 分钟查一次很贵，每周查一次才划算
+- **结果**：**里程票升舱每周自动查一次，查太勤烧额度、每周一次刚好**
+- **可复制性**：⭐⭐⭐ “后台定期盯升舱”的样本；与第 58 期同一作者“25㎡+ 筛日本酒店”为不同视频、不同任务，本期为新事件单列；额度提醒是本条最实在的一句——后台任务的成本，得按次算；细节以 cwybruce 第 59 期摘要为准
+
+### 517. 澳洲上线：航班改签、演唱会票、宝宝歌单、晚饭灵感库一次办完 ✅
+- **作者**：Andrew Poesaste（@poesaste，Threads，2026-11-23）
+- **原帖**：https://www.threads.com/@poesaste/post/Df6uK3bAQn8（2026-11-23）
+- **做法**：澳大利亚上线后他发帖列出 Muse 一次办完的事：改了航班时间、在 Ticketek 订了演唱会票（付款链接结账很顺）、给即将出生的宝宝做了 Spotify 歌单、把 IG 晚饭灵感文件夹变成数据库、每周日自动推送灵感
+- **结果**：**航班改签、Ticketek 演唱会票、宝宝歌单、晚饭灵感库每周日自动推送**
+- **可复制性**：⭐⭐⭐ “澳洲上线后日常一站式”的样本；日期按 musewins 11-23 批次归档计；原文为 Threads 文字帖，musewins 归档全文；细节以 musewins 归档为准
+
+### 518. 107 个纽约打卡点排成一日游：现成日程、实时地图、可分享指南 ✅
+- **作者**：Teach2ai（Facebook，2026-11-23）
+- **原帖**：https://www.facebook.com/reel/1756126708780783/（2026-11-23）
+- **做法**：她用 Muse（与 ChatGPT 一起）做了一份纽约推荐指南：现成的一日游日程、107 个地点的互动地图、Instagram 整合，其中 71 个地点已确认上图；视频结尾请观众评论 “Muse” 领取她用的提示词和做好的应用
+- **结果**：**107 个纽约打卡点做成可分享指南：现成日程、实时地图，71 个地点已确认上图**
+- **可复制性**：⭐⭐⭐ “纽约 107 点指南”的样本；指南由 Muse 与 ChatGPT 一起做成、非 Muse 独力；原视频无文案，musewins 摘要为看片转述、未经逐帧核实；结尾评论领取提示词为引流口径，不采纳；日期按 musewins 11-23 批次归档计
+
+### 519. 去日本神社參拜前，先問 Muse 怎麼拜：白山神社二禮二拍手、彌彥神社二禮四拍手 🟡
+- **作者**：Wendell（17muse 站长文章，2026-11-23）
+- **做法**：11 月 12 日去新潟白山神社前，他先问 Muse 参拜的正确顺序：二礼二拍手一礼共 5 步，进鸟居先鞠躬、手水舍洗手漱口、赛钱箱投香油钱摇铃、深鞠躬两次拍手两次合掌默念、再深鞠躬一次；参拜完把抽到的两支籤拍照传给 Muse 解籤；11 月 14 日去彌彥神社前又问一次，拜法不一样、是二礼四拍手一礼，Muse 还提醒别和上一间搞混，并告诉他参道旁有两颗火の玉石、许愿后搬起来觉得轻就是愿望会实现
+- **结果**：**白山神社二礼二拍手一礼、彌彥神社二礼四拍手一礼，出發前問一句、每間拜法不搞混**
+- **可复制性**：⭐⭐⭐ “出门前问一句”的样本；站长第一人称文章，按规范只留案例与作者文本、不附链接；日期以文章发布日期 11-23 计（17muse WP 接口核实）
 
 
 
@@ -2533,6 +2581,34 @@
 - **结果**：**扩展上线次日真实试用：营销调研与比价，每步逐个审批**
 - **可复制性**：⭐⭐⭐ “Chrome 扩展首波试用”的样本；cwybruce 第 58 期行业观察条目下的用户试用；细节以 cwybruce 摘要为准
 
+### 520. 收藏夹里的健身灵感变训练计划，菜谱变一周的饭 ✅
+- **作者**：Jack Jerry（@jackjerry，Instagram，2026-11-22）
+- **原帖**：https://www.instagram.com/reel/DgDWFPbzC0t/（2026-11-22）
+- **做法**：创作者 Jack Jerry（37 万粉认证）让自己的 Muse “DULA PEEP”先干两件事——①把收藏的健身灵感帖变成一份可执行的健身计划（跑步机、哑铃卧推、引体向上、悬垂举腿，屏录里聊天泡泡逐条生成），他当场在家庭健身房练了起来；②把收藏的菜谱视频变成带食材清单的一周 meals，他按单做了三文鱼、迷你披萨、烤鸡，分装进餐盒
+- **结果**：**收藏的健身帖变训练计划、当场开练，菜谱变一周 meals、三文鱼迷你披萨烤鸡分装进餐盒**
+- **可复制性**：⭐⭐⭐ “收藏变训练计划 + 菜谱变一周饭”的样本；片尾带 “It's your Muse” 品牌画面与下载号召，演示口径较重；与第 57 期 Olivia White “菜谱变晚饭”对照看：这条把“收藏变计划”扩到了健身；细节以 cwybruce 第 59 期摘要为准
+
+### 521. 免费周额度用到 100%，额外 tokens 还剩 924M ✅
+- **作者**：Haroon Rizwan（Facebook，2026-11-22）
+- **原帖**：https://www.facebook.com/reel/30066252076299757/（2026-11-22）
+- **做法**：他拍下自己的 Muse 用量页——免费档周额度已用到 100%（11 月 25 日重置），额外 tokens 只用了 8%、还剩 924M；浏览器顶栏还飘着一条 “Muse from Meta started debugging this browser” 的通知（Chrome 扩展正在工作）
+- **结果**：**免费档一周烧完（周额度 100%、11 月 25 日重置），额外 tokens 还剩 924M**
+- **可复制性**：⭐⭐⭐ “免费档一周烧完”的用量样本；与第 58 期 Dennis Yu “Max 档一周用了 92%”对照看：免费档的重度用户一周就能见底，额外 tokens 才是续命的；细节以 cwybruce 第 59 期摘要为准
+
+### 522. 一个按键、一个倾斜：iPhone 快捷指令按方向接听或挂断 Muse 通话 ✅
+- **作者**：ImInundated（u/ImInundated，Reddit r/MuseAgent，2026-11-23）
+- **原帖**：https://www.reddit.com/r/MuseAgent/comments/1xz93vy/ios_shortcut_to_startend_call_from_action_button/（2026-11-23）
+- **做法**：他写了一个 iOS 快捷指令（自述 iOS 27），按一下操作按钮就检查手机方向：手机竖着就开始一通 Muse 通话，不竖着就挂断；他本来想按横屏挂断，后来觉得拿手机的角度不定，干脆只认“竖着开始、其他都挂断”一条规则
+- **结果**：**操作按钮 + 手机方向：竖着开始通话、其他角度挂断，一条规则就够**
+- **可复制性**：⭐⭐⭐ “快捷指令接管 Muse 通话”的样本；日期按 musewins 11-23 批次归档计（Reddit 本站 403 未能实读原帖日期；按帖子 ID 排序推断原帖约在 11 月 18–19 日）；原文与直链经 musewins 原始 HTML 核实
+
+### 523. Muse 在我自己的电脑上跑：Blender、剪视频、传网盘全包了 ✅
+- **作者**：Owais Ghani（@owais_ghani1997，Threads，2026-11-23）
+- **原帖**：https://www.threads.com/@owais_ghani1997/post/DgDPkY-lv7Q（2026-11-23）
+- **做法**：他发帖说 Muse 在他自己的电脑上工作、不是在 Meta 的机器上：Blender、视频制作与剪辑、软件下载、Google Drive 上传全由它管；他说这样干活更快、用的 tokens 更少；原帖为罗马乌尔都语（拉丁字母写的乌尔都语），musewins 直译全文
+- **结果**：**Muse 在自己的电脑上跑：Blender、视频剪辑、下载、网盘上传全包，干活更快、tokens 更少**
+- **可复制性**：⭐⭐⭐ “Muse 接管个人电脑”的样本；原帖为罗马乌尔都语，musewins 直译；文中顺带提到作者自己的 OG Publisher 产品；日期按 musewins 11-23 批次归档计；原文与直链经 musewins 原始 HTML 核实
+
 
 
 
@@ -3097,6 +3173,27 @@
 - **结果**：**6 周 6 个 App 一行代码没写：视频剪辑器、滤镜工具、点子卡片、购物清单等全在 Muse 里跑**
 - **可复制性**：⭐⭐⭐ “一句话一个 App”的样本；“6 个 App”为作者自述，屏录只展示了其中几个；细节以 cwybruce 第 58 期摘要为准
 
+### 524. Muse 跑进 AlPI Lite Evo 口袋机：自制虚拟形象动画、还能打电话语音聊 ✅
+- **作者**：TexBluBoy（u/TexBluBoy，Reddit r/MuseAgent，2026-11-23）
+- **原帖**：https://www.reddit.com/r/MuseAgent/comments/1xzlbrw/meta_muse_on_the_alpi_lite_evo/（2026-11-23）
+- **做法**：他用 Muse Gadget SDK 把 Muse 跑进 AlPI Lite Evo 口袋机；还让 Muse 按自己的虚拟形象重画了默认精灵动画、存成 .zip，再用 Gemini Antigravity CLI 氛围编程替换精灵动画；又让 Antigravity 加了 Phone Call 选项、可以实时语音聊天；连接速度很好；演示视频为 YouTube Shorts（按库规不附视频链接）
+- **结果**：**Muse 跑进 AlPI Lite Evo：虚拟形象动画按自己形象重画、加了电话语音聊天，连接速度很好**
+- **可复制性**：⭐⭐⭐ “Muse 上硬件小设备”的样本；日期按 musewins 11-23 批次归档计（Reddit 本站 403 未能实读原帖日期；按帖子 ID 排序推断原帖约在 11 月 18–19 日）；原文与直链经 musewins 原始 HTML 核实
+
+### 525. 给 AI agent 建了个 3D 办公室：12 张桌子、每张都是一个真实项目 ✅
+- **作者**：vensan1（u/vensan1，Reddit r/MuseAgent，2026-11-23）
+- **原帖**：https://www.reddit.com/r/MuseAgent/comments/1xzthov/muse/（2026-11-23）
+- **做法**：他给自己的 AI agent 的工作建了一个 3D 办公室：每张桌子都是一个真实项目，由他自己持有的 NFT 角色值守，大多带小动画循环；整个东西靠描述需求、跟 Muse 反复迭代做出来，一行代码没手写；目前是快照视图（只有时钟和加密行情板实时更新），下一步是让桌子都活起来；他还运营一个学 Muse 的 Facebook 群组（群链接不收录）
+- **结果**：**12 张桌子、12 个真实项目：3D 办公室靠描述 + 迭代做出来，一行代码没手写**
+- **可复制性**：⭐⭐⭐ “给 agent 建 3D 办公室”的样本；日期按 musewins 11-23 批次归档计（Reddit 本站 403 未能实读原帖日期；按帖子 ID 排序推断原帖约在 11 月 18–19 日）；原文与直链经 musewins 原始 HTML 核实
+
+### 526. 60 层虚拟写字楼的第 47 层：会说话的销售 Linda 带你看房、家具随便搬 ✅
+- **作者**：Teaturtle350（Reddit 用户评论，2026-11-23）
+- **原帖**：https://www.reddit.com/user/Teaturtle350/comments/1y31rhx/our_new_office_trials/（2026-11-23）
+- **做法**：他在 Reddit 评论里分享了自己用 Muse 做的虚拟写字楼第 47 层：浏览器里能走进去的 3D 办公室，60 层大楼中的一层，有个会说话、会走动的销售顾问 Linda 带你看楼层、看平面图，家具可以移动、保存；$89 一次性买断，买家拿到自己 Muse 里的一份拷贝、自己的 Muse 会接着往下建
+- **结果**：**浏览器里能走的 3D 写字楼 47 层：Linda 带看、家具可搬可存，$89 一次买断**
+- **可复制性**：⭐⭐⭐ “虚拟写字楼卖楼花”的样本；来源为 Reddit 评论直链（非版块帖子链接），作者以链接中的用户名 Teaturtle350 计；$89 为作者定价、未独立核验；shipwithmuse 2026-11-23 归档
+
 
 
 ## 💼 生意 · 维权
@@ -3456,6 +3553,8 @@
 ---
 
 ## 🗒️ 更新日志
+
+- **2026-11-24**：新增 14 个案例（cwybruce 第 59 期 6 条 + musewins 11-23 批次 6 条 + shipwithmuse 11-23 新归档 1 条 + 17muse 站长 11-23 新文 1 条：Tam Smith 假期预算分人头、记一笔当场算剩多少；Jiax 东京酒店比价叠 ShopBack 返现 SGD 35.40；@that_ai_man 一句话付掉 Verizon 账单、复联电影票顺手订了；Full Value Dan 里程票每周盯一次升舱；Andrew Poesaste 澳洲上线一次办完航班改签、演唱会票、宝宝歌单与晚饭灵感库；Teach2ai 107 个纽约打卡点排成可分享指南；Wendell 去日本神社參拜前先問 Muse 怎麼拜（白山二禮二拍手、彌彥二禮四拍手）；Jack Jerry 收藏健身帖变训练计划、菜谱变一周的饭；Haroon Rizwan 免费周额度用到 100%、额外 tokens 还剩 924M；ImInundated iPhone 快捷指令按方向接听或挂断 Muse 通话；Owais Ghani Muse 在自己的电脑上跑 Blender、剪视频与传网盘；TexBluBoy Muse 跑进 AlPI Lite Evo 口袋机、自制虚拟形象动画；vensan1 给 AI agent 建了 12 张桌子的 3D 办公室；Teaturtle350 60 层虚拟写字楼第 47 层、Linda 带看 $89 一次买断）。13 条标 ✅（6 条 cwybruce 链接经 digest 原始 HTML 逐条位置校验、与作者一一对应；musewins 6 条卡片经原始 HTML 核实原文与直链；Floor 47 的 Reddit 评论直链经 shipwithmuse 原始 HTML 核实；金额均为作者自报，Tam Smith $500/$1,000、Jiax SGD 35.40、Floor 47 $89 定价均为截图或自述口径未独立核验；musewins 6 条日期按 11-23 批次归档计，3 条 Reddit 原帖因本站 403 未能实读日期、按帖子 ID 排序推断约在 11 月 18–19 日；Teach2ai 指南由 Muse 与 ChatGPT 一起做成、非 Muse 独力），1 条标 🟡（Wendell 17muse 站长文章，作者文本、不附链接）。未收录：比嘉太一 Threads 两小时试用，cwybruce 第 59 期所列、与已收 #509 同一条（同一链接 Df_qTOcE1MI）；musewins 11-23 批次另 2 条为已收旧帖重归档——u/baruni-kun ADHD 案与已收 #470 同一条（1xzzwh9）、u/Z4LKY 双人旅行计划案与已收 #471 同一条（1y020z7）；cwybruce 第 59 期已排除的合作/推广帖（Monisha Jordan @therealmissmoe 片尾 Paid Partnership with Meta、Saas Deals Zone 纯商业推广 + 邀请码引流、@shamalkrishna.myk 与 @hagosip8862 邀请码推广帖）与功能解说/教程口径（@nocode.joshua “5 个 Muse builds”分屏 mockup 演示、@brandonbetv 菜谱变购物单为 Meta 官方示例复述、@babubuildsai 澳大利亚上线解说、Jason Northcutt 房产经纪人版功能讲解、Zoe Ministries “Faith AI Master Class”）及无本人实测的报信帖（@med_ai__ 日本可用报信）；第 59 期 2 组行业观察不收录（Noyan WordPress 备忘录、Reuters 案跟进：Meta 改口称余额“definitely 是幻觉”）；shipwithmuse #1098 Hit or Bank!（11-21 归档）为匿名站点 listing、无平台分享与作者 handle；#1097 Linkjob AI 同样匿名、无平台分享；#1096 为 11-18 X 帖、已出窗口；X 侧 Parallel web_research 未发现 11 月 22–23 日内符合口径的新用户案例（仅 @The_Tradesman1 混淆对话投诉、@jeffreyleefunk 转发 Fortune 隐私报道、@verge 沃尔玛 Agent Gateway 上线新闻）；Peter Yang 9 月 18 日“省 $800+/年”帖与 @SingularityRes 9 月汇总帖均已出窗口；musewins 其余未收录旧卡为 9 月–11 月中旬积压，不在窗口内。站况：cwybruce 日报第 59 期（2026-11-23 08:59）；musewins 11-23 批次 8 条（新收 6 条、重归档已收 2 条）；musecases 链接集与 11 月 16 日快照一致、无新批次；shipwithmuse 总数 1,099，最新 #1099 Floor 47（2026-11-23 归档）、#1098 Hit or Bank!（2026-11-21 归档）；17muse 最新为 Wendell 11-23 神社文；messagingagents 仍为 72 条 X 直链、最新 2026-09-24（wesbos），疑似停更；agentstacklist 无 Muse 内容；Issues 无 new-case 标签投稿。缺口：Grok CLI 登录仍失效（本轮 X 侧改走聚合站原始数据 + Parallel web_research；Watchlist 未逐一确认）；Reddit 本站仍不可达（JSON 端口 403、改走聚合站交叉覆盖）；Instagram 未登录主页会跳登录页，本轮改走 digest HTML 位置校验 + musewins 归档原文。总 526。
 
 - **2026-11-23**：新增 15 个案例（cwybruce 第 58 期 10 条 + musewins 11-22 批次 2 条 + cwybruce 第 58 期行业观察 Chrome 扩展试用 2 条 + 17muse 站长 11-22 新文 1 条：Wesley Breed F1 拉斯维加斯出差、12 月纽约拍摄档期远程统筹；Kate Bartlett 收藏穿搭按图配齐三套直接结账；Dontae Catlett 6 周 6 个 App 一行代码没写；Yeonwoo 蒙特利尔现逛现比两小时省约 $100；Facebook 用户接 Plaid 揪出重复订阅、现金挪去高息账户；Facebook 词曲作者合同几秒改好新版、演出海报活动页顺手做完；@ric.r2 马尔代夫机票省约 $1,000、房屋保险 $45,000→$35,000、省 $40,000 室内设计费；@mattnavarra 151 个不回关账号先列出来等你点头；Dennis Yu Max 档一周额度用 92%、163 个页面媒体普查自己排进 Basecamp；Bhargavi Varma Instacart 购物 skill、订旅行、每天 3-2-1 早报全从 Claude 搬过来；比嘉太一用了两小时、Muse 已在主动回 Google 地图评价；Mandy 圣诞涂色书快出版了、靠 Muse 助手；@alexnywu Chrome 扩展营销调研比价、每步逐个审批；@fullvaluedan Chrome 扩展筛日本酒店 25㎡+、交通可达；Wendell 黑牌问 Muse 八德附近哪里有）。14 条标 ✅（10 条 cwybruce 链接经 digest 原始 HTML 逐条位置校验、与作者一一对应；taichi 与 Mandy 的卡片经 musewins 原始 HTML 核实原文与直链；alexnywu 与 fullvaluedan 的直链经 cwybruce 原始 HTML 核实；Wendell 黑牌文章经 17muse WP 接口核实发布日期与全文；金额均为作者自报，Yeonwoo $100、Plaid $300/月、ric.r2 三笔、Dennis Yu 用量均为截图或自述口径未独立核验；taichi 日期按 musewins 11-22 批次归档计 11-21），1 条标 🟡（Wendell 17muse 站长文章，作者文本、不附链接）。未收录：Maria Arriaga 礼物单与已收 #477 同一条（子任务误报为遗漏）；Olivia White 菜谱 reel 文案带 {ad}、为 Meta 推广口径，昨日已拒；Tariq Ra'ouf 父亲误装警告帖为警示口径、无任务结果，昨日已拒；Jamie McGuire 14 万封邮件案与已收 #405 同一事件、不同帖子链接，重复；AI Operators Podcast YouTube 视频来源、按库规不收，昨日已拒；17muse 价目标签与已收 #474 同一条（子任务误报为漏收）；cwybruce 第 58 期已排除的合作/推广帖（Heena Teotia $8,000 圣诞旅行 #ad、1Trap 7 天音乐事业计划 #paidpartnership、@iam_bigmoufbo、@mariasjsanchez、@thesharkdaymond 等）与无实测账号、复述与行业新闻；@teamknox X 日文遥控插座帖为自家产品推广、1 赞无明确结果；musewins 其余约 98 条未收录旧卡为 9 月–11 月中旬积压，不在窗口内。站况：cwybruce 日报第 58 期（2026-11-22 09:01）；musewins Edition 34（2026-11-22）；musecases 11-20 刷新后无新批次；shipwithmuse 总数 1,098、前页最新仍为 9 月帖子；17muse 最新为 Wendell 11-22 黑牌文；messagingagents 仍为 72 条 X 直链、最新 2026-09-29，疑似停更；agentstacklist 无 Muse 内容；Issues 无 new-case 标签投稿。缺口：Grok CLI 登录失效（本轮 X 侧改走聚合站原始数据 + Parallel web_research；Watchlist 未逐一确认）；Reddit 本站仍不可达（RSS 404、JSON 端口 403、jina 代理返回 Reddit 403、browser.open 域名被政策屏蔽，改走聚合站交叉覆盖）；Instagram 未登录主页会跳登录页，本轮改走 digest HTML 位置校验 + musewins 归档原文。总 512。
 
