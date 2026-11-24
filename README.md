@@ -3591,6 +3591,8 @@
 
 ## ⭐ Star History
 
+[![GitHub stars](https://img.shields.io/github/stars/jaxxchen003/muse-use-cases?style=flat)](https://github.com/jaxxchen003/muse-use-cases/stargazers)
+
 [![Star History Chart](https://api.star-history.com/svg?repos=jaxxchen003/muse-use-cases&type=Date)](https://star-history.com/#jaxxchen003/muse-use-cases&Date)
 
 ---
