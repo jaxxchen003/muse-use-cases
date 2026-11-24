@@ -52,12 +52,22 @@ You can only pin your own case; failed verifications are not notified individual
 - 🛠️ [Dev · building](#️-dev--building) (50)
 - 💼 [Business · consumer rights](#-business--consumer-rights) (50)
 
-> Each category shows its Top 5 picks by default; click to expand the rest. The changelog shows only the latest entry by default.
+> Each category shows today's new cases + its Top 5 picks by default; click to expand the rest. The changelog shows only the latest entry by default.
 
 ---
 
 ## 💰 Money saving · bills · claims
-> ⭐ Top 5 picks: the most verifiable, highest-impact cases in this category; the other 85 are in the collapsed section below.
+**🆕 New today (2026-11-24) — 3 cases**
+
+<!-- New today (2026-11-24): shown only on the day; next daily run moves these entries to the end of the details block below and deletes this block (header + comment + entries). -->
+
+**513. Holiday budget split per person, every entry tallied live: $500 for gifts + $1,000 for a New York trip** ✅ — Tam Smith ([@runeatandtravel](https://www.instagram.com/runeatandtravel)) (Instagram, 2026-11-22). Travel creator Tam Smith asked her Muse to plan a holiday budget — $500 for gifts for four people (dad, mum, brother, sister) and $1,000 for a three-day trip to New York to visit family. Muse split it $125 per person and set two warning lines per pot (gifts $400/$500, travel $800/$1,000); she confirmed and it went live. When she then logged a $500 flight, Muse updated the tally on the spot: $500 spent on travel, $500 left; $0 spent on gifts; $1,000 left in total. [Original post](https://www.instagram.com/reel/DgDvRc1BcHL/) (2026-11-22).
+
+**514. Tokyo hotel compared first, then stacked with ShopBack cashback: SGD 35.40 back on a $250-a-night budget** ✅ — Jiax ([@jiaxthepiggybanker](https://www.instagram.com/jiaxthepiggybanker)) (Instagram, 2026-11-21). Singapore savings creator Jiax demoed Muse connected to ShopBack: with ShopBack linked in settings, he asked Muse to find a Tokyo hotel for next June — near a metro station, highly rated, $250 a night, three nights. Muse returned options with totals and cashback (example: SGD 35.40 back, SGD 440 after cashback, about SGD 147 a night), and the cashback landed straight in his ShopBack account — the screen showed "Lifetime earnings $151.60". [Original post](https://www.instagram.com/reel/DgAI3QaRBhw/) (2026-11-21).
+
+**515. Verizon bill paid without opening the website — one sentence, and the Avengers tickets booked in the same chat** ✅ — @that_ai_man ([@that_ai_man](https://www.instagram.com/that_ai_man)) (Instagram, 2026-11-21). He demoed two things — first, telling Muse "Pay my Verizon bill": Muse asked for his Verizon login once, saved it in the Secure Store, found the amount due and asked him to tap "Allow" before paying; the bill was paid and the payment card saved too. Then, in the same conversation, it booked tickets for Avengers: Doomsday, picking the seats itself. [Original post](https://www.instagram.com/reel/Df_AEGBTcjl/) (2026-11-21).
+
+> ⭐ Top 5 picks: the most verifiable, highest-impact cases in this category; the rest are in the collapsed section below.
 
 <!-- Top 5 rule: ✅ direct source link + ⭐⭐⭐⭐/⭐⭐⭐⭐⭐ replicability + clear outcome; change only on owner request or a clearly stronger new case; new cases go into the collapsed section below. -->
 
@@ -72,7 +82,7 @@ You can only pin your own case; failed verifications are not notified individual
 **359. He calls his Muse Sparx — it dug up 17 forgotten subscriptions and cancelled them, saving him over $4,000 a year** ✅ — u/AdEvening6998 (Reddit r/MuseAgent, 2026-11-14). He asked his Muse, Sparx, to go looking for subscriptions he had signed up for and forgotten over the years; it found more than 17 he no longer needed, and — with his permission — cancelled them, including accounts that used to send him on a wild goose chase when he tried to cancel himself. ([Original post](https://www.reddit.com/r/MuseAgent/comments/1xwbe6p/muse_has_saved_me_over_4000_a_year/)). A user self-report; the $4,000-a-year figure appears only in the post's title, and the body lists no amounts.
 
 <details>
-<summary>Show the other 85 cases</summary>
+<summary>Show the other 82 cases</summary>
 
 **4. AT&T broadband $80 → $30/mo + 3 months free + doubled speed** ✅ — [@NoSaberNiPapa](https://x.com/NoSaberNiPapa). [Original post](https://x.com/NoSaberNiPapa/status/2099947510349316129).
 
@@ -240,15 +250,22 @@ You can only pin your own case; failed verifications are not notified individual
 
 **504. Maldives flights ~$1,000 cheaper, home insurance $45,000→$35,000, and a $40,000 interior designer skipped** ✅ — [@ric.r2](https://www.threads.com/@ric.r2) (Threads, 2026-11-21). He lists three things he did with Muse: Maldives flights about $1,000 cheaper, home-insurance premiums negotiated from $45,000 down to $35,000, and skipping an interior designer — a $40,000 fee avoided. [Original post](https://www.threads.com/@ric.r2/post/DgBVE2NASJp) (2026-11-21).
 
-**513. Holiday budget split per person, every entry tallied live: $500 for gifts + $1,000 for a New York trip** ✅ — Tam Smith ([@runeatandtravel](https://www.instagram.com/runeatandtravel)) (Instagram, 2026-11-22). Travel creator Tam Smith asked her Muse to plan a holiday budget — $500 for gifts for four people (dad, mum, brother, sister) and $1,000 for a three-day trip to New York to visit family. Muse split it $125 per person and set two warning lines per pot (gifts $400/$500, travel $800/$1,000); she confirmed and it went live. When she then logged a $500 flight, Muse updated the tally on the spot: $500 spent on travel, $500 left; $0 spent on gifts; $1,000 left in total. [Original post](https://www.instagram.com/reel/DgDvRc1BcHL/) (2026-11-22).
-
-**514. Tokyo hotel compared first, then stacked with ShopBack cashback: SGD 35.40 back on a $250-a-night budget** ✅ — Jiax ([@jiaxthepiggybanker](https://www.instagram.com/jiaxthepiggybanker)) (Instagram, 2026-11-21). Singapore savings creator Jiax demoed Muse connected to ShopBack: with ShopBack linked in settings, he asked Muse to find a Tokyo hotel for next June — near a metro station, highly rated, $250 a night, three nights. Muse returned options with totals and cashback (example: SGD 35.40 back, SGD 440 after cashback, about SGD 147 a night), and the cashback landed straight in his ShopBack account — the screen showed "Lifetime earnings $151.60". [Original post](https://www.instagram.com/reel/DgAI3QaRBhw/) (2026-11-21).
-
-**515. Verizon bill paid without opening the website — one sentence, and the Avengers tickets booked in the same chat** ✅ — @that_ai_man ([@that_ai_man](https://www.instagram.com/that_ai_man)) (Instagram, 2026-11-21). He demoed two things — first, telling Muse "Pay my Verizon bill": Muse asked for his Verizon login once, saved it in the Secure Store, found the amount due and asked him to tap "Allow" before paying; the bill was paid and the payment card saved too. Then, in the same conversation, it booked tickets for Avengers: Doomsday, picking the seats itself. [Original post](https://www.instagram.com/reel/Df_AEGBTcjl/) (2026-11-21).
-
 </details>
+
 ## ✈️ Travel
-> ⭐ Top 5 picks: the most verifiable, highest-impact cases in this category; the other 56 are in the collapsed section below.
+**🆕 New today (2026-11-24) — 4 cases**
+
+<!-- New today (2026-11-24): shown only on the day; next daily run moves these entries to the end of the details block below and deletes this block (header + comment + entries). -->
+
+**516. An award ticket booked six months ago — Muse checks for an upgrade once a week** ✅ — Full Value Dan ([@fullvaluedan](https://www.instagram.com/fullvaluedan)) (Instagram, 2026-11-22). Six months ago he booked an economy ticket with miles and wanted an upgrade; he set his Muse to check the airline's site for upgrade seats once a week, with the calendar ticking week by week in the animation. His warning: checking too often burns quota — every 10 minutes is expensive, once a week is the sweet spot. [Original post](https://www.instagram.com/reel/DgBk4xCHN6K/) (2026-11-22).
+
+**517. Muse went live in Australia — flights switched, concert tickets booked, a playlist for the baby** ✅ — Andrew Poesaste ([@poesaste](https://www.threads.com/@poesaste)) (Threads, 2026-11-23). Once Muse went live in Australia, he posted what it had just done in one go: switched his flight times, booked concert tickets on Ticketek (the payment-link checkout was seamless), made a Spotify playlist for the impending birth of his baby, and turned his Instagram dinner-ideas folder into a database that auto-sends Sunday inspiration. [Original post](https://www.threads.com/@poesaste/post/Df6uK3bAQn8) (2026-11-23).
+
+**518. She mapped 107 New York spots with Muse — day plans, live pins and a shareable guide** ✅ — Teach2ai (Facebook, 2026-11-23). She built a New York recommendations guide with Muse (together with ChatGPT): ready-made day plans, an interactive map of 107 places and Instagram integration — 71 spots confidently mapped. The video ends by inviting viewers to comment "Muse" to receive the prompts she used and the app she built. [Original post](https://www.facebook.com/reel/1756126708780783/) (2026-11-23).
+
+**519. Before visiting a Japanese shrine, ask Muse how to worship: two bows, two claps at Hakusan; two bows, four claps at Yahiko** 🟡 — Wendell (17muse site owner's article, 2026-11-23). Before visiting Hakusan Shrine in Niigata on November 12, he asked Muse for the correct worship sequence: two bows, two claps, one bow — five steps in all, from the bow before the torii gate and the hand-washing ritual to the offering, the bell, two deep bows, two claps, hands pressed together in prayer and a final deep bow. Afterward he photographed the two fortune slips he drew and asked Muse to interpret them. Before Yahiko Shrine on November 14 he asked again — the rite was different, two bows, four claps, one bow — and Muse warned him not to mix it up with the previous shrine, and told him about two "fireball stones" by the approach: make a wish, lift one, and if it feels light the wish will come true. A first-person article by the site owner; author text only, no link; date is the article's publication date, verified via the 17muse WordPress API.
+
+> ⭐ Top 5 picks: the most verifiable, highest-impact cases in this category; the rest are in the collapsed section below.
 
 <!-- Top 5 rule: ✅ direct source link + ⭐⭐⭐⭐/⭐⭐⭐⭐⭐ replicability + clear outcome; change only on owner request or a clearly stronger new case; new cases go into the collapsed section below. -->
 
@@ -263,7 +280,7 @@ You can only pin your own case; failed verifications are not notified individual
 **360. The day every plane was grounded, her Muse Pip tried three times: $419 sold out, $425 sold out, $325.40 booked** ✅ — Rachel Gainsbrugh (@drrachelgainsbrugh, co-authored with @short.term.gems, Instagram, 2026-11-15). The FAA had grounded every plane in America the day before, and she was stranded in Florida with her son's homecoming that night; packing her suitcase, she talked out loud to her Muse Pip: it found a Miami seat for $419 — she said yes and it sold out — then $425, sold out again — then Miami to Atlanta for $325.40, booked. She paid on a secure link, so Pip never saw her card number, and Pip texted her admin the date, time and confirmation number; the best seat her admin found searching at the same time was $2,000 one way. ([Original post](https://www.instagram.com/reel/DfviPJDEjzn/)). A user self-report; Pip first put her in a last-row middle seat, and her admin moved her to a front window seat — fast AI, human finishing touches.
 
 <details>
-<summary>Show the other 56 cases</summary>
+<summary>Show the other 52 cases</summary>
 
 **29. 7-hour delay → $250 Delta credit in 5 min** 🟡 — Ejaaz ([@cryptopunk7213](https://x.com/cryptopunk7213)). Muse filed the complaint, rebooked an alternative flight, replied to support emails. [Original post](https://x.com/cryptopunk7213/status/2102179999122153690) (2026-09-21).
 
@@ -370,17 +387,10 @@ You can only pin your own case; failed verifications are not notified individual
 
 **511. The Chrome extension screens Japan hotels: 25㎡+, transit-accessible, book only after confirmation** ✅ — [@fullvaluedan](https://www.instagram.com/fullvaluedan) (Instagram, 2026-11-20). A demo of the extension living in the browser sidebar: no re-login, it picks up the conversation from browser cookies. For a Japan trip he had it screen Agoda, Expedia and Booking.com by price, rating and location, adding "room 25㎡ or bigger" (Japanese hotel rooms run small) and public-transit access — matches found, booking only after his confirmation. [Original post](https://www.instagram.com/reel/Df90nKIknlk/) (2026-11-20).
 
-**516. An award ticket booked six months ago — Muse checks for an upgrade once a week** ✅ — Full Value Dan ([@fullvaluedan](https://www.instagram.com/fullvaluedan)) (Instagram, 2026-11-22). Six months ago he booked an economy ticket with miles and wanted an upgrade; he set his Muse to check the airline's site for upgrade seats once a week, with the calendar ticking week by week in the animation. His warning: checking too often burns quota — every 10 minutes is expensive, once a week is the sweet spot. [Original post](https://www.instagram.com/reel/DgBk4xCHN6K/) (2026-11-22).
-
-**517. Muse went live in Australia — flights switched, concert tickets booked, a playlist for the baby** ✅ — Andrew Poesaste ([@poesaste](https://www.threads.com/@poesaste)) (Threads, 2026-11-23). Once Muse went live in Australia, he posted what it had just done in one go: switched his flight times, booked concert tickets on Ticketek (the payment-link checkout was seamless), made a Spotify playlist for the impending birth of his baby, and turned his Instagram dinner-ideas folder into a database that auto-sends Sunday inspiration. [Original post](https://www.threads.com/@poesaste/post/Df6uK3bAQn8) (2026-11-23).
-
-**518. She mapped 107 New York spots with Muse — day plans, live pins and a shareable guide** ✅ — Teach2ai (Facebook, 2026-11-23). She built a New York recommendations guide with Muse (together with ChatGPT): ready-made day plans, an interactive map of 107 places and Instagram integration — 71 spots confidently mapped. The video ends by inviting viewers to comment "Muse" to receive the prompts she used and the app she built. [Original post](https://www.facebook.com/reel/1756126708780783/) (2026-11-23).
-
-**519. Before visiting a Japanese shrine, ask Muse how to worship: two bows, two claps at Hakusan; two bows, four claps at Yahiko** 🟡 — Wendell (17muse site owner's article, 2026-11-23). Before visiting Hakusan Shrine in Niigata on November 12, he asked Muse for the correct worship sequence: two bows, two claps, one bow — five steps in all, from the bow before the torii gate and the hand-washing ritual to the offering, the bell, two deep bows, two claps, hands pressed together in prayer and a final deep bow. Afterward he photographed the two fortune slips he drew and asked Muse to interpret them. Before Yahiko Shrine on November 14 he asked again — the rite was different, two bows, four claps, one bow — and Muse warned him not to mix it up with the previous shrine, and told him about two "fireball stones" by the approach: make a wish, lift one, and if it feels light the wish will come true. A first-person article by the site owner; author text only, no link; date is the article's publication date, verified via the 17muse WordPress API.
-
 </details>
+
 ## 🛒 Shopping
-> ⭐ Top 5 picks: the most verifiable, highest-impact cases in this category; the other 46 are in the collapsed section below.
+> ⭐ Top 5 picks: the most verifiable, highest-impact cases in this category; the rest are in the collapsed section below.
 
 <!-- Top 5 rule: ✅ direct source link + ⭐⭐⭐⭐/⭐⭐⭐⭐⭐ replicability + clear outcome; change only on owner request or a clearly stronger new case; new cases go into the collapsed section below. -->
 
@@ -491,8 +501,21 @@ You can only pin your own case; failed verifications are not notified individual
 **512. Where to buy Black Label? Ask Muse what's near Bade** 🟡 — Wendell (17muse site owner's article, 2026-11-22). Back in Taiwan, he wanted a bottle of Johnnie Walker Black Label for his mother: first he asked how Red, Black and Blue Label differ and settled on Black Label 12-year, then asked which physical stores near Bade carry it — Wan Jia Fu Bade store (formerly Carrefour), 700ml around NT$659–729, and Chun Hou Wine Shop Zhongyong store, around NT$550–650. He later found a 1-litre bottle at a hypermarket for NT$800 — Muse said the going rate is about NT$680–900, so not a bad price. A first-person article by the site owner; author text only, no link; date is the article's publication date, verified via the 17muse WordPress API.
 
 </details>
+
 ## ⚡ Productivity · automation
-> ⭐ Top 5 picks: the most verifiable, highest-impact cases in this category; the other 180 are in the collapsed section below.
+**🆕 New today (2026-11-24) — 4 cases**
+
+<!-- New today (2026-11-24): shown only on the day; next daily run moves these entries to the end of the details block below and deletes this block (header + comment + entries). -->
+
+**520. Saved fitness inspiration became a workout plan, and saved recipes became a week of meals** ✅ — Jack Jerry ([@jackjerry](https://www.instagram.com/jackjerry)) (Instagram, 2026-11-22). Creator Jack Jerry (370k followers, verified) set his Muse "DULA PEEP" two jobs: first, turn his saved fitness-inspiration posts into an executable workout plan — treadmill, dumbbell bench press, pull-ups, hanging leg raises, generated bubble by bubble in the screen recording — and he started training in his home gym on the spot; second, turn saved recipe videos into a week of meals with a shopping list, and he cooked salmon, mini pizzas and roast chicken and packed them into meal-prep boxes. [Original post](https://www.instagram.com/reel/DgDWFPbzC0t/) (2026-11-22).
+
+**521. Free weekly quota burned to 100% — with 924M extra tokens still left** ✅ — Haroon Rizwan (Facebook, 2026-11-22). He filmed his own Muse usage page: the free tier's weekly quota was at 100% (resetting November 25), while his extra tokens were only 8% used — 924M left. The browser's top bar also showed a "Muse from Meta started debugging this browser" notification, the Chrome extension at work. [Original post](https://www.facebook.com/reel/30066252076299757/) (2026-11-22).
+
+**522. One button, one tilt: an iOS shortcut starts or ends a Muse call by orientation** ✅ — ImInundated (u/ImInundated, Reddit r/MuseAgent, 2026-11-23). He wrote an iOS shortcut (he says iOS 27) that checks the phone's orientation when the Action Button is pressed: phone in portrait orientation starts a Muse call; anything else ends it. He first planned to end calls on landscape, then decided the phone could be held at any angle — so one rule does it: portrait starts, anything else ends. [Original post](https://www.reddit.com/r/MuseAgent/comments/1xz93vy/ios_shortcut_to_startend_call_from_action_button/) (2026-11-23).
+
+**523. Muse runs on my own PC — Blender, video editing, downloads and Drive uploads, all handled** ✅ — Owais Ghani ([@owais_ghani1997](https://www.threads.com/@owais_ghani1997)) (Threads, 2026-11-23). He posted that Meta's Muse AI works on his own PC, not on Meta's machine: Blender, video creation and clipping, software downloads and Google Drive uploads — it manages it all. He says the work gets done faster and uses fewer tokens. The original post is in Roman Urdu (Urdu written in Latin letters); musewins translated the full text. [Original post](https://www.threads.com/@owais_ghani1997/post/DgDPkY-lv7Q) (2026-11-23).
+
+> ⭐ Top 5 picks: the most verifiable, highest-impact cases in this category; the rest are in the collapsed section below.
 
 <!-- Top 5 rule: ✅ direct source link + ⭐⭐⭐⭐/⭐⭐⭐⭐⭐ replicability + clear outcome; change only on owner request or a clearly stronger new case; new cases go into the collapsed section below. -->
 
@@ -507,7 +530,7 @@ You can only pin your own case; failed verifications are not notified individual
 **364. One Muse, 96 jobs: six weeks to a household run by an agent** ✅ — u/Destable (Reddit r/MuseAgent, 2026-11-14). Built over about six weeks in evenings and weekends by one non-technical owner and their Muse: 96 capabilities, each with the actual stack spelled out — home network watches (gateway latency, speed vs. plan, a census of every LAN device), a secure credentials vault (Muse signs in without ever seeing a password), HomeKit (32 Apple Home, 160+ accessories), a budget workbook, a family cookbook site and more; the owner's contribution was prompting clearly, making the judgment calls, and helping logic through the places Muse got stuck. ([Original post](https://www.reddit.com/r/MuseAgent/comments/1xwbn4k/when_i_got_muse_i_searched_everywhere_for_ideas/)). A user build log; the original post lists all 96 capabilities with a full methodology for each, and this entry follows a representative selection.
 
 <details>
-<summary>Show the other 180 cases</summary>
+<summary>Show the other 176 cases</summary>
 
 **47. Inbox zero: unsubscribes / resubscribes / daily digest** — 于為暢 (Wei Chang Yu).
 
@@ -862,17 +885,10 @@ You can only pin your own case; failed verifications are not notified individual
 
 **510. First real trials the day after the Chrome extension launched: marketing research and price comparison, each step approved** ✅ — [@alexnywu](https://www.threads.com/@alexnywu) (Threads, 2026-11-21). With the extension live in Canada, he used it for marketing research and price comparison: it lives in the browser sidebar and picks up the conversation straight from cookies, with every step approved one by one. [Original post](https://www.threads.com/@alexnywu/post/DgBPcMcFKR4) (2026-11-21).
 
-**520. Saved fitness inspiration became a workout plan, and saved recipes became a week of meals** ✅ — Jack Jerry ([@jackjerry](https://www.instagram.com/jackjerry)) (Instagram, 2026-11-22). Creator Jack Jerry (370k followers, verified) set his Muse "DULA PEEP" two jobs: first, turn his saved fitness-inspiration posts into an executable workout plan — treadmill, dumbbell bench press, pull-ups, hanging leg raises, generated bubble by bubble in the screen recording — and he started training in his home gym on the spot; second, turn saved recipe videos into a week of meals with a shopping list, and he cooked salmon, mini pizzas and roast chicken and packed them into meal-prep boxes. [Original post](https://www.instagram.com/reel/DgDWFPbzC0t/) (2026-11-22).
-
-**521. Free weekly quota burned to 100% — with 924M extra tokens still left** ✅ — Haroon Rizwan (Facebook, 2026-11-22). He filmed his own Muse usage page: the free tier's weekly quota was at 100% (resetting November 25), while his extra tokens were only 8% used — 924M left. The browser's top bar also showed a "Muse from Meta started debugging this browser" notification, the Chrome extension at work. [Original post](https://www.facebook.com/reel/30066252076299757/) (2026-11-22).
-
-**522. One button, one tilt: an iOS shortcut starts or ends a Muse call by orientation** ✅ — ImInundated (u/ImInundated, Reddit r/MuseAgent, 2026-11-23). He wrote an iOS shortcut (he says iOS 27) that checks the phone's orientation when the Action Button is pressed: phone in portrait orientation starts a Muse call; anything else ends it. He first planned to end calls on landscape, then decided the phone could be held at any angle — so one rule does it: portrait starts, anything else ends. [Original post](https://www.reddit.com/r/MuseAgent/comments/1xz93vy/ios_shortcut_to_startend_call_from_action_button/) (2026-11-23).
-
-**523. Muse runs on my own PC — Blender, video editing, downloads and Drive uploads, all handled** ✅ — Owais Ghani ([@owais_ghani1997](https://www.threads.com/@owais_ghani1997)) (Threads, 2026-11-23). He posted that Meta's Muse AI works on his own PC, not on Meta's machine: Blender, video creation and clipping, software downloads and Google Drive uploads — it manages it all. He says the work gets done faster and uses fewer tokens. The original post is in Roman Urdu (Urdu written in Latin letters); musewins translated the full text. [Original post](https://www.threads.com/@owais_ghani1997/post/DgDPkY-lv7Q) (2026-11-23).
-
 </details>
+
 ## 🎨 Content · creation
-> ⭐ Top 5 picks: the most verifiable, highest-impact cases in this category; the other 34 are in the collapsed section below.
+> ⭐ Top 5 picks: the most verifiable, highest-impact cases in this category; the rest are in the collapsed section below.
 
 <!-- Top 5 rule: ✅ direct source link + ⭐⭐⭐⭐/⭐⭐⭐⭐⭐ replicability + clear outcome; change only on owner request or a clearly stronger new case; new cases go into the collapsed section below. -->
 
@@ -959,8 +975,19 @@ You can only pin your own case; failed verifications are not notified individual
 **509. A Christmas coloring book, almost ready to publish — with a Muse assistant** ✅ — Mandy ([@mandyeverydaychick](https://www.instagram.com/mandyeverydaychick)) (Instagram, 2026-11-20). Another coloring book is almost ready to publish with the help of her Muse assistant — she says it helps her "work smarter not harder". [Original post](https://www.instagram.com/reel/Df-iD8BucmZ/) (2026-11-20).
 
 </details>
+
 ## 🛠️ Dev · building
-> ⭐ Top 5 picks: the most verifiable, highest-impact cases in this category; the other 45 are in the collapsed section below.
+**🆕 New today (2026-11-24) — 3 cases**
+
+<!-- New today (2026-11-24): shown only on the day; next daily run moves these entries to the end of the details block below and deletes this block (header + comment + entries). -->
+
+**524. Meta Muse runs on the AlPI Lite Evo — with a custom avatar** ✅ — TexBluBoy (u/TexBluBoy, Reddit r/MuseAgent, 2026-11-23). He runs Meta Muse on the AlPI Lite Evo using the Muse Gadget SDK. He also had Muse recreate the default sprite animations to match his own avatar character, saved the files as a .zip, and used the Gemini Antigravity CLI to vibe-code the replacement sprite animations — then had Antigravity add a Phone Call option for real-time voice chat. The connection speed worked very well. [Original post](https://www.reddit.com/r/MuseAgent/comments/1xzlbrw/meta_muse_on_the_alpi_lite_evo/) (2026-11-23).
+
+**525. A 3D office for an AI agent — 12 desks, one per real job** ✅ — vensan1 (u/vensan1, Reddit r/MuseAgent, 2026-11-23). He built a 3D office for his AI agent's jobs: every desk is a real project, staffed by his own NFT characters, most with small animation loops. He built the whole thing by describing what he wanted and iterating with Muse — no code written by hand. Right now it is a snapshot view (only the clock and crypto board update live); making the desks live is the next step. [Original post](https://www.reddit.com/r/MuseAgent/comments/1xzthov/muse/) (2026-11-23).
+
+**526. Floor 47 of a 60-storey virtual office tower — a talking sales agent walks you through, furniture moves and saves** ✅ — Teaturtle350 (Reddit comment, 2026-11-23). In a Reddit comment he shared Floor 47, a virtual office floor he built with Muse: a real 3D office you walk through in a browser — one floor of a 60-storey virtual office tower — with a sales consultant called Linda who talks and walks you through the floor, a plan map, and furniture you can move and save. It costs $89 once; the buyer gets their own copy in their own Muse, and their Muse keeps building on it. [Original post](https://www.reddit.com/user/Teaturtle350/comments/1y31rhx/our_new_office_trials/) (2026-11-23).
+
+> ⭐ Top 5 picks: the most verifiable, highest-impact cases in this category; the rest are in the collapsed section below.
 
 <!-- Top 5 rule: ✅ direct source link + ⭐⭐⭐⭐/⭐⭐⭐⭐⭐ replicability + clear outcome; change only on owner request or a clearly stronger new case; new cases go into the collapsed section below. -->
 
@@ -975,7 +1002,7 @@ You can only pin your own case; failed verifications are not notified individual
 **490. Muse Code + Lily in relay with Claude Code: 4 MR projects, 3 from zero to working prototype in 2 days** ✅ — u/fandomgames (Reddit r/MuseAgent, 2026-11-21). The author put 4 MR projects — each an MR client plus its server backend — into one Muse Code session, with Lily keeping continuity across sessions and Claude Code running in relay. Three months ago only 1 of the 4 could run at all; now 3 went from zero to working prototype in 2 days, and the 4th was abandoned at 80% on day 3. He rates 3 "satisfied" and the 4th "very satisfied", while admitting he is a "terrible client" who keeps interrupting to change requirements. [Original post](https://www.reddit.com/r/MuseAgent/comments/1y1ynsu/field_report_muse_code_lily_running_4_mr_projects/) (2026-11-21; read in full in the browser; the post does not spell out "Meta", but it is in r/MuseAgent with a Built With Muse tag; costs are the author's own figures).
 
 <details>
-<summary>Show the other 45 cases</summary>
+<summary>Show the other 42 cases</summary>
 
 **66. 17muse.com itself — a case-feed site built in one night** — 于為暢 (Wei Chang Yu). Traditional-Chinese case feed with like-leaderboard and moderated submissions.
 
@@ -1063,15 +1090,10 @@ You can only pin your own case; failed verifications are not notified individual
 
 **500. 6 apps in 6 weeks, without writing a line of code** ✅ — Dontae Catlett ([@dontaecatlett](https://www.instagram.com/dontaecatlett)) (Instagram, 2026-11-20). One sentence — "Build me a video clipping space..." — had his Muse "Nano" generate a video clipper with auto-cutting, captions and export. The same approach produced a photo-filter tool, a "Spark" content-idea card generator, a shopping list and a brand-deal pipeline — six small tools in six weeks, all running natively inside Muse, no server rented, no domain bought. [Original post](https://www.instagram.com/reel/Df8hQadBeTC/) (2026-11-20).
 
-**524. Meta Muse runs on the AlPI Lite Evo — with a custom avatar** ✅ — TexBluBoy (u/TexBluBoy, Reddit r/MuseAgent, 2026-11-23). He runs Meta Muse on the AlPI Lite Evo using the Muse Gadget SDK. He also had Muse recreate the default sprite animations to match his own avatar character, saved the files as a .zip, and used the Gemini Antigravity CLI to vibe-code the replacement sprite animations — then had Antigravity add a Phone Call option for real-time voice chat. The connection speed worked very well. [Original post](https://www.reddit.com/r/MuseAgent/comments/1xzlbrw/meta_muse_on_the_alpi_lite_evo/) (2026-11-23).
-
-**525. A 3D office for an AI agent — 12 desks, one per real job** ✅ — vensan1 (u/vensan1, Reddit r/MuseAgent, 2026-11-23). He built a 3D office for his AI agent's jobs: every desk is a real project, staffed by his own NFT characters, most with small animation loops. He built the whole thing by describing what he wanted and iterating with Muse — no code written by hand. Right now it is a snapshot view (only the clock and crypto board update live); making the desks live is the next step. [Original post](https://www.reddit.com/r/MuseAgent/comments/1xzthov/muse/) (2026-11-23).
-
-**526. Floor 47 of a 60-storey virtual office tower — a talking sales agent walks you through, furniture moves and saves** ✅ — Teaturtle350 (Reddit comment, 2026-11-23). In a Reddit comment he shared Floor 47, a virtual office floor he built with Muse: a real 3D office you walk through in a browser — one floor of a 60-storey virtual office tower — with a sales consultant called Linda who talks and walks you through the floor, a plan map, and furniture you can move and save. It costs $89 once; the buyer gets their own copy in their own Muse, and their Muse keeps building on it. [Original post](https://www.reddit.com/user/Teaturtle350/comments/1y31rhx/our_new_office_trials/) (2026-11-23).
-
 </details>
+
 ## 💼 Business · consumer rights
-> ⭐ Top 5 picks: the most verifiable, highest-impact cases in this category; the other 45 are in the collapsed section below.
+> ⭐ Top 5 picks: the most verifiable, highest-impact cases in this category; the rest are in the collapsed section below.
 
 <!-- Top 5 rule: ✅ direct source link + ⭐⭐⭐⭐/⭐⭐⭐⭐⭐ replicability + clear outcome; change only on owner request or a clearly stronger new case; new cases go into the collapsed section below. -->
 
@@ -1180,6 +1202,7 @@ You can only pin your own case; failed verifications are not notified individual
 **508. Two hours in, Muse was already answering Google Maps reviews** ✅ — Taichi Higa ([@taichi_webpro](https://www.threads.com/@taichi_webpro)) (Threads, 2026-11-21; in Japanese). About two hours into trying Muse, it was proactively checking Gmail for Google Maps review notifications and drafting replies, and suggesting post ideas from his Instagram and Threads analytics. He finds its image generation weaker than Codex — so Muse runs the show as commander, Codex handles images. [Original post](https://www.threads.com/@taichi_webpro/post/Df_qTOcE1MI) (2026-11-21).
 
 </details>
+
 ## 🤝 Contribute
 
 1. **Share your use case**: open an Issue with the "Share a use case" template — **shares from X, Reddit, Instagram, Facebook, or Threads**, include the original post link; added after verification (the daily auto-update processes them too)
@@ -1294,6 +1317,7 @@ Auto-updated daily at 00:00 (Beijing time).
 ---
 
 </details>
+
 ## 📜 License
 
 - **Code** (site code and scripts): [Apache License 2.0](LICENSE)
